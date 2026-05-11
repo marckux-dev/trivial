@@ -1,0 +1,20 @@
+<div class="screen">
+  <div class="logo">
+    <span class="dot green"></span><span class="dot blue"></span><span class="dot pink"></span>
+    <span class="dot yellow"></span><span class="dot purple"></span><span class="dot orange"></span>
+  </div>
+  <h1>Trivial</h1>
+  <p class="subtitle">Selecciona el nivel de dificultad</p>
+
+  <div class="levels">
+    @for (level of levels; track level.value) {
+      <button
+        class="level-btn"
+        [class.selected]="game.difficulty() === level.value"
+        (click)="select(level.value)">
+        <span class="level-label">{{ level.label }}</span>
+        <span class="level-desc">{{ level.desc }}</span>
+      </button>
+    }
+  </div>
+</div>

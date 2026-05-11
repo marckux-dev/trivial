@@ -1,0 +1,27 @@
+<div class="screen">
+  <header>
+    <div class="title-row">
+      <h2>Elige una categoría</h2>
+      <button class="diff-btn" (click)="changeDifficulty()">
+        Nivel: <strong>{{ difficultyLabel[game.difficulty()] }}</strong>
+      </button>
+    </div>
+  </header>
+
+  <div class="grid">
+    @if (game.loaded()) {
+      @for (cat of game.categories; track cat.id) {
+        <button
+          class="cat-btn"
+          [style.background]="cat.bgColor"
+          [style.color]="cat.textColor"
+          (click)="pick(cat)">
+          <span class="emoji">{{ cat.emoji }}</span>
+          <span class="cat-name">{{ cat.name }}</span>
+        </button>
+      }
+    } @else {
+      <div class="loading">Cargando preguntas…</div>
+    }
+  </div>
+</div>

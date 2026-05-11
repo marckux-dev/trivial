@@ -1,0 +1,98 @@
+.screen {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 1.5rem;
+  gap: 1.5rem;
+}
+
+header {
+  text-align: center;
+}
+
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.diff-btn {
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
+  border: 2px solid #9c27b0;
+  background: #f3e5f5;
+  color: #6a0080;
+  font-size: 0.95rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+
+.diff-btn:hover {
+  background: #e1bee7;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  flex: 1;
+}
+
+.cat-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 2rem 1rem;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.cat-btn:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.25);
+}
+
+.cat-btn:active {
+  transform: scale(0.97);
+}
+
+.emoji {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.cat-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.loading {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: #888;
+  font-size: 1.1rem;
+  padding: 3rem;
+}
+
+@media (max-width: 400px) {
+  .cat-btn { padding: 1.5rem 0.75rem; }
+  .emoji { font-size: 2rem; }
+  .cat-name { font-size: 0.85rem; }
+}
