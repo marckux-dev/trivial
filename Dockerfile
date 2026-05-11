@@ -15,5 +15,6 @@ FROM nginx:stable-alpine AS production
 
 WORKDIR /usr/share/nginx/html
 COPY --from=builder /app/dist/trivial/browser .
+COPY nginx.conf /etc/nginx/templates/default.conf.template
 EXPOSE 80
 

@@ -1,5 +1,7 @@
 services:
   trivial:
-    image: trivial
+    image: marckux/trivial
     ports:
       - "8080:80"
+    environment:
+      - PORT=80
