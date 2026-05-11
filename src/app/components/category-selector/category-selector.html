@@ -13,8 +13,12 @@
       @for (cat of game.categories; track cat.id) {
         <button
           class="cat-btn"
+          [class.highlighted]="diceResult()?.id === cat.id"
+          [class.dimmed]="isDisabled(cat)"
+          [disabled]="isDisabled(cat)"
           [style.background]="cat.bgColor"
           [style.color]="cat.textColor"
+          [style.--glow-color]="cat.bgColor"
           (click)="pick(cat)">
           <span class="emoji">{{ cat.emoji }}</span>
           <span class="cat-name">{{ cat.name }}</span>
@@ -23,5 +27,53 @@
     } @else {
       <div class="loading">Cargando preguntas…</div>
     }
+
+    <button
+      class="dice-btn"
+      [class.is-spinning]="diceState() === 'spinning'"
+      [class.is-landed]="diceState() === 'landed'"
+      [style.border-color]="diceResultColor()"
+      [style.box-shadow]="diceResultColor() ? '0 8px 32px ' + diceResultColor() + '55, 0 2px 8px rgba(0,0,0,0.4)' : null"
+      [disabled]="!game.loaded() || diceState() === 'spinning' || diceState() === 'landed'"
+      (click)="rollDice()">
+
+      <div class="dice-info">
+        @if (!game.loaded()) {
+          <span class="dice-label">Al Azar</span>
+          <span class="dice-sublabel">Cargando preguntas…</span>
+        } @else if (diceState() === 'idle') {
+          <span class="dice-label">Al Azar</span>
+          <span class="dice-sublabel">Toca para tirar el dado</span>
+        } @else if (diceState() === 'spinning') {
+          <span class="dice-label dice-spinning-label">Tirando…</span>
+        } @else if (diceResult(); as result) {
+          <span class="dice-label result-label" [style.color]="result.bgColor">{{ result.name }}</span>
+          <span class="dice-sublabel">Toca la categoría para jugar</span>
+        }
+      </div>
+
+      <div class="dice-scene">
+        <div class="dice-cube" #cube>
+          <div class="dice-face face-front"  [style.background]="game.categories[0].bgColor">
+            <span class="face-emoji">{{ game.categories[0].emoji }}</span>
+          </div>
+          <div class="dice-face face-right"  [style.background]="game.categories[1].bgColor">
+            <span class="face-emoji">{{ game.categories[1].emoji }}</span>
+          </div>
+          <div class="dice-face face-back"   [style.background]="game.categories[2].bgColor">
+            <span class="face-emoji">{{ game.categories[2].emoji }}</span>
+          </div>
+          <div class="dice-face face-left"   [style.background]="game.categories[3].bgColor">
+            <span class="face-emoji">{{ game.categories[3].emoji }}</span>
+          </div>
+          <div class="dice-face face-top"    [style.background]="game.categories[4].bgColor">
+            <span class="face-emoji">{{ game.categories[4].emoji }}</span>
+          </div>
+          <div class="dice-face face-bottom" [style.background]="game.categories[5].bgColor">
+            <span class="face-emoji">{{ game.categories[5].emoji }}</span>
+          </div>
+        </div>
+      </div>
+    </button>
   </div>
 </div>
