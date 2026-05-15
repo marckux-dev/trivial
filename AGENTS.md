@@ -64,18 +64,19 @@ Los datos viven en `public/data/`:
 
 ## Cambio reciente importante
 
-Se ampliaron tres bancos de preguntas:
+El estado actual de los datos en `public/data/` es este:
 
-- `public/data/science.json`
-  Ahora tiene `130` preguntas. Se añadieron `100` nuevas centradas en medicina, repartidas entre dificultades `1` a `5`.
-- `public/data/entertainment.json`
-  Ahora tiene `130` preguntas. Se añadieron `100` nuevas del universo de `Juego de Tronos` y `Marvel`.
-- `public/data/history.json`
-  Ahora tiene `130` preguntas. Se añadieron `100` nuevas sobre historia de España de los últimos 50 años.
+- `art.json` → `930` preguntas
+- `entertainment.json` → `930` preguntas
+- `geography.json` → `930` preguntas
+- `history.json` → `930` preguntas
+- `science.json` → `930` preguntas
+- `sports.json` → `930` preguntas
 
-Verificación ya realizada sobre esos tres archivos:
+Verificación realizada sobre los seis archivos:
 - JSON válido
-- ids correlativos del `1` al `130`
+- ids correlativos del `1` al `930` en cada categoría
+- dificultades presentes `1` a `5` en todos los bancos
 
 ## Comportamiento actual del juego
 
@@ -89,4 +90,4 @@ Verificación ya realizada sobre esos tres archivos:
 - No hay tests visibles específicos para integridad de datos o equilibrio por dificultad.
 - `loadAll()` solo carga una vez por sesión mientras `loaded` sea `true`.
 - El barajado actual usa `sort(() => Math.random() - 0.5)`, suficiente para este proyecto pero no ideal si se quiere consistencia o aleatoriedad más controlada.
-- Algunas categorías siguen con el tamaño original y pueden quedar descompensadas respecto a `science`, `entertainment` e `history`.
+- Aunque el tamaño total por categoría está equilibrado, sigue sin haber validación automática visible sobre reparto interno por dificultad o calidad de contenido.
