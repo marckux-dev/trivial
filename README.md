@@ -1,59 +1,165 @@
 # Trivial
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.6.
+Juego de preguntas y respuestas estilo trivial con 6 categorías y 5 niveles de dificultad. Construido con Angular 21 (standalone, signals, zoneless).
 
-## Development server
+---
 
-To start a local development server, run:
+## Reglas del juego
+
+1. **Elige dificultad** — selecciona un nivel del 1 al 5, o "Todos" para mezclar todos los niveles.
+2. **Elige categoría** — pulsa una de las 6 casillas de colores.
+3. **Lee la pregunta** — cuando estés listo, pulsa para revelar la respuesta.
+4. **Vuelve al selector** — elige otra categoría para continuar.
+
+El juego evita repetir preguntas: lleva un registro de las ya mostradas por categoría y solo reinicia el ciclo cuando se han visto todas las disponibles del nivel seleccionado.
+
+### Niveles de dificultad
+
+| Nivel | Descripción | Equivalencia |
+|-------|-------------|--------------|
+| ★☆☆☆☆ | Muy fácil | Cultura general básica |
+| ★★☆☆☆ | Fácil | ESO media |
+| ★★★☆☆ | Media | 4.º de ESO finalizado |
+| ★★★★☆ | Difícil | Bachillerato finalizado |
+| ★★★★★ | Muy difícil | Estudiante universitario |
+
+### Categorías
+
+| Color | Categoría |
+|-------|-----------|
+| 🟢 Verde | Ciencias y Naturaleza |
+| 🔵 Azul | Geografía |
+| 🩷 Rosa | Entretenimiento |
+| 🟡 Amarillo | Historia |
+| 🟣 Morado | Arte y Literatura |
+| 🟠 Naranja | Deportes y Pasatiempos |
+
+---
+
+## Desarrollo
+
+### Requisitos
+
+- Node.js 22+
+- Angular CLI (`npm install -g @angular/cli`)
+
+### Levantar en local
 
 ```bash
+npm install
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+La aplicación queda disponible en `http://localhost:4200`. Los cambios en el código recargan el navegador automáticamente.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+### Tests
 
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+Ejecuta los tests con [Vitest](https://vitest.dev/) en entorno `happy-dom`. Para un único pase sin watcher:
 
 ```bash
-ng e2e
+ng test --watch=false
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+### Build de producción
 
-## Additional Resources
+```bash
+ng build
+```
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+El bundle generado queda en `dist/trivial/browser/`.
+
+---
+
+## Producción con Docker
+
+### Build y arranque local
+
+```bash
+docker build -t trivial .
+docker run -p 8080:80 -e PORT=80 trivial
+```
+
+La aplicación queda disponible en `http://localhost:8080`.
+
+El `Dockerfile` tiene 4 stages:
+
+| Stage | Base | Qué hace |
+|-------|------|----------|
+| `deps` | `node:22-alpine` | Instala dependencias (`npm ci`) |
+| `tester` | `node:22-alpine` | Ejecuta los tests — si fallan, el build se detiene |
+| `builder` | extiende `tester` | Compila el bundle de producción |
+| `production` | `nginx:stable-alpine` | Sirve los estáticos; no contiene Node ni `node_modules` |
+
+### Con docker-compose
+
+```bash
+docker-compose up
+```
+
+Expone la aplicación en el puerto `8080`.
+
+---
+
+## Despliegue en Railway
+
+El proyecto se despliega automáticamente en [Railway](https://railway.app) mediante el fichero `railway.toml`, que usa el `Dockerfile` como builder.
+
+Railway inyecta la variable de entorno `PORT` en tiempo de arranque. La configuración de nginx usa una plantilla (`nginx.conf`) que sustituye `${PORT}` al iniciar el contenedor, por lo que no es necesario modificar nada para distintos entornos.
+
+**Pasos para desplegar:**
+
+1. Conecta el repositorio a un proyecto en Railway.
+2. Railway detecta `railway.toml` y construye la imagen automáticamente en cada push a `main`.
+3. El healthcheck apunta a `/` con un timeout de 30 segundos.
+
+---
+
+## Estructura del proyecto
+
+```
+trivial/
+├── public/
+│   └── data/                  # Banco de preguntas (JSON estáticos)
+│       ├── science.json
+│       ├── geography.json
+│       ├── entertainment.json
+│       ├── history.json
+│       ├── art.json
+│       └── sports.json
+├── src/
+│   └── app/
+│       ├── models/
+│       │   └── question.model.ts      # Interfaces Question y Category; array CATEGORIES
+│       ├── services/
+│       │   └── game.service.ts        # Estado global con signals; carga, filtrado y rotación de preguntas
+│       └── components/
+│           ├── difficulty-selector/   # Pantalla inicial — elige nivel 0-5
+│           ├── category-selector/     # Selector de categoría con dado 3D animado
+│           └── question-card/         # Muestra pregunta → revela respuesta
+├── Dockerfile                 # Multi-stage: deps → tester → builder → nginx
+├── nginx.conf                 # Plantilla nginx; soporta ${PORT} de Railway
+├── railway.toml               # Configuración de despliegue en Railway
+└── docker-compose.yml         # Arranque local en puerto 8080
+```
+
+### Flujo de rutas
+
+```
+/            DifficultySelectorComponent   — elige dificultad
+/play        CategorySelectorComponent     — elige categoría
+/question    QuestionCardComponent         — pregunta y respuesta
+```
+
+### Añadir preguntas
+
+Edita el fichero JSON correspondiente en `public/data/`. Cada entrada sigue este formato:
+
+```json
+{ "id": 999, "question": "¿...?", "answer": "...", "difficulty": 3 }
+```
+
+`difficulty` debe estar entre 1 y 5. El `id` debe ser único dentro del fichero.

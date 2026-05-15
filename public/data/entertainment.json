@@ -1,311 +1,2786 @@
 [
-  { "id": 1, "question": "¿En qué año se estrenó la película 'El Rey León' de Disney (versión animada)?", "answer": "1994", "difficulty": 1 },
-  { "id": 2, "question": "¿Quién canta la canción 'Bohemian Rhapsody'?", "answer": "Queen", "difficulty": 1 },
-  { "id": 3, "question": "¿Cuántas temporadas tiene la serie 'Breaking Bad'?", "answer": "5 temporadas", "difficulty": 2 },
-  { "id": 4, "question": "¿En qué año se fundó Netflix como servicio de streaming?", "answer": "2007 (fundada en 1997, pero el streaming comenzó en 2007)", "difficulty": 3 },
-  { "id": 5, "question": "¿Quién interpretó a Iron Man en las películas del Universo Marvel?", "answer": "Robert Downey Jr.", "difficulty": 1 },
-  { "id": 6, "question": "¿Qué película ganó el Óscar a la Mejor Película en la ceremonia de 2020 (películas de 2019)?", "answer": "Parásitos (Parasite) de Bong Joon-ho", "difficulty": 3 },
-  { "id": 7, "question": "¿Quién es el cantante del grupo Coldplay?", "answer": "Chris Martin", "difficulty": 2 },
-  { "id": 8, "question": "¿En qué año se publicó el álbum 'Thriller' de Michael Jackson?", "answer": "1982", "difficulty": 2 },
-  { "id": 9, "question": "¿Cómo se llama el personaje principal de la serie 'The Mandalorian'?", "answer": "Din Djarin (el Mandaloriano / Mando)", "difficulty": 3 },
-  { "id": 10, "question": "¿Cuántos Óscar ganó 'El señor de los anillos: El retorno del rey'?", "answer": "11 Óscar", "difficulty": 3 },
-  { "id": 11, "question": "¿Quién compuso la banda sonora de 'Star Wars'?", "answer": "John Williams", "difficulty": 2 },
-  { "id": 12, "question": "¿En qué ciudad se rodó la mayor parte de 'Game of Thrones'?", "answer": "Principalmente en Belfast (Irlanda del Norte) y varios países de Europa y África", "difficulty": 3 },
-  { "id": 13, "question": "¿Quién dirige la película 'Pulp Fiction'?", "answer": "Quentin Tarantino", "difficulty": 2 },
-  { "id": 14, "question": "¿Cómo se llama el mayordomo de Batman?", "answer": "Alfred Pennyworth", "difficulty": 2 },
-  { "id": 15, "question": "¿Qué artista tiene más álbumes número 1 en el Billboard 200?", "answer": "The Beatles (19 álbumes número 1)", "difficulty": 4 },
-  { "id": 16, "question": "¿En qué año se celebró el primer festival de Cannes?", "answer": "1946", "difficulty": 4 },
-  { "id": 17, "question": "¿Quién canta 'Shape of You'?", "answer": "Ed Sheeran", "difficulty": 1 },
-  { "id": 18, "question": "¿En qué película de animación aparece el personaje Buzz Lightyear por primera vez?", "answer": "Toy Story (1995)", "difficulty": 1 },
-  { "id": 19, "question": "¿Cómo se llama la actriz protagonista de la saga 'Los juegos del hambre'?", "answer": "Jennifer Lawrence (como Katniss Everdeen)", "difficulty": 2 },
-  { "id": 20, "question": "¿Cómo se titulan los tres primeros álbumes de estudio de Adele?", "answer": "19, 21 y 25", "difficulty": 3 },
-  { "id": 21, "question": "¿Quién ganó el Grammy al Álbum del Año en 2024?", "answer": "Taylor Swift con 'Midnights'", "difficulty": 3 },
-  { "id": 22, "question": "¿Cuántas películas componen la saga Skywalker de Star Wars?", "answer": "9 películas (Episodios I al IX)", "difficulty": 2 },
-  { "id": 23, "question": "¿Por qué película ganó Penélope Cruz el Óscar a la Mejor Actriz de Reparto en 2009?", "answer": "Vicky Cristina Barcelona, de Woody Allen", "difficulty": 4 },
-  { "id": 24, "question": "¿Cómo se llama el director de 'Schindler's List'?", "answer": "Steven Spielberg", "difficulty": 2 },
-  { "id": 25, "question": "¿Qué grupo musical tiene el récord de entradas vendidas en una sola gira mundial?", "answer": "Taylor Swift con 'The Eras Tour' (más de 1 000 millones de dólares en 2023)", "difficulty": 4 },
-  { "id": 26, "question": "¿En qué año se emitió el primer episodio de 'Los Simpson'?", "answer": "1989", "difficulty": 2 },
-  { "id": 27, "question": "¿Quién interpretó a Joker en la película de 2019 que ganó el León de Oro de Venecia?", "answer": "Joaquin Phoenix", "difficulty": 3 },
-  { "id": 28, "question": "¿Cuál es la película más taquillera de todos los tiempos sin ajustar por inflación?", "answer": "Avatar (2009, James Cameron), superado brevemente por Avengers: Endgame", "difficulty": 4 },
-  { "id": 29, "question": "¿Qué cantante lanzó el álbum 'Lemonade' en 2016?", "answer": "Beyoncé", "difficulty": 2 },
-  { "id": 30, "question": "¿Cuántos personajes distintos interpretó Peter Sellers en '¿Teléfono rojo? Volamos hacia Moscú'?", "answer": "Tres personajes: el Presidente, el Capitán Mandrake y el Dr. Strangelove", "difficulty": 5 },
-  { "id": 31, "question": "¿Cómo se llama la familia a la que pertenece Jon Snow por crianza al inicio de 'Juego de Tronos'?", "answer": "La casa Stark", "difficulty": 1 },
-  { "id": 32, "question": "¿Cuál es el emblema de la casa Stark en la serie 'Juego de Tronos'?", "answer": "El lobo huargo", "difficulty": 1 },
-  { "id": 33, "question": "¿Cómo se llama el gran muro de hielo que protege el Norte en 'Juego de Tronos'?", "answer": "El Muro", "difficulty": 1 },
-  { "id": 34, "question": "¿Qué personaje de Marvel empuña habitualmente un martillo llamado Mjolnir?", "answer": "Thor", "difficulty": 1 },
-  { "id": 35, "question": "¿Qué superhéroe de Marvel se transforma cuando se enfada mucho?", "answer": "Hulk", "difficulty": 1 },
-  { "id": 36, "question": "¿Cómo se llama el alter ego de Iron Man?", "answer": "Tony Stark", "difficulty": 1 },
-  { "id": 37, "question": "¿Cuál es el lema más famoso de la casa Stark en la serie?", "answer": "Se acerca el invierno", "difficulty": 1 },
-  { "id": 38, "question": "¿Qué color de cabello caracteriza a Daenerys Targaryen en la serie?", "answer": "Plateado o rubio muy claro", "difficulty": 1 },
-  { "id": 39, "question": "¿Cómo se llama el árbol donde Bran suele tener visiones en Invernalia?", "answer": "El arciano", "difficulty": 1 },
-  { "id": 40, "question": "¿Qué objeto lanza Steve Rogers como arma principal?", "answer": "Su escudo", "difficulty": 1 },
-  { "id": 41, "question": "¿Qué personaje de Marvel es conocido como el 'vecino amistoso'?", "answer": "Spider-Man", "difficulty": 1 },
-  { "id": 42, "question": "¿Cómo se llama el reino natal de Thor en Marvel?", "answer": "Asgard", "difficulty": 1 },
-  { "id": 43, "question": "¿Quién se sienta en el Trono de Hierro al comienzo de la serie?", "answer": "Robert Baratheon", "difficulty": 1 },
-  { "id": 44, "question": "¿Qué parentesco tiene Sansa con Arya Stark?", "answer": "Son hermanas", "difficulty": 1 },
-  { "id": 45, "question": "¿Qué androide sintético de los Vengadores lleva una Gema del Infinito incrustada en la frente?", "answer": "Vision", "difficulty": 1 },
-  { "id": 46, "question": "¿Qué personaje de Marvel usa dos pistolas y suele vestir de rojo y negro?", "answer": "Deadpool", "difficulty": 1 },
-  { "id": 47, "question": "¿Cómo se llama la capital de los Siete Reinos?", "answer": "Desembarco del Rey", "difficulty": 1 },
-  { "id": 48, "question": "¿Qué criatura nace de los huevos de Daenerys al final de la primera temporada?", "answer": "Dragones", "difficulty": 1 },
-  { "id": 49, "question": "¿Qué héroe de Marvel lleva un traje negro de vibranium y gobierna Wakanda?", "answer": "Black Panther", "difficulty": 1 },
-  { "id": 50, "question": "¿Cómo se llama la hermana de Thor?", "answer": "Hela", "difficulty": 1 },
-  { "id": 51, "question": "¿Qué personaje es conocido como el Matarreyes en 'Juego de Tronos'?", "answer": "Jaime Lannister", "difficulty": 2 },
-  { "id": 52, "question": "¿Quién es la madre de los dragones en la serie?", "answer": "Daenerys Targaryen", "difficulty": 2 },
-  { "id": 53, "question": "¿Cómo se llama la espada de Arya Stark?", "answer": "Aguja", "difficulty": 2 },
-  { "id": 54, "question": "¿Qué orden militar protege el Muro?", "answer": "La Guardia de la Noche", "difficulty": 2 },
-  { "id": 55, "question": "¿Cuál es el apellido de la familia que tiene como emblema un león?", "answer": "Lannister", "difficulty": 2 },
-  { "id": 56, "question": "¿Qué personaje de Marvel lidera S.H.I.E.L.D. con un parche en un ojo?", "answer": "Nick Fury", "difficulty": 2 },
-  { "id": 57, "question": "¿Qué gema del infinito lleva Vision en la frente?", "answer": "La Gema de la Mente", "difficulty": 2 },
-  { "id": 58, "question": "¿Cómo se llama la hermana de Black Panther?", "answer": "Shuri", "difficulty": 2 },
-  { "id": 59, "question": "¿Qué doctor de Marvel se convierte en Hechicero Supremo?", "answer": "Stephen Strange", "difficulty": 2 },
-  { "id": 60, "question": "¿Qué organización criminal lidera a menudo Red Skull?", "answer": "HYDRA", "difficulty": 2 },
-  { "id": 61, "question": "¿Cómo se llama el lobo huargo de Jon Snow?", "answer": "Fantasma", "difficulty": 2 },
-  { "id": 62, "question": "¿Quién ordena ejecutar a Ned Stark en la primera temporada?", "answer": "Joffrey Baratheon", "difficulty": 2 },
-  { "id": 63, "question": "¿Qué ciudad libre entrena a Arya con los Hombres sin Rostro?", "answer": "Braavos", "difficulty": 2 },
-  { "id": 64, "question": "¿Cómo se llama el consejero apodado el Gnomo?", "answer": "Tyrion Lannister", "difficulty": 2 },
-  { "id": 65, "question": "¿Qué pueblo nómada sigue a Daenerys al principio de su historia?", "answer": "Los dothraki", "difficulty": 2 },
-  { "id": 66, "question": "¿Qué actriz interpreta a Wanda Maximoff en el UCM?", "answer": "Elizabeth Olsen", "difficulty": 2 },
-  { "id": 67, "question": "¿Qué metal ficticio compone en gran parte el escudo del Capitán América?", "answer": "Vibranium", "difficulty": 2 },
-  { "id": 68, "question": "¿Cómo se llama el padre de Peter Quill en 'Guardians of the Galaxy Vol. 2'?", "answer": "Ego", "difficulty": 2 },
-  { "id": 69, "question": "¿Qué personaje de los Guardianes de la Galaxia solo es capaz de pronunciar tres palabras?", "answer": "Groot", "difficulty": 2 },
-  { "id": 70, "question": "¿Qué superhéroe de Marvel utiliza flechas y no tiene poderes sobrehumanos?", "answer": "Hawkeye", "difficulty": 2 },
-  { "id": 71, "question": "¿Qué veneno mata a Joffrey Baratheon durante su boda?", "answer": "El Estrangulador", "difficulty": 3 },
-  { "id": 72, "question": "¿Cómo se llama la boda en la que son asesinados Robb Stark y Catelyn Stark?", "answer": "La Boda Roja", "difficulty": 3 },
-  { "id": 73, "question": "¿Qué nombre recibe el rey de la noche antes de convertirse en el Rey de la Noche según los Hijos del Bosque?", "answer": "No se revela un nombre concreto en la serie", "difficulty": 3 },
-  { "id": 74, "question": "¿Quién resucita a Jon Snow tras su asesinato en Castillo Negro?", "answer": "Melisandre", "difficulty": 3 },
-  { "id": 75, "question": "¿Cómo se llama la isla fortaleza ancestral de los Targaryen?", "answer": "Rocadragón", "difficulty": 3 },
-  { "id": 76, "question": "¿Qué actor interpreta a Loki en el UCM?", "answer": "Tom Hiddleston", "difficulty": 3 },
-  { "id": 77, "question": "¿Qué nombre recibe la inteligencia artificial creada por Tony Stark y Bruce Banner que se vuelve villana?", "answer": "Ultron", "difficulty": 3 },
-  { "id": 78, "question": "¿Qué planeta es el hogar de los Nova Corps en 'Guardians of the Galaxy'?", "answer": "Xandar", "difficulty": 3 },
-  { "id": 79, "question": "¿Cómo se llama la dimensión donde la Anciana encierra a Dormammu en un bucle temporal?", "answer": "La Dimensión Oscura", "difficulty": 3 },
-  { "id": 80, "question": "¿Qué héroe de Marvel fue introducido en el UCM como Scott Lang?", "answer": "Ant-Man", "difficulty": 3 },
-  { "id": 81, "question": "¿Cómo se llama la fortaleza de la casa Arryn?", "answer": "El Nido de Águilas", "difficulty": 3 },
-  { "id": 82, "question": "¿Qué casa gobierna las Islas del Hierro?", "answer": "La casa Greyjoy", "difficulty": 3 },
-  { "id": 83, "question": "¿Qué personaje proclama que 'el caos es una escalera'?", "answer": "Petyr Baelish", "difficulty": 3 },
-  { "id": 84, "question": "¿Qué ciudad esclavista conquista Daenerys antes de liberar a los Inmaculados?", "answer": "Astapor", "difficulty": 3 },
-  { "id": 85, "question": "¿Cómo se llama el gigante que lucha junto a Jon Snow?", "answer": "Wun Wun", "difficulty": 3 },
-  { "id": 86, "question": "¿Qué personaje de Marvel dirige los Guardianes de la Galaxia como capitán mitad humano?", "answer": "Peter Quill o Star-Lord", "difficulty": 3 },
-  { "id": 87, "question": "¿Qué villano obtiene las seis Gemas del Infinito en el UCM?", "answer": "Thanos", "difficulty": 3 },
-  { "id": 88, "question": "¿Qué personaje de Marvel es una exespía rusa conocida también como Natasha Romanoff?", "answer": "Black Widow", "difficulty": 3 },
-  { "id": 89, "question": "¿Cómo se llama el reino cuántico en el que se adentran los personajes de Ant-Man?", "answer": "El Reino Cuántico", "difficulty": 3 },
-  { "id": 90, "question": "¿Qué actor interpreta a Doctor Strange en el cine?", "answer": "Benedict Cumberbatch", "difficulty": 3 },
-  { "id": 91, "question": "¿Quién es el padre biológico de Jon Snow según se revela en la serie?", "answer": "Rhaegar Targaryen", "difficulty": 4 },
-  { "id": 92, "question": "¿Cómo se llama el fuego verde y explosivo utilizado como arma en 'Juego de Tronos'?", "answer": "Fuego descalzo (wildfire)", "difficulty": 4 },
-  { "id": 93, "question": "¿Qué título adopta Bran Stark al final de la serie al ser elegido gobernante?", "answer": "Bran el Roto, rey de los Seis Reinos", "difficulty": 4 },
-  { "id": 94, "question": "¿Qué dragón de Daenerys es convertido en un dragón espectral por el Rey de la Noche?", "answer": "Viserion", "difficulty": 4 },
-  { "id": 95, "question": "¿Quién mata al Rey de la Noche en la batalla de Invernalia?", "answer": "Arya Stark", "difficulty": 4 },
-  { "id": 96, "question": "¿Qué gema del infinito estaba oculta en el Teseracto?", "answer": "La Gema del Espacio", "difficulty": 4 },
-  { "id": 97, "question": "¿Qué personaje destruye la Gema de la Mente para detener a Thanos, aunque luego este revierte el tiempo?", "answer": "Wanda Maximoff", "difficulty": 4 },
-  { "id": 98, "question": "¿Cómo se llama la orden mística que protege el Sanctum Sanctorum y otras sedes?", "answer": "Los Maestros de las Artes Místicas", "difficulty": 4 },
-  { "id": 99, "question": "¿Qué personaje de Marvel es conocido como el Soldado de Invierno?", "answer": "Bucky Barnes", "difficulty": 4 },
-  { "id": 100, "question": "¿Qué villano de 'Black Panther' desafía a T'Challa por el trono de Wakanda?", "answer": "Erik Killmonger", "difficulty": 4 },
-  { "id": 101, "question": "¿Qué ciudad de Dorne gobierna la casa Martell en la serie?", "answer": "Lanza del Sol", "difficulty": 4 },
-  { "id": 102, "question": "¿Cómo se llama la espada de acero valyrio de la casa Stark que acaba convertida en dos hojas?", "answer": "Hielo", "difficulty": 4 },
-  { "id": 103, "question": "¿Qué nombre adopta Arya al entrenar en la Casa de Blanco y Negro?", "answer": "Nadie", "difficulty": 4 },
-  { "id": 104, "question": "¿Quién es la sacerdotisa roja que sirve al Señor de la Luz y asesora a Stannis?", "answer": "Melisandre", "difficulty": 4 },
-  { "id": 105, "question": "¿Qué personaje se convierte en Cuervo de Tres Ojos antes que Bran?", "answer": "Brynden Rivers, representado en la serie como el Cuervo de Tres Ojos", "difficulty": 4 },
-  { "id": 106, "question": "¿Qué actor interpreta a Thanos mediante captura de movimiento y voz en el UCM?", "answer": "Josh Brolin", "difficulty": 4 },
-  { "id": 107, "question": "¿Cómo se llama el lugar fuera del tiempo donde Loki y Sylvie encuentran a He Who Remains en la serie 'Loki'?", "answer": "La Ciudadela al Final de los Tiempos", "difficulty": 4 },
-  { "id": 108, "question": "¿Qué personaje lleva el título de Acusador y aparece como villano en 'Captain Marvel'?", "answer": "Ronan el Acusador", "difficulty": 4 },
-  { "id": 109, "question": "¿Qué actor interpreta a Shang-Chi en el UCM?", "answer": "Simu Liu", "difficulty": 4 },
-  { "id": 110, "question": "¿Qué organización temporal persigue variantes en la serie 'Loki'?", "answer": "La TVA, Autoridad de Variación Temporal", "difficulty": 4 },
-  { "id": 111, "question": "¿Qué nombre de pila se revela para Jon Snow en la serie cuando se expone su origen targaryen?", "answer": "Aegon", "difficulty": 5 },
-  { "id": 112, "question": "¿Qué maestre de Invernalia muestra escepticismo ante los caminantes blancos antes de su regreso?", "answer": "Luwin", "difficulty": 5 },
-  { "id": 113, "question": "¿Cómo se llama la espada de acero valyrio de Jon Snow?", "answer": "Garra", "difficulty": 5 },
-  { "id": 114, "question": "¿Qué noble del Norte traiciona a los Stark ocupando Invernalia y luego acaba con el apodo de Hediondo?", "answer": "Theon Greyjoy", "difficulty": 5 },
-  { "id": 115, "question": "¿Qué actor interpretó a Daario Naharis tras el cambio de reparto a partir de la cuarta temporada?", "answer": "Michiel Huisman", "difficulty": 5 },
-  { "id": 116, "question": "¿Qué gema del infinito alimenta el Ojo de Agamotto en el UCM?", "answer": "La Gema del Tiempo", "difficulty": 5 },
-  { "id": 117, "question": "¿Qué frase desencadena el hechizo fallido de Doctor Strange en 'Spider-Man: No Way Home' al incluir demasiadas excepciones?", "answer": "Que el mundo olvide que Peter Parker es Spider-Man", "difficulty": 5 },
-  { "id": 118, "question": "¿Cómo se llama la entidad celestial que juzga a los planetas y aparece en 'Eternals'?", "answer": "Arishem", "difficulty": 5 },
-  { "id": 119, "question": "¿Qué designación recibe la armadura Hulkbuster diseñada por Tony Stark para contener a Hulk en el UCM?", "answer": "Mark XLIV", "difficulty": 5 },
-  { "id": 120, "question": "¿Qué personaje pronuncia 'Dormammu, he venido a negociar' en un bucle repetido?", "answer": "Doctor Strange", "difficulty": 5 },
-  { "id": 121, "question": "¿Qué veneno usa Oberyn Martell en su lanza durante su combate contra Gregor Clegane?", "answer": "Veneno de mantícora, adaptado en la serie como un potente veneno dorniense", "difficulty": 5 },
-  { "id": 122, "question": "¿En qué ciudad consigue Daenerys Targaryen a los Inmaculados antes de emprender su avance hacia Poniente?", "answer": "Astapor", "difficulty": 5 },
-  { "id": 123, "question": "¿Qué Lord Comandante de la Guardia de la Noche precede a Jon Snow y muere amotinado en el Torreón de Craster?", "answer": "Jeor Mormont", "difficulty": 5 },
-  { "id": 124, "question": "¿Qué nombre recibe el metal ficticio usado por los eternos enemigos de los asgardianos para forjar armas en Nidavellir?", "answer": "Uru", "difficulty": 5 },
-  { "id": 125, "question": "¿Qué personaje de Marvel dirige inicialmente SWORD en 'WandaVision'?", "answer": "Tyler Hayward", "difficulty": 5 },
-  { "id": 126, "question": "¿Qué personaje empuña Mjolnir junto al escudo roto del Capitán América en la batalla final de Endgame?", "answer": "Steve Rogers", "difficulty": 5 },
-  { "id": 127, "question": "¿Qué isla prisión de 'Juego de Tronos' es el hogar ancestral de la casa Targaryen?", "answer": "Rocadragón", "difficulty": 5 },
-  { "id": 128, "question": "¿Qué personaje revela ser Aegon Targaryen al ser investigado por Sam y Bran?", "answer": "Jon Snow", "difficulty": 5 },
-  { "id": 129, "question": "¿Qué actor interpreta a Kang/He Who Remains en la serie 'Loki' primera temporada?", "answer": "Jonathan Majors", "difficulty": 5 },
-  { "id": 130, "question": "¿Qué guardián de la galaxia fue creado genéticamente por el Alto Evolucionador y es un mapache modificado?", "answer": "Rocket", "difficulty": 5 },
-  { "id": 131, "question": "¿Cómo se llama el mago protagonista de una famosa saga creada por J. K. Rowling?", "answer": "Harry Potter", "difficulty": 1 },
-  { "id": 132, "question": "¿Qué película animada presenta a una princesa llamada Elsa?", "answer": "Frozen", "difficulty": 1 },
-  { "id": 133, "question": "¿Qué superhéroe lleva un escudo con forma circular y colores de la bandera de Estados Unidos?", "answer": "Capitán América", "difficulty": 1 },
-  { "id": 134, "question": "¿Qué saga cinematográfica transcurre en una galaxia muy, muy lejana?", "answer": "Star Wars", "difficulty": 1 },
-  { "id": 135, "question": "¿Qué muñeco vaquero aparece en 'Toy Story'?", "answer": "Woody", "difficulty": 1 },
-  { "id": 136, "question": "¿Qué ogro verde protagoniza una saga de películas de DreamWorks?", "answer": "Shrek", "difficulty": 1 },
-  { "id": 137, "question": "¿Qué arqueólogo ficticio usa sombrero y látigo?", "answer": "Indiana Jones", "difficulty": 1 },
-  { "id": 138, "question": "¿Qué serie de animación tiene como familia principal a Homero, Marge, Bart, Lisa y Maggie?", "answer": "Los Simpson", "difficulty": 1 },
-  { "id": 139, "question": "¿Qué actor interpreta a Jack en 'Titanic'?", "answer": "Leonardo DiCaprio", "difficulty": 1 },
-  { "id": 140, "question": "¿Qué princesa de Disney tiene una alfombra voladora en su historia?", "answer": "Jasmine", "difficulty": 1 },
-  { "id": 141, "question": "¿Qué serie española se ambienta en un atraco a la Fábrica Nacional de Moneda y Timbre?", "answer": "La casa de papel", "difficulty": 1 },
-  { "id": 142, "question": "¿Qué superhéroe de Marvel es también conocido como Peter Parker?", "answer": "Spider-Man", "difficulty": 1 },
-  { "id": 143, "question": "¿Qué personaje amarillo vive en una piña debajo del mar?", "answer": "Bob Esponja", "difficulty": 1 },
-  { "id": 144, "question": "¿Qué saga de acción protagoniza Dominic Toretto?", "answer": "Fast & Furious", "difficulty": 1 },
-  { "id": 145, "question": "¿Qué película de Disney está ambientada en la sabana y tiene a Simba como protagonista?", "answer": "El rey león", "difficulty": 1 },
-  { "id": 146, "question": "¿Qué actor interpretó al Joker en 'The Dark Knight' de 2008?", "answer": "Heath Ledger", "difficulty": 1 },
-  { "id": 147, "question": "¿Qué programa musical lanzó a la fama a muchos cantantes en España en 2001?", "answer": "Operación Triunfo", "difficulty": 1 },
-  { "id": 148, "question": "¿Qué héroe de Gotham City es también Bruce Wayne?", "answer": "Batman", "difficulty": 1 },
-  { "id": 149, "question": "¿Qué película de James Cameron cuenta una expedición al planeta Pandora?", "answer": "Avatar", "difficulty": 1 },
-  { "id": 150, "question": "¿Qué muñeca de Mattel fue llevada al cine en 2023 en una película muy popular?", "answer": "Barbie", "difficulty": 1 },
-  { "id": 151, "question": "¿Qué actor interpreta a Iron Man en el universo cinematográfico de Marvel?", "answer": "Robert Downey Jr.", "difficulty": 2 },
-  { "id": 152, "question": "¿Qué director creó la trilogía de 'El señor de los anillos'?", "answer": "Peter Jackson", "difficulty": 2 },
-  { "id": 153, "question": "¿Qué película ganó el Oscar a mejor película en 1998 y está ambientada en el Titanic?", "answer": "Titanic", "difficulty": 2 },
-  { "id": 154, "question": "¿Qué serie juvenil española se ambienta en el instituto Las Encinas?", "answer": "Élite", "difficulty": 2 },
-  { "id": 155, "question": "¿Qué actor dio vida a Wolverine durante años en el cine?", "answer": "Hugh Jackman", "difficulty": 2 },
-  { "id": 156, "question": "¿Qué serie fantástica de HBO adapta novelas de George R. R. Martin?", "answer": "Juego de Tronos", "difficulty": 2 },
-  { "id": 157, "question": "¿Qué película animada de Pixar transcurre dentro de la mente de una niña llamada Riley?", "answer": "Del revés o Inside Out", "difficulty": 2 },
-  { "id": 158, "question": "¿Qué concurso televisivo español se basa en preguntas de cultura general y comodines?", "answer": "Quién quiere ser millonario", "difficulty": 2 },
-  { "id": 159, "question": "¿Qué directora de 'Barbie' fue nominada al Oscar por 'Lady Bird' y 'Mujercitas'?", "answer": "Greta Gerwig", "difficulty": 2 },
-  { "id": 160, "question": "¿Qué serie muestra a unos atracadores con nombres de ciudades como Tokio y Berlín?", "answer": "La casa de papel", "difficulty": 2 },
-  { "id": 161, "question": "¿Qué película de Steven Spielberg presenta a un tiburón gigante aterrorizando una playa?", "answer": "Tiburón", "difficulty": 3 },
-  { "id": 162, "question": "¿Qué director español ganó el Oscar por 'Todo sobre mi madre'?", "answer": "Pedro Almodóvar", "difficulty": 3 },
-  { "id": 163, "question": "¿Qué actriz interpretó a Katniss Everdeen en 'Los juegos del hambre'?", "answer": "Jennifer Lawrence", "difficulty": 3 },
-  { "id": 164, "question": "¿Qué serie cómica estadounidense se centra en un grupo de amigos en Nueva York y un café llamado Central Perk?", "answer": "Friends", "difficulty": 3 },
-  { "id": 165, "question": "¿Qué actor interpretó a Aragorn en 'El señor de los anillos'?", "answer": "Viggo Mortensen", "difficulty": 3 },
-  { "id": 166, "question": "¿Qué película de Christopher Nolan está ambientada en sueños dentro de sueños?", "answer": "Origen o Inception", "difficulty": 3 },
-  { "id": 167, "question": "¿Qué serie de Netflix sobre ajedrez tiene como protagonista a Beth Harmon?", "answer": "Gambito de dama", "difficulty": 3 },
-  { "id": 168, "question": "¿Qué película de ciencia ficción de Ridley Scott presenta a un cazador de replicantes?", "answer": "Blade Runner", "difficulty": 3 },
-  { "id": 169, "question": "¿Qué actriz interpreta a Eleven en 'Stranger Things'?", "answer": "Millie Bobby Brown", "difficulty": 3 },
-  { "id": 170, "question": "¿Qué personaje de Disney tiene por compañero a un cangrejo llamado Sebastián?", "answer": "Ariel", "difficulty": 3 },
-  { "id": 171, "question": "¿Qué saga de aventuras tiene como protagonista a un profesor llamado Robert Langdon en algunas películas?", "answer": "El código Da Vinci", "difficulty": 3 },
-  { "id": 172, "question": "¿Qué director rodó 'Pulp Fiction'?", "answer": "Quentin Tarantino", "difficulty": 3 },
-  { "id": 173, "question": "¿Qué serie médica estuvo protagonizada por un doctor experto en diagnóstico llamado Gregory House?", "answer": "House", "difficulty": 3 },
-  { "id": 174, "question": "¿Qué actor interpretó a Maximus en 'Gladiator'?", "answer": "Russell Crowe", "difficulty": 3 },
-  { "id": 175, "question": "¿Qué película musical reciente adapta canciones de ABBA y se ambienta en una isla griega?", "answer": "Mamma Mia!", "difficulty": 3 },
-  { "id": 176, "question": "¿Qué actor interpreta a Gandalf en 'El señor de los anillos'?", "answer": "Ian McKellen", "difficulty": 3 },
-  { "id": 177, "question": "¿Qué serie de animación para adultos incluye a Rick Sanchez y Morty Smith?", "answer": "Rick y Morty", "difficulty": 3 },
-  { "id": 178, "question": "¿Qué actriz protagoniza 'Kill Bill' como La Novia?", "answer": "Uma Thurman", "difficulty": 3 },
-  { "id": 179, "question": "¿Qué director es conocido por películas como 'E. T.', 'Jurassic Park' y 'Indiana Jones'?", "answer": "Steven Spielberg", "difficulty": 3 },
-  { "id": 180, "question": "¿Qué director mexicano ganó el Oscar por 'La forma del agua'?", "answer": "Guillermo del Toro", "difficulty": 4 },
-  { "id": 181, "question": "¿Qué actor interpretó a Don Vito Corleone en 'El padrino'?", "answer": "Marlon Brando", "difficulty": 4 },
-  { "id": 182, "question": "¿Qué actriz ganó fama mundial interpretando a Wednesday Addams en la serie 'Miércoles'?", "answer": "Jenna Ortega", "difficulty": 4 },
-  { "id": 183, "question": "¿Qué película de Bong Joon-ho combina sátira social y suspense en una familia pobre infiltrada en una casa rica?", "answer": "Parásitos", "difficulty": 4 },
-  { "id": 184, "question": "¿Qué actor da vida a Saul Goodman en 'Breaking Bad' y 'Better Call Saul'?", "answer": "Bob Odenkirk", "difficulty": 4 },
-  { "id": 185, "question": "¿Qué directora filmó 'Lost in Translation'?", "answer": "Sofia Coppola", "difficulty": 4 },
-  { "id": 186, "question": "¿Qué actor interpretó a Oppenheimer en la película de Christopher Nolan de 2023?", "answer": "Cillian Murphy", "difficulty": 4 },
-  { "id": 187, "question": "¿Qué película de Disney está ambientada en Colombia y gira en torno a la familia Madrigal?", "answer": "Encanto", "difficulty": 4 },
-  { "id": 188, "question": "¿Qué serie española creada por Álex Pina mezcla atracos, acción y personajes con nombres de ciudades?", "answer": "La casa de papel", "difficulty": 4 },
-  { "id": 189, "question": "¿Qué actor interpretó a Hannibal Lecter en 'El silencio de los corderos'?", "answer": "Anthony Hopkins", "difficulty": 4 },
-  { "id": 190, "question": "¿Qué película de Denis Villeneuve adapta la novela de Frank Herbert sobre Arrakis?", "answer": "Dune", "difficulty": 4 },
-  { "id": 191, "question": "¿Qué director japonés animó películas como 'El viaje de Chihiro' y 'Mi vecino Totoro'?", "answer": "Hayao Miyazaki", "difficulty": 4 },
-  { "id": 192, "question": "¿Qué actor interpretó a Sherlock Holmes en la serie de la BBC junto a Martin Freeman?", "answer": "Benedict Cumberbatch", "difficulty": 4 },
-  { "id": 193, "question": "¿Qué personaje de Marvel es un hechicero conocido como Stephen Strange?", "answer": "Doctor Strange", "difficulty": 4 },
-  { "id": 194, "question": "¿Qué película de terror de Stanley Kubrick adapta una novela de Stephen King y transcurre en el hotel Overlook?", "answer": "El resplandor", "difficulty": 4 },
-  { "id": 195, "question": "¿Qué actriz ganó el Oscar por interpretar a Nina en 'Black Swan'?", "answer": "Natalie Portman", "difficulty": 4 },
-  { "id": 196, "question": "¿Qué serie ambientada en la Inglaterra de la Regencia convirtió a los Bridgerton en un fenómeno global?", "answer": "Los Bridgerton", "difficulty": 4 },
-  { "id": 197, "question": "¿Qué actor interpreta a Geralt de Rivia en las primeras temporadas de 'The Witcher'?", "answer": "Henry Cavill", "difficulty": 4 },
-  { "id": 198, "question": "¿Qué película de Pixar gira en torno a un chef aficionado que es una rata?", "answer": "Ratatouille", "difficulty": 4 },
-  { "id": 199, "question": "¿Qué director rodó 'El laberinto del fauno'?", "answer": "Guillermo del Toro", "difficulty": 5 },
-  { "id": 200, "question": "¿Qué actriz española protagonizó 'Volver' y 'Madres paralelas' de Almodóvar?", "answer": "Penélope Cruz", "difficulty": 5 },
-  { "id": 201, "question": "¿Qué película de Akira Kurosawa sirvió de gran inspiración para muchos westerns posteriores?", "answer": "Los siete samuráis", "difficulty": 5 },
-  { "id": 202, "question": "¿Qué serie de HBO creada por David Chase se centra en Tony Soprano?", "answer": "Los Soprano", "difficulty": 5 },
-  { "id": 203, "question": "¿Qué actor interpretó a Daniel Plainview en 'There Will Be Blood'?", "answer": "Daniel Day-Lewis", "difficulty": 5 },
-  { "id": 204, "question": "¿Qué directora ganó el Oscar por 'Nomadland'?", "answer": "Chloé Zhao", "difficulty": 5 },
-  { "id": 205, "question": "¿Qué actor interpretó a Travis Bickle en 'Taxi Driver'?", "answer": "Robert De Niro", "difficulty": 5 },
-  { "id": 206, "question": "¿Qué película surcoreana de Park Chan-wook es famosa por un largo plano secuencia en un pasillo?", "answer": "Oldboy", "difficulty": 5 },
-  { "id": 207, "question": "¿Qué actriz protagonizó 'Tár' como la directora de orquesta Lydia Tár?", "answer": "Cate Blanchett", "difficulty": 5 },
-  { "id": 208, "question": "¿Qué director italiano rodó 'La dolce vita' y '8½'?", "answer": "Federico Fellini", "difficulty": 5 },
-  { "id": 209, "question": "¿Qué serie de ciencia ficción antológica incluye episodios independientes sobre tecnología y sociedad?", "answer": "Black Mirror", "difficulty": 5 },
-  { "id": 210, "question": "¿Qué actor interpreta a Logan Roy en 'Succession'?", "answer": "Brian Cox", "difficulty": 5 },
-  { "id": 211, "question": "¿Qué película de Alfonso Cuarón ganó el Oscar a mejor dirección en 2014 y transcurre en el espacio?", "answer": "Gravity", "difficulty": 5 },
-  { "id": 212, "question": "¿Qué actriz francesa interpretó a Edith Piaf en 'La vie en rose'?", "answer": "Marion Cotillard", "difficulty": 5 },
-  { "id": 213, "question": "¿Qué película de animación de Studio Ghibli ganó el Oscar en 2003?", "answer": "El viaje de Chihiro", "difficulty": 5 },
-  { "id": 214, "question": "¿Qué director sueco es famoso por 'El séptimo sello' y 'Fresas salvajes'?", "answer": "Ingmar Bergman", "difficulty": 5 },
-  { "id": 215, "question": "¿Qué actor interpretó a T. E. Lawrence en la película clásica de David Lean?", "answer": "Peter O'Toole", "difficulty": 5 },
-  { "id": 216, "question": "¿Qué guionista y director creó la trilogía 'Before Sunrise', 'Before Sunset' y 'Before Midnight'?", "answer": "Richard Linklater", "difficulty": 5 },
-  { "id": 217, "question": "¿Qué película de Orson Welles suele citarse entre las más influyentes de la historia del cine?", "answer": "Ciudadano Kane", "difficulty": 5 },
-  { "id": 218, "question": "¿Qué actriz interpretó a Clarice Starling en 'El silencio de los corderos'?", "answer": "Jodie Foster", "difficulty": 5 },
-  { "id": 219, "question": "¿Qué actor puso voz al Genio de la lámpara en la versión original de 'Aladdín' de 1992?", "answer": "Robin Williams", "difficulty": 1 },
-  { "id": 220, "question": "¿Qué película de ciencia ficción incluye un idioma creado para el planeta Pandora?", "answer": "Avatar", "difficulty": 1 },
-  { "id": 221, "question": "¿Qué superhéroe cambia de tamaño usando partículas ficticias creadas por Hank Pym?", "answer": "Ant-Man", "difficulty": 1 },
-  { "id": 222, "question": "¿Qué saga de magos hizo que miles de niños soñaran con cartas de admisión escolares imposibles?", "answer": "Harry Potter", "difficulty": 1 },
-  { "id": 223, "question": "¿Qué serie animada convirtió una piña submarina en una de las casas más famosas de la TV?", "answer": "Bob Esponja", "difficulty": 1 },
-  { "id": 224, "question": "¿Qué juguete cowboy de Pixar se llama como una persona del salvaje oeste?", "answer": "Woody", "difficulty": 1 },
-  { "id": 225, "question": "¿Qué villana de Disney se convierte en dragón al final de 'La Bella Durmiente'?", "answer": "Maléfica", "difficulty": 1 },
-  { "id": 226, "question": "¿Qué película hizo famosa la frase 'Hasta la vista, baby'?", "answer": "Terminator 2", "difficulty": 1 },
-  { "id": 227, "question": "¿Qué ogro verde empezó como un antihéroe gruñón y acabó siendo icono de memes?", "answer": "Shrek", "difficulty": 1 },
-  { "id": 228, "question": "¿Qué serie española normalizó usar nombres de ciudades como alias criminales?", "answer": "La casa de papel", "difficulty": 1 },
-  { "id": 229, "question": "¿Qué personaje amarillo del mar trabaja cocinando hamburguesas de cangrejo?", "answer": "Bob Esponja", "difficulty": 1 },
-  { "id": 230, "question": "¿Qué actor estuvo años sin ganar un Oscar pese a ser una superestrella hasta 'El renacido'?", "answer": "Leonardo DiCaprio", "difficulty": 1 },
-  { "id": 231, "question": "¿Qué muñeca de Mattel protagonizó una película de color rosa masivo en 2023?", "answer": "Barbie", "difficulty": 1 },
-  { "id": 232, "question": "¿Qué personaje de Star Wars respiraba con un sonido mecánico muy reconocible?", "answer": "Darth Vader", "difficulty": 1 },
-  { "id": 233, "question": "¿Qué actor interpreta a Jack Sparrow con pasos tambaleantes y humor extraño?", "answer": "Johnny Depp", "difficulty": 1 },
-  { "id": 234, "question": "¿Qué película de tiburón hizo que mucha gente mirara el mar con otros ojos en 1975?", "answer": "Tiburón", "difficulty": 1 },
-  { "id": 235, "question": "¿Qué saga familiar de carreras mezcla coches, acción absurda y cada vez menos leyes físicas?", "answer": "Fast & Furious", "difficulty": 1 },
-  { "id": 236, "question": "¿Qué héroe de Marvel lanza telarañas y hace chistes mientras pelea?", "answer": "Spider-Man", "difficulty": 1 },
-  { "id": 237, "question": "¿Qué princesa de Disney canta junto a un cangrejo llamado Sebastián?", "answer": "Ariel", "difficulty": 1 },
-  { "id": 238, "question": "¿Qué serie de animación lleva décadas prediciendo bromísticamente cosas del futuro en internet?", "answer": "Los Simpson", "difficulty": 1 },
-  { "id": 239, "question": "¿Qué película de Pixar presenta emociones convertidas en personajes de colores?", "answer": "Inside Out o Del revés", "difficulty": 2 },
-  { "id": 240, "question": "¿Qué actor interpretó a un Joker tan intenso que ganó un Oscar póstumo?", "answer": "Heath Ledger", "difficulty": 2 },
-  { "id": 241, "question": "¿Qué serie convirtió una cafetería de sofá naranja en destino turístico ficticio?", "answer": "Friends", "difficulty": 2 },
-  { "id": 242, "question": "¿Qué actor de Matrix y John Wick tiene fama de ser sorprendentemente amable con desconocidos?", "answer": "Keanu Reeves", "difficulty": 2 },
-  { "id": 243, "question": "¿Qué película de Nolan usa peonzas para sembrar dudas sobre la realidad?", "answer": "Inception u Origen", "difficulty": 2 },
-  { "id": 244, "question": "¿Qué dragón de serie de fantasía llevó a muchos espectadores a aprender nombres imposibles de pronunciar?", "answer": "Drogon", "difficulty": 2 },
-  { "id": 245, "question": "¿Qué serie sobre un profesor de química convirtió una caravana en icono pop?", "answer": "Breaking Bad", "difficulty": 2 },
-  { "id": 246, "question": "¿Qué película convirtió la canción 'My Heart Will Go On' en un fenómeno planetario?", "answer": "Titanic", "difficulty": 2 },
-  { "id": 247, "question": "¿Qué personaje de Marvel es un árbol que casi solo dice tres palabras?", "answer": "Groot", "difficulty": 2 },
-  { "id": 248, "question": "¿Qué actor interpretó a Wolverine durante tanto tiempo que quedó muy unido al personaje?", "answer": "Hugh Jackman", "difficulty": 2 },
-  { "id": 249, "question": "¿Qué película animada de Disney-Pixar presenta a una rata con talento culinario?", "answer": "Ratatouille", "difficulty": 2 },
-  { "id": 250, "question": "¿Qué criatura de Star Wars parece una rana pequeña y habla con orden extraño?", "answer": "Yoda", "difficulty": 2 },
-  { "id": 251, "question": "¿Qué saga fantástica convirtió a un anillo en el accesorio más problemático del cine?", "answer": "El señor de los anillos", "difficulty": 2 },
-  { "id": 252, "question": "¿Qué película popularizó la idea de elegir entre la píldora roja y la azul?", "answer": "Matrix", "difficulty": 2 },
-  { "id": 253, "question": "¿Qué actriz interpreta a Hermione Granger en el cine?", "answer": "Emma Watson", "difficulty": 2 },
-  { "id": 254, "question": "¿Qué película de DreamWorks parodia cuentos clásicos con mucho humor moderno?", "answer": "Shrek", "difficulty": 2 },
-  { "id": 255, "question": "¿Qué superhéroe de DC es millonario, no tiene poderes y usa murciélagos como marca?", "answer": "Batman", "difficulty": 2 },
-  { "id": 256, "question": "¿Qué película espacial de James Cameron llevó el 3D comercial a otro nivel en 2009?", "answer": "Avatar", "difficulty": 2 },
-  { "id": 257, "question": "¿Qué personaje de Disney pierde un zapato y aun así encuentra el amor?", "answer": "Cenicienta", "difficulty": 2 },
-  { "id": 258, "question": "¿Qué actor interpretó a Gandalf y luego fue querido también como Magneto?", "answer": "Ian McKellen", "difficulty": 3 },
-  { "id": 259, "question": "¿Qué película coreana mezcló sátira social y suspense hasta ganar el Oscar a mejor película?", "answer": "Parásitos", "difficulty": 3 },
-  { "id": 260, "question": "¿Qué serie de Netflix hizo que mucha gente quisiera aprender aperturas de ajedrez?", "answer": "Gambito de dama", "difficulty": 3 },
-  { "id": 261, "question": "¿Qué actriz interpretó a Daenerys Targaryen, también llamada Madre de Dragones?", "answer": "Emilia Clarke", "difficulty": 3 },
-  { "id": 262, "question": "¿Qué película animada reciente de Disney puso de moda hablar de traumas familiares cantando?", "answer": "Encanto", "difficulty": 3 },
-  { "id": 263, "question": "¿Qué serie médica convirtió a un médico borde y brillante en icono televisivo?", "answer": "House", "difficulty": 3 },
-  { "id": 264, "question": "¿Qué película de ciencia ficción muestra a replicantes buscando más vida en un mundo lluvioso?", "answer": "Blade Runner", "difficulty": 3 },
-  { "id": 265, "question": "¿Qué actriz interpreta a Wednesday Addams en la serie 'Miércoles'?", "answer": "Jenna Ortega", "difficulty": 3 },
-  { "id": 266, "question": "¿Qué actor dio vida a Aragorn en la trilogía de Peter Jackson?", "answer": "Viggo Mortensen", "difficulty": 3 },
-  { "id": 267, "question": "¿Qué director mexicano rodó 'El laberinto del fauno' con monstruos y posguerra?", "answer": "Guillermo del Toro", "difficulty": 3 },
-  { "id": 268, "question": "¿Qué personaje de Marvel es un mapache genéticamente modificado y muy sarcástico?", "answer": "Rocket", "difficulty": 3 },
-  { "id": 269, "question": "¿Qué película de terror de Kubrick hizo que una puerta rota por un hacha quedara para la historia?", "answer": "El resplandor", "difficulty": 3 },
-  { "id": 270, "question": "¿Qué actor interpretó a Neo, un papel que rechazaron otras estrellas antes de él?", "answer": "Keanu Reeves", "difficulty": 3 },
-  { "id": 271, "question": "¿Qué serie antológica británica se convirtió en referencia cuando se habla de futuros tecnológicos inquietantes?", "answer": "Black Mirror", "difficulty": 3 },
-  { "id": 272, "question": "¿Qué villano de Batman se asocia a menudo con bromas macabras y caos puro?", "answer": "El Joker", "difficulty": 3 },
-  { "id": 273, "question": "¿Qué película de Pixar muestra a un anciano que ata globos a su casa y sale volando?", "answer": "Up", "difficulty": 3 },
-  { "id": 274, "question": "¿Qué actriz protagonizó 'La La Land' junto a Ryan Gosling?", "answer": "Emma Stone", "difficulty": 3 },
-  { "id": 275, "question": "¿Qué director japonés ganó un Oscar por una película animada y convirtió espíritus raros en maravilla universal?", "answer": "Hayao Miyazaki", "difficulty": 4 },
-  { "id": 276, "question": "¿Qué actor interpretó a Oppenheimer en la película de 2023 y acabó llevándose el Oscar?", "answer": "Cillian Murphy", "difficulty": 4 },
-  { "id": 277, "question": "¿Qué película de Denis Villeneuve hizo que mucha gente aprendiera la palabra 'gom jabbar'?", "answer": "Dune", "difficulty": 4 },
-  { "id": 278, "question": "¿Qué director de 'Barbie' ya había retratado adolescencias torpes en 'Lady Bird'?", "answer": "Greta Gerwig", "difficulty": 4 },
-  { "id": 279, "question": "¿Qué actor interpreta a Saul Goodman, abogado tan carismático como dudoso?", "answer": "Bob Odenkirk", "difficulty": 4 },
-  { "id": 280, "question": "¿Qué película de terror convirtió a un payaso llamado Pennywise en trauma generacional renovado?", "answer": "It", "difficulty": 4 },
-  { "id": 281, "question": "¿Qué serie de HBO con una familia millonaria hizo divertidísima la guerra corporativa más miserable?", "answer": "Succession", "difficulty": 4 },
-  { "id": 282, "question": "¿Qué actor interpretó a Hannibal Lecter con una calma aterradora en 'El silencio de los corderos'?", "answer": "Anthony Hopkins", "difficulty": 4 },
-  { "id": 283, "question": "¿Qué película de Alfonso Cuarón transcurre casi entera en el espacio y con muy poco oxígeno narrativo?", "answer": "Gravity", "difficulty": 4 },
-  { "id": 284, "question": "¿Qué actriz ganó fama mundial por interpretar a Eleven y raparse de niña para el papel?", "answer": "Millie Bobby Brown", "difficulty": 4 },
-  { "id": 285, "question": "¿Qué película española de Amenábar de 1997 sobre identidad y realidad sirvió de base al remake 'Vanilla Sky'?", "answer": "Abre los ojos", "difficulty": 4 },
-  { "id": 286, "question": "¿Qué actor interpretó a Sherlock Holmes en la serie moderna de la BBC?", "answer": "Benedict Cumberbatch", "difficulty": 4 },
-  { "id": 287, "question": "¿Qué película de terror reciente volvió a hacer terroríficas las sonrisas aparentemente amables?", "answer": "Smile", "difficulty": 4 },
-  { "id": 288, "question": "¿Qué actriz española suele estar muy asociada a Almodóvar y protagonizó 'Volver'?", "answer": "Penélope Cruz", "difficulty": 4 },
-  { "id": 289, "question": "¿Qué serie coreana convirtió juegos infantiles en pesadillas de supervivencia global?", "answer": "El juego del calamar", "difficulty": 4 },
-  { "id": 290, "question": "¿Qué director rodó 'Ciudadano Kane', una película mítica hecha por alguien increíblemente joven?", "answer": "Orson Welles", "difficulty": 4 },
-  { "id": 291, "question": "¿Qué actor interpretó a Tony Soprano, mafioso con psiquiatra y ataques de ansiedad?", "answer": "James Gandolfini", "difficulty": 4 },
-  { "id": 292, "question": "¿Qué película de Pixar gira alrededor del Día de Muertos y la memoria familiar?", "answer": "Coco", "difficulty": 4 },
-  { "id": 293, "question": "¿Qué actriz protagonizó 'Black Swan' como bailarina obsesionada con la perfección?", "answer": "Natalie Portman", "difficulty": 4 },
-  { "id": 294, "question": "¿Qué director italiano hizo de 'La dolce vita' una expresión universal de cierto glamour decadente?", "answer": "Federico Fellini", "difficulty": 5 },
-  { "id": 295, "question": "¿Qué película de Park Chan-wook es famosa por un brutal plano secuencia en un pasillo?", "answer": "Oldboy", "difficulty": 5 },
-  { "id": 296, "question": "¿Qué actriz interpretó a Lydia Tár, directora de orquesta tan brillante como problemática?", "answer": "Cate Blanchett", "difficulty": 5 },
-  { "id": 297, "question": "¿Qué director sueco convirtió partidas de ajedrez con la muerte en imagen cultural eterna?", "answer": "Ingmar Bergman", "difficulty": 5 },
-  { "id": 298, "question": "¿Qué película de Stanley Kubrick satiriza la guerra nuclear y se conoce en inglés como Dr. Strangelove?", "answer": "¿Teléfono rojo? Volamos hacia Moscú", "difficulty": 5 },
-  { "id": 299, "question": "¿Qué serie creada por David Chase sigue considerándose una de las grandes cimas televisivas del siglo XXI?", "answer": "Los Soprano", "difficulty": 5 },
-  { "id": 300, "question": "¿Qué película de Akira Kurosawa inspiró innumerables remakes y adaptaciones de grupos de héroes?", "answer": "Los siete samuráis", "difficulty": 5 },
-  { "id": 301, "question": "¿Qué actriz francesa ganó el Oscar por interpretar a Edith Piaf?", "answer": "Marion Cotillard", "difficulty": 5 },
-  { "id": 302, "question": "¿Qué guionista y director creó la trilogía romántica de 'Before Sunrise', 'Before Sunset' y 'Before Midnight'?", "answer": "Richard Linklater", "difficulty": 5 },
-  { "id": 303, "question": "¿Qué película de David Fincher convirtió una red social universitaria en tragedia de ambición?", "answer": "La red social", "difficulty": 5 },
-  { "id": 304, "question": "¿Qué director surcoreano de 'Parásitos' ya había mezclado monstruos y crítica social en 'The Host'?", "answer": "Bong Joon-ho", "difficulty": 5 },
-  { "id": 305, "question": "¿Qué actriz interpretó a Clarice Starling en la película original de 'El silencio de los corderos'?", "answer": "Jodie Foster", "difficulty": 5 },
-  { "id": 306, "question": "¿Qué actor clásico dio vida a Lawrence de Arabia en el cine?", "answer": "Peter O'Toole", "difficulty": 5 },
-  { "id": 307, "question": "¿Qué película de Tarantino transcurre en gran parte en una mercería nevada llena de tensión y odio?", "answer": "Los odiosos ocho", "difficulty": 5 },
-  { "id": 308, "question": "¿Qué director español filmó 'Tesis' antes de hacerse internacionalmente famoso con 'Los otros'?", "answer": "Alejandro Amenábar", "difficulty": 5 },
-  { "id": 309, "question": "¿Qué princesa de Disney canta 'Libre soy' en español?", "answer": "Elsa", "difficulty": 1 }
+  {
+    "id": 1,
+    "question": "¿En qué año se estrenó la película 'El Rey León' de Disney (versión animada)?",
+    "answer": "1994",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "¿Quién canta la canción 'Bohemian Rhapsody'?",
+    "answer": "Queen",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Cuántas temporadas tiene la serie 'Breaking Bad'?",
+    "answer": "5 temporadas",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question": "¿En qué año se fundó Netflix como servicio de streaming?",
+    "answer": "2007 (fundada en 1997, pero el streaming comenzó en 2007)",
+    "difficulty": 3
+  },
+  {
+    "id": 5,
+    "question": "¿Quién interpretó a Iron Man en las películas del Universo Marvel?",
+    "answer": "Robert Downey Jr.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "¿Qué película ganó el Óscar a la Mejor Película en la ceremonia de 2020 (películas de 2019)?",
+    "answer": "Parásitos (Parasite) de Bong Joon-ho",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question": "¿Quién es el cantante del grupo Coldplay?",
+    "answer": "Chris Martin",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "¿En qué año se publicó el álbum 'Thriller' de Michael Jackson?",
+    "answer": "1982",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "¿Cómo se llama el personaje principal de la serie 'The Mandalorian'?",
+    "answer": "Din Djarin (el Mandaloriano / Mando)",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question": "¿Cuántos Óscar ganó 'El señor de los anillos: El retorno del rey'?",
+    "answer": "11 Óscar",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question": "¿Quién compuso la banda sonora de 'Star Wars'?",
+    "answer": "John Williams",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "¿En qué ciudad se rodó la mayor parte de 'Game of Thrones'?",
+    "answer": "Principalmente en Belfast (Irlanda del Norte) y varios países de Europa y África",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question": "¿Quién dirige la película 'Pulp Fiction'?",
+    "answer": "Quentin Tarantino",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "¿Cómo se llama el mayordomo de Batman?",
+    "answer": "Alfred Pennyworth",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "¿Qué artista tiene más álbumes número 1 en el Billboard 200?",
+    "answer": "The Beatles (19 álbumes número 1)",
+    "difficulty": 4
+  },
+  {
+    "id": 16,
+    "question": "¿En qué año se celebró el primer festival de Cannes?",
+    "answer": "1946",
+    "difficulty": 4
+  },
+  {
+    "id": 17,
+    "question": "¿Quién canta 'Shape of You'?",
+    "answer": "Ed Sheeran",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "¿En qué película de animación aparece el personaje Buzz Lightyear por primera vez?",
+    "answer": "Toy Story (1995)",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Cómo se llama la actriz protagonista de la saga 'Los juegos del hambre'?",
+    "answer": "Jennifer Lawrence (como Katniss Everdeen)",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "¿Cómo se titulan los tres primeros álbumes de estudio de Adele?",
+    "answer": "19, 21 y 25",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "¿Quién ganó el Grammy al Álbum del Año en 2024?",
+    "answer": "Taylor Swift con 'Midnights'",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question": "¿Cuántas películas componen la saga Skywalker de Star Wars?",
+    "answer": "9 películas (Episodios I al IX)",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "¿Por qué película ganó Penélope Cruz el Óscar a la Mejor Actriz de Reparto en 2009?",
+    "answer": "Vicky Cristina Barcelona, de Woody Allen",
+    "difficulty": 4
+  },
+  {
+    "id": 24,
+    "question": "¿Cómo se llama el director de 'Schindler's List'?",
+    "answer": "Steven Spielberg",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "¿Qué grupo musical tiene el récord de entradas vendidas en una sola gira mundial?",
+    "answer": "Taylor Swift con 'The Eras Tour' (más de 1 000 millones de dólares en 2023)",
+    "difficulty": 4
+  },
+  {
+    "id": 26,
+    "question": "¿En qué año se emitió el primer episodio de 'Los Simpson'?",
+    "answer": "1989",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "¿Quién interpretó a Joker en la película de 2019 que ganó el León de Oro de Venecia?",
+    "answer": "Joaquin Phoenix",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la película más taquillera de todos los tiempos sin ajustar por inflación?",
+    "answer": "Avatar (2009, James Cameron), superado brevemente por Avengers: Endgame",
+    "difficulty": 4
+  },
+  {
+    "id": 29,
+    "question": "¿Qué cantante lanzó el álbum 'Lemonade' en 2016?",
+    "answer": "Beyoncé",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "¿Cuántos personajes distintos interpretó Peter Sellers en '¿Teléfono rojo? Volamos hacia Moscú'?",
+    "answer": "Tres personajes: el Presidente, el Capitán Mandrake y el Dr. Strangelove",
+    "difficulty": 5
+  },
+  {
+    "id": 31,
+    "question": "¿Cómo se llama la familia a la que pertenece Jon Snow por crianza al inicio de 'Juego de Tronos'?",
+    "answer": "La casa Stark",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es el emblema de la casa Stark en la serie 'Juego de Tronos'?",
+    "answer": "El lobo huargo",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "¿Cómo se llama el gran muro de hielo que protege el Norte en 'Juego de Tronos'?",
+    "answer": "El Muro",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Qué personaje de Marvel empuña habitualmente un martillo llamado Mjolnir?",
+    "answer": "Thor",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "¿Qué superhéroe de Marvel se transforma cuando se enfada mucho?",
+    "answer": "Hulk",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "¿Cómo se llama el alter ego de Iron Man?",
+    "answer": "Tony Stark",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál es el lema más famoso de la casa Stark en la serie?",
+    "answer": "Se acerca el invierno",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "¿Qué color de cabello caracteriza a Daenerys Targaryen en la serie?",
+    "answer": "Plateado o rubio muy claro",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "¿Cómo se llama el árbol donde Bran suele tener visiones en Invernalia?",
+    "answer": "El arciano",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "¿Qué objeto lanza Steve Rogers como arma principal?",
+    "answer": "Su escudo",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "¿Qué personaje de Marvel es conocido como el 'vecino amistoso'?",
+    "answer": "Spider-Man",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "¿Cómo se llama el reino natal de Thor en Marvel?",
+    "answer": "Asgard",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "¿Quién se sienta en el Trono de Hierro al comienzo de la serie?",
+    "answer": "Robert Baratheon",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Qué parentesco tiene Sansa con Arya Stark?",
+    "answer": "Son hermanas",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "¿Qué androide sintético de los Vengadores lleva una Gema del Infinito incrustada en la frente?",
+    "answer": "Vision",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "¿Qué personaje de Marvel usa dos pistolas y suele vestir de rojo y negro?",
+    "answer": "Deadpool",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "¿Cómo se llama la capital de los Siete Reinos?",
+    "answer": "Desembarco del Rey",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "¿Qué criatura nace de los huevos de Daenerys al final de la primera temporada?",
+    "answer": "Dragones",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "¿Qué héroe de Marvel lleva un traje negro de vibranium y gobierna Wakanda?",
+    "answer": "Black Panther",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "¿Cómo se llama la hermana de Thor?",
+    "answer": "Hela",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "¿Qué personaje es conocido como el Matarreyes en 'Juego de Tronos'?",
+    "answer": "Jaime Lannister",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "¿Quién es la madre de los dragones en la serie?",
+    "answer": "Daenerys Targaryen",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "¿Cómo se llama la espada de Arya Stark?",
+    "answer": "Aguja",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "¿Qué orden militar protege el Muro?",
+    "answer": "La Guardia de la Noche",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es el apellido de la familia que tiene como emblema un león?",
+    "answer": "Lannister",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "¿Qué personaje de Marvel lidera S.H.I.E.L.D. con un parche en un ojo?",
+    "answer": "Nick Fury",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question": "¿Qué gema del infinito lleva Vision en la frente?",
+    "answer": "La Gema de la Mente",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "¿Cómo se llama la hermana de Black Panther?",
+    "answer": "Shuri",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "¿Qué doctor de Marvel se convierte en Hechicero Supremo?",
+    "answer": "Stephen Strange",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question": "¿Qué organización criminal lidera a menudo Red Skull?",
+    "answer": "HYDRA",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "¿Cómo se llama el lobo huargo de Jon Snow?",
+    "answer": "Fantasma",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "¿Quién ordena ejecutar a Ned Stark en la primera temporada?",
+    "answer": "Joffrey Baratheon",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "¿Qué ciudad libre entrena a Arya con los Hombres sin Rostro?",
+    "answer": "Braavos",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "¿Cómo se llama el consejero apodado el Gnomo?",
+    "answer": "Tyrion Lannister",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "¿Qué pueblo nómada sigue a Daenerys al principio de su historia?",
+    "answer": "Los dothraki",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "¿Qué actriz interpreta a Wanda Maximoff en el UCM?",
+    "answer": "Elizabeth Olsen",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "question": "¿Qué metal ficticio compone en gran parte el escudo del Capitán América?",
+    "answer": "Vibranium",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question": "¿Cómo se llama el padre de Peter Quill en 'Guardians of the Galaxy Vol. 2'?",
+    "answer": "Ego",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "¿Qué personaje de los Guardianes de la Galaxia solo es capaz de pronunciar tres palabras?",
+    "answer": "Groot",
+    "difficulty": 2
+  },
+  {
+    "id": 70,
+    "question": "¿Qué superhéroe de Marvel utiliza flechas y no tiene poderes sobrehumanos?",
+    "answer": "Hawkeye",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question": "¿Qué veneno mata a Joffrey Baratheon durante su boda?",
+    "answer": "El Estrangulador",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question": "¿Cómo se llama la boda en la que son asesinados Robb Stark y Catelyn Stark?",
+    "answer": "La Boda Roja",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question": "¿Qué nombre recibe el rey de la noche antes de convertirse en el Rey de la Noche según los Hijos del Bosque?",
+    "answer": "No se revela un nombre concreto en la serie",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question": "¿Quién resucita a Jon Snow tras su asesinato en Castillo Negro?",
+    "answer": "Melisandre",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question": "¿Cómo se llama la isla fortaleza ancestral de los Targaryen?",
+    "answer": "Rocadragón",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question": "¿Qué actor interpreta a Loki en el UCM?",
+    "answer": "Tom Hiddleston",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question": "¿Qué nombre recibe la inteligencia artificial creada por Tony Stark y Bruce Banner que se vuelve villana?",
+    "answer": "Ultron",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question": "¿Qué planeta es el hogar de los Nova Corps en 'Guardians of the Galaxy'?",
+    "answer": "Xandar",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question": "¿Cómo se llama la dimensión donde la Anciana encierra a Dormammu en un bucle temporal?",
+    "answer": "La Dimensión Oscura",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question": "¿Qué héroe de Marvel fue introducido en el UCM como Scott Lang?",
+    "answer": "Ant-Man",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question": "¿Cómo se llama la fortaleza de la casa Arryn?",
+    "answer": "El Nido de Águilas",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question": "¿Qué casa gobierna las Islas del Hierro?",
+    "answer": "La casa Greyjoy",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question": "¿Qué personaje proclama que 'el caos es una escalera'?",
+    "answer": "Petyr Baelish",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question": "¿Qué ciudad esclavista conquista Daenerys antes de liberar a los Inmaculados?",
+    "answer": "Astapor",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question": "¿Cómo se llama el gigante que lucha junto a Jon Snow?",
+    "answer": "Wun Wun",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question": "¿Qué personaje de Marvel dirige los Guardianes de la Galaxia como capitán mitad humano?",
+    "answer": "Peter Quill o Star-Lord",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question": "¿Qué villano obtiene las seis Gemas del Infinito en el UCM?",
+    "answer": "Thanos",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question": "¿Qué personaje de Marvel es una exespía rusa conocida también como Natasha Romanoff?",
+    "answer": "Black Widow",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question": "¿Cómo se llama el reino cuántico en el que se adentran los personajes de Ant-Man?",
+    "answer": "El Reino Cuántico",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question": "¿Qué actor interpreta a Doctor Strange en el cine?",
+    "answer": "Benedict Cumberbatch",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question": "¿Quién es el padre biológico de Jon Snow según se revela en la serie?",
+    "answer": "Rhaegar Targaryen",
+    "difficulty": 4
+  },
+  {
+    "id": 92,
+    "question": "¿Cómo se llama el fuego verde y explosivo utilizado como arma en 'Juego de Tronos'?",
+    "answer": "Fuego descalzo (wildfire)",
+    "difficulty": 4
+  },
+  {
+    "id": 93,
+    "question": "¿Qué título adopta Bran Stark al final de la serie al ser elegido gobernante?",
+    "answer": "Bran el Roto, rey de los Seis Reinos",
+    "difficulty": 4
+  },
+  {
+    "id": 94,
+    "question": "¿Qué dragón de Daenerys es convertido en un dragón espectral por el Rey de la Noche?",
+    "answer": "Viserion",
+    "difficulty": 4
+  },
+  {
+    "id": 95,
+    "question": "¿Quién mata al Rey de la Noche en la batalla de Invernalia?",
+    "answer": "Arya Stark",
+    "difficulty": 4
+  },
+  {
+    "id": 96,
+    "question": "¿Qué gema del infinito estaba oculta en el Teseracto?",
+    "answer": "La Gema del Espacio",
+    "difficulty": 4
+  },
+  {
+    "id": 97,
+    "question": "¿Qué personaje destruye la Gema de la Mente para detener a Thanos, aunque luego este revierte el tiempo?",
+    "answer": "Wanda Maximoff",
+    "difficulty": 4
+  },
+  {
+    "id": 98,
+    "question": "¿Cómo se llama la orden mística que protege el Sanctum Sanctorum y otras sedes?",
+    "answer": "Los Maestros de las Artes Místicas",
+    "difficulty": 4
+  },
+  {
+    "id": 99,
+    "question": "¿Qué personaje de Marvel es conocido como el Soldado de Invierno?",
+    "answer": "Bucky Barnes",
+    "difficulty": 4
+  },
+  {
+    "id": 100,
+    "question": "¿Qué villano de 'Black Panther' desafía a T'Challa por el trono de Wakanda?",
+    "answer": "Erik Killmonger",
+    "difficulty": 4
+  },
+  {
+    "id": 101,
+    "question": "¿Qué ciudad de Dorne gobierna la casa Martell en la serie?",
+    "answer": "Lanza del Sol",
+    "difficulty": 4
+  },
+  {
+    "id": 102,
+    "question": "¿Cómo se llama la espada de acero valyrio de la casa Stark que acaba convertida en dos hojas?",
+    "answer": "Hielo",
+    "difficulty": 4
+  },
+  {
+    "id": 103,
+    "question": "¿Qué nombre adopta Arya al entrenar en la Casa de Blanco y Negro?",
+    "answer": "Nadie",
+    "difficulty": 4
+  },
+  {
+    "id": 104,
+    "question": "¿Quién es la sacerdotisa roja que sirve al Señor de la Luz y asesora a Stannis?",
+    "answer": "Melisandre",
+    "difficulty": 4
+  },
+  {
+    "id": 105,
+    "question": "¿Qué personaje se convierte en Cuervo de Tres Ojos antes que Bran?",
+    "answer": "Brynden Rivers, representado en la serie como el Cuervo de Tres Ojos",
+    "difficulty": 4
+  },
+  {
+    "id": 106,
+    "question": "¿Qué actor interpreta a Thanos mediante captura de movimiento y voz en el UCM?",
+    "answer": "Josh Brolin",
+    "difficulty": 4
+  },
+  {
+    "id": 107,
+    "question": "¿Cómo se llama el lugar fuera del tiempo donde Loki y Sylvie encuentran a He Who Remains en la serie 'Loki'?",
+    "answer": "La Ciudadela al Final de los Tiempos",
+    "difficulty": 4
+  },
+  {
+    "id": 108,
+    "question": "¿Qué personaje lleva el título de Acusador y aparece como villano en 'Captain Marvel'?",
+    "answer": "Ronan el Acusador",
+    "difficulty": 4
+  },
+  {
+    "id": 109,
+    "question": "¿Qué actor interpreta a Shang-Chi en el UCM?",
+    "answer": "Simu Liu",
+    "difficulty": 4
+  },
+  {
+    "id": 110,
+    "question": "¿Qué organización temporal persigue variantes en la serie 'Loki'?",
+    "answer": "La TVA, Autoridad de Variación Temporal",
+    "difficulty": 4
+  },
+  {
+    "id": 111,
+    "question": "¿Qué nombre de pila se revela para Jon Snow en la serie cuando se expone su origen targaryen?",
+    "answer": "Aegon",
+    "difficulty": 5
+  },
+  {
+    "id": 112,
+    "question": "¿Qué maestre de Invernalia muestra escepticismo ante los caminantes blancos antes de su regreso?",
+    "answer": "Luwin",
+    "difficulty": 5
+  },
+  {
+    "id": 113,
+    "question": "¿Cómo se llama la espada de acero valyrio de Jon Snow?",
+    "answer": "Garra",
+    "difficulty": 5
+  },
+  {
+    "id": 114,
+    "question": "¿Qué noble del Norte traiciona a los Stark ocupando Invernalia y luego acaba con el apodo de Hediondo?",
+    "answer": "Theon Greyjoy",
+    "difficulty": 5
+  },
+  {
+    "id": 115,
+    "question": "¿Qué actor interpretó a Daario Naharis tras el cambio de reparto a partir de la cuarta temporada?",
+    "answer": "Michiel Huisman",
+    "difficulty": 5
+  },
+  {
+    "id": 116,
+    "question": "¿Qué gema del infinito alimenta el Ojo de Agamotto en el UCM?",
+    "answer": "La Gema del Tiempo",
+    "difficulty": 5
+  },
+  {
+    "id": 117,
+    "question": "¿Qué frase desencadena el hechizo fallido de Doctor Strange en 'Spider-Man: No Way Home' al incluir demasiadas excepciones?",
+    "answer": "Que el mundo olvide que Peter Parker es Spider-Man",
+    "difficulty": 5
+  },
+  {
+    "id": 118,
+    "question": "¿Cómo se llama la entidad celestial que juzga a los planetas y aparece en 'Eternals'?",
+    "answer": "Arishem",
+    "difficulty": 5
+  },
+  {
+    "id": 119,
+    "question": "¿Qué designación recibe la armadura Hulkbuster diseñada por Tony Stark para contener a Hulk en el UCM?",
+    "answer": "Mark XLIV",
+    "difficulty": 5
+  },
+  {
+    "id": 120,
+    "question": "¿Qué personaje pronuncia 'Dormammu, he venido a negociar' en un bucle repetido?",
+    "answer": "Doctor Strange",
+    "difficulty": 5
+  },
+  {
+    "id": 121,
+    "question": "¿Qué veneno usa Oberyn Martell en su lanza durante su combate contra Gregor Clegane?",
+    "answer": "Veneno de mantícora, adaptado en la serie como un potente veneno dorniense",
+    "difficulty": 5
+  },
+  {
+    "id": 122,
+    "question": "¿En qué ciudad consigue Daenerys Targaryen a los Inmaculados antes de emprender su avance hacia Poniente?",
+    "answer": "Astapor",
+    "difficulty": 5
+  },
+  {
+    "id": 123,
+    "question": "¿Qué Lord Comandante de la Guardia de la Noche precede a Jon Snow y muere amotinado en el Torreón de Craster?",
+    "answer": "Jeor Mormont",
+    "difficulty": 5
+  },
+  {
+    "id": 124,
+    "question": "¿Qué nombre recibe el metal ficticio usado por los eternos enemigos de los asgardianos para forjar armas en Nidavellir?",
+    "answer": "Uru",
+    "difficulty": 5
+  },
+  {
+    "id": 125,
+    "question": "¿Qué personaje de Marvel dirige inicialmente SWORD en 'WandaVision'?",
+    "answer": "Tyler Hayward",
+    "difficulty": 5
+  },
+  {
+    "id": 126,
+    "question": "¿Qué personaje empuña Mjolnir junto al escudo roto del Capitán América en la batalla final de Endgame?",
+    "answer": "Steve Rogers",
+    "difficulty": 5
+  },
+  {
+    "id": 127,
+    "question": "¿Qué isla prisión de 'Juego de Tronos' es el hogar ancestral de la casa Targaryen?",
+    "answer": "Rocadragón",
+    "difficulty": 5
+  },
+  {
+    "id": 128,
+    "question": "¿Qué personaje revela ser Aegon Targaryen al ser investigado por Sam y Bran?",
+    "answer": "Jon Snow",
+    "difficulty": 5
+  },
+  {
+    "id": 129,
+    "question": "¿Qué actor interpreta a Kang/He Who Remains en la serie 'Loki' primera temporada?",
+    "answer": "Jonathan Majors",
+    "difficulty": 5
+  },
+  {
+    "id": 130,
+    "question": "¿Qué guardián de la galaxia fue creado genéticamente por el Alto Evolucionador y es un mapache modificado?",
+    "answer": "Rocket",
+    "difficulty": 5
+  },
+  {
+    "id": 131,
+    "question": "¿Cómo se llama el mago protagonista de una famosa saga creada por J. K. Rowling?",
+    "answer": "Harry Potter",
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "question": "¿Qué película animada presenta a una princesa llamada Elsa?",
+    "answer": "Frozen",
+    "difficulty": 1
+  },
+  {
+    "id": 133,
+    "question": "¿Qué superhéroe lleva un escudo con forma circular y colores de la bandera de Estados Unidos?",
+    "answer": "Capitán América",
+    "difficulty": 1
+  },
+  {
+    "id": 134,
+    "question": "¿Qué saga cinematográfica transcurre en una galaxia muy, muy lejana?",
+    "answer": "Star Wars",
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "question": "¿Qué muñeco vaquero aparece en 'Toy Story'?",
+    "answer": "Woody",
+    "difficulty": 1
+  },
+  {
+    "id": 136,
+    "question": "¿Qué ogro verde protagoniza una saga de películas de DreamWorks?",
+    "answer": "Shrek",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "question": "¿Qué arqueólogo ficticio usa sombrero y látigo?",
+    "answer": "Indiana Jones",
+    "difficulty": 1
+  },
+  {
+    "id": 138,
+    "question": "¿Qué serie de animación tiene como familia principal a Homero, Marge, Bart, Lisa y Maggie?",
+    "answer": "Los Simpson",
+    "difficulty": 1
+  },
+  {
+    "id": 139,
+    "question": "¿Qué actor interpreta a Jack en 'Titanic'?",
+    "answer": "Leonardo DiCaprio",
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "question": "¿Qué princesa de Disney tiene una alfombra voladora en su historia?",
+    "answer": "Jasmine",
+    "difficulty": 1
+  },
+  {
+    "id": 141,
+    "question": "¿Qué serie española se ambienta en un atraco a la Fábrica Nacional de Moneda y Timbre?",
+    "answer": "La casa de papel",
+    "difficulty": 1
+  },
+  {
+    "id": 142,
+    "question": "¿Qué superhéroe de Marvel es también conocido como Peter Parker?",
+    "answer": "Spider-Man",
+    "difficulty": 1
+  },
+  {
+    "id": 143,
+    "question": "¿Qué personaje amarillo vive en una piña debajo del mar?",
+    "answer": "Bob Esponja",
+    "difficulty": 1
+  },
+  {
+    "id": 144,
+    "question": "¿Qué saga de acción protagoniza Dominic Toretto?",
+    "answer": "Fast & Furious",
+    "difficulty": 1
+  },
+  {
+    "id": 145,
+    "question": "¿Qué película de Disney está ambientada en la sabana y tiene a Simba como protagonista?",
+    "answer": "El rey león",
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "question": "¿Qué actor interpretó al Joker en 'The Dark Knight' de 2008?",
+    "answer": "Heath Ledger",
+    "difficulty": 1
+  },
+  {
+    "id": 147,
+    "question": "¿Qué programa musical lanzó a la fama a muchos cantantes en España en 2001?",
+    "answer": "Operación Triunfo",
+    "difficulty": 1
+  },
+  {
+    "id": 148,
+    "question": "¿Qué héroe de Gotham City es también Bruce Wayne?",
+    "answer": "Batman",
+    "difficulty": 1
+  },
+  {
+    "id": 149,
+    "question": "¿Qué película de James Cameron cuenta una expedición al planeta Pandora?",
+    "answer": "Avatar",
+    "difficulty": 1
+  },
+  {
+    "id": 150,
+    "question": "¿Qué muñeca de Mattel fue llevada al cine en 2023 en una película muy popular?",
+    "answer": "Barbie",
+    "difficulty": 1
+  },
+  {
+    "id": 151,
+    "question": "¿Qué actor interpreta a Iron Man en el universo cinematográfico de Marvel?",
+    "answer": "Robert Downey Jr.",
+    "difficulty": 2
+  },
+  {
+    "id": 152,
+    "question": "¿Qué director creó la trilogía de 'El señor de los anillos'?",
+    "answer": "Peter Jackson",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "question": "¿Qué película ganó el Oscar a mejor película en 1998 y está ambientada en el Titanic?",
+    "answer": "Titanic",
+    "difficulty": 2
+  },
+  {
+    "id": 154,
+    "question": "¿Qué serie juvenil española se ambienta en el instituto Las Encinas?",
+    "answer": "Élite",
+    "difficulty": 2
+  },
+  {
+    "id": 155,
+    "question": "¿Qué actor dio vida a Wolverine durante años en el cine?",
+    "answer": "Hugh Jackman",
+    "difficulty": 2
+  },
+  {
+    "id": 156,
+    "question": "¿Qué serie fantástica de HBO adapta novelas de George R. R. Martin?",
+    "answer": "Juego de Tronos",
+    "difficulty": 2
+  },
+  {
+    "id": 157,
+    "question": "¿Qué película animada de Pixar transcurre dentro de la mente de una niña llamada Riley?",
+    "answer": "Del revés o Inside Out",
+    "difficulty": 2
+  },
+  {
+    "id": 158,
+    "question": "¿Qué concurso televisivo español se basa en preguntas de cultura general y comodines?",
+    "answer": "Quién quiere ser millonario",
+    "difficulty": 2
+  },
+  {
+    "id": 159,
+    "question": "¿Qué directora de 'Barbie' fue nominada al Oscar por 'Lady Bird' y 'Mujercitas'?",
+    "answer": "Greta Gerwig",
+    "difficulty": 2
+  },
+  {
+    "id": 160,
+    "question": "¿Qué serie muestra a unos atracadores con nombres de ciudades como Tokio y Berlín?",
+    "answer": "La casa de papel",
+    "difficulty": 2
+  },
+  {
+    "id": 161,
+    "question": "¿Qué película de Steven Spielberg presenta a un tiburón gigante aterrorizando una playa?",
+    "answer": "Tiburón",
+    "difficulty": 3
+  },
+  {
+    "id": 162,
+    "question": "¿Qué director español ganó el Oscar por 'Todo sobre mi madre'?",
+    "answer": "Pedro Almodóvar",
+    "difficulty": 3
+  },
+  {
+    "id": 163,
+    "question": "¿Qué actriz interpretó a Katniss Everdeen en 'Los juegos del hambre'?",
+    "answer": "Jennifer Lawrence",
+    "difficulty": 3
+  },
+  {
+    "id": 164,
+    "question": "¿Qué serie cómica estadounidense se centra en un grupo de amigos en Nueva York y un café llamado Central Perk?",
+    "answer": "Friends",
+    "difficulty": 3
+  },
+  {
+    "id": 165,
+    "question": "¿Qué actor interpretó a Aragorn en 'El señor de los anillos'?",
+    "answer": "Viggo Mortensen",
+    "difficulty": 3
+  },
+  {
+    "id": 166,
+    "question": "¿Qué película de Christopher Nolan está ambientada en sueños dentro de sueños?",
+    "answer": "Origen o Inception",
+    "difficulty": 3
+  },
+  {
+    "id": 167,
+    "question": "¿Qué serie de Netflix sobre ajedrez tiene como protagonista a Beth Harmon?",
+    "answer": "Gambito de dama",
+    "difficulty": 3
+  },
+  {
+    "id": 168,
+    "question": "¿Qué película de ciencia ficción de Ridley Scott presenta a un cazador de replicantes?",
+    "answer": "Blade Runner",
+    "difficulty": 3
+  },
+  {
+    "id": 169,
+    "question": "¿Qué actriz interpreta a Eleven en 'Stranger Things'?",
+    "answer": "Millie Bobby Brown",
+    "difficulty": 3
+  },
+  {
+    "id": 170,
+    "question": "¿Qué personaje de Disney tiene por compañero a un cangrejo llamado Sebastián?",
+    "answer": "Ariel",
+    "difficulty": 3
+  },
+  {
+    "id": 171,
+    "question": "¿Qué saga de aventuras tiene como protagonista a un profesor llamado Robert Langdon en algunas películas?",
+    "answer": "El código Da Vinci",
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "question": "¿Qué director rodó 'Pulp Fiction'?",
+    "answer": "Quentin Tarantino",
+    "difficulty": 3
+  },
+  {
+    "id": 173,
+    "question": "¿Qué serie médica estuvo protagonizada por un doctor experto en diagnóstico llamado Gregory House?",
+    "answer": "House",
+    "difficulty": 3
+  },
+  {
+    "id": 174,
+    "question": "¿Qué actor interpretó a Maximus en 'Gladiator'?",
+    "answer": "Russell Crowe",
+    "difficulty": 3
+  },
+  {
+    "id": 175,
+    "question": "¿Qué película musical reciente adapta canciones de ABBA y se ambienta en una isla griega?",
+    "answer": "Mamma Mia!",
+    "difficulty": 3
+  },
+  {
+    "id": 176,
+    "question": "¿Qué actor interpreta a Gandalf en 'El señor de los anillos'?",
+    "answer": "Ian McKellen",
+    "difficulty": 3
+  },
+  {
+    "id": 177,
+    "question": "¿Qué serie de animación para adultos incluye a Rick Sanchez y Morty Smith?",
+    "answer": "Rick y Morty",
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "question": "¿Qué actriz protagoniza 'Kill Bill' como La Novia?",
+    "answer": "Uma Thurman",
+    "difficulty": 3
+  },
+  {
+    "id": 179,
+    "question": "¿Qué director es conocido por películas como 'E. T.', 'Jurassic Park' y 'Indiana Jones'?",
+    "answer": "Steven Spielberg",
+    "difficulty": 3
+  },
+  {
+    "id": 180,
+    "question": "¿Qué director mexicano ganó el Oscar por 'La forma del agua'?",
+    "answer": "Guillermo del Toro",
+    "difficulty": 4
+  },
+  {
+    "id": 181,
+    "question": "¿Qué actor interpretó a Don Vito Corleone en 'El padrino'?",
+    "answer": "Marlon Brando",
+    "difficulty": 4
+  },
+  {
+    "id": 182,
+    "question": "¿Qué actriz ganó fama mundial interpretando a Wednesday Addams en la serie 'Miércoles'?",
+    "answer": "Jenna Ortega",
+    "difficulty": 4
+  },
+  {
+    "id": 183,
+    "question": "¿Qué película de Bong Joon-ho combina sátira social y suspense en una familia pobre infiltrada en una casa rica?",
+    "answer": "Parásitos",
+    "difficulty": 4
+  },
+  {
+    "id": 184,
+    "question": "¿Qué actor da vida a Saul Goodman en 'Breaking Bad' y 'Better Call Saul'?",
+    "answer": "Bob Odenkirk",
+    "difficulty": 4
+  },
+  {
+    "id": 185,
+    "question": "¿Qué directora filmó 'Lost in Translation'?",
+    "answer": "Sofia Coppola",
+    "difficulty": 4
+  },
+  {
+    "id": 186,
+    "question": "¿Qué actor interpretó a Oppenheimer en la película de Christopher Nolan de 2023?",
+    "answer": "Cillian Murphy",
+    "difficulty": 4
+  },
+  {
+    "id": 187,
+    "question": "¿Qué película de Disney está ambientada en Colombia y gira en torno a la familia Madrigal?",
+    "answer": "Encanto",
+    "difficulty": 4
+  },
+  {
+    "id": 188,
+    "question": "¿Qué serie española creada por Álex Pina mezcla atracos, acción y personajes con nombres de ciudades?",
+    "answer": "La casa de papel",
+    "difficulty": 4
+  },
+  {
+    "id": 189,
+    "question": "¿Qué actor interpretó a Hannibal Lecter en 'El silencio de los corderos'?",
+    "answer": "Anthony Hopkins",
+    "difficulty": 4
+  },
+  {
+    "id": 190,
+    "question": "¿Qué película de Denis Villeneuve adapta la novela de Frank Herbert sobre Arrakis?",
+    "answer": "Dune",
+    "difficulty": 4
+  },
+  {
+    "id": 191,
+    "question": "¿Qué director japonés animó películas como 'El viaje de Chihiro' y 'Mi vecino Totoro'?",
+    "answer": "Hayao Miyazaki",
+    "difficulty": 4
+  },
+  {
+    "id": 192,
+    "question": "¿Qué actor interpretó a Sherlock Holmes en la serie de la BBC junto a Martin Freeman?",
+    "answer": "Benedict Cumberbatch",
+    "difficulty": 4
+  },
+  {
+    "id": 193,
+    "question": "¿Qué personaje de Marvel es un hechicero conocido como Stephen Strange?",
+    "answer": "Doctor Strange",
+    "difficulty": 4
+  },
+  {
+    "id": 194,
+    "question": "¿Qué película de terror de Stanley Kubrick adapta una novela de Stephen King y transcurre en el hotel Overlook?",
+    "answer": "El resplandor",
+    "difficulty": 4
+  },
+  {
+    "id": 195,
+    "question": "¿Qué actriz ganó el Oscar por interpretar a Nina en 'Black Swan'?",
+    "answer": "Natalie Portman",
+    "difficulty": 4
+  },
+  {
+    "id": 196,
+    "question": "¿Qué serie ambientada en la Inglaterra de la Regencia convirtió a los Bridgerton en un fenómeno global?",
+    "answer": "Los Bridgerton",
+    "difficulty": 4
+  },
+  {
+    "id": 197,
+    "question": "¿Qué actor interpreta a Geralt de Rivia en las primeras temporadas de 'The Witcher'?",
+    "answer": "Henry Cavill",
+    "difficulty": 4
+  },
+  {
+    "id": 198,
+    "question": "¿Qué película de Pixar gira en torno a un chef aficionado que es una rata?",
+    "answer": "Ratatouille",
+    "difficulty": 4
+  },
+  {
+    "id": 199,
+    "question": "¿Qué director rodó 'El laberinto del fauno'?",
+    "answer": "Guillermo del Toro",
+    "difficulty": 5
+  },
+  {
+    "id": 200,
+    "question": "¿Qué actriz española protagonizó 'Volver' y 'Madres paralelas' de Almodóvar?",
+    "answer": "Penélope Cruz",
+    "difficulty": 5
+  },
+  {
+    "id": 201,
+    "question": "¿Qué película de Akira Kurosawa sirvió de gran inspiración para muchos westerns posteriores?",
+    "answer": "Los siete samuráis",
+    "difficulty": 5
+  },
+  {
+    "id": 202,
+    "question": "¿Qué serie de HBO creada por David Chase se centra en Tony Soprano?",
+    "answer": "Los Soprano",
+    "difficulty": 5
+  },
+  {
+    "id": 203,
+    "question": "¿Qué actor interpretó a Daniel Plainview en 'There Will Be Blood'?",
+    "answer": "Daniel Day-Lewis",
+    "difficulty": 5
+  },
+  {
+    "id": 204,
+    "question": "¿Qué directora ganó el Oscar por 'Nomadland'?",
+    "answer": "Chloé Zhao",
+    "difficulty": 5
+  },
+  {
+    "id": 205,
+    "question": "¿Qué actor interpretó a Travis Bickle en 'Taxi Driver'?",
+    "answer": "Robert De Niro",
+    "difficulty": 5
+  },
+  {
+    "id": 206,
+    "question": "¿Qué película surcoreana de Park Chan-wook es famosa por un largo plano secuencia en un pasillo?",
+    "answer": "Oldboy",
+    "difficulty": 5
+  },
+  {
+    "id": 207,
+    "question": "¿Qué actriz protagonizó 'Tár' como la directora de orquesta Lydia Tár?",
+    "answer": "Cate Blanchett",
+    "difficulty": 5
+  },
+  {
+    "id": 208,
+    "question": "¿Qué director italiano rodó 'La dolce vita' y '8½'?",
+    "answer": "Federico Fellini",
+    "difficulty": 5
+  },
+  {
+    "id": 209,
+    "question": "¿Qué serie de ciencia ficción antológica incluye episodios independientes sobre tecnología y sociedad?",
+    "answer": "Black Mirror",
+    "difficulty": 5
+  },
+  {
+    "id": 210,
+    "question": "¿Qué actor interpreta a Logan Roy en 'Succession'?",
+    "answer": "Brian Cox",
+    "difficulty": 5
+  },
+  {
+    "id": 211,
+    "question": "¿Qué película de Alfonso Cuarón ganó el Oscar a mejor dirección en 2014 y transcurre en el espacio?",
+    "answer": "Gravity",
+    "difficulty": 5
+  },
+  {
+    "id": 212,
+    "question": "¿Qué actriz francesa interpretó a Edith Piaf en 'La vie en rose'?",
+    "answer": "Marion Cotillard",
+    "difficulty": 5
+  },
+  {
+    "id": 213,
+    "question": "¿Qué película de animación de Studio Ghibli ganó el Oscar en 2003?",
+    "answer": "El viaje de Chihiro",
+    "difficulty": 5
+  },
+  {
+    "id": 214,
+    "question": "¿Qué director sueco es famoso por 'El séptimo sello' y 'Fresas salvajes'?",
+    "answer": "Ingmar Bergman",
+    "difficulty": 5
+  },
+  {
+    "id": 215,
+    "question": "¿Qué actor interpretó a T. E. Lawrence en la película clásica de David Lean?",
+    "answer": "Peter O'Toole",
+    "difficulty": 5
+  },
+  {
+    "id": 216,
+    "question": "¿Qué guionista y director creó la trilogía 'Before Sunrise', 'Before Sunset' y 'Before Midnight'?",
+    "answer": "Richard Linklater",
+    "difficulty": 5
+  },
+  {
+    "id": 217,
+    "question": "¿Qué película de Orson Welles suele citarse entre las más influyentes de la historia del cine?",
+    "answer": "Ciudadano Kane",
+    "difficulty": 5
+  },
+  {
+    "id": 218,
+    "question": "¿Qué actriz interpretó a Clarice Starling en 'El silencio de los corderos'?",
+    "answer": "Jodie Foster",
+    "difficulty": 5
+  },
+  {
+    "id": 219,
+    "question": "¿Qué actor puso voz al Genio de la lámpara en la versión original de 'Aladdín' de 1992?",
+    "answer": "Robin Williams",
+    "difficulty": 1
+  },
+  {
+    "id": 220,
+    "question": "¿Qué película de ciencia ficción incluye un idioma creado para el planeta Pandora?",
+    "answer": "Avatar",
+    "difficulty": 1
+  },
+  {
+    "id": 221,
+    "question": "¿Qué superhéroe cambia de tamaño usando partículas ficticias creadas por Hank Pym?",
+    "answer": "Ant-Man",
+    "difficulty": 1
+  },
+  {
+    "id": 222,
+    "question": "¿Qué saga de magos hizo que miles de niños soñaran con cartas de admisión escolares imposibles?",
+    "answer": "Harry Potter",
+    "difficulty": 1
+  },
+  {
+    "id": 223,
+    "question": "¿Qué serie animada convirtió una piña submarina en una de las casas más famosas de la TV?",
+    "answer": "Bob Esponja",
+    "difficulty": 1
+  },
+  {
+    "id": 224,
+    "question": "¿Qué juguete cowboy de Pixar se llama como una persona del salvaje oeste?",
+    "answer": "Woody",
+    "difficulty": 1
+  },
+  {
+    "id": 225,
+    "question": "¿Qué villana de Disney se convierte en dragón al final de 'La Bella Durmiente'?",
+    "answer": "Maléfica",
+    "difficulty": 1
+  },
+  {
+    "id": 226,
+    "question": "¿Qué película hizo famosa la frase 'Hasta la vista, baby'?",
+    "answer": "Terminator 2",
+    "difficulty": 1
+  },
+  {
+    "id": 227,
+    "question": "¿Qué ogro verde empezó como un antihéroe gruñón y acabó siendo icono de memes?",
+    "answer": "Shrek",
+    "difficulty": 1
+  },
+  {
+    "id": 228,
+    "question": "¿Qué serie española normalizó usar nombres de ciudades como alias criminales?",
+    "answer": "La casa de papel",
+    "difficulty": 1
+  },
+  {
+    "id": 229,
+    "question": "¿Qué personaje amarillo del mar trabaja cocinando hamburguesas de cangrejo?",
+    "answer": "Bob Esponja",
+    "difficulty": 1
+  },
+  {
+    "id": 230,
+    "question": "¿Qué actor estuvo años sin ganar un Oscar pese a ser una superestrella hasta 'El renacido'?",
+    "answer": "Leonardo DiCaprio",
+    "difficulty": 1
+  },
+  {
+    "id": 231,
+    "question": "¿Qué muñeca de Mattel protagonizó una película de color rosa masivo en 2023?",
+    "answer": "Barbie",
+    "difficulty": 1
+  },
+  {
+    "id": 232,
+    "question": "¿Qué personaje de Star Wars respiraba con un sonido mecánico muy reconocible?",
+    "answer": "Darth Vader",
+    "difficulty": 1
+  },
+  {
+    "id": 233,
+    "question": "¿Qué actor interpreta a Jack Sparrow con pasos tambaleantes y humor extraño?",
+    "answer": "Johnny Depp",
+    "difficulty": 1
+  },
+  {
+    "id": 234,
+    "question": "¿Qué película de tiburón hizo que mucha gente mirara el mar con otros ojos en 1975?",
+    "answer": "Tiburón",
+    "difficulty": 1
+  },
+  {
+    "id": 235,
+    "question": "¿Qué saga familiar de carreras mezcla coches, acción absurda y cada vez menos leyes físicas?",
+    "answer": "Fast & Furious",
+    "difficulty": 1
+  },
+  {
+    "id": 236,
+    "question": "¿Qué héroe de Marvel lanza telarañas y hace chistes mientras pelea?",
+    "answer": "Spider-Man",
+    "difficulty": 1
+  },
+  {
+    "id": 237,
+    "question": "¿Qué princesa de Disney canta junto a un cangrejo llamado Sebastián?",
+    "answer": "Ariel",
+    "difficulty": 1
+  },
+  {
+    "id": 238,
+    "question": "¿Qué serie de animación lleva décadas prediciendo bromísticamente cosas del futuro en internet?",
+    "answer": "Los Simpson",
+    "difficulty": 1
+  },
+  {
+    "id": 239,
+    "question": "¿Qué película de Pixar presenta emociones convertidas en personajes de colores?",
+    "answer": "Inside Out o Del revés",
+    "difficulty": 2
+  },
+  {
+    "id": 240,
+    "question": "¿Qué actor interpretó a un Joker tan intenso que ganó un Oscar póstumo?",
+    "answer": "Heath Ledger",
+    "difficulty": 2
+  },
+  {
+    "id": 241,
+    "question": "¿Qué serie convirtió una cafetería de sofá naranja en destino turístico ficticio?",
+    "answer": "Friends",
+    "difficulty": 2
+  },
+  {
+    "id": 242,
+    "question": "¿Qué actor de Matrix y John Wick tiene fama de ser sorprendentemente amable con desconocidos?",
+    "answer": "Keanu Reeves",
+    "difficulty": 2
+  },
+  {
+    "id": 243,
+    "question": "¿Qué película de Nolan usa peonzas para sembrar dudas sobre la realidad?",
+    "answer": "Inception u Origen",
+    "difficulty": 2
+  },
+  {
+    "id": 244,
+    "question": "¿Qué dragón de serie de fantasía llevó a muchos espectadores a aprender nombres imposibles de pronunciar?",
+    "answer": "Drogon",
+    "difficulty": 2
+  },
+  {
+    "id": 245,
+    "question": "¿Qué serie sobre un profesor de química convirtió una caravana en icono pop?",
+    "answer": "Breaking Bad",
+    "difficulty": 2
+  },
+  {
+    "id": 246,
+    "question": "¿Qué película convirtió la canción 'My Heart Will Go On' en un fenómeno planetario?",
+    "answer": "Titanic",
+    "difficulty": 2
+  },
+  {
+    "id": 247,
+    "question": "¿Qué personaje de Marvel es un árbol que casi solo dice tres palabras?",
+    "answer": "Groot",
+    "difficulty": 2
+  },
+  {
+    "id": 248,
+    "question": "¿Qué actor interpretó a Wolverine durante tanto tiempo que quedó muy unido al personaje?",
+    "answer": "Hugh Jackman",
+    "difficulty": 2
+  },
+  {
+    "id": 249,
+    "question": "¿Qué película animada de Disney-Pixar presenta a una rata con talento culinario?",
+    "answer": "Ratatouille",
+    "difficulty": 2
+  },
+  {
+    "id": 250,
+    "question": "¿Qué criatura de Star Wars parece una rana pequeña y habla con orden extraño?",
+    "answer": "Yoda",
+    "difficulty": 2
+  },
+  {
+    "id": 251,
+    "question": "¿Qué saga fantástica convirtió a un anillo en el accesorio más problemático del cine?",
+    "answer": "El señor de los anillos",
+    "difficulty": 2
+  },
+  {
+    "id": 252,
+    "question": "¿Qué película popularizó la idea de elegir entre la píldora roja y la azul?",
+    "answer": "Matrix",
+    "difficulty": 2
+  },
+  {
+    "id": 253,
+    "question": "¿Qué actriz interpreta a Hermione Granger en el cine?",
+    "answer": "Emma Watson",
+    "difficulty": 2
+  },
+  {
+    "id": 254,
+    "question": "¿Qué película de DreamWorks parodia cuentos clásicos con mucho humor moderno?",
+    "answer": "Shrek",
+    "difficulty": 2
+  },
+  {
+    "id": 255,
+    "question": "¿Qué superhéroe de DC es millonario, no tiene poderes y usa murciélagos como marca?",
+    "answer": "Batman",
+    "difficulty": 2
+  },
+  {
+    "id": 256,
+    "question": "¿Qué película espacial de James Cameron llevó el 3D comercial a otro nivel en 2009?",
+    "answer": "Avatar",
+    "difficulty": 2
+  },
+  {
+    "id": 257,
+    "question": "¿Qué personaje de Disney pierde un zapato y aun así encuentra el amor?",
+    "answer": "Cenicienta",
+    "difficulty": 2
+  },
+  {
+    "id": 258,
+    "question": "¿Qué actor interpretó a Gandalf y luego fue querido también como Magneto?",
+    "answer": "Ian McKellen",
+    "difficulty": 3
+  },
+  {
+    "id": 259,
+    "question": "¿Qué película coreana mezcló sátira social y suspense hasta ganar el Oscar a mejor película?",
+    "answer": "Parásitos",
+    "difficulty": 3
+  },
+  {
+    "id": 260,
+    "question": "¿Qué serie de Netflix hizo que mucha gente quisiera aprender aperturas de ajedrez?",
+    "answer": "Gambito de dama",
+    "difficulty": 3
+  },
+  {
+    "id": 261,
+    "question": "¿Qué actriz interpretó a Daenerys Targaryen, también llamada Madre de Dragones?",
+    "answer": "Emilia Clarke",
+    "difficulty": 3
+  },
+  {
+    "id": 262,
+    "question": "¿Qué película animada reciente de Disney puso de moda hablar de traumas familiares cantando?",
+    "answer": "Encanto",
+    "difficulty": 3
+  },
+  {
+    "id": 263,
+    "question": "¿Qué serie médica convirtió a un médico borde y brillante en icono televisivo?",
+    "answer": "House",
+    "difficulty": 3
+  },
+  {
+    "id": 264,
+    "question": "¿Qué película de ciencia ficción muestra a replicantes buscando más vida en un mundo lluvioso?",
+    "answer": "Blade Runner",
+    "difficulty": 3
+  },
+  {
+    "id": 265,
+    "question": "¿Qué actriz interpreta a Wednesday Addams en la serie 'Miércoles'?",
+    "answer": "Jenna Ortega",
+    "difficulty": 3
+  },
+  {
+    "id": 266,
+    "question": "¿Qué actor dio vida a Aragorn en la trilogía de Peter Jackson?",
+    "answer": "Viggo Mortensen",
+    "difficulty": 3
+  },
+  {
+    "id": 267,
+    "question": "¿Qué director mexicano rodó 'El laberinto del fauno' con monstruos y posguerra?",
+    "answer": "Guillermo del Toro",
+    "difficulty": 3
+  },
+  {
+    "id": 268,
+    "question": "¿Qué personaje de Marvel es un mapache genéticamente modificado y muy sarcástico?",
+    "answer": "Rocket",
+    "difficulty": 3
+  },
+  {
+    "id": 269,
+    "question": "¿Qué película de terror de Kubrick hizo que una puerta rota por un hacha quedara para la historia?",
+    "answer": "El resplandor",
+    "difficulty": 3
+  },
+  {
+    "id": 270,
+    "question": "¿Qué actor interpretó a Neo, un papel que rechazaron otras estrellas antes de él?",
+    "answer": "Keanu Reeves",
+    "difficulty": 3
+  },
+  {
+    "id": 271,
+    "question": "¿Qué serie antológica británica se convirtió en referencia cuando se habla de futuros tecnológicos inquietantes?",
+    "answer": "Black Mirror",
+    "difficulty": 3
+  },
+  {
+    "id": 272,
+    "question": "¿Qué villano de Batman se asocia a menudo con bromas macabras y caos puro?",
+    "answer": "El Joker",
+    "difficulty": 3
+  },
+  {
+    "id": 273,
+    "question": "¿Qué película de Pixar muestra a un anciano que ata globos a su casa y sale volando?",
+    "answer": "Up",
+    "difficulty": 3
+  },
+  {
+    "id": 274,
+    "question": "¿Qué actriz protagonizó 'La La Land' junto a Ryan Gosling?",
+    "answer": "Emma Stone",
+    "difficulty": 3
+  },
+  {
+    "id": 275,
+    "question": "¿Qué director japonés ganó un Oscar por una película animada y convirtió espíritus raros en maravilla universal?",
+    "answer": "Hayao Miyazaki",
+    "difficulty": 4
+  },
+  {
+    "id": 276,
+    "question": "¿Qué actor interpretó a Oppenheimer en la película de 2023 y acabó llevándose el Oscar?",
+    "answer": "Cillian Murphy",
+    "difficulty": 4
+  },
+  {
+    "id": 277,
+    "question": "¿Qué película de Denis Villeneuve hizo que mucha gente aprendiera la palabra 'gom jabbar'?",
+    "answer": "Dune",
+    "difficulty": 4
+  },
+  {
+    "id": 278,
+    "question": "¿Qué director de 'Barbie' ya había retratado adolescencias torpes en 'Lady Bird'?",
+    "answer": "Greta Gerwig",
+    "difficulty": 4
+  },
+  {
+    "id": 279,
+    "question": "¿Qué actor interpreta a Saul Goodman, abogado tan carismático como dudoso?",
+    "answer": "Bob Odenkirk",
+    "difficulty": 4
+  },
+  {
+    "id": 280,
+    "question": "¿Qué película de terror convirtió a un payaso llamado Pennywise en trauma generacional renovado?",
+    "answer": "It",
+    "difficulty": 4
+  },
+  {
+    "id": 281,
+    "question": "¿Qué serie de HBO con una familia millonaria hizo divertidísima la guerra corporativa más miserable?",
+    "answer": "Succession",
+    "difficulty": 4
+  },
+  {
+    "id": 282,
+    "question": "¿Qué actor interpretó a Hannibal Lecter con una calma aterradora en 'El silencio de los corderos'?",
+    "answer": "Anthony Hopkins",
+    "difficulty": 4
+  },
+  {
+    "id": 283,
+    "question": "¿Qué película de Alfonso Cuarón transcurre casi entera en el espacio y con muy poco oxígeno narrativo?",
+    "answer": "Gravity",
+    "difficulty": 4
+  },
+  {
+    "id": 284,
+    "question": "¿Qué actriz ganó fama mundial por interpretar a Eleven y raparse de niña para el papel?",
+    "answer": "Millie Bobby Brown",
+    "difficulty": 4
+  },
+  {
+    "id": 285,
+    "question": "¿Qué película española de Amenábar de 1997 sobre identidad y realidad sirvió de base al remake 'Vanilla Sky'?",
+    "answer": "Abre los ojos",
+    "difficulty": 4
+  },
+  {
+    "id": 286,
+    "question": "¿Qué actor interpretó a Sherlock Holmes en la serie moderna de la BBC?",
+    "answer": "Benedict Cumberbatch",
+    "difficulty": 4
+  },
+  {
+    "id": 287,
+    "question": "¿Qué película de terror reciente volvió a hacer terroríficas las sonrisas aparentemente amables?",
+    "answer": "Smile",
+    "difficulty": 4
+  },
+  {
+    "id": 288,
+    "question": "¿Qué actriz española suele estar muy asociada a Almodóvar y protagonizó 'Volver'?",
+    "answer": "Penélope Cruz",
+    "difficulty": 4
+  },
+  {
+    "id": 289,
+    "question": "¿Qué serie coreana convirtió juegos infantiles en pesadillas de supervivencia global?",
+    "answer": "El juego del calamar",
+    "difficulty": 4
+  },
+  {
+    "id": 290,
+    "question": "¿Qué director rodó 'Ciudadano Kane', una película mítica hecha por alguien increíblemente joven?",
+    "answer": "Orson Welles",
+    "difficulty": 4
+  },
+  {
+    "id": 291,
+    "question": "¿Qué actor interpretó a Tony Soprano, mafioso con psiquiatra y ataques de ansiedad?",
+    "answer": "James Gandolfini",
+    "difficulty": 4
+  },
+  {
+    "id": 292,
+    "question": "¿Qué película de Pixar gira alrededor del Día de Muertos y la memoria familiar?",
+    "answer": "Coco",
+    "difficulty": 4
+  },
+  {
+    "id": 293,
+    "question": "¿Qué actriz protagonizó 'Black Swan' como bailarina obsesionada con la perfección?",
+    "answer": "Natalie Portman",
+    "difficulty": 4
+  },
+  {
+    "id": 294,
+    "question": "¿Qué director italiano hizo de 'La dolce vita' una expresión universal de cierto glamour decadente?",
+    "answer": "Federico Fellini",
+    "difficulty": 5
+  },
+  {
+    "id": 295,
+    "question": "¿Qué película de Park Chan-wook es famosa por un brutal plano secuencia en un pasillo?",
+    "answer": "Oldboy",
+    "difficulty": 5
+  },
+  {
+    "id": 296,
+    "question": "¿Qué actriz interpretó a Lydia Tár, directora de orquesta tan brillante como problemática?",
+    "answer": "Cate Blanchett",
+    "difficulty": 5
+  },
+  {
+    "id": 297,
+    "question": "¿Qué director sueco convirtió partidas de ajedrez con la muerte en imagen cultural eterna?",
+    "answer": "Ingmar Bergman",
+    "difficulty": 5
+  },
+  {
+    "id": 298,
+    "question": "¿Qué película de Stanley Kubrick satiriza la guerra nuclear y se conoce en inglés como Dr. Strangelove?",
+    "answer": "¿Teléfono rojo? Volamos hacia Moscú",
+    "difficulty": 5
+  },
+  {
+    "id": 299,
+    "question": "¿Qué serie creada por David Chase sigue considerándose una de las grandes cimas televisivas del siglo XXI?",
+    "answer": "Los Soprano",
+    "difficulty": 5
+  },
+  {
+    "id": 300,
+    "question": "¿Qué película de Akira Kurosawa inspiró innumerables remakes y adaptaciones de grupos de héroes?",
+    "answer": "Los siete samuráis",
+    "difficulty": 5
+  },
+  {
+    "id": 301,
+    "question": "¿Qué actriz francesa ganó el Oscar por interpretar a Edith Piaf?",
+    "answer": "Marion Cotillard",
+    "difficulty": 5
+  },
+  {
+    "id": 302,
+    "question": "¿Qué guionista y director creó la trilogía romántica de 'Before Sunrise', 'Before Sunset' y 'Before Midnight'?",
+    "answer": "Richard Linklater",
+    "difficulty": 5
+  },
+  {
+    "id": 303,
+    "question": "¿Qué película de David Fincher convirtió una red social universitaria en tragedia de ambición?",
+    "answer": "La red social",
+    "difficulty": 5
+  },
+  {
+    "id": 304,
+    "question": "¿Qué director surcoreano de 'Parásitos' ya había mezclado monstruos y crítica social en 'The Host'?",
+    "answer": "Bong Joon-ho",
+    "difficulty": 5
+  },
+  {
+    "id": 305,
+    "question": "¿Qué actriz interpretó a Clarice Starling en la película original de 'El silencio de los corderos'?",
+    "answer": "Jodie Foster",
+    "difficulty": 5
+  },
+  {
+    "id": 306,
+    "question": "¿Qué actor clásico dio vida a Lawrence de Arabia en el cine?",
+    "answer": "Peter O'Toole",
+    "difficulty": 5
+  },
+  {
+    "id": 307,
+    "question": "¿Qué película de Tarantino transcurre en gran parte en una mercería nevada llena de tensión y odio?",
+    "answer": "Los odiosos ocho",
+    "difficulty": 5
+  },
+  {
+    "id": 308,
+    "question": "¿Qué director español filmó 'Tesis' antes de hacerse internacionalmente famoso con 'Los otros'?",
+    "answer": "Alejandro Amenábar",
+    "difficulty": 5
+  },
+  {
+    "id": 309,
+    "question": "¿Qué princesa de Disney canta 'Libre soy' en español?",
+    "answer": "Elsa",
+    "difficulty": 1
+  },
+  {
+    "id": 310,
+    "question": "¿Qué cantante española representó a España en Eurovisión 2023 con la canción 'Ea Ea'?",
+    "answer": "Blanca Paloma",
+    "difficulty": 1
+  },
+  {
+    "id": 311,
+    "question": "¿Qué presentador español lleva décadas conduciendo 'El hormiguero' en Antena 3?",
+    "answer": "Pablo Motos",
+    "difficulty": 1
+  },
+  {
+    "id": 312,
+    "question": "¿Qué cantante se llama en realidad Stefani Joanne Angelina Germanotta?",
+    "answer": "Lady Gaga",
+    "difficulty": 1
+  },
+  {
+    "id": 313,
+    "question": "¿Qué videojuego de Nintendo lleva a un fontanero italiano a rescatar a una princesa en el reino champiñón?",
+    "answer": "Super Mario",
+    "difficulty": 1
+  },
+  {
+    "id": 314,
+    "question": "¿Qué actriz española se convirtió en la primera en ganar un Oscar por un papel en inglés en 2009?",
+    "answer": "Penélope Cruz",
+    "difficulty": 1
+  },
+  {
+    "id": 315,
+    "question": "¿Qué película de Pixar de 2010 hizo llorar a millones de espectadores con los juguetes que van a una guardería?",
+    "answer": "Toy Story 3",
+    "difficulty": 1
+  },
+  {
+    "id": 316,
+    "question": "¿Qué programa de televisión español lleva décadas emitiendo la actuación de las Campanadas de Nochevieja?",
+    "answer": "TVE (Televisión Española)",
+    "difficulty": 1
+  },
+  {
+    "id": 317,
+    "question": "¿Qué canción de Louis Armstrong sobre el mundo siendo maravilloso es una de las más versionadas de la historia?",
+    "answer": "What a Wonderful World",
+    "difficulty": 1
+  },
+  {
+    "id": 318,
+    "question": "¿Qué serie de Netflix alemana es conocida por tener una trama de viajes en el tiempo tan compleja que requiere diagramas para entenderla?",
+    "answer": "Dark",
+    "difficulty": 2
+  },
+  {
+    "id": 319,
+    "question": "¿Qué compositor alemán escribió la Novena Sinfonía siendo completamente sordo?",
+    "answer": "Ludwig van Beethoven",
+    "difficulty": 2
+  },
+  {
+    "id": 320,
+    "question": "¿Qué película de acción de 2022 protagonizada por Tom Cruise recaudó más de 1.400 millones de dólares, superando a la original de los años 80?",
+    "answer": "Top Gun: Maverick",
+    "difficulty": 2
+  },
+  {
+    "id": 321,
+    "question": "¿Qué diseñador de moda francés creó el 'New Look' en 1947, una silueta de cintura muy estrecha que revolucionó la moda posguerra?",
+    "answer": "Christian Dior",
+    "difficulty": 2
+  },
+  {
+    "id": 322,
+    "question": "¿Qué videojuego de Naughty Dog protagonizado por una chica llamada Ellie se convirtió en serie de televisión en 2023?",
+    "answer": "The Last of Us",
+    "difficulty": 2
+  },
+  {
+    "id": 323,
+    "question": "¿Qué premio de cine español es el equivalente al Oscar de Hollywood?",
+    "answer": "El Premio Goya",
+    "difficulty": 2
+  },
+  {
+    "id": 324,
+    "question": "¿Qué cantante puertorriqueño publicó el álbum 'Un verano sin ti' en 2022 y fue el más escuchado en Spotify ese año?",
+    "answer": "Bad Bunny",
+    "difficulty": 2
+  },
+  {
+    "id": 325,
+    "question": "¿Qué famosa ópera de Giacomo Puccini tiene como protagonista a una geisha japonesa que espera el regreso de un oficial americano?",
+    "answer": "Madama Butterfly",
+    "difficulty": 2
+  },
+  {
+    "id": 326,
+    "question": "¿Qué cantante estadounidense publicó en 2022 el álbum 'Renaissance' como homenaje a la música dance y la cultura LGBTQ+?",
+    "answer": "Beyoncé",
+    "difficulty": 2
+  },
+  {
+    "id": 327,
+    "question": "¿Qué actriz española fue la villana del film 'El laberinto del fauno' junto al capitán Vidal interpretado por Sergi López?",
+    "answer": "Maribel Verdú",
+    "difficulty": 2
+  },
+  {
+    "id": 328,
+    "question": "¿Qué serie española de TVE sobre la vida de una reina medieval fue uno de los mayores éxitos de la televisión pública española?",
+    "answer": "Isabel",
+    "difficulty": 2
+  },
+  {
+    "id": 329,
+    "question": "¿Qué programa de concursos televisivos español ofrece premios millonarios a quienes responden correctamente 15 preguntas seguidas?",
+    "answer": "¿Quién quiere ser millonario?",
+    "difficulty": 2
+  },
+  {
+    "id": 330,
+    "question": "¿Qué película de Stanley Kubrick fue retirada voluntariamente por el propio director del circuito británico y no se reestrenó hasta su muerte?",
+    "answer": "La naranja mecánica",
+    "difficulty": 3
+  },
+  {
+    "id": 331,
+    "question": "¿Qué zarzuela española de 1894 con música de Tomás Bretón transcurre en un barrio popular madrileño durante las fiestas de la Virgen de la Paloma?",
+    "answer": "La verbena de la Paloma",
+    "difficulty": 3
+  },
+  {
+    "id": 332,
+    "question": "¿Qué película de animación de 2023 del estudio Ghibli fue la primera en doce años de Hayao Miyazaki y ganó el Oscar a mejor animación?",
+    "answer": "El niño y la garza",
+    "difficulty": 3
+  },
+  {
+    "id": 333,
+    "question": "¿Qué actriz ganó el Oscar a mejor actriz de reparto en 2023 por 'Everything Everywhere All at Once'?",
+    "answer": "Jamie Lee Curtis",
+    "difficulty": 3
+  },
+  {
+    "id": 334,
+    "question": "¿Qué director español ganó el Goya a mejor director en 2010 con la película carcelaria 'Celda 211'?",
+    "answer": "Daniel Monzón",
+    "difficulty": 3
+  },
+  {
+    "id": 335,
+    "question": "¿Qué famosa casa de moda francesa usa las iniciales entrelazadas CC como logo y debe su nombre a su fundadora?",
+    "answer": "Chanel",
+    "difficulty": 3
+  },
+  {
+    "id": 336,
+    "question": "¿Qué videojuego de CD Projekt Red de 2020 ambientado en una metrópoli futurista fue noticia tanto por su historia como por sus enormes problemas técnicos al lanzarse?",
+    "answer": "Cyberpunk 2077",
+    "difficulty": 3
+  },
+  {
+    "id": 337,
+    "question": "¿Qué ópera de Mozart presenta a un seductor noble español que acaba arrastrado al infierno por la estatua de un muerto?",
+    "answer": "Don Giovanni",
+    "difficulty": 3
+  },
+  {
+    "id": 338,
+    "question": "¿Qué serie española de comedia de los años 90 fue la primera producción de Mediaset España y lanzó a la fama a Carmen Machi?",
+    "answer": "Siete vidas",
+    "difficulty": 3
+  },
+  {
+    "id": 339,
+    "question": "¿Qué cantante española de los 80 conocida como Alaska fundó junto a Carlos Berlanga el grupo que marcó la Movida madrileña?",
+    "answer": "Alaska y los Pegamoides",
+    "difficulty": 3
+  },
+  {
+    "id": 340,
+    "question": "¿Qué película de Martin Scorsese de 1990 narra la vida de un mafioso real llamado Henry Hill y se considera una de las mejores películas de gánsteres?",
+    "answer": "Uno de los nuestros (Goodfellas)",
+    "difficulty": 3
+  },
+  {
+    "id": 341,
+    "question": "¿Qué actriz española ganó la Copa Volpi del Festival de Venecia en 2021 por la película 'Madres paralelas'?",
+    "answer": "Penélope Cruz",
+    "difficulty": 3
+  },
+  {
+    "id": 342,
+    "question": "¿Qué compositor italiano del siglo XIX escribió tanto 'Rigoletto' como 'La Traviata' y 'Otello', siendo el gran maestro de la ópera romántica italiana?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 343,
+    "question": "¿Qué película de Terrence Malick ganó la Palma de Oro en Cannes en 2011 y alterna imágenes del origen del universo con la infancia de un niño en Texas?",
+    "answer": "El árbol de la vida",
+    "difficulty": 4
+  },
+  {
+    "id": 344,
+    "question": "¿Qué videojuego de FromSoftware de 2022 colaboró con el escritor George R. R. Martin en su guion y ganó el GOTY en The Game Awards?",
+    "answer": "Elden Ring",
+    "difficulty": 4
+  },
+  {
+    "id": 345,
+    "question": "¿Qué zarzuela de Amadeo Vives de 1923 con libreto de Fernández Shaw y Romero está considerada la más representada del siglo XX en España?",
+    "answer": "Doña Francisquita",
+    "difficulty": 4
+  },
+  {
+    "id": 346,
+    "question": "¿Qué película de Paolo Sorrentino ganó el Oscar a mejor película de habla no inglesa en 2014 con un protagonista que recuerda a Fellini?",
+    "answer": "La gran belleza",
+    "difficulty": 4
+  },
+  {
+    "id": 347,
+    "question": "¿Qué cantante española conocida como 'La Faraona' fue un símbolo de la cultura popular española del siglo XX y mezcló flamenco con copla?",
+    "answer": "Lola Flores",
+    "difficulty": 4
+  },
+  {
+    "id": 348,
+    "question": "¿Qué fenómeno de moda del siglo XIX llamado 'tight-lacing' deformaba la caja torácica de las mujeres en busca de una cintura inferior a 45 centímetros?",
+    "answer": "El corset victoriano extremo o silueta de avispa",
+    "difficulty": 4
+  },
+  {
+    "id": 349,
+    "question": "¿Qué director de cine español filmó la película de supervivencia 'La sociedad de la nieve' en 2023, basada en el accidente aéreo de los Andes de 1972?",
+    "answer": "J. A. Bayona",
+    "difficulty": 4
+  },
+  {
+    "id": 350,
+    "question": "¿Qué película de Luchino Visconti de 1971, basada en Thomas Mann, convirtió el Adagietto de la 5.ª sinfonía de Mahler en sinónimo de belleza decadente?",
+    "answer": "Muerte en Venecia",
+    "difficulty": 4
+  },
+  {
+    "id": 351,
+    "question": "¿Qué diseñador vasco fundó su casa de alta costura en París en 1937 y fue maestro de Hubert de Givenchy y André Courrèges?",
+    "answer": "Cristóbal Balenciaga",
+    "difficulty": 5
+  },
+  {
+    "id": 352,
+    "question": "¿Qué ópera de Richard Wagner está dividida en cuatro jornadas —'El oro del Rin', 'La walkiria', 'Sigfrido' y 'El ocaso de los dioses'— y dura unas 15 horas en total?",
+    "answer": "El anillo del nibelungo",
+    "difficulty": 5
+  },
+  {
+    "id": 353,
+    "question": "¿Qué dramaturgo irlandés escribió 'Esperando a Godot', obra en la que dos vagabundos esperan a alguien que nunca llega, y ganó el Nobel de Literatura en 1969?",
+    "answer": "Samuel Beckett",
+    "difficulty": 5
+  },
+  {
+    "id": 354,
+    "question": "¿Qué tenor canario del siglo XX, nacido en Las Palmas de Gran Canaria, es considerado uno de los intérpretes más perfectos técnicamente de la historia de la ópera?",
+    "answer": "Alfredo Kraus",
+    "difficulty": 5
+  },
+  {
+    "id": 355,
+    "question": "¿Qué compositora estadounidense es responsable de las bandas sonoras de los videojuegos 'Celeste' y 'Chicory: A Colorful Tale', referentes del indie musical?",
+    "answer": "Lena Raine",
+    "difficulty": 5
+  },
+  {
+    "id": 356,
+    "question": "¿Qué obra de teatro de Arthur Miller de 1949, protagonizada por el viajante Willy Loman, ganó el Premio Pulitzer y el Tony a mejor obra de teatro?",
+    "answer": "La muerte de un viajante",
+    "difficulty": 5
+  },
+  {
+    "id": 357,
+    "question": "¿Qué directora teatral española fue la primera mujer en dirigir el Teatro Nacional Clásico y en recibir el Premio Nacional de Teatro en 1994?",
+    "answer": "Nuria Espert",
+    "difficulty": 5
+  },
+  {
+    "id": 358,
+    "question": "¿Qué película de 1927, considerada la primera obra maestra de la ciencia ficción en el cine, fue dirigida por Fritz Lang y retrata una sociedad dividida entre élites y trabajadores subterráneos?",
+    "answer": "Metrópolis",
+    "difficulty": 5
+  },
+  {
+    "id": 359,
+    "question": "¿Qué actor español, nacido en Málaga, fue el primero de su país en ganar un Oscar como mejor actor de reparto, en 2000, por 'Todo sobre mi madre' —aunque ese premio fue a mejor película extranjera—? ¿Por qué película ganó Javier Bardem el Oscar a mejor actor de reparto?",
+    "answer": "No Country for Old Men (Sin lugar para los débiles), en 2008",
+    "difficulty": 5
+  },
+  {
+    "id": 360,
+    "question": "¿En qué año llegó a España el anime Dragon Ball y por qué canal se emitió por primera vez?",
+    "answer": "En 1989 por TVE1 (Televisión Española), convirtiéndose en fenómeno infantil de los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 361,
+    "question": "¿Cómo se llamaba el protagonista del anime japonés Heidi, la niña de los Alpes, emitido en España en los años 70-80?",
+    "answer": "Heidi (Johanna Spyri); el anime fue producido por Isao Takahata y Hayao Miyazaki en 1974",
+    "difficulty": 1
+  },
+  {
+    "id": 362,
+    "question": "¿Qué serie animada japonesa de los años 80 sobre caballeros con armaduras doradas y plateadas fue un fenómeno en España?",
+    "answer": "Los Caballeros del Zodiaco (Saint Seiya), emitida en España desde finales de los 80",
+    "difficulty": 1
+  },
+  {
+    "id": 363,
+    "question": "¿Cómo se llamaba el protagonista del anime de fútbol Captain Tsubasa en su versión emitida en España en los años 80-90?",
+    "answer": "Oliver Atom (Tsubasa Ozora en japonés); el portero se llamaba Benji Price (Genzo Wakabayashi)",
+    "difficulty": 2
+  },
+  {
+    "id": 364,
+    "question": "¿Qué serie animada americana de 1983, con un príncipe que levantaba una espada mágica y decía '¡Por el honor de Greyskull!', fue popular en los 80?",
+    "answer": "He-Man and the Masters of the Universe (He-Man y los Amos del Universo)",
+    "difficulty": 2
+  },
+  {
+    "id": 365,
+    "question": "¿Cómo se llamaban los cuatro personajes principales de la serie animada ThunderCats (1985) que daban nombre al grupo?",
+    "answer": "Lion-O (el líder), Tygra, Panthro, Cheetara y la joven Wilykit y Wilycat; los ThunderCats huyeron del planeta Thundera",
+    "difficulty": 3
+  },
+  {
+    "id": 366,
+    "question": "¿Qué serie animada americana de 1987 protagonizada por patos aventureros en la ciudad de Patolandia se emitió en España en los años 90?",
+    "answer": "DuckTales (Patoaventuras), basada en los cómics de Carl Barks con el Tío Gilito y sus sobrinos",
+    "difficulty": 2
+  },
+  {
+    "id": 367,
+    "question": "¿Qué serie animada de Cartoon Network de 1996, con un científico niño que tenía un laboratorio secreto bajo su habitación, fue muy popular en España?",
+    "answer": "El laboratorio de Dexter (Dexter's Laboratory), creada por Genndy Tartakovsky",
+    "difficulty": 2
+  },
+  {
+    "id": 368,
+    "question": "¿Cuál es el nombre del personaje principal del anime Pokémon y cómo se llama su Pikachu inicial en la versión original japonesa?",
+    "answer": "Ash Ketchum (Satoshi en japonés); su Pikachu no tiene nombre especial, simplemente se llama Pikachu",
+    "difficulty": 1
+  },
+  {
+    "id": 369,
+    "question": "¿En qué año se estrenó la primera temporada del anime Pokémon en Japón y cuántas temporadas aproximadas tiene la saga?",
+    "answer": "1997 en Japón; la saga tiene más de 25 temporadas y continúa actualmente",
+    "difficulty": 3
+  },
+  {
+    "id": 370,
+    "question": "¿Qué serie de dibujos animados de Nickelodeon de 1999 tiene como protagonista a una esponja marina cuadrada que trabaja como cocinero?",
+    "answer": "Bob Esponja (SpongeBob SquarePants), creada por Stephen Hillenburg",
+    "difficulty": 1
+  },
+  {
+    "id": 371,
+    "question": "¿Qué serie de animación americana de 2005 narra la historia de Aang, el último maestro aire, en un mundo dividido por cuatro naciones elementales?",
+    "answer": "Avatar: La leyenda de Aang (Avatar: The Last Airbender), de Nickelodeon",
+    "difficulty": 2
+  },
+  {
+    "id": 372,
+    "question": "¿Cómo se llama la serie animada de Disney Channel de 2002 sobre una adolescente que simultanea la vida normal con ser espía secreta?",
+    "answer": "Kim Possible, creada por Mark McCorkle y Bob Schooley",
+    "difficulty": 2
+  },
+  {
+    "id": 373,
+    "question": "¿Qué serie animada de los años 90, producida por Steven Spielberg, parodiaba los dibujos animados clásicos de Looney Tunes con personajes de la universidad ACME?",
+    "answer": "Tiny Toon Adventures (Las aventuras de los Tiny Toons, 1990-1995)",
+    "difficulty": 3
+  },
+  {
+    "id": 374,
+    "question": "¿Qué serie animada de Cartoon Network de 1999 narra la historia de un perro cobarde que vivía en el desierto con sus dueños ancianos y afrontaba amenazas sobrenaturales?",
+    "answer": "Coraje, el perro cobarde (Courage the Cowardly Dog), creada por John R. Dilworth",
+    "difficulty": 2
+  },
+  {
+    "id": 375,
+    "question": "¿Qué serie de Nickelodeon de 1991 sobre bebés que imaginaban aventuras épicas fue pionera de la animación para niños pequeños?",
+    "answer": "Los Rugrats (Rugrats), creada por Arlene Klasky, Gábor Csupó y Paul Germain",
+    "difficulty": 2
+  },
+  {
+    "id": 376,
+    "question": "¿Qué serie de dibujos animados japonesa de 1986, sobre un niño llamado Nobita y su compañero del futuro, se emitió en España desde los años 80?",
+    "answer": "Doraemon, creado por el dúo Fujiko F. Fujio; en España se emitió en Televisión Española desde 1980 en catalán",
+    "difficulty": 1
+  },
+  {
+    "id": 377,
+    "question": "¿Qué serie animada americana de 1992 sobre los vigilantes de Gotham City es considerada una de las mejores adaptaciones de Batman de todos los tiempos?",
+    "answer": "Batman: The Animated Series, producida por Bruce Timm y Paul Dini para Fox Kids",
+    "difficulty": 3
+  },
+  {
+    "id": 378,
+    "question": "¿Cómo se llamaba la serie de animación japonesa sobre un chico con un guante especial que podía invocar criaturas para combatir, emitida en España desde 1999?",
+    "answer": "Digimon Adventure, protagonizada por Tai (Taichi) y su Agumon",
+    "difficulty": 2
+  },
+  {
+    "id": 379,
+    "question": "¿Qué película animada de Disney de 1989, basada en el cuento de Hans Christian Andersen, inició el llamado 'Renacimiento Disney' de los años 90?",
+    "answer": "La Sirenita (The Little Mermaid), dirigida por Ron Clements y John Musker",
+    "difficulty": 2
+  },
+  {
+    "id": 380,
+    "question": "¿Qué película de Steven Spielberg de 1993, basada en la novela de Michael Crichton, fue la primera en usar dinosaurios creados completamente por ordenador?",
+    "answer": "Jurassic Park (Parque Jurásico); ganó el Oscar a mejores efectos visuales",
+    "difficulty": 1
+  },
+  {
+    "id": 381,
+    "question": "¿Qué película de 1994 protagonizada por Tom Hanks narra la vida de un hombre de Alabama con cociente intelectual bajo que presencia grandes eventos históricos del siglo XX?",
+    "answer": "Forrest Gump, dirigida por Robert Zemeckis; ganó el Oscar a mejor película",
+    "difficulty": 1
+  },
+  {
+    "id": 382,
+    "question": "¿Qué película de los hermanos Wachowski de 1999 presenta un mundo virtual creado por máquinas para controlar a la humanidad dormida?",
+    "answer": "Matrix (The Matrix), con Keanu Reeves como Neo",
+    "difficulty": 1
+  },
+  {
+    "id": 383,
+    "question": "¿Qué película de Tim Burton de 1989 fue el primer blockbuster moderno de superhéroes y convirtió a Batman en icono pop con Michael Keaton en el papel?",
+    "answer": "Batman (1989), con Michael Keaton como Batman y Jack Nicholson como el Joker",
+    "difficulty": 2
+  },
+  {
+    "id": 384,
+    "question": "¿Qué película de Robert Zemeckis de 1985, protagonizada por Michael J. Fox, popularizó el viaje en el tiempo en la cultura pop con un DeLorean modificado?",
+    "answer": "Regreso al futuro (Back to the Future)",
+    "difficulty": 1
+  },
+  {
+    "id": 385,
+    "question": "¿Qué película de Jonathan Demme de 1991, sobre la caza de un asesino en serie llamado Buffalo Bill, ganó los cinco principales premios Oscar?",
+    "answer": "El silencio de los corderos (The Silence of the Lambs), con Anthony Hopkins como Hannibal Lecter",
+    "difficulty": 2
+  },
+  {
+    "id": 386,
+    "question": "¿Qué película de Ridley Scott de 2000, ambientada en la Roma imperial, ganó el Oscar a mejor película y convirtió a Russell Crowe en estrella global?",
+    "answer": "Gladiator (El gladiador)",
+    "difficulty": 2
+  },
+  {
+    "id": 387,
+    "question": "¿Qué película animada de Pixar de 2003, protagonizada por un pez payaso que busca a su hijo a través del océano, fue un hito de la animación por ordenador?",
+    "answer": "Buscando a Nemo (Finding Nemo), dirigida por Andrew Stanton",
+    "difficulty": 1
+  },
+  {
+    "id": 388,
+    "question": "¿Qué película española de Pedro Almodóvar de 1999 ganó el Oscar a mejor película de habla no inglesa y narra la historia de varias mujeres tras la muerte de un ser querido?",
+    "answer": "Todo sobre mi madre (All About My Mother)",
+    "difficulty": 2
+  },
+  {
+    "id": 389,
+    "question": "¿Qué trilogía de Peter Jackson de 2001-2003, basada en Tolkien, barrió los Oscar de 2004 con El retorno del rey ganando los 11 premios a los que optaba?",
+    "answer": "El señor de los anillos (The Lord of the Rings); El retorno del rey ganó 11 Oscar igualando el récord de Ben-Hur y Titanic",
+    "difficulty": 2
+  },
+  {
+    "id": 390,
+    "question": "¿Qué saga de películas de aventuras de Disney/Bruckheimer de 2003 ambientada en el Caribe protagonizó Johnny Depp como el extravagante Capitán Jack Sparrow?",
+    "answer": "Piratas del Caribe (Pirates of the Caribbean); la primera entrega fue 'La maldición del Perla Negra'",
+    "difficulty": 2
+  },
+  {
+    "id": 391,
+    "question": "¿Qué serie de comedia americana de 1994-2004 narra la vida de seis amigos en un café de Nueva York y se convirtió en la sitcom más vista de los años 90?",
+    "answer": "Friends, con Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry y David Schwimmer",
+    "difficulty": 1
+  },
+  {
+    "id": 392,
+    "question": "¿Qué serie dramática americana de HBO de 1999-2007 sobre la mafia italiana en Nueva Jersey fue pionera de la 'edad dorada' de la televisión?",
+    "answer": "Los Soprano (The Sopranos), creada por David Chase",
+    "difficulty": 2
+  },
+  {
+    "id": 393,
+    "question": "¿Qué serie de misterio americana de 2004-2010 comienza con el accidente de un avión en una isla misteriosa llena de secretos y fenómenos inexplicables?",
+    "answer": "Perdidos (Lost), creada por J. J. Abrams, Damon Lindelof y Jeffrey Lieber",
+    "difficulty": 2
+  },
+  {
+    "id": 394,
+    "question": "¿Qué serie animada de Matt Groening estrenada en 1989 se ha convertido en la serie de dibujos animados más longeva de la historia de la televisión americana?",
+    "answer": "Los Simpsons (The Simpsons), emitida ininterrumpidamente en Fox desde el 17 de diciembre de 1989",
+    "difficulty": 1
+  },
+  {
+    "id": 395,
+    "question": "¿Qué serie animada japonesa de los años 70 sobre un piloto robot que podía ser teledirigido o tripulado fue uno de los primeros anime de éxito en España?",
+    "answer": "Mazinger Z (1972-74), creado por Go Nagai; emitido en España en los años 70-80",
+    "difficulty": 2
+  },
+  {
+    "id": 396,
+    "question": "¿Qué película animada de Hayao Miyazaki de 2001 ganó el Oscar a mejor película de animación y narra la historia de Chihiro en el mundo de los espíritus?",
+    "answer": "El viaje de Chihiro (Sen to Chihiro no Kamikakushi), del Studio Ghibli",
+    "difficulty": 2
+  },
+  {
+    "id": 397,
+    "question": "¿Qué serie animada de Cartoon Network de 1997 protagonizada por un adolescente musculoso y una vaca fue conocida por su humor absurdo?",
+    "answer": "Johnny Bravo, creada por Van Partible para Cartoon Network",
+    "difficulty": 3
+  },
+  {
+    "id": 398,
+    "question": "¿Qué película de Christopher Nolan de 2008 sobre Batman es considerada una de las mejores películas de superhéroes de todos los tiempos y Heath Ledger ganó el Oscar póstumo?",
+    "answer": "El caballero oscuro (The Dark Knight); Heath Ledger ganó el Oscar póstumo a mejor actor de reparto por su Joker",
+    "difficulty": 2
+  },
+  {
+    "id": 399,
+    "question": "¿Qué serie de animación española de 2003, producida para RTVE, protagonizaba a unas criaturas peludas de colores que vivían en el mundo de la Luna?",
+    "answer": "Los Lunnis, producida por RTVE y que se emitió en La 2 en el espacio infantil",
+    "difficulty": 2
+  },
+  {
+    "id": 400,
+    "question": "¿Qué serie de acción real americana de 1993-2001 sobre adolescentes con poderes que se transformaban en superheroes de colores fue fenómeno mundial?",
+    "answer": "Power Rangers (Mighty Morphin Power Rangers), adaptación americana del Super Sentai japonés",
+    "difficulty": 1
+  },
+  {
+    "id": 401,
+    "question": "¿Qué serie de animación italiana de 2004, sobre chicas adolescentes con poderes mágicos, fue muy popular entre las niñas españolas y tuvo cómic propio?",
+    "answer": "Winx Club, creada por Iginio Straffi para Rainbow S.r.l.",
+    "difficulty": 2
+  },
+  {
+    "id": 402,
+    "question": "¿Qué serie animada de Nickelodeon de 2001, sobre un niño que vive con sus abuelos y tiene un hada madrina, fue fenómeno de los años 2000?",
+    "answer": "Los padrinos mágicos (The Fairly OddParents), creada por Butch Hartman",
+    "difficulty": 2
+  },
+  {
+    "id": 403,
+    "question": "¿Qué serie de dibujos animados de Disney Channel de 2007-2015 narra las aventuras de dos hermanos que hacen proyectos épicos cada día de verano?",
+    "answer": "Phineas y Ferb (Phineas and Ferb), creada por Dan Povenmire y Jeff 'Swampy' Marsh",
+    "difficulty": 2
+  },
+  {
+    "id": 404,
+    "question": "¿Qué película de James Cameron de 1997 sobre el hundimiento del trasatlántico se convirtió en la película más taquillera de la historia hasta Avatar?",
+    "answer": "Titanic, protagonizada por Leonardo DiCaprio y Kate Winslet; ganó 11 Oscar",
+    "difficulty": 1
+  },
+  {
+    "id": 405,
+    "question": "¿Qué película de Sam Raimi de 2002 fue el primer gran éxito del cine de superhéroes moderno y recaudó más de 820 millones de dólares?",
+    "answer": "Spider-Man, protagonizada por Tobey Maguire como Peter Parker",
+    "difficulty": 2
+  },
+  {
+    "id": 406,
+    "question": "¿Qué serie de animación de Cartoon Network de 2005 protagonizada por un adolescente que puede transformarse en diez aliens fue creada por Man of Action Studios?",
+    "answer": "Ben 10 (Ben Diez), protagonizada por Ben Tennyson y su reloj alienígena el Omnitrix",
+    "difficulty": 2
+  },
+  {
+    "id": 407,
+    "question": "¿Qué película de Steven Spielberg de 1982, sobre un alienígena abandonado en la Tierra que es adoptado por un niño, se convirtió en un símbolo de la infancia de los 80?",
+    "answer": "E.T. el extraterrestre (E.T. the Extra-Terrestrial)",
+    "difficulty": 1
+  },
+  {
+    "id": 408,
+    "question": "¿Qué película de animación de DreamWorks de 2001, con la voz de Mike Myers, parodia los cuentos de hadas y ganó el primer Oscar de Mejor Película de Animación?",
+    "answer": "Shrek, con las voces de Mike Myers, Eddie Murphy y Cameron Diaz",
+    "difficulty": 1
+  },
+  {
+    "id": 409,
+    "question": "¿Qué serie de animación americana de 1992-1997 sobre los X-Men fue la primera adaptación animada fiel a los cómics y presentó a los mutantes a toda una generación?",
+    "answer": "X-Men: The Animated Series, emitida en Fox Kids; su sintonía es icónica",
+    "difficulty": 3
+  },
+  {
+    "id": 410,
+    "question": "¿Cuál es el nombre real de Darth Vader antes de convertirse al lado oscuro?",
+    "answer": "Anakin Skywalker, padre de Luke y Leia",
+    "difficulty": 1
+  },
+  {
+    "id": 411,
+    "question": "¿Qué planeta desértico es el hogar de Luke Skywalker y de Anakin antes que él?",
+    "answer": "Tatooine, con sus dos soles y sus habitantes Jawas y Tusken Raiders",
+    "difficulty": 1
+  },
+  {
+    "id": 412,
+    "question": "¿Cuántos episodios numerados componen la saga principal de Star Wars y en qué orden de estreno fueron?",
+    "answer": "9 episodios; se estrenaron en el orden IV-VI (1977-83), I-III (1999-2005) y VII-IX (2015-19)",
+    "difficulty": 2
+  },
+  {
+    "id": 413,
+    "question": "¿Qué maestro Jedi de 900 años entrenó tanto a Obi-Wan Kenobi como a Luke Skywalker?",
+    "answer": "Yoda, el gran maestro del Consejo Jedi",
+    "difficulty": 1
+  },
+  {
+    "id": 414,
+    "question": "¿Qué frase dice Darth Vader a Luke en El Imperio Contraataca que es una de las más citadas del cine?",
+    "answer": "'No, yo soy tu padre' (en el original inglés: 'No, I am your father')",
+    "difficulty": 1
+  },
+  {
+    "id": 415,
+    "question": "¿Cómo se llama la orden monástica de guerreros que usa la Fuerza y sables de luz para defender la República Galáctica?",
+    "answer": "Los Jedi (Orden Jedi); su contraparte en el lado oscuro son los Sith",
+    "difficulty": 1
+  },
+  {
+    "id": 416,
+    "question": "¿Qué planeta helado sirve de base a la Alianza Rebelde en El Imperio Contraataca y sufre el ataque de los AT-AT imperiales?",
+    "answer": "Hoth; los caminantes AT-AT atacan la base Echo de los rebeldes en la Batalla de Hoth",
+    "difficulty": 2
+  },
+  {
+    "id": 417,
+    "question": "¿Cuántas lunas tiene la nave espacial conocida como la Estrella de la Muerte y qué arma tiene?",
+    "answer": "La Estrella de la Muerte no tiene lunas; es una estación espacial con un superláser capaz de destruir planetas enteros",
+    "difficulty": 2
+  },
+  {
+    "id": 418,
+    "question": "¿Cómo se llama el contrabandista y capitán del Halcón Milenario que se convierte en uno de los héroes de la Rebelión?",
+    "answer": "Han Solo, interpretado por Harrison Ford en la trilogía original",
+    "difficulty": 1
+  },
+  {
+    "id": 419,
+    "question": "¿Qué especie Wookiee es el compañero inseparable de Han Solo y qué arma característica usa?",
+    "answer": "Chewbacca (Chewie); usa un ballesta-bláster (bowcaster) y mide más de 2 metros",
+    "difficulty": 2
+  },
+  {
+    "id": 420,
+    "question": "¿En qué planeta boscoso con Ewoks celebran los rebeldes la victoria tras destruir la segunda Estrella de la Muerte?",
+    "answer": "Endor (la luna boscosa de Endor); los Ewoks ayudan a los rebeldes en la batalla de Endor en El Retorno del Jedi",
+    "difficulty": 3
+  },
+  {
+    "id": 421,
+    "question": "¿Cómo se llama el personaje de la serie The Mandalorian que pertenece a la misma especie que Yoda y se convirtió en viral?",
+    "answer": "Grogu, apodado 'Baby Yoda' por los fans; su nombre oficial se reveló en la segunda temporada",
+    "difficulty": 2
+  },
+  {
+    "id": 422,
+    "question": "¿Qué técnica de combate con sables de luz distingue el estilo de Darth Maul y cuántas hojas tiene su arma?",
+    "answer": "Darth Maul usa un sable de luz de doble hoja (bastón de sable); su estilo agresivo es la Forma VII (Juyo/Vaapad)",
+    "difficulty": 3
+  },
+  {
+    "id": 423,
+    "question": "¿Qué organización malvada sucede al Imperio Galáctico en la trilogía de secuelas (Episodios VII-IX)?",
+    "answer": "La Primera Orden, liderada primero por el Líder Supremo Snoke y luego por Kylo Ren",
+    "difficulty": 2
+  },
+  {
+    "id": 424,
+    "question": "¿Cuántas temporadas tiene la serie animada Star Wars: The Clone Wars y quién fue su creador?",
+    "answer": "7 temporadas (2008-2020); creada por George Lucas y desarrollada por Dave Filoni para Cartoon Network y Disney+",
+    "difficulty": 3
+  },
+  {
+    "id": 425,
+    "question": "¿Qué Sith legendario, maestro de Darth Sidious, supuestamente aprendió a vencer a la muerte y es citado en la ópera en el Episodio III?",
+    "answer": "Darth Plagueis el Sabio; Palpatine lo cuenta como una 'tragedia' que los Jedi no enseñarían",
+    "difficulty": 4
+  },
+  {
+    "id": 426,
+    "question": "¿Qué planeta es la capital de la República y luego del Imperio Galáctico y está completamente cubierto de ciudad?",
+    "answer": "Coruscant, un planeta-ciudad (ecumenópolis) que aparece principalmente en la trilogía de precuelas",
+    "difficulty": 3
+  },
+  {
+    "id": 427,
+    "question": "¿Cuántos sables de luz tiene General Grievous y qué lo hace especial como villano de la precuela?",
+    "answer": "Cuatro sables de luz (dos brazos que se bifurcan en cuatro); es un cyborg entrenado en el combate Jedi pese a no poder usar la Fuerza",
+    "difficulty": 4
+  },
+  {
+    "id": 428,
+    "question": "¿Qué significa 'midi-chlorians' en el universo Star Wars y en qué episodio se explica por primera vez?",
+    "answer": "Son microorganismos simbióticos que median la conexión con la Fuerza; Qui-Gon Jinn lo explica en El Episodio I - La Amenaza Fantasma (1999)",
+    "difficulty": 4
+  },
+  {
+    "id": 429,
+    "question": "¿Cuál es la regla de los Sith que limita su número a solo dos (maestro y aprendiz) y quién la estableció?",
+    "answer": "La Regla de Dos, establecida por Darth Bane tras la Batalla de Ruusan (1000 años antes de los eventos de la saga); busca concentrar todo el poder oscuro en dos individuos",
+    "difficulty": 5
+  },
+  {
+    "id": 430,
+    "question": "¿Cuál es el nombre del protagonista principal de Dragon Ball y cuál es su nombre saiyan de nacimiento?",
+    "answer": "Son Goku; su nombre saiyan original es Kakarot (Kakarotto)",
+    "difficulty": 1
+  },
+  {
+    "id": 431,
+    "question": "¿Cuántas esferas del dragón existen en el planeta Namek y qué las diferencia de las de la Tierra?",
+    "answer": "Siete, igual que las terrestres, pero las de Namek son más grandes y permiten pedir tres deseos (en lugar de uno)",
+    "difficulty": 2
+  },
+  {
+    "id": 432,
+    "question": "¿Cuál es la primera transformación de Super Saiyan de Goku y qué la desencadenó por primera vez en el anime?",
+    "answer": "El Super Saiyan nivel 1; la ira por la muerte de Krillin a manos de Freezer desencadenó la transformación de Goku en el planeta Namek",
+    "difficulty": 2
+  },
+  {
+    "id": 433,
+    "question": "¿Cómo se llama el hijo mayor de Goku y qué diferencia tiene con su padre a nivel de poder potencial?",
+    "answer": "Gohan; los mestizos saiyan-humanos tienen mayor potencial latente que los saiyans puros; Gohan superó a Goku en el Cell Game",
+    "difficulty": 2
+  },
+  {
+    "id": 434,
+    "question": "¿Qué técnica de combate inventada por Goku lanza una esfera de energía concentrada con las dos manos?",
+    "answer": "La Kamehameha (かめはめ波); aprendida del Maestro Roshi; el nombre es un homenaje al rey hawaiano Kamehameha I",
+    "difficulty": 1
+  },
+  {
+    "id": 435,
+    "question": "¿Cuál es la técnica de fusión que usan Goku y Vegeta cuando no tienen los Aretes Pothala y qué personaje resulta?",
+    "answer": "La Danza de la Fusión (Metamoru); da lugar a Gogeta. Con los aretes es Vegito (Vegetto)",
+    "difficulty": 3
+  },
+  {
+    "id": 436,
+    "question": "¿Cómo se llama el antagonista principal de la saga del Torneo del Poder en Dragon Ball Super y de qué universo procede?",
+    "answer": "Jiren, guerrero del Universo 11 y miembro del Orgulloso Ejército del Universo 11; su poder rivalizó con el Ultra Instinto de Goku",
+    "difficulty": 3
+  },
+  {
+    "id": 437,
+    "question": "¿Cuántos universos existen en el multiverso de Dragon Ball Super y cuántos participan en el Torneo del Poder?",
+    "answer": "12 universos en total; 8 participaron en el Torneo del Poder (los de menor media de mortalidad fueron excluidos)",
+    "difficulty": 4
+  },
+  {
+    "id": 438,
+    "question": "¿Qué forma de Super Saiyan requiere que el guerrero elimine por completo sus emociones para acceder al poder del 'Ultra Instinto'?",
+    "answer": "El Ultra Instinto (Migatte no Gokui); permite que el cuerpo reaccione solo sin que la mente lo dirija; primero apareció en el arco del Torneo del Poder",
+    "difficulty": 3
+  },
+  {
+    "id": 439,
+    "question": "¿Cuál es el nombre del dios de la destrucción del Universo 7 en Dragon Ball Super y quién es su ángel guardián?",
+    "answer": "Beerus (Bills en japonés); su ángel guardián es Whis, que es también el maestro de Beerus y de Goku y Vegeta",
+    "difficulty": 2
+  },
+  {
+    "id": 440,
+    "question": "¿Qué significa el ataque especial de Vegeta llamado 'Galick Gun' y cómo se compara con la Kamehameha en su primer enfrentamiento?",
+    "answer": "La Galick Ho (Galick Gun) es el ataque de energía de Vegeta; en su primer combate contra Goku ambos ataques chocaron y terminaron en empate de potencia",
+    "difficulty": 3
+  },
+  {
+    "id": 441,
+    "question": "¿En qué saga del anime original aparece por primera vez el Super Saiyan Legendario y quién es el personaje?",
+    "answer": "En la película Dragon Ball Z: El guerrero más poderoso del mundo (1993); Broly es el Super Saiyan Legendario. En el canon fue reintroducido en Dragon Ball Super: Broly (2018)",
+    "difficulty": 4
+  },
+  {
+    "id": 442,
+    "question": "¿Cómo se llama el maestro original de Son Goku cuando era niño y qué técnica le enseñó?",
+    "answer": "El Maestro Roshi (Kame-sen'nin, el Ermitaño de las Tortugas); le enseñó la Kamehameha y el entrenamiento con la concha de tortuga",
+    "difficulty": 2
+  },
+  {
+    "id": 443,
+    "question": "¿Qué raza alienígena puede transformarse en un gran simio (Oozaru) al contemplar la luna llena gracias a la cola?",
+    "answer": "Los Saiyan (Saiyajin); pierden la cola al madurar o cuando se la cortan, perdiendo esa capacidad de transformación",
+    "difficulty": 2
+  },
+  {
+    "id": 444,
+    "question": "¿Cuántas fases de transformación tiene Cell y en cuál alcanza su 'forma perfecta'?",
+    "answer": "Tres formas imperfectas (Cell imperfecto, Semi-perfecto y Perfecto); la forma perfecta (Cell Perfecto) la alcanza absorbiendo a Androides 17 y 18",
+    "difficulty": 3
+  },
+  {
+    "id": 445,
+    "question": "¿Qué personaje de Dragon Ball Z es el primer humano en alcanzar el Super Saiyan en el arco de los Androides?",
+    "answer": "Ningún humano alcanza el Super Saiyan, que es exclusivo de los saiyan; Vegeta, Goku, Gohan, Trunks del futuro y Goten son los primeros; el error es una confusión frecuente",
+    "difficulty": 4
+  },
+  {
+    "id": 446,
+    "question": "¿Cuál es el nombre del padre de Goku y qué rango de guerrero saiyan tenía dentro del ejército de Freezer?",
+    "answer": "Bardock; era un guerrero de bajo rango (rango de poder 10.000 antes de su muerte). La película especial de 1990 narra su historia",
+    "difficulty": 3
+  },
+  {
+    "id": 447,
+    "question": "¿Qué objeto mágico pueden usar los namekianos para fusionarse con otro de su raza de forma permanente, aumentando su poder?",
+    "answer": "La fusión namekiana no requiere objeto; es una fusión voluntaria donde un namekiano absorbe al otro. Piccolo se fusionó con Nail y Kami de esta forma",
+    "difficulty": 4
+  },
+  {
+    "id": 448,
+    "question": "¿Qué evento deportivo organizado por el Dios Guardián de la Tierra reúne a los mejores luchadores del mundo cada cinco años en Dragon Ball?",
+    "answer": "El Torneo de las Artes Marciales (Tenkaichi Budokai); Goku participó desde niño y ganó varias ediciones",
+    "difficulty": 2
+  },
+  {
+    "id": 449,
+    "question": "¿Cuál es la diferencia de poder entre un Saiyan de élite como Vegeta y un Saiyan de bajo rango como Goku al nacer, según el medidor de poder?",
+    "answer": "Vegeta nacío con un nivel de poder de 18.000; Goku (Kakarot) nació con solo 2, considerado un guerrero de rango ínfimo destinado a misiones de conquista menores",
+    "difficulty": 5
+  },
+  {
+    "id": 450,
+    "question": "¿Qué youtuber español, conocido como 'El Rubius', fue el primer canal en castellano en superar los 10 millones de suscriptores en YouTube?",
+    "answer": "Rubén Doblas Gundersen (El Rubius); creador de contenido de gaming y vlogs que en su apogeo superó los 40 millones de suscriptores",
+    "difficulty": 2
+  },
+  {
+    "id": 451,
+    "question": "¿Cómo se llama el youtuber español de vlogs y entretenimiento, conocido como 'El Rubius', y cuántos suscriptores tiene aproximadamente?",
+    "answer": "Rubén Doblas Gundersen (El Rubius); en su punto álgido superó los 40 millones de suscriptores, siendo el canal en español más seguido del mundo durante años",
+    "difficulty": 2
+  },
+  {
+    "id": 452,
+    "question": "¿Qué canal de YouTube de divulgación científica en español, 'Quantum Fracture', fue creado por José Luis Crespo y supera los 3 millones de suscriptores?",
+    "answer": "Quantum Fracture, de José Luis Crespo; explica física cuántica, relatividad y cosmología de forma accesible; ganó el Premio Bitácoras a mejor blog/canal de ciencia",
+    "difficulty": 3
+  },
+  {
+    "id": 453,
+    "question": "¿Cuál fue el primer youtuber hispanohablante en superar el millón de suscriptores en YouTube y a qué tipo de contenido se dedicaba?",
+    "answer": "HolaSoyGerman (Germán Garmendia), youtuber chileno de humor y monólogos; fue el canal en español más suscrito del mundo entre 2013 y 2016",
+    "difficulty": 3
+  },
+  {
+    "id": 454,
+    "question": "¿Qué youtuber chileno, conocido por sus monólogos de humor cotidiano, fue el primero en superar los 30 millones de suscriptores en un canal de habla hispana?",
+    "answer": "HolaSoyGerman (Germán Garmendia); en su apogeo tuvo también el canal JuegaGerman para gaming",
+    "difficulty": 2
+  },
+  {
+    "id": 455,
+    "question": "¿Qué youtuber español de gaming, TheGrefg, estableció en enero de 2021 el récord mundial de espectadores simultáneos en Twitch al presentar su skin de Fortnite?",
+    "answer": "David Cánovas Martínez (TheGrefg) reunió 2,4 millones de espectadores en directo, récord mundial en Twitch en aquel momento",
+    "difficulty": 3
+  },
+  {
+    "id": 456,
+    "question": "¿Qué youtuber español, conocido como 'Vegetta777', es famoso por sus series de Minecraft y tiene más de 30 millones de suscriptores?",
+    "answer": "Samuel de Luque (Vegetta777); fue uno de los pioneros del gaming en español en YouTube y creó series míticas como 'Trolling a Notch'",
+    "difficulty": 2
+  },
+  {
+    "id": 457,
+    "question": "¿Qué canal de YouTube de historia en español, 'Academia Play', es conocido por explicar eventos históricos en menos de 10 minutos con animaciones simples?",
+    "answer": "Academia Play, fundado por José Ángel González; supera los 4 millones de suscriptores y cubre historia, filosofía y cultura general",
+    "difficulty": 3
+  },
+  {
+    "id": 458,
+    "question": "¿Qué youtuber mexicano de retos y entretenimiento, conocido como 'Badabun', fue acusado de exponer la vida privada de sus empleados y perdió millones de suscriptores?",
+    "answer": "Badabun fue un canal mexicano muy popular en 2018-2019; el escándalo de Lizbeth Rodríguez ('Exponiendo Infieles') y la salida de colaboradores causaron su caída",
+    "difficulty": 4
+  },
+  {
+    "id": 459,
+    "question": "¿Qué duo de youtubers españoles, conocidos como 'Los Polinesios', son en realidad hermanos mexicanos afincados en España con decenas de millones de seguidores?",
+    "answer": "Los Polinesios son Rafael, Karen y Lesslie Murillo, hermanos mexicanos (no españoles); tienen más de 50 millones de suscriptores sumando sus canales",
+    "difficulty": 3
+  },
+  {
+    "id": 460,
+    "question": "¿Qué youtuber español de humor absurdo y sketches, conocido como 'Auronplay', tiene más de 30 millones de suscriptores y es también streamer en Twitch?",
+    "answer": "Raúl Álvarez Genes (Auronplay); es uno de los creadores de contenido hispanohablantes con mayor audiencia combinada en YouTube y Twitch",
+    "difficulty": 2
+  },
+  {
+    "id": 461,
+    "question": "¿Qué evento de fútbol creado por Gerard Piqué e Ibai Llanos en 2023 enfrentó a streamers de todo el mundo y fue seguido por millones de personas?",
+    "answer": "La Kings League; un torneo de fútbol 7 con reglas especiales donde los equipos son propiedad de streamers como Ibai, TheGrefg, Kun Agüero y otros; la Final Four se jugó en el Camp Nou ante 90.000 espectadores",
+    "difficulty": 3
+  },
+  {
+    "id": 462,
+    "question": "¿Qué youtuber español de viajes y vlogs, conocido como 'Luzu', comparte contenido de gaming y fue compañero de piso de El Rubius y otros creadores en Madrid?",
+    "answer": "Luzu (Lucas Leguizamón), streamer y youtuber argentino-español; formó parte de la famosa 'Casa de Cartón' junto a Ibai, TheGrefg y otros",
+    "difficulty": 3
+  },
+  {
+    "id": 463,
+    "question": "¿Qué streamer y youtuber vasco, conocido como 'Ibai Llanos', organizó las Veladas del Año enfrentando youtubers en boxeo amateur con millones de espectadores?",
+    "answer": "Ibai Llanos; las Veladas del Año se convirtieron en los eventos de streaming más vistos de la historia en español, con la cuarta edición superando los 3 millones de espectadores simultáneos en Twitch",
+    "difficulty": 2
+  },
+  {
+    "id": 464,
+    "question": "¿Qué canal de YouTube en español, fundado por el físico Eduardo Sáenz de Cabezón, divulga matemáticas con humor y fue galardonado con el Premio Ciencia en Acción?",
+    "answer": "Derivando, conducido por Eduardo Sáenz de Cabezón; también imparte charlas TED y es profesor universitario en La Rioja",
+    "difficulty": 5
+  }
 ]

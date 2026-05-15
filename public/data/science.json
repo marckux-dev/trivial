@@ -1,532 +1,3782 @@
 [
-  { "id": 1, "question": "¿Cuál es el elemento químico más abundante en el universo?", "answer": "El hidrógeno (H)", "difficulty": 1 },
-  { "id": 2, "question": "¿A qué temperatura hierve el agua a nivel del mar?", "answer": "100 °C (212 °F)", "difficulty": 1 },
-  { "id": 3, "question": "¿Cuántos cromosomas tiene una célula humana normal?", "answer": "46 (23 pares)", "difficulty": 1 },
-  { "id": 4, "question": "¿Qué gas es esencial para la fotosíntesis?", "answer": "Dióxido de carbono (CO₂)", "difficulty": 1 },
-  { "id": 5, "question": "¿Cuál es el órgano más grande del cuerpo humano?", "answer": "La piel", "difficulty": 1 },
-  { "id": 6, "question": "¿Qué planeta es conocido como el planeta rojo?", "answer": "Marte", "difficulty": 1 },
-  { "id": 7, "question": "¿Cuántos huesos tiene el cuerpo humano adulto?", "answer": "206 huesos", "difficulty": 2 },
-  { "id": 8, "question": "¿Qué vitamina produce el cuerpo cuando se expone al sol?", "answer": "Vitamina D", "difficulty": 2 },
-  { "id": 9, "question": "¿Cuál es la unidad básica de la herencia genética?", "answer": "El gen", "difficulty": 2 },
-  { "id": 10, "question": "¿Cuántas lunas tiene Marte?", "answer": "Dos: Fobos y Deimos", "difficulty": 2 },
-  { "id": 11, "question": "¿Cuál es el metal más ligero?", "answer": "El litio (Li)", "difficulty": 2 },
-  { "id": 12, "question": "¿Qué tipo de roca es el granito?", "answer": "Roca ígnea intrusiva", "difficulty": 2 },
-  { "id": 13, "question": "¿Cuál es la velocidad de la luz en el vacío (aproximada)?", "answer": "299 792 km/s (≈ 300 000 km/s)", "difficulty": 3 },
-  { "id": 14, "question": "¿Qué partícula subatómica no tiene carga eléctrica?", "answer": "El neutrón", "difficulty": 3 },
-  { "id": 15, "question": "¿Cuál es el número atómico del carbono?", "answer": "6", "difficulty": 3 },
-  { "id": 16, "question": "¿En qué parte de la célula se produce la respiración celular?", "answer": "En las mitocondrias", "difficulty": 3 },
-  { "id": 17, "question": "¿Qué ley física establece que la fuerza es igual a la masa por la aceleración?", "answer": "Segunda Ley de Newton", "difficulty": 3 },
-  { "id": 18, "question": "¿Cuántos litros de sangre tiene aproximadamente el cuerpo humano adulto?", "answer": "Entre 4,5 y 5,5 litros", "difficulty": 3 },
-  { "id": 19, "question": "¿Qué científico formuló la teoría de la evolución por selección natural?", "answer": "Charles Darwin", "difficulty": 2 },
-  { "id": 20, "question": "¿Cuál es el ácido presente en el estómago que ayuda a la digestión?", "answer": "Ácido clorhídrico (HCl)", "difficulty": 3 },
-  { "id": 21, "question": "¿Qué tipo de enlace une los aminoácidos en las proteínas?", "answer": "Enlace peptídico", "difficulty": 4 },
-  { "id": 22, "question": "¿Cómo se denomina el proceso metabólico universal que libera energía a partir de glucosa en presencia de oxígeno, y que también realizan las plantas?", "answer": "Respiración celular", "difficulty": 4 },
-  { "id": 23, "question": "¿Qué fenómeno explica por qué el cielo es azul?", "answer": "La dispersión de Rayleigh de la luz solar", "difficulty": 4 },
-  { "id": 24, "question": "¿Cuántos pares de bases nitrogenadas tiene el genoma humano (aproximado)?", "answer": "Unos 3 000 millones de pares de bases", "difficulty": 4 },
-  { "id": 25, "question": "¿Qué es el efecto Compton?", "answer": "El aumento de la longitud de onda de los fotones al chocar con electrones libres", "difficulty": 5 },
-  { "id": 26, "question": "¿Cuál es la diferencia entre fisión y fusión nuclear?", "answer": "En la fisión un núcleo pesado se divide; en la fusión dos núcleos ligeros se unen", "difficulty": 4 },
-  { "id": 27, "question": "¿Qué postulado establece que no es posible conocer simultáneamente la posición y el momento de una partícula con precisión arbitraria?", "answer": "El principio de incertidumbre de Heisenberg", "difficulty": 5 },
-  { "id": 28, "question": "¿Cuál es el punto triple del agua (temperatura y presión)?", "answer": "0,01 °C y 611,73 Pa", "difficulty": 5 },
-  { "id": 29, "question": "¿Qué enzima actúa como «tijera molecular» en la edición genética CRISPR-Cas9?", "answer": "La proteína Cas9 (una endonucleasa)", "difficulty": 5 },
-  { "id": 30, "question": "¿Cuál es la diferencia entre un virus ARN y un virus ADN?", "answer": "El material genético que almacenan: ARN monocatenario/bicatenario vs. ADN", "difficulty": 4 },
-  { "id": 31, "question": "¿Qué órgano bombea la sangre por todo el cuerpo?", "answer": "El corazón", "difficulty": 1 },
-  { "id": 32, "question": "¿Cómo se llama la especialidad médica que trata las enfermedades de la piel?", "answer": "Dermatología", "difficulty": 1 },
-  { "id": 33, "question": "¿Qué profesional sanitario suele encargarse de diagnosticar y tratar problemas de la visión?", "answer": "El oftalmólogo", "difficulty": 1 },
-  { "id": 34, "question": "¿Cómo se llama la presión que ejerce la sangre sobre las arterias?", "answer": "Presión arterial", "difficulty": 1 },
-  { "id": 35, "question": "¿Qué aparato del cuerpo incluye pulmones, tráquea y bronquios?", "answer": "El aparato respiratorio", "difficulty": 1 },
-  { "id": 36, "question": "¿Cuál es la temperatura corporal normal aproximada en un adulto sano?", "answer": "Alrededor de 37 °C", "difficulty": 1 },
-  { "id": 37, "question": "¿Qué célula sanguínea ayuda principalmente a defender el organismo frente a infecciones?", "answer": "Los glóbulos blancos o leucocitos", "difficulty": 1 },
-  { "id": 38, "question": "¿Cómo se llama la prueba que registra la actividad eléctrica del corazón?", "answer": "Electrocardiograma", "difficulty": 1 },
-  { "id": 39, "question": "¿Qué vitamina es esencial para la coagulación normal de la sangre?", "answer": "La vitamina K", "difficulty": 1 },
-  { "id": 40, "question": "¿Qué enfermedad se caracteriza por niveles elevados de glucosa en sangre?", "answer": "La diabetes mellitus", "difficulty": 1 },
-  { "id": 41, "question": "¿Cómo se llama la inflamación del hígado?", "answer": "Hepatitis", "difficulty": 1 },
-  { "id": 42, "question": "¿Qué parte del sistema nervioso central controla funciones como el pensamiento y la memoria?", "answer": "El cerebro", "difficulty": 1 },
-  { "id": 43, "question": "¿Qué instrumento se usa habitualmente para escuchar el corazón y los pulmones?", "answer": "El estetoscopio", "difficulty": 1 },
-  { "id": 44, "question": "¿Cómo se llama la pérdida de masa ósea que aumenta el riesgo de fracturas?", "answer": "Osteoporosis", "difficulty": 1 },
-  { "id": 45, "question": "¿Qué nombre recibe la dificultad para respirar?", "answer": "Disnea", "difficulty": 1 },
-  { "id": 46, "question": "¿Cómo se llama el médico especialista en niños?", "answer": "Pediatra", "difficulty": 1 },
-  { "id": 47, "question": "¿Qué glándula produce insulina?", "answer": "El páncreas", "difficulty": 1 },
-  { "id": 48, "question": "¿Qué análisis suele medir la cantidad de glóbulos rojos, blancos y plaquetas?", "answer": "El hemograma", "difficulty": 1 },
-  { "id": 49, "question": "¿Cómo se llama la vacuna administrada para prevenir el tétanos?", "answer": "La vacuna antitetánica", "difficulty": 1 },
-  { "id": 50, "question": "¿Qué nombre recibe el dolor de cabeza intenso y recurrente de origen neurológico frecuente?", "answer": "Migraña", "difficulty": 1 },
-  { "id": 51, "question": "¿Qué término médico describe una frecuencia cardiaca anormalmente rápida?", "answer": "Taquicardia", "difficulty": 2 },
-  { "id": 52, "question": "¿Qué hormona regula principalmente los niveles de glucosa disminuyéndolos?", "answer": "La insulina", "difficulty": 2 },
-  { "id": 53, "question": "¿Cómo se llama la obstrucción súbita de una arteria cerebral?", "answer": "Ictus isquémico o accidente cerebrovascular isquémico", "difficulty": 2 },
-  { "id": 54, "question": "¿Qué tipo de articulación es la rodilla?", "answer": "Una articulación sinovial de tipo bisagra", "difficulty": 2 },
-  { "id": 55, "question": "¿Cuál es el principal mineral del esmalte dental?", "answer": "La hidroxiapatita", "difficulty": 2 },
-  { "id": 56, "question": "¿Cómo se llama la inflamación del apéndice?", "answer": "Apendicitis", "difficulty": 2 },
-  { "id": 57, "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?", "answer": "0 negativo", "difficulty": 2 },
-  { "id": 58, "question": "¿Qué parámetro se eleva típicamente en una infección bacteriana en una analítica general?", "answer": "Suele elevarse el recuento de leucocitos, especialmente neutrófilos", "difficulty": 2 },
-  { "id": 59, "question": "¿Cómo se llama la inflamación de las articulaciones?", "answer": "Artritis", "difficulty": 2 },
-  { "id": 60, "question": "¿Qué especialidad médica se ocupa del aparato digestivo?", "answer": "Gastroenterología o aparato digestivo", "difficulty": 2 },
-  { "id": 61, "question": "¿Qué estructura del ojo regula la cantidad de luz que entra?", "answer": "El iris, al modificar el tamaño de la pupila", "difficulty": 2 },
-  { "id": 62, "question": "¿Qué prueba de imagen usa rayos X y reconstrucción por ordenador?", "answer": "La tomografía computarizada o TAC", "difficulty": 2 },
-  { "id": 63, "question": "¿Qué término médico describe una presión arterial persistentemente alta?", "answer": "Hipertensión arterial", "difficulty": 2 },
-  { "id": 64, "question": "¿Cómo se llama la bacteria comúnmente asociada a úlceras gástricas y duodenales?", "answer": "Helicobacter pylori", "difficulty": 2 },
-  { "id": 65, "question": "¿Qué función principal tienen las plaquetas?", "answer": "Participar en la coagulación y formar el tapón hemostático", "difficulty": 2 },
-  { "id": 66, "question": "¿Qué nombre recibe la inflamación de los bronquios?", "answer": "Bronquitis", "difficulty": 2 },
-  { "id": 67, "question": "¿Qué electrolito es el catión más abundante dentro de las células?", "answer": "El potasio", "difficulty": 2 },
-  { "id": 68, "question": "¿Qué prueba diagnóstica se usa como cribado principal del cáncer de cuello uterino?", "answer": "La citología cervical o prueba de Papanicolaou", "difficulty": 2 },
-  { "id": 69, "question": "¿Cómo se llama la incapacidad del organismo para producir suficiente hemoglobina o glóbulos rojos funcionales?", "answer": "Anemia", "difficulty": 2 },
-  { "id": 70, "question": "¿Qué especialidad médica trata las enfermedades del riñón?", "answer": "Nefrología", "difficulty": 2 },
-  { "id": 71, "question": "¿Qué nervio craneal es responsable principal del olfato?", "answer": "El nervio olfatorio o I par craneal", "difficulty": 3 },
-  { "id": 72, "question": "¿Qué marcador se usa habitualmente para estimar el control glucémico de los últimos meses?", "answer": "La hemoglobina glicosilada (HbA1c)", "difficulty": 3 },
-  { "id": 73, "question": "¿Qué tipo de shock se produce por una infección grave con respuesta inflamatoria sistémica?", "answer": "Shock séptico", "difficulty": 3 },
-  { "id": 74, "question": "¿Cómo se llama el trastorno autoinmune que afecta a la mielina del sistema nervioso central?", "answer": "Esclerosis múltiple", "difficulty": 3 },
-  { "id": 75, "question": "¿Qué parte del nefrón se encarga principalmente de la filtración inicial de la sangre?", "answer": "El glomérulo", "difficulty": 3 },
-  { "id": 76, "question": "¿Qué hormonas produce la glándula tiroides y se encuentran elevadas en el hipertiroidismo?", "answer": "Las hormonas tiroideas T3 y T4", "difficulty": 3 },
-  { "id": 77, "question": "¿Cómo se denomina la ausencia de pulso y respiración efectiva que requiere RCP inmediata?", "answer": "Parada cardiorrespiratoria", "difficulty": 3 },
-  { "id": 78, "question": "¿Qué arteria se obstruye con mayor frecuencia en un infarto agudo de miocardio anterior?", "answer": "La arteria descendente anterior", "difficulty": 3 },
-  { "id": 79, "question": "¿Qué valora principalmente la escala de Glasgow?", "answer": "El nivel de conciencia", "difficulty": 3 },
-  { "id": 80, "question": "¿Cómo se llama la acumulación de aire en la cavidad pleural que puede colapsar el pulmón?", "answer": "Neumotórax", "difficulty": 3 },
-  { "id": 81, "question": "¿Qué deficiencia vitamínica clásica causa escorbuto?", "answer": "La deficiencia de vitamina C", "difficulty": 3 },
-  { "id": 82, "question": "¿Qué órgano produce la bilis?", "answer": "El hígado", "difficulty": 3 },
-  { "id": 83, "question": "¿Qué infección vírica afecta principalmente a los linfocitos CD4+ si no se trata?", "answer": "La infección por VIH", "difficulty": 3 },
-  { "id": 84, "question": "¿Qué significa EPOC en medicina respiratoria?", "answer": "Enfermedad pulmonar obstructiva crónica", "difficulty": 3 },
-  { "id": 85, "question": "¿Cómo se llama la pérdida brusca de función renal en horas o días?", "answer": "Insuficiencia renal aguda o lesión renal aguda", "difficulty": 3 },
-  { "id": 86, "question": "¿Qué prueba mide volúmenes y flujos respiratorios?", "answer": "La espirometría", "difficulty": 3 },
-  { "id": 87, "question": "¿Qué bacteria es una causa frecuente de neumonía adquirida en la comunidad?", "answer": "Streptococcus pneumoniae", "difficulty": 3 },
-  { "id": 88, "question": "¿Qué término describe la presencia de cálculos en la vesícula biliar?", "answer": "Colelitiasis", "difficulty": 3 },
-  { "id": 89, "question": "¿Qué fármaco analgésico y antipirético también actúa como antiinflamatorio y antiagregante a bajas dosis?", "answer": "El ácido acetilsalicílico", "difficulty": 3 },
-  { "id": 90, "question": "¿Qué parte del cerebro coordina de forma destacada el equilibrio y la precisión del movimiento?", "answer": "El cerebelo", "difficulty": 3 },
-  { "id": 91, "question": "¿Qué autoanticuerpo se asocia de forma característica a la artritis reumatoide junto con los anti-CCP?", "answer": "El factor reumatoide", "difficulty": 4 },
-  { "id": 92, "question": "¿Qué síndrome endocrino resulta de una producción excesiva de cortisol?", "answer": "Síndrome de Cushing", "difficulty": 4 },
-  { "id": 93, "question": "¿Cómo se llama la dilatación anormal y permanente de los bronquios?", "answer": "Bronquiectasias", "difficulty": 4 },
-  { "id": 94, "question": "¿Qué tipo de hipersensibilidad media típicamente la anafilaxia?", "answer": "La hipersensibilidad tipo I mediada por IgE", "difficulty": 4 },
-  { "id": 95, "question": "¿Qué alteración electrolítica grave puede causar ondas T picudas en el ECG?", "answer": "La hiperpotasemia", "difficulty": 4 },
-  { "id": 96, "question": "¿Qué microorganismo produce clásicamente la tuberculosis?", "answer": "Mycobacterium tuberculosis", "difficulty": 4 },
-  { "id": 97, "question": "¿Qué técnica de imagen usa campos magnéticos potentes y radiofrecuencia en lugar de rayos X?", "answer": "La resonancia magnética", "difficulty": 4 },
-  { "id": 98, "question": "¿Qué enfermedad neurodegenerativa se caracteriza por pérdida de neuronas dopaminérgicas en la sustancia negra?", "answer": "La enfermedad de Parkinson", "difficulty": 4 },
-  { "id": 99, "question": "¿Qué vaso sanguíneo lleva sangre oxigenada desde los pulmones hasta la aurícula izquierda?", "answer": "Las venas pulmonares", "difficulty": 4 },
-  { "id": 100, "question": "¿Qué hepatitis vírica se transmite con frecuencia por vía fecal-oral y no suele cronificarse?", "answer": "La hepatitis A", "difficulty": 4 },
-  { "id": 101, "question": "¿Cómo se denomina la infección de las meninges?", "answer": "Meningitis", "difficulty": 4 },
-  { "id": 102, "question": "¿Qué síndrome cardíaco cursa con insuficiencia de la válvula mitral, aortopatía y ectopia lentis en un trastorno del tejido conectivo?", "answer": "El síndrome de Marfan", "difficulty": 4 },
-  { "id": 103, "question": "¿Qué prueba invasiva permite visualizar directamente las arterias coronarias con contraste?", "answer": "La coronariografía o angiografía coronaria", "difficulty": 4 },
-  { "id": 104, "question": "¿Qué célula del sistema inmune madura en el timo?", "answer": "El linfocito T", "difficulty": 4 },
-  { "id": 105, "question": "¿Qué nombre recibe el dolor torácico por isquemia miocárdica sin necrosis establecida?", "answer": "Angina de pecho", "difficulty": 4 },
-  { "id": 106, "question": "¿Qué enfermedad autoinmune produce destrucción de la mielina en el sistema nervioso periférico en su forma clásica aguda?", "answer": "Síndrome de Guillain-Barre", "difficulty": 4 },
-  { "id": 107, "question": "¿Qué alteración del cristalino causa visión borrosa progresiva y se trata a menudo con cirugía?", "answer": "La catarata", "difficulty": 4 },
-  { "id": 108, "question": "¿Qué hormona hipofisaria estimula la secreción de hormonas tiroideas?", "answer": "La TSH o tirotropina", "difficulty": 4 },
-  { "id": 109, "question": "¿Qué trastorno pulmonar se caracteriza por destrucción de alvéolos y pérdida de elasticidad?", "answer": "El enfisema", "difficulty": 4 },
-  { "id": 110, "question": "¿Qué nombre recibe la infección de las válvulas cardíacas?", "answer": "Endocarditis infecciosa", "difficulty": 4 },
-  { "id": 111, "question": "¿Qué escala clínica se utiliza con frecuencia para estimar el riesgo tromboembólico en la fibrilación auricular?", "answer": "La escala CHA2DS2-VASc", "difficulty": 5 },
-  { "id": 112, "question": "¿Qué alteración genética del cromosoma Filadelfia es típica de la leucemia mieloide crónica?", "answer": "La translocación t(9;22) que genera el gen BCR-ABL", "difficulty": 5 },
-  { "id": 113, "question": "¿Qué marcador inmunohistoquímico suele emplearse para estimar proliferación tumoral?", "answer": "Ki-67", "difficulty": 5 },
-  { "id": 114, "question": "¿Qué síndrome paraneoplásico se asocia clásicamente al carcinoma microcítico de pulmón por secreción ectópica de ADH?", "answer": "El síndrome de secreción inadecuada de ADH (SIADH)", "difficulty": 5 },
-  { "id": 115, "question": "¿Qué alteración ácido-base presenta un paciente con cetoacidosis diabética de forma típica?", "answer": "Acidosis metabólica con anión gap elevado", "difficulty": 5 },
-  { "id": 116, "question": "¿Qué subtipo de hipersensibilidad explica la anemia hemolítica autoinmune mediada por anticuerpos contra eritrocitos?", "answer": "La hipersensibilidad tipo II", "difficulty": 5 },
-  { "id": 117, "question": "¿Qué estructura cardíaca suele originar los impulsos ectópicos que desencadenan fibrilación auricular en muchos casos?", "answer": "Las venas pulmonares", "difficulty": 5 },
-  { "id": 118, "question": "¿Qué hormona se eleva de forma característica en el hiperparatiroidismo primario?", "answer": "La hormona paratiroidea", "difficulty": 5 },
-  { "id": 119, "question": "¿Qué infección oportunista pulmonar es clásica en pacientes con inmunosupresión avanzada por VIH?", "answer": "La neumonía por Pneumocystis jirovecii", "difficulty": 5 },
-  { "id": 120, "question": "¿Qué anticuerpo es especialmente útil y más específico que el factor reumatoide para apoyar el diagnóstico de artritis reumatoide?", "answer": "El anticuerpo anti-CCP", "difficulty": 5 },
-  { "id": 121, "question": "¿Qué parte de la cascada de coagulación inhibe directamente la heparina al potenciar la antitrombina?", "answer": "Principalmente la trombina y el factor Xa", "difficulty": 5 },
-  { "id": 122, "question": "¿Qué síndrome cursa con hiponatremia, hiperpotasemia e hipotensión por insuficiencia suprarrenal primaria?", "answer": "La enfermedad de Addison", "difficulty": 5 },
-  { "id": 123, "question": "¿Qué hallazgo histológico es característico de la enfermedad celíaca en intestino delgado?", "answer": "Atrofia vellosa con hiperplasia de criptas e infiltrado linfocitario", "difficulty": 5 },
-  { "id": 124, "question": "¿Qué enfermedad de depósito lisosomal se debe a déficit de glucocerebrosidasa?", "answer": "La enfermedad de Gaucher", "difficulty": 5 },
-  { "id": 125, "question": "¿Qué arritmia muestra un trazado ECG irregularmente irregular sin ondas P definidas?", "answer": "La fibrilación auricular", "difficulty": 5 },
-  { "id": 126, "question": "¿Qué síndrome neurológico produce oftalmoplejía, ataxia y confusión por déficit de tiamina?", "answer": "La encefalopatía de Wernicke", "difficulty": 5 },
-  { "id": 127, "question": "¿Qué bacteria encapsulada del grupo B causa con frecuencia sepsis neonatal y meningitis en recién nacidos?", "answer": "Streptococcus agalactiae", "difficulty": 5 },
-  { "id": 128, "question": "¿Qué marcador bioquímico es más específico para necrosis miocárdica en un infarto agudo de miocardio?", "answer": "La troponina cardíaca", "difficulty": 5 },
-  { "id": 129, "question": "¿Qué tipo de necrosis es típica del infarto cerebral establecido?", "answer": "La necrosis licuefactiva", "difficulty": 5 },
-  { "id": 130, "question": "¿Qué mecanismo fisiopatológico explica el edema en el síndrome nefrótico por pérdida urinaria de proteínas?", "answer": "La disminución de la presión oncótica plasmática por hipoalbuminemia", "difficulty": 5 },
-  { "id": 131, "question": "¿Qué órgano del cuerpo humano bombea la sangre?", "answer": "El corazón", "difficulty": 1 },
-  { "id": 132, "question": "¿Qué gas respiramos principalmente del aire para vivir?", "answer": "Oxígeno", "difficulty": 1 },
-  { "id": 133, "question": "¿Qué parte de la planta absorbe agua y sales minerales del suelo?", "answer": "La raíz", "difficulty": 1 },
-  { "id": 134, "question": "¿Qué astro ilumina la Tierra durante el día?", "answer": "El Sol", "difficulty": 1 },
-  { "id": 135, "question": "¿Qué estado de la materia tiene forma y volumen definidos?", "answer": "El sólido", "difficulty": 1 },
-  { "id": 136, "question": "¿Cómo se llama el proceso por el que las plantas fabrican su alimento con luz?", "answer": "Fotosíntesis", "difficulty": 1 },
-  { "id": 137, "question": "¿Qué ciencia estudia los animales?", "answer": "La zoología", "difficulty": 1 },
-  { "id": 138, "question": "¿Qué instrumento se usa para observar objetos muy pequeños?", "answer": "El microscopio", "difficulty": 1 },
-  { "id": 139, "question": "¿Qué planeta es el más grande del sistema solar?", "answer": "Júpiter", "difficulty": 1 },
-  { "id": 140, "question": "¿Qué metal líquido es famoso por usarse en termómetros antiguos?", "answer": "El mercurio", "difficulty": 1 },
-  { "id": 141, "question": "¿Qué hueso protege el cerebro?", "answer": "El cráneo", "difficulty": 1 },
-  { "id": 142, "question": "¿Qué estructura muscular del ojo contrae y dilata la pupila para regular la entrada de luz?", "answer": "El iris", "difficulty": 1 },
-  { "id": 143, "question": "¿Qué ciencia estudia los seres vivos?", "answer": "La biología", "difficulty": 1 },
-  { "id": 144, "question": "¿Qué capa gaseosa rodea la Tierra?", "answer": "La atmósfera", "difficulty": 1 },
-  { "id": 145, "question": "¿Qué planeta está más cerca del Sol?", "answer": "Mercurio", "difficulty": 1 },
-  { "id": 146, "question": "¿Qué animal es el mamífero más grande del mundo?", "answer": "La ballena azul", "difficulty": 1 },
-  { "id": 147, "question": "¿Qué órgano humano se encarga principalmente de filtrar la sangre y producir orina?", "answer": "Los riñones", "difficulty": 1 },
-  { "id": 148, "question": "¿Qué parte de la célula contiene la mayor parte del material genético?", "answer": "El núcleo", "difficulty": 1 },
-  { "id": 149, "question": "¿Cómo se llama la fuerza que nos mantiene pegados al suelo?", "answer": "La gravedad", "difficulty": 1 },
-  { "id": 150, "question": "¿Cuál es la forma activa de la vitamina D que produce el cuerpo a partir de la exposición solar?", "answer": "El calcitriol o 1,25-dihidroxivitamina D", "difficulty": 2 },
-  { "id": 151, "question": "¿Por qué el grupo sanguíneo 0 negativo se considera donante universal de glóbulos rojos?", "answer": "Porque carece de antígenos A, B ni Rh en la superficie eritrocitaria", "difficulty": 2 },
-  { "id": 152, "question": "¿Qué planeta tiene los anillos más visibles del sistema solar?", "answer": "Saturno", "difficulty": 2 },
-  { "id": 153, "question": "¿Qué órgano del sistema respiratorio intercambia oxígeno y dióxido de carbono con la sangre?", "answer": "Los pulmones", "difficulty": 2 },
-  { "id": 154, "question": "¿Qué unidad se usa para medir la fuerza en el sistema internacional?", "answer": "El newton", "difficulty": 2 },
-  { "id": 155, "question": "¿Cómo se llama la galaxia en la que se encuentra el sistema solar?", "answer": "La Vía Láctea", "difficulty": 2 },
-  { "id": 156, "question": "¿Qué animal transmite la malaria?", "answer": "El mosquito Anopheles", "difficulty": 2 },
-  { "id": 157, "question": "¿Qué parte del sistema nervioso central conecta el encéfalo con el resto del cuerpo?", "answer": "La médula espinal", "difficulty": 2 },
-  { "id": 158, "question": "¿Qué metal tiene el símbolo químico Fe?", "answer": "El hierro", "difficulty": 2 },
-  { "id": 159, "question": "¿Qué tipo de eclipse ocurre cuando la Luna se interpone entre la Tierra y el Sol?", "answer": "Un eclipse solar", "difficulty": 2 },
-  { "id": 160, "question": "¿Cómo se llama el cambio de líquido a gas?", "answer": "Evaporación", "difficulty": 2 },
-  { "id": 161, "question": "¿Qué planeta tarda más en dar una vuelta completa al Sol?", "answer": "Neptuno", "difficulty": 2 },
-  { "id": 162, "question": "¿Qué científico formuló la ley de la gravitación universal?", "answer": "Isaac Newton", "difficulty": 2 },
-  { "id": 163, "question": "¿Qué órgano se encarga principalmente de desintoxicar sustancias en el cuerpo humano?", "answer": "El hígado", "difficulty": 2 },
-  { "id": 164, "question": "¿Qué unidad se usa para medir la intensidad de corriente eléctrica?", "answer": "El amperio", "difficulty": 2 },
-  { "id": 165, "question": "¿Qué tejido del cuerpo une músculo con hueso?", "answer": "El tendón", "difficulty": 2 },
-  { "id": 166, "question": "¿Qué fenómeno hace que un imán atraiga ciertos metales?", "answer": "El magnetismo", "difficulty": 2 },
-  { "id": 167, "question": "¿Qué nombre recibe el conjunto de todos los genes de un organismo?", "answer": "Genoma", "difficulty": 2 },
-  { "id": 168, "question": "¿Qué partícula subatómica tiene carga negativa?", "answer": "El electrón", "difficulty": 3 },
-  { "id": 169, "question": "¿Qué capa de la atmósfera contiene la mayor parte del ozono?", "answer": "La estratosfera", "difficulty": 3 },
-  { "id": 170, "question": "¿En qué obra publicada en 1859 expuso Charles Darwin su teoría de la evolución por selección natural?", "answer": "El origen de las especies", "difficulty": 3 },
-  { "id": 171, "question": "¿Qué tipo de célula sanguínea participa principalmente en la defensa inmunitaria?", "answer": "Los leucocitos", "difficulty": 3 },
-  { "id": 172, "question": "¿Qué órgano del oído interno participa en el equilibrio?", "answer": "Los canales semicirculares", "difficulty": 3 },
-  { "id": 173, "question": "¿Cómo se llama el punto de la órbita terrestre más cercano al Sol?", "answer": "Perihelio", "difficulty": 3 },
-  { "id": 174, "question": "¿Qué enlace químico se forma por compartición de electrones?", "answer": "El enlace covalente", "difficulty": 3 },
-  { "id": 175, "question": "¿Qué científico desarrolló las leyes del movimiento planetario?", "answer": "Johannes Kepler", "difficulty": 3 },
-  { "id": 176, "question": "¿Qué proceso celular produce la mayor parte del ATP en presencia de oxígeno?", "answer": "La respiración celular", "difficulty": 3 },
-  { "id": 177, "question": "¿Qué escala sismológica moderna mide la magnitud de un terremoto?", "answer": "La magnitud de momento", "difficulty": 3 },
-  { "id": 178, "question": "¿Qué glóbulo sanguíneo transporta principalmente oxígeno?", "answer": "El eritrocito o glóbulo rojo", "difficulty": 3 },
-  { "id": 179, "question": "¿Qué rama de la física estudia el calor y la energía?", "answer": "La termodinámica", "difficulty": 3 },
-  { "id": 180, "question": "¿Qué planeta tiene el día más largo en duración de rotación?", "answer": "Venus", "difficulty": 3 },
-  { "id": 181, "question": "¿Qué biomolécula almacena la información genética?", "answer": "El ADN", "difficulty": 3 },
-  { "id": 182, "question": "¿Qué científico descubrió la penicilina?", "answer": "Alexander Fleming", "difficulty": 3 },
-  { "id": 183, "question": "¿Qué región del cerebro se asocia de forma destacada con la coordinación motora?", "answer": "El cerebelo", "difficulty": 3 },
-  { "id": 184, "question": "¿Cuántos electrones tiene el carbono en su configuración más estable cuando no está ionizado?", "answer": "6 electrones (número atómico 6)", "difficulty": 3 },
-  { "id": 185, "question": "¿Qué nombre recibe el proceso por el que una estrella agota su combustible y colapsa violentamente en algunos casos?", "answer": "Supernova", "difficulty": 3 },
-  { "id": 186, "question": "¿Qué órgano vegetal es responsable principalmente de la reproducción en las plantas con flor?", "answer": "La flor", "difficulty": 3 },
-  { "id": 187, "question": "¿Qué enfermedad se caracteriza por niveles altos de glucosa en sangre?", "answer": "La diabetes", "difficulty": 3 },
-  { "id": 188, "question": "¿Qué científico propuso el principio de incertidumbre?", "answer": "Werner Heisenberg", "difficulty": 4 },
-  { "id": 189, "question": "¿Qué orgánulo celular contiene enzimas digestivas y participa en la degradación de materiales?", "answer": "El lisosoma", "difficulty": 4 },
-  { "id": 190, "question": "¿Qué nombre recibe la radiación emitida cuando un electrón cambia a un nivel energético inferior?", "answer": "Fotón", "difficulty": 4 },
-  { "id": 191, "question": "¿Qué proceso convierte nitrógeno atmosférico en compuestos aprovechables biológicamente?", "answer": "La fijación del nitrógeno", "difficulty": 4 },
-  { "id": 192, "question": "¿Qué estructura del riñón filtra inicialmente la sangre?", "answer": "El glomérulo", "difficulty": 4 },
-  { "id": 193, "question": "¿Qué científico formuló las ecuaciones que unifican electricidad y magnetismo?", "answer": "James Clerk Maxwell", "difficulty": 4 },
-  { "id": 194, "question": "¿Qué tipo de roca se forma a partir del enfriamiento del magma?", "answer": "Roca ígnea", "difficulty": 4 },
-  { "id": 195, "question": "¿Qué partícula del núcleo atómico no tiene carga eléctrica?", "answer": "El neutrón", "difficulty": 4 },
-  { "id": 196, "question": "¿Qué nombre recibe la resistencia de un material a ser rayado en mineralogía?", "answer": "Dureza", "difficulty": 4 },
-  { "id": 197, "question": "¿Qué molécula transporta información del ADN a los ribosomas?", "answer": "ARN mensajero", "difficulty": 4 },
-  { "id": 198, "question": "¿Qué tipo de inmunidad se adquiere mediante vacunación?", "answer": "Inmunidad activa artificial", "difficulty": 4 },
-  { "id": 199, "question": "¿Qué astrónomo demostró con observaciones telescópicas evidencias a favor del heliocentrismo?", "answer": "Galileo Galilei", "difficulty": 4 },
-  { "id": 200, "question": "¿Qué proceso geológico crea nueva corteza oceánica en las dorsales?", "answer": "Expansión del fondo oceánico", "difficulty": 4 },
-  { "id": 201, "question": "¿Qué constante física representa la velocidad de la luz en el vacío?", "answer": "c", "difficulty": 4 },
-  { "id": 202, "question": "¿Qué neurotransmisor se encuentra reducido en el cuerpo estriado de los pacientes con Parkinson?", "answer": "La dopamina", "difficulty": 4 },
-  { "id": 203, "question": "¿Qué tipo de célula produce mielina en el sistema nervioso central?", "answer": "El oligodendrocito", "difficulty": 4 },
-  { "id": 204, "question": "¿A qué temperatura en Kelvin corresponde el punto de ebullición del agua a nivel del mar?", "answer": "373,15 K", "difficulty": 4 },
-  { "id": 205, "question": "¿Qué familia de elementos incluye helio, neón y argón?", "answer": "Los gases nobles", "difficulty": 4 },
-  { "id": 206, "question": "¿Qué teoría describe la atracción gravitatoria como curvatura del espacio-tiempo?", "answer": "La relatividad general", "difficulty": 4 },
-  { "id": 207, "question": "¿Qué proceso celular reparte cromosomas en dos núcleos idénticos durante la división somática?", "answer": "Mitosis", "difficulty": 4 },
-  { "id": 208, "question": "¿Qué científico describió la estructura en doble hélice del ADN junto con James Watson?", "answer": "Francis Crick", "difficulty": 5 },
-  { "id": 209, "question": "¿Qué fenómeno óptico explica la separación de colores en un prisma?", "answer": "La dispersión de la luz", "difficulty": 5 },
-  { "id": 210, "question": "¿Qué capa de la Tierra está formada principalmente por hierro y níquel en estado sólido en su parte más interna?", "answer": "El núcleo interno", "difficulty": 5 },
-  { "id": 211, "question": "¿Qué enzima de la PCR se hizo famosa por resistir altas temperaturas?", "answer": "Taq polimerasa", "difficulty": 5 },
-  { "id": 212, "question": "¿Qué nombre recibe el proceso por el que una célula incorpora partículas grandes rodeándolas con su membrana?", "answer": "Fagocitosis", "difficulty": 5 },
-  { "id": 213, "question": "¿Qué fuerza mantiene unidos protones y neutrones dentro del núcleo atómico?", "answer": "La interacción nuclear fuerte", "difficulty": 5 },
-  { "id": 214, "question": "¿Qué tipo de estrella es el Sol según su clasificación espectral principal?", "answer": "Una enana amarilla de tipo G", "difficulty": 5 },
-  { "id": 215, "question": "¿Qué ley de Mendel describe la separación de alelos durante la formación de gametos?", "answer": "La ley de la segregación", "difficulty": 5 },
-  { "id": 216, "question": "¿Qué estructura del encéfalo regula funciones como la temperatura corporal y el hambre?", "answer": "El hipotálamo", "difficulty": 5 },
-  { "id": 217, "question": "¿Qué mineral es la principal mena del aluminio?", "answer": "La bauxita", "difficulty": 5 },
-  { "id": 218, "question": "¿Qué científico explicó el efecto fotoeléctrico en 1905?", "answer": "Albert Einstein", "difficulty": 5 },
-  { "id": 219, "question": "¿Qué tipo de enlace estabiliza la estructura secundaria de las proteínas?", "answer": "El puente de hidrógeno", "difficulty": 5 },
-  { "id": 220, "question": "¿Qué nombre recibe el límite a partir del cual ni la luz puede escapar de un agujero negro no rotatorio?", "answer": "El horizonte de sucesos", "difficulty": 5 },
-  { "id": 221, "question": "¿Qué método usa ondas de alta frecuencia para generar imágenes médicas en tiempo real?", "answer": "La ecografía", "difficulty": 5 },
-  { "id": 222, "question": "¿Qué orgánulo celular es el principal responsable de la producción de ATP?", "answer": "La mitocondria", "difficulty": 5 },
-  { "id": 223, "question": "¿Qué científico planteó la teoría microbiana de la enfermedad y desarrolló vacunas como la de la rabia?", "answer": "Louis Pasteur", "difficulty": 5 },
-  { "id": 224, "question": "¿Qué tipo de fósil conserva la huella o actividad de un organismo más que su cuerpo?", "answer": "Icnofósil", "difficulty": 5 },
-  { "id": 225, "question": "¿Qué unidad se utiliza para medir dosis absorbida de radiación ionizante?", "answer": "El gray", "difficulty": 5 },
-  { "id": 226, "question": "¿Qué fenómeno cuántico permite que partículas atraviesen barreras de potencial?", "answer": "El efecto túnel", "difficulty": 5 },
-  { "id": 227, "question": "¿Qué célula inmunitaria produce anticuerpos de forma directa tras la diferenciación final de un linfocito B?", "answer": "La célula plasmática", "difficulty": 5 },
-  { "id": 228, "question": "¿Qué animal tiene tres corazones?", "answer": "El pulpo", "difficulty": 1 },
-  { "id": 229, "question": "¿Qué planeta gira 'acostado', casi sobre su lado?", "answer": "Urano", "difficulty": 1 },
-  { "id": 230, "question": "¿Qué metal es líquido a temperatura ambiente?", "answer": "El mercurio", "difficulty": 1 },
-  { "id": 231, "question": "¿Qué parte del cuerpo humano tiene las huellas dactilares?", "answer": "Los dedos", "difficulty": 1 },
-  { "id": 232, "question": "¿Qué gas hace que la voz se vuelva aguda al inhalarlo brevemente?", "answer": "El helio", "difficulty": 1 },
-  { "id": 233, "question": "¿Qué ave no puede volar pero es la más grande del mundo?", "answer": "El avestruz", "difficulty": 1 },
-  { "id": 234, "question": "¿Qué órgano humano no siente dolor porque carece de receptores del dolor en su tejido?", "answer": "El cerebro", "difficulty": 1 },
-  { "id": 235, "question": "¿Qué animal puede regenerar algunos de sus brazos?", "answer": "La estrella de mar", "difficulty": 1 },
-  { "id": 236, "question": "¿Qué planeta tiene el día más largo del sistema solar por su rotación lenta?", "answer": "Venus", "difficulty": 1 },
-  { "id": 237, "question": "¿Qué líquido del cuerpo ayuda a enfriar la piel al evaporarse?", "answer": "El sudor", "difficulty": 1 },
-  { "id": 238, "question": "¿Qué mamífero puede dormir colgado boca abajo?", "answer": "El murciélago", "difficulty": 1 },
-  { "id": 239, "question": "¿Qué parte de la lengua detecta sabores, aunque no haya zonas exclusivas rígidas como se creyó?", "answer": "Las papilas gustativas", "difficulty": 1 },
-  { "id": 240, "question": "¿Qué animal terrestre más rápido puede superar los 100 km/h?", "answer": "El guepardo", "difficulty": 1 },
-  { "id": 241, "question": "¿Qué elemento químico da nombre al símbolo O?", "answer": "El oxígeno", "difficulty": 1 },
-  { "id": 242, "question": "¿Qué animal tiene la mordida más potente entre los grandes felinos?", "answer": "El jaguar", "difficulty": 1 },
-  { "id": 243, "question": "¿Qué hueso del cuerpo humano es el más pequeño?", "answer": "El estribo", "difficulty": 1 },
-  { "id": 244, "question": "¿Qué planeta es famoso por su gran mancha roja?", "answer": "Júpiter", "difficulty": 1 },
-  { "id": 245, "question": "¿Qué animal es capaz de cambiar de color con gran rapidez?", "answer": "El camaleón", "difficulty": 1 },
-  { "id": 246, "question": "¿Qué tipo de luz del Sol puede ayudar al cuerpo a producir vitamina D?", "answer": "La luz ultravioleta B", "difficulty": 1 },
-  { "id": 247, "question": "¿Qué sustancia dura natural forma los diamantes?", "answer": "Carbono", "difficulty": 1 },
-  { "id": 248, "question": "¿Qué animal marino tiene sangre azul debido a la hemocianina?", "answer": "El cangrejo herradura", "difficulty": 2 },
-  { "id": 249, "question": "¿Qué fenómeno hace que el cielo parezca azul de día?", "answer": "La dispersión de Rayleigh", "difficulty": 2 },
-  { "id": 250, "question": "¿Qué planeta tiene vientos que pueden superar los 1.500 km/h?", "answer": "Neptuno", "difficulty": 2 },
-  { "id": 251, "question": "¿Qué partes del rostro humano siguen pareciendo más grandes con la edad, aunque el cartílago no crece indefinidamente?", "answer": "La nariz y las orejas", "difficulty": 2 },
-  { "id": 252, "question": "¿Qué animal puede sobrevivir a condiciones extremas entrando en criptobiosis?", "answer": "El tardígrado", "difficulty": 2 },
-  { "id": 253, "question": "¿Qué hueso humano es el más largo?", "answer": "El fémur", "difficulty": 2 },
-  { "id": 254, "question": "¿Qué animal pone los huevos más grandes del mundo actual?", "answer": "El avestruz", "difficulty": 2 },
-  { "id": 255, "question": "¿Qué planeta tiene la montaña más alta conocida del sistema solar?", "answer": "Marte, con el Olympus Mons", "difficulty": 2 },
-  { "id": 256, "question": "¿Qué líquido forma la mayor parte del cuerpo humano adulto?", "answer": "El agua", "difficulty": 2 },
-  { "id": 257, "question": "¿Qué insecto puede levantar varias veces su propio peso?", "answer": "La hormiga", "difficulty": 2 },
-  { "id": 258, "question": "¿Qué órgano humano consume una parte desproporcionada de la energía corporal en reposo?", "answer": "El cerebro", "difficulty": 2 },
-  { "id": 259, "question": "¿Qué mamífero marino puede aguantar mucho tiempo bajo el agua gracias a reservas de oxígeno y reflejos de inmersión?", "answer": "El cachalote", "difficulty": 2 },
-  { "id": 260, "question": "¿Qué metal alcalino explota con el agua de forma espectacular?", "answer": "El sodio", "difficulty": 2 },
-  { "id": 261, "question": "¿Qué planeta tiene más lunas conocidas en la actualidad que ninguno en algunas clasificaciones recientes?", "answer": "Saturno", "difficulty": 2 },
-  { "id": 262, "question": "¿Qué ser vivo produce la seda natural más conocida?", "answer": "El gusano de seda", "difficulty": 2 },
-  { "id": 263, "question": "¿Qué animal puede dormir de pie?", "answer": "El caballo", "difficulty": 2 },
-  { "id": 264, "question": "¿Qué tipo de roca se forma al enfriarse lava o magma?", "answer": "La roca ígnea", "difficulty": 2 },
-  { "id": 265, "question": "¿Qué ave puede volar hacia atrás?", "answer": "El colibrí", "difficulty": 2 },
-  { "id": 266, "question": "¿Qué estructura del ojo se encarga principalmente de enfocar la luz ajustando su forma?", "answer": "El cristalino", "difficulty": 2 },
-  { "id": 267, "question": "¿Qué planeta tiene una presión atmosférica superficial aplastante y una temperatura extrema?", "answer": "Venus", "difficulty": 2 },
-  { "id": 268, "question": "¿Qué animal posee el ojo más grande del reino animal actual?", "answer": "El calamar gigante", "difficulty": 3 },
-  { "id": 269, "question": "¿Qué fenómeno geológico puede crear columnas hexagonales de basalto al enfriarse lava?", "answer": "La contracción térmica del basalto", "difficulty": 3 },
-  { "id": 270, "question": "¿Qué molécula da color rojo a la sangre humana por su hierro?", "answer": "La hemoglobina", "difficulty": 3 },
-  { "id": 271, "question": "¿Qué estrella de mar, erizo y pepino de mar pertenecen al mismo grupo zoológico?", "answer": "Los equinodermos", "difficulty": 3 },
-  { "id": 272, "question": "¿Cómo se llama el régimen ecológico en que ciertos ecosistemas necesitan incendios periódicos para renovarse, como ocurre con pinos o eucaliptos?", "answer": "Régimen de fuego o pirofitia", "difficulty": 3 },
-  { "id": 273, "question": "¿Qué animal tiene el corazón del tamaño aproximado de un coche pequeño?", "answer": "La ballena azul", "difficulty": 3 },
-  { "id": 274, "question": "¿Qué nombre recibe el relámpago que ocurre dentro de una nube o entre nubes?", "answer": "Rayo intranube o entre nubes", "difficulty": 3 },
-  { "id": 275, "question": "¿Qué sustancia vuelve picantes a los chiles o guindillas?", "answer": "La capsaicina", "difficulty": 3 },
-  { "id": 276, "question": "¿Qué mineral común puede rayar el vidrio con facilidad?", "answer": "El cuarzo", "difficulty": 3 },
-  { "id": 277, "question": "¿Qué tejido vegetal transporta agua desde la raíz a las hojas?", "answer": "El xilema", "difficulty": 3 },
-  { "id": 278, "question": "¿Qué animal se orienta usando campos magnéticos además de otras pistas ambientales?", "answer": "La tortuga marina", "difficulty": 3 },
-  { "id": 279, "question": "¿Qué proceso biológico produce luz en animales como luciérnagas y algunos organismos marinos?", "answer": "La bioluminiscencia", "difficulty": 3 },
-  { "id": 280, "question": "¿Qué región de la atmósfera donde orbitan muchos satélites de baja altura se calienta intensamente pese a su baja densidad?", "answer": "La termosfera", "difficulty": 3 },
-  { "id": 281, "question": "¿Qué fenómeno hace que algunos metales se dilaten con el calor?", "answer": "La expansión térmica", "difficulty": 3 },
-  { "id": 282, "question": "¿Qué mamífero monotremo pone huevos en lugar de parir crías vivas?", "answer": "El ornitorrinco", "difficulty": 3 },
-  { "id": 283, "question": "¿Qué planta carnívora cierra rápidamente una trampa sobre sus presas?", "answer": "La venus atrapamoscas", "difficulty": 3 },
-  { "id": 284, "question": "¿Qué glóbulos sanguíneos ayudan a coagular la sangre aunque técnicamente sean fragmentos celulares?", "answer": "Las plaquetas", "difficulty": 3 },
-  { "id": 285, "question": "¿Qué tipo de nube se asocia a tormentas intensas y gran desarrollo vertical?", "answer": "El cumulonimbo", "difficulty": 3 },
-  { "id": 286, "question": "¿Qué fenómeno físico permite que un barco enorme flote?", "answer": "El empuje de Arquímedes", "difficulty": 3 },
-  { "id": 287, "question": "¿Qué animal puede detectar campos eléctricos débiles en el agua?", "answer": "El tiburón", "difficulty": 3 },
-  { "id": 288, "question": "¿Qué color adquiere a menudo la llama del cobre al calentarse?", "answer": "Verdoso o verde azulado", "difficulty": 4 },
-  { "id": 289, "question": "¿Qué nombre recibe el miedo intenso a los espacios cerrados que tiene base psicológica y fisiológica?", "answer": "Claustrofobia", "difficulty": 4 },
-  { "id": 290, "question": "¿Qué estructura de las bacterias les permite intercambiar material genético en algunos casos?", "answer": "Los plásmidos", "difficulty": 4 },
-  { "id": 291, "question": "¿Qué planeta del sistema solar emite más calor del que recibe del Sol de forma notable?", "answer": "Júpiter", "difficulty": 4 },
-  { "id": 292, "question": "¿Qué mineral forma gran parte de los esqueletos de muchos animales marinos como corales y moluscos?", "answer": "Carbonato cálcico", "difficulty": 4 },
-  { "id": 293, "question": "¿Qué capa del ojo contiene los fotorreceptores bastones y conos?", "answer": "La retina", "difficulty": 4 },
-  { "id": 294, "question": "¿Qué nombre recibe el agua subterránea acumulada en una formación permeable?", "answer": "Acuífero", "difficulty": 4 },
-  { "id": 295, "question": "¿Qué fenómeno hace que algunas ranas o insectos sobrevivan parcialmente congelados en invierno?", "answer": "La crioprotección biológica", "difficulty": 4 },
-  { "id": 296, "question": "¿Qué partícula elemental de la luz explica que también tenga comportamiento cuántico?", "answer": "El fotón", "difficulty": 4 },
-  { "id": 297, "question": "¿Qué gas noble se usa a veces para crear luces brillantes en carteles luminosos, aunque muchos usen mezclas?", "answer": "Neón", "difficulty": 4 },
-  { "id": 298, "question": "¿Qué estructura celular vegetal da rigidez extra y está compuesta en gran parte por celulosa?", "answer": "La pared celular", "difficulty": 4 },
-  { "id": 299, "question": "¿Qué bacteria intestinal famosa se usa mucho como organismo modelo en laboratorio?", "answer": "Escherichia coli", "difficulty": 4 },
-  { "id": 300, "question": "¿Qué nombre recibe el reflejo automático que hace contraerse la pupila ante mucha luz?", "answer": "Reflejo fotomotor", "difficulty": 4 },
-  { "id": 301, "question": "¿Qué tipo de simbiosis tienen ciertos hongos con raíces de plantas mejorando su absorción?", "answer": "Micorrizas", "difficulty": 4 },
-  { "id": 302, "question": "¿Qué planeta presenta estaciones extremas por su gran inclinación del eje de rotación?", "answer": "Urano", "difficulty": 4 },
-  { "id": 303, "question": "¿Qué tipo de animal marino usa ampolletas de Lorenzini para detectar electricidad?", "answer": "Los tiburones y rayas", "difficulty": 4 },
-  { "id": 304, "question": "¿Qué causa el sonido del trueno tras un rayo?", "answer": "La expansión violenta del aire calentado por el arco eléctrico del rayo", "difficulty": 4 },
-  { "id": 305, "question": "¿Qué parte del ADN se acorta con la edad celular y se relaciona con el envejecimiento replicativo?", "answer": "Los telómeros", "difficulty": 4 },
-  { "id": 306, "question": "¿Qué fenómeno químico hace que algunas sustancias absorban agua del ambiente con facilidad?", "answer": "Higroscopicidad", "difficulty": 4 },
-  { "id": 307, "question": "¿Qué grupo de mamíferos marinos incluye delfines y ballenas?", "answer": "Los cetáceos", "difficulty": 4 },
-  { "id": 308, "question": "¿Qué organismo extremófilo puede vivir en géiseres y fuentes termales muy calientes?", "answer": "Algunas arqueas termófilas", "difficulty": 5 },
-  { "id": 309, "question": "¿Qué nombre recibe el punto de equilibrio en el oído interno donde pequeños cristales mal colocados pueden causar vértigo?", "answer": "El sistema vestibular; el problema típico es en los canales semicirculares", "difficulty": 5 },
-  { "id": 310, "question": "¿Qué estrella conocida estallará algún día como supernova y está en la constelación de Orión?", "answer": "Betelgeuse", "difficulty": 5 },
-  { "id": 311, "question": "¿Qué molécula energética se considera la 'moneda' energética celular?", "answer": "ATP", "difficulty": 5 },
-  { "id": 312, "question": "¿Qué propiedad cuántica impide conocer simultáneamente con precisión absoluta posición y momento?", "answer": "El principio de incertidumbre", "difficulty": 5 },
-  { "id": 313, "question": "¿Qué animal marino posee un sistema nervioso distribuido con gran capacidad de aprendizaje y manipulación?", "answer": "El pulpo", "difficulty": 5 },
-  { "id": 314, "question": "¿Qué fenómeno geológico forma a veces 'bolas de piedra' o concreciones esféricas en sedimentos?", "answer": "La concreción mineral", "difficulty": 5 },
-  { "id": 315, "question": "¿Qué pigmento vegetal accesorio da tonos naranjas y amarillos a muchas hojas y frutos?", "answer": "Los carotenoides", "difficulty": 5 },
-  { "id": 316, "question": "¿Qué proceso hace que la luz cambie de dirección al pasar de un medio a otro?", "answer": "La refracción", "difficulty": 5 },
-  { "id": 317, "question": "¿Qué término describe a los organismos capaces de fabricar su propia materia orgánica a partir de sustancias inorgánicas?", "answer": "Autótrofos", "difficulty": 5 },
-  { "id": 318, "question": "¿Qué animal soporta temperaturas corporales variables reduciendo su metabolismo al mínimo en el hielo antártico?", "answer": "Algunos peces antárticos con proteínas anticongelantes", "difficulty": 5 },
-  { "id": 319, "question": "¿Qué nombre recibe el fenómeno por el que los satélites muestran siempre la misma cara a su planeta por acoplamiento gravitatorio?", "answer": "Rotación síncrona", "difficulty": 5 },
-  { "id": 320, "question": "¿Qué estructura geológica se forma cuando magma se enfría lentamente bajo tierra y luego queda expuesto por erosión?", "answer": "Un plutón", "difficulty": 5 },
-  { "id": 321, "question": "¿Qué compuesto del ajo se genera al cortarlo y contribuye a su olor característico?", "answer": "La alicina", "difficulty": 5 },
-  { "id": 322, "question": "¿Qué adaptación tienen algunos mamíferos del desierto para perder menos agua al respirar?", "answer": "Cornetes nasales que recuperan humedad", "difficulty": 5 },
-  { "id": 323, "question": "¿Qué neuronas del ojo responden principalmente a poca luz y no distinguen bien colores?", "answer": "Los bastones", "difficulty": 5 },
-  { "id": 324, "question": "¿Qué fenómeno astronómico produce auroras boreales y australes?", "answer": "La interacción del viento solar con la magnetosfera y la atmósfera", "difficulty": 5 },
-  { "id": 325, "question": "¿Qué estructura del ADN estabiliza la doble hélice mediante enlaces entre bases complementarias?", "answer": "Los puentes de hidrógeno", "difficulty": 5 },
-  { "id": 326, "question": "¿Qué tipo de compuestos se emplea para emitir fluorescencia en muchos estudios biológicos bajo luz ultravioleta o azul?", "answer": "Proteínas fluorescentes", "difficulty": 5 },
-  { "id": 327, "question": "¿Qué proceso genera isótopos radiactivos al desintegrarse núcleos inestables con el tiempo?", "answer": "Desintegración radiactiva", "difficulty": 5 },
-  { "id": 354, "question": "¿Cómo se llama la fase intermedia en la que una oruga se encierra antes de convertirse en mariposa?", "answer": "La crisálida", "difficulty": 1 },
-  { "id": 365, "question": "¿Cuánto tarda la Tierra en completar una vuelta alrededor del Sol?", "answer": "365 días y casi 6 horas (un año)", "difficulty": 1 },
-  { "id": 366, "question": "¿Cuántos planetas tiene actualmente el sistema solar?", "answer": "Ocho", "difficulty": 1 },
-  { "id": 367, "question": "¿Qué animal es un insecto y produce miel?", "answer": "La abeja", "difficulty": 1 },
-  { "id": 374, "question": "¿Qué parte del cerebro coordina el equilibrio y la precisión del movimiento en colaboración con el oído interno?", "answer": "El cerebelo", "difficulty": 1 },
-  { "id": 384, "question": "¿Qué tipo de tejido del cuerpo produce fuerza y movimiento al contraerse?", "answer": "El tejido muscular", "difficulty": 1 },
-  { "id": 385, "question": "¿Qué estructura ósea rodea y protege los pulmones y el corazón?", "answer": "La caja torácica (costillas, esternón y columna)", "difficulty": 1 },
-  { "id": 389, "question": "¿Qué instrumento meteorológico mide la temperatura?", "answer": "El termómetro", "difficulty": 1 },
-  { "id": 390, "question": "¿Qué instrumento meteorológico mide la cantidad de lluvia caída?", "answer": "El pluviómetro", "difficulty": 1 },
-  { "id": 391, "question": "¿Qué instrumento meteorológico mide la velocidad del viento?", "answer": "El anemómetro", "difficulty": 1 },
-  { "id": 392, "question": "¿Cómo se llama la capa más externa y sólida de la Tierra sobre la que vivimos?", "answer": "La corteza terrestre", "difficulty": 1 },
-  { "id": 398, "question": "¿Qué gas noble, mucho más ligero que el aire, se usa para inflar globos aerostáticos y dirigibles?", "answer": "El helio", "difficulty": 1 },
-  { "id": 399, "question": "¿Qué estructura ósea del esqueleto axial protege la médula espinal?", "answer": "La columna vertebral", "difficulty": 1 },
-  { "id": 421, "question": "¿Qué compuesto químico, presente en la arena, es la principal materia prima para fabricar vidrio?", "answer": "El dióxido de silicio (SiO₂) o sílice", "difficulty": 1 },
-  { "id": 423, "question": "¿Qué órgano produce la insulina?", "answer": "El páncreas", "difficulty": 2 },
-  { "id": 424, "question": "¿Qué planeta tiene la montaña Olympus Mons?", "answer": "Marte", "difficulty": 2 },
-  { "id": 425, "question": "¿Qué hueso une el brazo con el antebrazo en la parte superior?", "answer": "El húmero", "difficulty": 2 },
-  { "id": 426, "question": "¿Qué gas es el más abundante en la atmósfera terrestre?", "answer": "El nitrógeno", "difficulty": 2 },
-  { "id": 427, "question": "¿Qué parte del sistema nervioso conecta el encéfalo con el resto del cuerpo?", "answer": "La médula espinal", "difficulty": 2 },
-  { "id": 428, "question": "¿Qué órgano humano desintoxica sustancias y produce bilis?", "answer": "El hígado", "difficulty": 2 },
-  { "id": 429, "question": "¿Qué planeta tiene la Gran Mancha Roja?", "answer": "Júpiter", "difficulty": 2 },
-  { "id": 430, "question": "¿Qué unidad del sistema internacional mide la fuerza?", "answer": "El newton", "difficulty": 2 },
-  { "id": 431, "question": "¿Qué proceso convierte un líquido en gas por calentamiento o evaporación?", "answer": "La vaporización", "difficulty": 2 },
-  { "id": 432, "question": "¿Qué célula sanguínea transporta oxígeno?", "answer": "El glóbulo rojo", "difficulty": 2 },
-  { "id": 433, "question": "¿Qué estructura del ojo enfoca la luz ajustando su forma?", "answer": "El cristalino", "difficulty": 2 },
-  { "id": 434, "question": "¿Qué estrella se encuentra en el centro del sistema solar?", "answer": "El Sol", "difficulty": 2 },
-  { "id": 435, "question": "¿Qué órgano vegetal transporta agua y sales minerales por el xilema?", "answer": "El tallo", "difficulty": 2 },
-  { "id": 436, "question": "¿Qué ciencia estudia los terremotos?", "answer": "La sismología", "difficulty": 2 },
-  { "id": 437, "question": "¿Qué estructura del oído interno ayuda al equilibrio?", "answer": "Los canales semicirculares", "difficulty": 2 },
-  { "id": 438, "question": "¿Qué mineral tiene dureza 10 en la escala de Mohs?", "answer": "El diamante", "difficulty": 2 },
-  { "id": 439, "question": "¿Qué parte del riñón filtra inicialmente la sangre?", "answer": "El glomérulo", "difficulty": 2 },
-  { "id": 440, "question": "¿Qué enlace químico comparte electrones entre átomos?", "answer": "El enlace covalente", "difficulty": 2 },
-  { "id": 441, "question": "¿Qué planeta está más cerca de la Tierra en muchos momentos orbitales medios?", "answer": "Venus", "difficulty": 2 },
-  { "id": 442, "question": "¿Qué tipo de célula produce anticuerpos tras diferenciarse?", "answer": "El linfocito B o célula plasmática", "difficulty": 2 },
-  { "id": 443, "question": "¿Qué glándula regula gran parte del metabolismo mediante hormonas tiroideas?", "answer": "La tiroides", "difficulty": 2 },
-  { "id": 444, "question": "¿Qué nombre recibe el cambio de sólido a gas sin pasar por líquido?", "answer": "Sublimación", "difficulty": 2 },
-  { "id": 445, "question": "¿Qué tejido une músculo con hueso?", "answer": "El tendón", "difficulty": 2 },
-  { "id": 446, "question": "¿Qué nombre recibe la energía almacenada en los alimentos por sus enlaces químicos?", "answer": "Energía química", "difficulty": 2 },
-  { "id": 447, "question": "¿Qué órgano del sistema respiratorio intercambia gases con la sangre?", "answer": "Los alvéolos pulmonares", "difficulty": 2 },
-  { "id": 448, "question": "¿Qué planeta tarda más en completar una vuelta al Sol?", "answer": "Neptuno", "difficulty": 2 },
-  { "id": 449, "question": "¿Qué rama de la biología estudia los hongos?", "answer": "La micología", "difficulty": 2 },
-  { "id": 450, "question": "¿Qué órgano humano almacena la orina antes de expulsarla?", "answer": "La vejiga", "difficulty": 2 },
-  { "id": 451, "question": "¿Qué función metabólica fundamental cumple la vitamina D en el organismo humano?", "answer": "Favorece la absorción intestinal del calcio y el fósforo", "difficulty": 2 },
-  { "id": 452, "question": "¿Qué tipo de roca se forma por presión y calor sobre otras rocas?", "answer": "La roca metamórfica", "difficulty": 2 },
-  { "id": 453, "question": "¿Qué elemento químico tiene símbolo Na?", "answer": "El sodio", "difficulty": 2 },
-  { "id": 454, "question": "¿Qué parte de la célula contiene la mayor parte del ADN?", "answer": "El núcleo", "difficulty": 2 },
-  { "id": 455, "question": "¿Qué científico formuló las leyes del movimiento y la gravitación clásica?", "answer": "Isaac Newton", "difficulty": 2 },
-  { "id": 456, "question": "¿Qué tipo de inmunidad se adquiere mediante vacunas?", "answer": "Inmunidad activa artificial", "difficulty": 2 },
-  { "id": 457, "question": "¿Qué nombre recibe la galaxia donde está el sistema solar?", "answer": "La Vía Láctea", "difficulty": 2 },
-  { "id": 458, "question": "¿Qué proceso usan las plantas para fabricar glucosa con luz?", "answer": "La fotosíntesis", "difficulty": 2 },
-  { "id": 459, "question": "¿Qué hormona regula de forma principal la glucosa en sangre al disminuirla?", "answer": "La insulina", "difficulty": 2 },
-  { "id": 460, "question": "¿Qué parte del sistema digestivo absorbe la mayor parte de los nutrientes?", "answer": "El intestino delgado", "difficulty": 2 },
-  { "id": 461, "question": "¿Qué científico descubrió la radiactividad natural en sales de uranio?", "answer": "Henri Becquerel", "difficulty": 2 },
-  { "id": 462, "question": "¿Qué compuesto forma la capa dura de conchas y muchos corales?", "answer": "Carbonato cálcico", "difficulty": 2 },
-  { "id": 463, "question": "¿Qué rama de la física estudia el calor y sus transformaciones?", "answer": "La termodinámica", "difficulty": 2 },
-  { "id": 464, "question": "¿Qué unidad mide la diferencia de potencial eléctrico?", "answer": "El voltio", "difficulty": 2 },
-  { "id": 465, "question": "¿Qué gas de efecto invernadero expulsan volcanes, océanos e industrias y usan las plantas?", "answer": "Dióxido de carbono", "difficulty": 2 },
-  { "id": 466, "question": "¿Qué planeta gira más lentamente sobre su eje entre los principales?", "answer": "Venus", "difficulty": 2 },
-  { "id": 467, "question": "¿Qué tejido del cuerpo almacena gran parte de la grasa?", "answer": "El tejido adiposo", "difficulty": 2 },
-  { "id": 468, "question": "¿Qué orgánulo produce la mayor parte del ATP celular?", "answer": "La mitocondria", "difficulty": 2 },
-  { "id": 469, "question": "¿Qué nombre recibe el conjunto de todos los genes de un organismo?", "answer": "El genoma", "difficulty": 2 },
-  { "id": 470, "question": "¿Qué metal precioso tiene símbolo químico Au?", "answer": "El oro", "difficulty": 2 },
-  { "id": 471, "question": "¿Qué estructura protege al encéfalo junto con las meninges?", "answer": "El cráneo", "difficulty": 2 },
-  { "id": 472, "question": "¿Qué órgano del cuerpo produce la bilis?", "answer": "El hígado", "difficulty": 2 },
-  { "id": 473, "question": "¿Qué planeta tiene el día más largo por rotación muy lenta?", "answer": "Venus", "difficulty": 2 },
-  { "id": 474, "question": "¿Qué proceso divide una célula somática en dos células hijas similares?", "answer": "La mitosis", "difficulty": 2 },
-  { "id": 475, "question": "¿Qué tipo de nube suele producir tormentas intensas?", "answer": "El cumulonimbo", "difficulty": 2 },
-  { "id": 476, "question": "¿Qué glándula del encéfalo segrega melatonina y regula ritmos circadianos?", "answer": "La glándula pineal", "difficulty": 2 },
-  { "id": 477, "question": "¿Qué órgano del sistema inmunitario filtra sangre y participa en respuestas defensivas?", "answer": "El bazo", "difficulty": 2 },
-  { "id": 478, "question": "¿Qué elemento es básico en moléculas orgánicas como proteínas y azúcares?", "answer": "El carbono", "difficulty": 2 },
-  { "id": 479, "question": "¿Qué función cumple el líquido que rodea al feto en el interior del saco amniótico?", "answer": "Amortiguar impactos, regular temperatura y permitir los movimientos fetales", "difficulty": 2 },
-  { "id": 480, "question": "¿Qué científico desarrolló la teoría heliocéntrica moderna temprana?", "answer": "Nicolás Copérnico", "difficulty": 2 },
-  { "id": 481, "question": "¿Qué parte del ojo contiene bastones y conos?", "answer": "La retina", "difficulty": 2 },
-  { "id": 482, "question": "¿Qué escala moderna mide la magnitud de terremotos grandes?", "answer": "La magnitud de momento", "difficulty": 2 },
-  { "id": 483, "question": "¿Qué estructura del oído vibra antes de transmitir el sonido a huesecillos?", "answer": "El tímpano", "difficulty": 2 },
-  { "id": 484, "question": "¿Qué órgano participa especialmente en el equilibrio de líquidos y sales del cuerpo?", "answer": "Los riñones", "difficulty": 2 },
-  { "id": 485, "question": "¿Qué proceso convierte nitrógeno atmosférico en compuestos utilizables biológicamente?", "answer": "La fijación del nitrógeno", "difficulty": 2 },
-  { "id": 486, "question": "¿Qué científico relacionó electricidad y magnetismo con ecuaciones unificadas?", "answer": "James Clerk Maxwell", "difficulty": 2 },
-  { "id": 487, "question": "¿Qué nombre recibe el punto más cercano de la órbita terrestre al Sol?", "answer": "Perihelio", "difficulty": 2 },
-  { "id": 488, "question": "¿Qué tejido protege el cuerpo y ayuda a regular la temperatura?", "answer": "La piel", "difficulty": 2 },
-  { "id": 489, "question": "¿Qué partícula de luz explica su comportamiento cuántico?", "answer": "El fotón", "difficulty": 2 },
-  { "id": 490, "question": "¿Qué tipo de animales tienen columna vertebral?", "answer": "Los vertebrados", "difficulty": 2 },
-  { "id": 491, "question": "¿Qué rama de la ciencia estudia los fósiles?", "answer": "La paleontología", "difficulty": 2 },
-  { "id": 492, "question": "¿Qué nombre recibe el fenómeno por el que se rompen enlaces por agua?", "answer": "Hidrólisis", "difficulty": 2 },
-  { "id": 493, "question": "¿Qué célula nerviosa transmite impulsos eléctricos en el sistema nervioso?", "answer": "La neurona", "difficulty": 2 },
-  { "id": 494, "question": "¿Qué órgano humano realiza la mayor parte del procesamiento visual inicial cortical?", "answer": "El lóbulo occipital", "difficulty": 2 },
-  { "id": 495, "question": "¿Qué músculo principal interviene en la respiración al contraerse bajo los pulmones?", "answer": "El diafragma", "difficulty": 2 },
-  { "id": 496, "question": "¿Qué tipo de reproducción mezcla material genético de dos progenitores?", "answer": "La reproducción sexual", "difficulty": 2 },
-  { "id": 497, "question": "¿Qué científico descubrió la estructura de doble hélice junto a James Watson?", "answer": "Francis Crick", "difficulty": 2 },
-  { "id": 498, "question": "¿Qué fenómeno hace que algunos materiales se imanten temporal o permanentemente?", "answer": "El magnetismo", "difficulty": 2 },
-  { "id": 499, "question": "¿Qué nombre recibe el borde de un agujero negro del que no escapa la luz?", "answer": "El horizonte de sucesos", "difficulty": 2 },
-  { "id": 500, "question": "¿Qué especie humana es la actual?", "answer": "Homo sapiens", "difficulty": 2 },
-  { "id": 501, "question": "¿Qué proceso celular descompone glucosa para obtener energía?", "answer": "La respiración celular", "difficulty": 2 },
-  { "id": 502, "question": "¿Qué elemento químico tiene símbolo K?", "answer": "El potasio", "difficulty": 2 },
-  { "id": 503, "question": "¿Qué rama de la química estudia compuestos del carbono?", "answer": "La química orgánica", "difficulty": 2 },
-  { "id": 504, "question": "¿Qué científico ideó la escala absoluta de temperatura que lleva su nombre?", "answer": "William Thomson, lord Kelvin", "difficulty": 2 },
-  { "id": 505, "question": "¿Qué capa de la Tierra está entre la corteza y el núcleo?", "answer": "El manto", "difficulty": 2 },
-  { "id": 506, "question": "¿Qué nombre recibe un animal que se alimenta de plantas y carne?", "answer": "Omnívoro", "difficulty": 2 },
-  { "id": 507, "question": "¿Qué proteína de las células animales forma microtúbulos y ayuda en la división celular?", "answer": "La tubulina", "difficulty": 2 },
-  { "id": 508, "question": "¿Qué fenómeno óptico separa la luz blanca en colores al pasar por un prisma?", "answer": "La dispersión", "difficulty": 2 },
-  { "id": 509, "question": "¿Qué nombre recibe el conjunto de huesos del cuerpo humano?", "answer": "El esqueleto", "difficulty": 2 },
-  { "id": 510, "question": "¿Qué órgano produce gran parte del movimiento muscular voluntario junto al sistema nervioso?", "answer": "Los músculos", "difficulty": 2 },
-  { "id": 511, "question": "¿A qué grupo zoológico pertenece el panda gigante?", "answer": "Mamífero", "difficulty": 2 },
-  { "id": 513, "question": "¿En qué tipo de hábitat vive habitualmente el panda gigante?", "answer": "Bosques templados de bambú", "difficulty": 1 },
-  { "id": 515, "question": "¿Qué tipo de alimentación predomina en el panda gigante?", "answer": "Herbívora", "difficulty": 1 },
-  { "id": 517, "question": "¿Cuál es el alimento principal del panda gigante?", "answer": "El bambú", "difficulty": 4 },
-  { "id": 519, "question": "¿Con qué región del mundo se relaciona de forma emblemática el panda gigante?", "answer": "China central", "difficulty": 3 },
-  { "id": 521, "question": "¿A qué clase de vertebrados pertenece el ajolote?", "answer": "Anfibio", "difficulty": 3 },
-  { "id": 523, "question": "¿En qué hábitat vive habitualmente el ajolote?", "answer": "Lagos y canales de agua dulce", "difficulty": 2 },
-  { "id": 525, "question": "¿Qué tipo de alimentación predomina en el ajolote?", "answer": "Carnívora", "difficulty": 2 },
-  { "id": 527, "question": "¿Qué capacidad regenerativa destacada tiene el ajolote?", "answer": "Puede regenerar extremidades y órganos", "difficulty": 5 },
-  { "id": 529, "question": "¿En qué lugar de México vive el ajolote en su hábitat natural?", "answer": "Xochimilco, México", "difficulty": 4 },
-  { "id": 531, "question": "¿A qué orden de mamíferos pertenece el ornitorrinco?", "answer": "Mamífero monotremado", "difficulty": 4 },
-  { "id": 533, "question": "¿En qué hábitat vive habitualmente el ornitorrinco?", "answer": "Ríos y arroyos", "difficulty": 3 },
-  { "id": 535, "question": "¿Qué tipo de alimentación predomina en el ornitorrinco?", "answer": "Carnívora", "difficulty": 3 },
-  { "id": 537, "question": "¿Qué característica inusual tiene el ornitorrinco pese a ser mamífero?", "answer": "Pone huevos", "difficulty": 1 },
-  { "id": 539, "question": "¿En qué continente vive el ornitorrinco en libertad?", "answer": "Australia (este)", "difficulty": 5 },
-  { "id": 541, "question": "¿A qué grupo zoológico pertenece el narval?", "answer": "Mamífero marino", "difficulty": 5 },
-  { "id": 543, "question": "¿En qué hábitat vive habitualmente el narval?", "answer": "Aguas árticas", "difficulty": 4 },
-  { "id": 545, "question": "¿Qué tipo de alimentación predomina en el narval?", "answer": "Carnívora", "difficulty": 4 },
-  { "id": 547, "question": "¿Qué rasgo físico destacado suele tener el macho del narval?", "answer": "Un largo colmillo helicoidal", "difficulty": 2 },
-  { "id": 549, "question": "¿En qué océano vive el narval?", "answer": "Océano Ártico", "difficulty": 1 },
-  { "id": 551, "question": "¿A qué grupo zoológico pertenece el suricata?", "answer": "Mamífero", "difficulty": 1 },
-  { "id": 553, "question": "¿En qué tipo de hábitat vive habitualmente el suricata?", "answer": "Zonas áridas y semidesérticas", "difficulty": 5 },
-  { "id": 555, "question": "¿Qué tipo de alimentación tiene el suricata?", "answer": "Omnívora", "difficulty": 5 },
-  { "id": 557, "question": "¿Qué comportamiento social característico tiene el suricata?", "answer": "Un individuo hace guardia erguido mientras el grupo busca alimento", "difficulty": 3 },
-  { "id": 559, "question": "¿En qué región del mundo vive el suricata en libertad?", "answer": "África austral", "difficulty": 2 },
-  { "id": 561, "question": "¿A qué grupo de mamíferos pertenece el koala?", "answer": "Mamífero marsupial", "difficulty": 2 },
-  { "id": 563, "question": "¿En qué tipo de bosque vive el koala?", "answer": "Bosques de eucalipto", "difficulty": 1 },
-  { "id": 565, "question": "¿Cuál es la dieta del koala?", "answer": "Herbívora", "difficulty": 1 },
-  { "id": 567, "question": "¿Qué alimento constituye prácticamente toda la dieta del koala?", "answer": "Hojas de eucalipto", "difficulty": 4 },
-  { "id": 569, "question": "¿En qué país vive el koala en libertad?", "answer": "Australia oriental", "difficulty": 3 },
-  { "id": 571, "question": "¿A qué familia felina pertenece el lince ibérico?", "answer": "Mamífero félido (Lynx pardinus)", "difficulty": 3 },
-  { "id": 573, "question": "¿En qué tipo de hábitat vive el lince ibérico?", "answer": "Monte mediterráneo", "difficulty": 2 },
-  { "id": 575, "question": "¿Cuál es el tipo de dieta del lince ibérico?", "answer": "Carnívora", "difficulty": 2 },
-  { "id": 577, "question": "¿De qué presa depende principalmente el lince ibérico para alimentarse?", "answer": "Del conejo europeo", "difficulty": 5 },
-  { "id": 579, "question": "¿En qué región geográfica es endémico el lince ibérico?", "answer": "Península ibérica", "difficulty": 4 },
-  { "id": 581, "question": "¿Qué tipo de roedor es el capibara?", "answer": "El roedor más grande del mundo", "difficulty": 4 },
-  { "id": 583, "question": "¿En qué hábitat vive el capibara?", "answer": "Humedales y sabanas inundables", "difficulty": 3 },
-  { "id": 585, "question": "¿Cuál es el tipo de alimentación del capibara?", "answer": "Herbívora", "difficulty": 3 },
-  { "id": 587, "question": "¿Qué récord ostenta el capibara entre los roedores actuales?", "answer": "Es el roedor más grande del mundo", "difficulty": 1 },
-  { "id": 589, "question": "¿En qué continente vive el capibara en su hábitat natural?", "answer": "Sudamérica", "difficulty": 5 },
-  { "id": 591, "question": "¿A qué clase de animales pertenece el pingüino emperador?", "answer": "Ave", "difficulty": 5 },
-  { "id": 593, "question": "¿En qué hábitat vive el pingüino emperador?", "answer": "Costas heladas y banquisa antártica", "difficulty": 4 },
-  { "id": 595, "question": "¿Cuál es la dieta del pingüino emperador?", "answer": "Carnívora (peces y calamares)", "difficulty": 4 },
-  { "id": 597, "question": "¿En qué época del año se reproduce el pingüino emperador?", "answer": "Durante el invierno antártico", "difficulty": 2 },
-  { "id": 599, "question": "¿En qué continente vive el pingüino emperador?", "answer": "Antártida", "difficulty": 1 },
-  { "id": 601, "question": "¿A qué grupo pertenece el dragón de Komodo?", "answer": "Reptil (lagarto)", "difficulty": 1 },
-  { "id": 603, "question": "¿En qué hábitat vive el dragón de Komodo?", "answer": "Islas secas y sabanas", "difficulty": 5 },
-  { "id": 605, "question": "¿Cuál es la dieta del dragón de Komodo?", "answer": "Carnívora", "difficulty": 5 },
-  { "id": 607, "question": "¿Qué récord tiene el dragón de Komodo entre los lagartos actuales?", "answer": "Es el lagarto más grande del mundo", "difficulty": 3 },
-  { "id": 609, "question": "¿En qué país se encuentran las islas donde vive el dragón de Komodo?", "answer": "Indonesia", "difficulty": 2 },
-  { "id": 611, "question": "¿A qué clase animal pertenece la tortuga laúd?", "answer": "Reptil (tortuga marina)", "difficulty": 2 },
-  { "id": 613, "question": "¿En qué hábitat vive la tortuga laúd?", "answer": "Océanos tropicales y templados", "difficulty": 1 },
-  { "id": 615, "question": "¿De qué se alimenta principalmente la tortuga laúd?", "answer": "De medusas (dieta carnívora)", "difficulty": 1 },
-  { "id": 617, "question": "¿Qué característica diferencia el caparazón de la tortuga laúd del de otras tortugas?", "answer": "Es flexible y coriáceo en lugar de rígido", "difficulty": 4 },
-  { "id": 619, "question": "¿En qué océanos se encuentra la tortuga laúd?", "answer": "Atlántico, Pacífico e Índico", "difficulty": 3 },
-  { "id": 621, "question": "¿A qué familia animal pertenece el fennec?", "answer": "Mamífero (cánido)", "difficulty": 3 },
-  { "id": 623, "question": "¿En qué tipo de hábitat vive el fennec?", "answer": "Desiertos cálidos", "difficulty": 2 },
-  { "id": 625, "question": "¿Cuál es el tipo de alimentación del fennec?", "answer": "Omnívora", "difficulty": 2 },
-  { "id": 627, "question": "¿Para qué sirven las orejas grandes del fennec?", "answer": "Para disipar el calor corporal", "difficulty": 5 },
-  { "id": 629, "question": "¿En qué desierto es emblemático el fennec?", "answer": "El Sáhara y norte de África", "difficulty": 4 },
-  { "id": 631, "question": "¿A qué clase animal pertenece el halcón peregrino?", "answer": "Ave rapaz", "difficulty": 4 },
-  { "id": 633, "question": "¿En qué hábitats nidifica habitualmente el halcón peregrino?", "answer": "Acantilados, montañas y ciudades", "difficulty": 3 },
-  { "id": 635, "question": "¿Cuál es la dieta del halcón peregrino?", "answer": "Carnívora (aves en vuelo)", "difficulty": 3 },
-  { "id": 637, "question": "¿Qué record de velocidad tiene el halcón peregrino?", "answer": "Es el animal más rápido del mundo en picado (supera 300 km/h)", "difficulty": 1 },
-  { "id": 639, "question": "¿Cuál es la distribución geográfica del halcón peregrino?", "answer": "Casi mundial (excepto la Antártida)", "difficulty": 5 },
-  { "id": 641, "question": "¿A qué grupo pertenece el manatí antillano?", "answer": "Mamífero marino (sirénido)", "difficulty": 5 },
-  { "id": 643, "question": "¿En qué hábitat vive el manatí antillano?", "answer": "Aguas costeras, estuarios y ríos lentos", "difficulty": 4 },
-  { "id": 645, "question": "¿Cuál es la dieta del manatí antillano?", "answer": "Herbívora (vegetación acuática)", "difficulty": 4 },
-  { "id": 647, "question": "¿Cómo se alimenta el manatí antillano?", "answer": "Pastando vegetación acuática", "difficulty": 2 },
-  { "id": 649, "question": "¿En qué región geográfica vive el manatí antillano?", "answer": "Caribe y costa atlántica americana", "difficulty": 1 },
-  { "id": 651, "question": "¿A qué clase animal pertenece el camaleón pantera?", "answer": "Reptil (saurio)", "difficulty": 1 },
-  { "id": 653, "question": "¿En qué hábitat vive el camaleón pantera?", "answer": "Bosques tropicales", "difficulty": 5 },
-  { "id": 655, "question": "¿Cuál es la dieta del camaleón pantera?", "answer": "Insectívora", "difficulty": 5 },
-  { "id": 657, "question": "¿Qué habilidad cromática caracteriza especialmente al camaleón pantera?", "answer": "Sus intensos y rápidos cambios de color", "difficulty": 3 },
-  { "id": 659, "question": "¿En qué isla vive el camaleón pantera?", "answer": "Madagascar", "difficulty": 2 },
-  { "id": 661, "question": "¿A qué orden de primates pertenece el gorila de montaña?", "answer": "Mamífero primate (hominoideos)", "difficulty": 2 },
-  { "id": 663, "question": "¿En qué tipo de hábitat vive el gorila de montaña?", "answer": "Bosques montanos", "difficulty": 1 },
-  { "id": 665, "question": "¿Cuál es la dieta del gorila de montaña?", "answer": "Herbívora", "difficulty": 1 },
-  { "id": 667, "question": "¿Cómo se organiza socialmente el gorila de montaña?", "answer": "En grupos liderados por un macho espalda plateada", "difficulty": 4 },
-  { "id": 669, "question": "¿En qué países de África central vive el gorila de montaña?", "answer": "En los macizos de Virunga y el bosque de Bwindi", "difficulty": 3 },
-  { "id": 671, "question": "¿A qué clase animal pertenece el pez luna (Mola mola)?", "answer": "Pez óseo (actinopterigio)", "difficulty": 3 },
-  { "id": 673, "question": "¿En qué hábitat vive el pez luna?", "answer": "Océano abierto templado y tropical", "difficulty": 2 },
-  { "id": 675, "question": "¿De qué se alimenta principalmente el pez luna?", "answer": "De medusas y otros invertebrados marinos", "difficulty": 2 },
-  { "id": 677, "question": "¿Qué forma corporal característica tiene el pez luna?", "answer": "Cuerpo muy alto y aplanado lateralmente, sin aleta caudal típica", "difficulty": 5 },
-  { "id": 679, "question": "¿En qué mares se encuentra el pez luna habitualmente?", "answer": "Mares templados y tropicales", "difficulty": 4 },
-  { "id": 681, "question": "¿A qué clase animal pertenece el cóndor andino?", "answer": "Ave rapaz (catártido)", "difficulty": 4 },
-  { "id": 683, "question": "¿En qué tipo de hábitat vive el cóndor andino?", "answer": "Cordilleras y cañones de alta montaña", "difficulty": 3 },
-  { "id": 685, "question": "¿Cuál es la dieta del cóndor andino?", "answer": "Carroñera", "difficulty": 3 },
-  { "id": 687, "question": "¿Qué envergadura tiene el cóndor andino comparado con otras aves voladoras?", "answer": "Es una de las aves voladoras con mayor envergadura del mundo", "difficulty": 1 },
-  { "id": 689, "question": "¿En qué cordillera vive el cóndor andino?", "answer": "La Cordillera de los Andes", "difficulty": 5 },
-  { "id": 691, "question": "¿A qué orden de mamíferos pertenece el reno?", "answer": "Mamífero artiodáctilo (cérvido)", "difficulty": 5 },
-  { "id": 693, "question": "¿En qué hábitat vive el reno?", "answer": "Tundras y bosques boreales", "difficulty": 4 },
-  { "id": 695, "question": "¿Cuál es el tipo de alimentación del reno?", "answer": "Herbívora", "difficulty": 4 },
-  { "id": 697, "question": "¿Qué característica inusual tienen las astas del reno respecto a otros cérvidos?", "answer": "Tanto machos como hembras pueden desarrollar astas", "difficulty": 2 },
-  { "id": 699, "question": "¿En qué tipo de regiones vive el reno?", "answer": "Regiones árticas y subárticas", "difficulty": 1 },
-  { "id": 701, "question": "¿A qué filo y clase pertenece el pulpo común?", "answer": "Molusco cefalópodo", "difficulty": 1 },
-  { "id": 703, "question": "¿En qué hábitat vive el pulpo común?", "answer": "Fondos marinos rocosos", "difficulty": 5 },
-  { "id": 705, "question": "¿Cuál es la dieta del pulpo común?", "answer": "Carnívora", "difficulty": 5 },
-  { "id": 707, "question": "¿Qué capacidades defensivas e intelectuales destacan en el pulpo común?", "answer": "Puede expulsar tinta como defensa y resolver problemas como abrir recipientes", "difficulty": 3 },
-  { "id": 709, "question": "¿En qué mares es más abundante el pulpo común (Octopus vulgaris)?", "answer": "Atlántico oriental y Mediterráneo", "difficulty": 2 },
-  { "id": 713, "question": "¿Qué molécula formada por nucleótidos almacena la información genética en la mayoría de los seres vivos?", "answer": "El ADN", "difficulty": 5 }
+  {
+    "id": 1,
+    "question": "¿Cuál es el elemento químico más abundante en el universo?",
+    "answer": "El hidrógeno (H)",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "¿A qué temperatura hierve el agua a nivel del mar?",
+    "answer": "100 °C (212 °F)",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Cuántos cromosomas tiene una célula humana normal?",
+    "answer": "46 (23 pares)",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Qué gas es esencial para la fotosíntesis?",
+    "answer": "Dióxido de carbono (CO₂)",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "answer": "La piel",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "answer": "Marte",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "answer": "206 huesos",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "¿Qué vitamina produce el cuerpo cuando se expone al sol?",
+    "answer": "Vitamina D",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es la unidad básica de la herencia genética?",
+    "answer": "El gen",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "¿Cuántas lunas tiene Marte?",
+    "answer": "Dos: Fobos y Deimos",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el metal más ligero?",
+    "answer": "El litio (Li)",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "¿Qué tipo de roca es el granito?",
+    "answer": "Roca ígnea intrusiva",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es la velocidad de la luz en el vacío (aproximada)?",
+    "answer": "299 792 km/s (≈ 300 000 km/s)",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question": "¿Qué partícula subatómica no tiene carga eléctrica?",
+    "answer": "El neutrón",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el número atómico del carbono?",
+    "answer": "6",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question": "¿En qué parte de la célula se produce la respiración celular?",
+    "answer": "En las mitocondrias",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question": "¿Qué ley física establece que la fuerza es igual a la masa por la aceleración?",
+    "answer": "Segunda Ley de Newton",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question": "¿Cuántos litros de sangre tiene aproximadamente el cuerpo humano adulto?",
+    "answer": "Entre 4,5 y 5,5 litros",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question": "¿Qué científico formuló la teoría de la evolución por selección natural?",
+    "answer": "Charles Darwin",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál es el ácido presente en el estómago que ayuda a la digestión?",
+    "answer": "Ácido clorhídrico (HCl)",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "¿Qué tipo de enlace une los aminoácidos en las proteínas?",
+    "answer": "Enlace peptídico",
+    "difficulty": 4
+  },
+  {
+    "id": 22,
+    "question": "¿Cómo se denomina el proceso metabólico universal que libera energía a partir de glucosa en presencia de oxígeno, y que también realizan las plantas?",
+    "answer": "Respiración celular",
+    "difficulty": 4
+  },
+  {
+    "id": 23,
+    "question": "¿Qué fenómeno explica por qué el cielo es azul?",
+    "answer": "La dispersión de Rayleigh de la luz solar",
+    "difficulty": 4
+  },
+  {
+    "id": 24,
+    "question": "¿Cuántos pares de bases nitrogenadas tiene el genoma humano (aproximado)?",
+    "answer": "Unos 3 000 millones de pares de bases",
+    "difficulty": 4
+  },
+  {
+    "id": 25,
+    "question": "¿Qué es el efecto Compton?",
+    "answer": "El aumento de la longitud de onda de los fotones al chocar con electrones libres",
+    "difficulty": 5
+  },
+  {
+    "id": 26,
+    "question": "¿Cuál es la diferencia entre fisión y fusión nuclear?",
+    "answer": "En la fisión un núcleo pesado se divide; en la fusión dos núcleos ligeros se unen",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "question": "¿Qué postulado establece que no es posible conocer simultáneamente la posición y el momento de una partícula con precisión arbitraria?",
+    "answer": "El principio de incertidumbre de Heisenberg",
+    "difficulty": 5
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es el punto triple del agua (temperatura y presión)?",
+    "answer": "0,01 °C y 611,73 Pa",
+    "difficulty": 5
+  },
+  {
+    "id": 29,
+    "question": "¿Qué enzima actúa como «tijera molecular» en la edición genética CRISPR-Cas9?",
+    "answer": "La proteína Cas9 (una endonucleasa)",
+    "difficulty": 5
+  },
+  {
+    "id": 30,
+    "question": "¿Cuál es la diferencia entre un virus ARN y un virus ADN?",
+    "answer": "El material genético que almacenan: ARN monocatenario/bicatenario vs. ADN",
+    "difficulty": 4
+  },
+  {
+    "id": 31,
+    "question": "¿Qué órgano bombea la sangre por todo el cuerpo?",
+    "answer": "El corazón",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "¿Cómo se llama la especialidad médica que trata las enfermedades de la piel?",
+    "answer": "Dermatología",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "¿Qué profesional sanitario suele encargarse de diagnosticar y tratar problemas de la visión?",
+    "answer": "El oftalmólogo",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Cómo se llama la presión que ejerce la sangre sobre las arterias?",
+    "answer": "Presión arterial",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "¿Qué aparato del cuerpo incluye pulmones, tráquea y bronquios?",
+    "answer": "El aparato respiratorio",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "¿Cuál es la temperatura corporal normal aproximada en un adulto sano?",
+    "answer": "Alrededor de 37 °C",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "¿Qué célula sanguínea ayuda principalmente a defender el organismo frente a infecciones?",
+    "answer": "Los glóbulos blancos o leucocitos",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "¿Cómo se llama la prueba que registra la actividad eléctrica del corazón?",
+    "answer": "Electrocardiograma",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "¿Qué vitamina es esencial para la coagulación normal de la sangre?",
+    "answer": "La vitamina K",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "¿Qué enfermedad se caracteriza por niveles elevados de glucosa en sangre?",
+    "answer": "La diabetes mellitus",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "¿Cómo se llama la inflamación del hígado?",
+    "answer": "Hepatitis",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "¿Qué parte del sistema nervioso central controla funciones como el pensamiento y la memoria?",
+    "answer": "El cerebro",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "¿Qué instrumento se usa habitualmente para escuchar el corazón y los pulmones?",
+    "answer": "El estetoscopio",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Cómo se llama la pérdida de masa ósea que aumenta el riesgo de fracturas?",
+    "answer": "Osteoporosis",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "¿Qué nombre recibe la dificultad para respirar?",
+    "answer": "Disnea",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "¿Cómo se llama el médico especialista en niños?",
+    "answer": "Pediatra",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "¿Qué glándula produce insulina?",
+    "answer": "El páncreas",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "¿Qué análisis suele medir la cantidad de glóbulos rojos, blancos y plaquetas?",
+    "answer": "El hemograma",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "¿Cómo se llama la vacuna administrada para prevenir el tétanos?",
+    "answer": "La vacuna antitetánica",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "¿Qué nombre recibe el dolor de cabeza intenso y recurrente de origen neurológico frecuente?",
+    "answer": "Migraña",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "¿Qué término médico describe una frecuencia cardiaca anormalmente rápida?",
+    "answer": "Taquicardia",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "¿Qué hormona regula principalmente los niveles de glucosa disminuyéndolos?",
+    "answer": "La insulina",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "¿Cómo se llama la obstrucción súbita de una arteria cerebral?",
+    "answer": "Ictus isquémico o accidente cerebrovascular isquémico",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "¿Qué tipo de articulación es la rodilla?",
+    "answer": "Una articulación sinovial de tipo bisagra",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es el principal mineral del esmalte dental?",
+    "answer": "La hidroxiapatita",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "¿Cómo se llama la inflamación del apéndice?",
+    "answer": "Apendicitis",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?",
+    "answer": "0 negativo",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "¿Qué parámetro se eleva típicamente en una infección bacteriana en una analítica general?",
+    "answer": "Suele elevarse el recuento de leucocitos, especialmente neutrófilos",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "¿Cómo se llama la inflamación de las articulaciones?",
+    "answer": "Artritis",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question": "¿Qué especialidad médica se ocupa del aparato digestivo?",
+    "answer": "Gastroenterología o aparato digestivo",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "¿Qué estructura del ojo regula la cantidad de luz que entra?",
+    "answer": "El iris, al modificar el tamaño de la pupila",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "¿Qué prueba de imagen usa rayos X y reconstrucción por ordenador?",
+    "answer": "La tomografía computarizada o TAC",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "¿Qué término médico describe una presión arterial persistentemente alta?",
+    "answer": "Hipertensión arterial",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "¿Cómo se llama la bacteria comúnmente asociada a úlceras gástricas y duodenales?",
+    "answer": "Helicobacter pylori",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "¿Qué función principal tienen las plaquetas?",
+    "answer": "Participar en la coagulación y formar el tapón hemostático",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "¿Qué nombre recibe la inflamación de los bronquios?",
+    "answer": "Bronquitis",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "question": "¿Qué electrolito es el catión más abundante dentro de las células?",
+    "answer": "El potasio",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question": "¿Qué prueba diagnóstica se usa como cribado principal del cáncer de cuello uterino?",
+    "answer": "La citología cervical o prueba de Papanicolaou",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "¿Cómo se llama la incapacidad del organismo para producir suficiente hemoglobina o glóbulos rojos funcionales?",
+    "answer": "Anemia",
+    "difficulty": 2
+  },
+  {
+    "id": 70,
+    "question": "¿Qué especialidad médica trata las enfermedades del riñón?",
+    "answer": "Nefrología",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question": "¿Qué nervio craneal es responsable principal del olfato?",
+    "answer": "El nervio olfatorio o I par craneal",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question": "¿Qué marcador se usa habitualmente para estimar el control glucémico de los últimos meses?",
+    "answer": "La hemoglobina glicosilada (HbA1c)",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question": "¿Qué tipo de shock se produce por una infección grave con respuesta inflamatoria sistémica?",
+    "answer": "Shock séptico",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question": "¿Cómo se llama el trastorno autoinmune que afecta a la mielina del sistema nervioso central?",
+    "answer": "Esclerosis múltiple",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question": "¿Qué parte del nefrón se encarga principalmente de la filtración inicial de la sangre?",
+    "answer": "El glomérulo",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question": "¿Qué hormonas produce la glándula tiroides y se encuentran elevadas en el hipertiroidismo?",
+    "answer": "Las hormonas tiroideas T3 y T4",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question": "¿Cómo se denomina la ausencia de pulso y respiración efectiva que requiere RCP inmediata?",
+    "answer": "Parada cardiorrespiratoria",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question": "¿Qué arteria se obstruye con mayor frecuencia en un infarto agudo de miocardio anterior?",
+    "answer": "La arteria descendente anterior",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question": "¿Qué valora principalmente la escala de Glasgow?",
+    "answer": "El nivel de conciencia",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question": "¿Cómo se llama la acumulación de aire en la cavidad pleural que puede colapsar el pulmón?",
+    "answer": "Neumotórax",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question": "¿Qué deficiencia vitamínica clásica causa escorbuto?",
+    "answer": "La deficiencia de vitamina C",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question": "¿Qué órgano produce la bilis?",
+    "answer": "El hígado",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question": "¿Qué infección vírica afecta principalmente a los linfocitos CD4+ si no se trata?",
+    "answer": "La infección por VIH",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question": "¿Qué significa EPOC en medicina respiratoria?",
+    "answer": "Enfermedad pulmonar obstructiva crónica",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question": "¿Cómo se llama la pérdida brusca de función renal en horas o días?",
+    "answer": "Insuficiencia renal aguda o lesión renal aguda",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question": "¿Qué prueba mide volúmenes y flujos respiratorios?",
+    "answer": "La espirometría",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question": "¿Qué bacteria es una causa frecuente de neumonía adquirida en la comunidad?",
+    "answer": "Streptococcus pneumoniae",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question": "¿Qué término describe la presencia de cálculos en la vesícula biliar?",
+    "answer": "Colelitiasis",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question": "¿Qué fármaco analgésico y antipirético también actúa como antiinflamatorio y antiagregante a bajas dosis?",
+    "answer": "El ácido acetilsalicílico",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question": "¿Qué parte del cerebro coordina de forma destacada el equilibrio y la precisión del movimiento?",
+    "answer": "El cerebelo",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question": "¿Qué autoanticuerpo se asocia de forma característica a la artritis reumatoide junto con los anti-CCP?",
+    "answer": "El factor reumatoide",
+    "difficulty": 4
+  },
+  {
+    "id": 92,
+    "question": "¿Qué síndrome endocrino resulta de una producción excesiva de cortisol?",
+    "answer": "Síndrome de Cushing",
+    "difficulty": 4
+  },
+  {
+    "id": 93,
+    "question": "¿Cómo se llama la dilatación anormal y permanente de los bronquios?",
+    "answer": "Bronquiectasias",
+    "difficulty": 4
+  },
+  {
+    "id": 94,
+    "question": "¿Qué tipo de hipersensibilidad media típicamente la anafilaxia?",
+    "answer": "La hipersensibilidad tipo I mediada por IgE",
+    "difficulty": 4
+  },
+  {
+    "id": 95,
+    "question": "¿Qué alteración electrolítica grave puede causar ondas T picudas en el ECG?",
+    "answer": "La hiperpotasemia",
+    "difficulty": 4
+  },
+  {
+    "id": 96,
+    "question": "¿Qué microorganismo produce clásicamente la tuberculosis?",
+    "answer": "Mycobacterium tuberculosis",
+    "difficulty": 4
+  },
+  {
+    "id": 97,
+    "question": "¿Qué técnica de imagen usa campos magnéticos potentes y radiofrecuencia en lugar de rayos X?",
+    "answer": "La resonancia magnética",
+    "difficulty": 4
+  },
+  {
+    "id": 98,
+    "question": "¿Qué enfermedad neurodegenerativa se caracteriza por pérdida de neuronas dopaminérgicas en la sustancia negra?",
+    "answer": "La enfermedad de Parkinson",
+    "difficulty": 4
+  },
+  {
+    "id": 99,
+    "question": "¿Qué vaso sanguíneo lleva sangre oxigenada desde los pulmones hasta la aurícula izquierda?",
+    "answer": "Las venas pulmonares",
+    "difficulty": 4
+  },
+  {
+    "id": 100,
+    "question": "¿Qué hepatitis vírica se transmite con frecuencia por vía fecal-oral y no suele cronificarse?",
+    "answer": "La hepatitis A",
+    "difficulty": 4
+  },
+  {
+    "id": 101,
+    "question": "¿Cómo se denomina la infección de las meninges?",
+    "answer": "Meningitis",
+    "difficulty": 4
+  },
+  {
+    "id": 102,
+    "question": "¿Qué síndrome cardíaco cursa con insuficiencia de la válvula mitral, aortopatía y ectopia lentis en un trastorno del tejido conectivo?",
+    "answer": "El síndrome de Marfan",
+    "difficulty": 4
+  },
+  {
+    "id": 103,
+    "question": "¿Qué prueba invasiva permite visualizar directamente las arterias coronarias con contraste?",
+    "answer": "La coronariografía o angiografía coronaria",
+    "difficulty": 4
+  },
+  {
+    "id": 104,
+    "question": "¿Qué célula del sistema inmune madura en el timo?",
+    "answer": "El linfocito T",
+    "difficulty": 4
+  },
+  {
+    "id": 105,
+    "question": "¿Qué nombre recibe el dolor torácico por isquemia miocárdica sin necrosis establecida?",
+    "answer": "Angina de pecho",
+    "difficulty": 4
+  },
+  {
+    "id": 106,
+    "question": "¿Qué enfermedad autoinmune produce destrucción de la mielina en el sistema nervioso periférico en su forma clásica aguda?",
+    "answer": "Síndrome de Guillain-Barre",
+    "difficulty": 4
+  },
+  {
+    "id": 107,
+    "question": "¿Qué alteración del cristalino causa visión borrosa progresiva y se trata a menudo con cirugía?",
+    "answer": "La catarata",
+    "difficulty": 4
+  },
+  {
+    "id": 108,
+    "question": "¿Qué hormona hipofisaria estimula la secreción de hormonas tiroideas?",
+    "answer": "La TSH o tirotropina",
+    "difficulty": 4
+  },
+  {
+    "id": 109,
+    "question": "¿Qué trastorno pulmonar se caracteriza por destrucción de alvéolos y pérdida de elasticidad?",
+    "answer": "El enfisema",
+    "difficulty": 4
+  },
+  {
+    "id": 110,
+    "question": "¿Qué nombre recibe la infección de las válvulas cardíacas?",
+    "answer": "Endocarditis infecciosa",
+    "difficulty": 4
+  },
+  {
+    "id": 111,
+    "question": "¿Qué escala clínica se utiliza con frecuencia para estimar el riesgo tromboembólico en la fibrilación auricular?",
+    "answer": "La escala CHA2DS2-VASc",
+    "difficulty": 5
+  },
+  {
+    "id": 112,
+    "question": "¿Qué alteración genética del cromosoma Filadelfia es típica de la leucemia mieloide crónica?",
+    "answer": "La translocación t(9;22) que genera el gen BCR-ABL",
+    "difficulty": 5
+  },
+  {
+    "id": 113,
+    "question": "¿Qué marcador inmunohistoquímico suele emplearse para estimar proliferación tumoral?",
+    "answer": "Ki-67",
+    "difficulty": 5
+  },
+  {
+    "id": 114,
+    "question": "¿Qué síndrome paraneoplásico se asocia clásicamente al carcinoma microcítico de pulmón por secreción ectópica de ADH?",
+    "answer": "El síndrome de secreción inadecuada de ADH (SIADH)",
+    "difficulty": 5
+  },
+  {
+    "id": 115,
+    "question": "¿Qué alteración ácido-base presenta un paciente con cetoacidosis diabética de forma típica?",
+    "answer": "Acidosis metabólica con anión gap elevado",
+    "difficulty": 5
+  },
+  {
+    "id": 116,
+    "question": "¿Qué subtipo de hipersensibilidad explica la anemia hemolítica autoinmune mediada por anticuerpos contra eritrocitos?",
+    "answer": "La hipersensibilidad tipo II",
+    "difficulty": 5
+  },
+  {
+    "id": 117,
+    "question": "¿Qué estructura cardíaca suele originar los impulsos ectópicos que desencadenan fibrilación auricular en muchos casos?",
+    "answer": "Las venas pulmonares",
+    "difficulty": 5
+  },
+  {
+    "id": 118,
+    "question": "¿Qué hormona se eleva de forma característica en el hiperparatiroidismo primario?",
+    "answer": "La hormona paratiroidea",
+    "difficulty": 5
+  },
+  {
+    "id": 119,
+    "question": "¿Qué infección oportunista pulmonar es clásica en pacientes con inmunosupresión avanzada por VIH?",
+    "answer": "La neumonía por Pneumocystis jirovecii",
+    "difficulty": 5
+  },
+  {
+    "id": 120,
+    "question": "¿Qué anticuerpo es especialmente útil y más específico que el factor reumatoide para apoyar el diagnóstico de artritis reumatoide?",
+    "answer": "El anticuerpo anti-CCP",
+    "difficulty": 5
+  },
+  {
+    "id": 121,
+    "question": "¿Qué parte de la cascada de coagulación inhibe directamente la heparina al potenciar la antitrombina?",
+    "answer": "Principalmente la trombina y el factor Xa",
+    "difficulty": 5
+  },
+  {
+    "id": 122,
+    "question": "¿Qué síndrome cursa con hiponatremia, hiperpotasemia e hipotensión por insuficiencia suprarrenal primaria?",
+    "answer": "La enfermedad de Addison",
+    "difficulty": 5
+  },
+  {
+    "id": 123,
+    "question": "¿Qué hallazgo histológico es característico de la enfermedad celíaca en intestino delgado?",
+    "answer": "Atrofia vellosa con hiperplasia de criptas e infiltrado linfocitario",
+    "difficulty": 5
+  },
+  {
+    "id": 124,
+    "question": "¿Qué enfermedad de depósito lisosomal se debe a déficit de glucocerebrosidasa?",
+    "answer": "La enfermedad de Gaucher",
+    "difficulty": 5
+  },
+  {
+    "id": 125,
+    "question": "¿Qué arritmia muestra un trazado ECG irregularmente irregular sin ondas P definidas?",
+    "answer": "La fibrilación auricular",
+    "difficulty": 5
+  },
+  {
+    "id": 126,
+    "question": "¿Qué síndrome neurológico produce oftalmoplejía, ataxia y confusión por déficit de tiamina?",
+    "answer": "La encefalopatía de Wernicke",
+    "difficulty": 5
+  },
+  {
+    "id": 127,
+    "question": "¿Qué bacteria encapsulada del grupo B causa con frecuencia sepsis neonatal y meningitis en recién nacidos?",
+    "answer": "Streptococcus agalactiae",
+    "difficulty": 5
+  },
+  {
+    "id": 128,
+    "question": "¿Qué marcador bioquímico es más específico para necrosis miocárdica en un infarto agudo de miocardio?",
+    "answer": "La troponina cardíaca",
+    "difficulty": 5
+  },
+  {
+    "id": 129,
+    "question": "¿Qué tipo de necrosis es típica del infarto cerebral establecido?",
+    "answer": "La necrosis licuefactiva",
+    "difficulty": 5
+  },
+  {
+    "id": 130,
+    "question": "¿Qué mecanismo fisiopatológico explica el edema en el síndrome nefrótico por pérdida urinaria de proteínas?",
+    "answer": "La disminución de la presión oncótica plasmática por hipoalbuminemia",
+    "difficulty": 5
+  },
+  {
+    "id": 131,
+    "question": "¿Qué órgano del cuerpo humano bombea la sangre?",
+    "answer": "El corazón",
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "question": "¿Qué gas respiramos principalmente del aire para vivir?",
+    "answer": "Oxígeno",
+    "difficulty": 1
+  },
+  {
+    "id": 133,
+    "question": "¿Qué parte de la planta absorbe agua y sales minerales del suelo?",
+    "answer": "La raíz",
+    "difficulty": 1
+  },
+  {
+    "id": 134,
+    "question": "¿Qué astro ilumina la Tierra durante el día?",
+    "answer": "El Sol",
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "question": "¿Qué estado de la materia tiene forma y volumen definidos?",
+    "answer": "El sólido",
+    "difficulty": 1
+  },
+  {
+    "id": 136,
+    "question": "¿Cómo se llama el proceso por el que las plantas fabrican su alimento con luz?",
+    "answer": "Fotosíntesis",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "question": "¿Qué ciencia estudia los animales?",
+    "answer": "La zoología",
+    "difficulty": 1
+  },
+  {
+    "id": 138,
+    "question": "¿Qué instrumento se usa para observar objetos muy pequeños?",
+    "answer": "El microscopio",
+    "difficulty": 1
+  },
+  {
+    "id": 139,
+    "question": "¿Qué planeta es el más grande del sistema solar?",
+    "answer": "Júpiter",
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "question": "¿Qué metal líquido es famoso por usarse en termómetros antiguos?",
+    "answer": "El mercurio",
+    "difficulty": 1
+  },
+  {
+    "id": 141,
+    "question": "¿Qué hueso protege el cerebro?",
+    "answer": "El cráneo",
+    "difficulty": 1
+  },
+  {
+    "id": 142,
+    "question": "¿Qué estructura muscular del ojo contrae y dilata la pupila para regular la entrada de luz?",
+    "answer": "El iris",
+    "difficulty": 1
+  },
+  {
+    "id": 143,
+    "question": "¿Qué ciencia estudia los seres vivos?",
+    "answer": "La biología",
+    "difficulty": 1
+  },
+  {
+    "id": 144,
+    "question": "¿Qué capa gaseosa rodea la Tierra?",
+    "answer": "La atmósfera",
+    "difficulty": 1
+  },
+  {
+    "id": 145,
+    "question": "¿Qué planeta está más cerca del Sol?",
+    "answer": "Mercurio",
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "question": "¿Qué animal es el mamífero más grande del mundo?",
+    "answer": "La ballena azul",
+    "difficulty": 1
+  },
+  {
+    "id": 147,
+    "question": "¿Qué órgano humano se encarga principalmente de filtrar la sangre y producir orina?",
+    "answer": "Los riñones",
+    "difficulty": 1
+  },
+  {
+    "id": 148,
+    "question": "¿Qué parte de la célula contiene la mayor parte del material genético?",
+    "answer": "El núcleo",
+    "difficulty": 1
+  },
+  {
+    "id": 149,
+    "question": "¿Cómo se llama la fuerza que nos mantiene pegados al suelo?",
+    "answer": "La gravedad",
+    "difficulty": 1
+  },
+  {
+    "id": 150,
+    "question": "¿Cuál es la forma activa de la vitamina D que produce el cuerpo a partir de la exposición solar?",
+    "answer": "El calcitriol o 1,25-dihidroxivitamina D",
+    "difficulty": 2
+  },
+  {
+    "id": 151,
+    "question": "¿Por qué el grupo sanguíneo 0 negativo se considera donante universal de glóbulos rojos?",
+    "answer": "Porque carece de antígenos A, B ni Rh en la superficie eritrocitaria",
+    "difficulty": 2
+  },
+  {
+    "id": 152,
+    "question": "¿Qué planeta tiene los anillos más visibles del sistema solar?",
+    "answer": "Saturno",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "question": "¿Qué órgano del sistema respiratorio intercambia oxígeno y dióxido de carbono con la sangre?",
+    "answer": "Los pulmones",
+    "difficulty": 2
+  },
+  {
+    "id": 154,
+    "question": "¿Qué unidad se usa para medir la fuerza en el sistema internacional?",
+    "answer": "El newton",
+    "difficulty": 2
+  },
+  {
+    "id": 155,
+    "question": "¿Cómo se llama la galaxia en la que se encuentra el sistema solar?",
+    "answer": "La Vía Láctea",
+    "difficulty": 2
+  },
+  {
+    "id": 156,
+    "question": "¿Qué animal transmite la malaria?",
+    "answer": "El mosquito Anopheles",
+    "difficulty": 2
+  },
+  {
+    "id": 157,
+    "question": "¿Qué parte del sistema nervioso central conecta el encéfalo con el resto del cuerpo?",
+    "answer": "La médula espinal",
+    "difficulty": 2
+  },
+  {
+    "id": 158,
+    "question": "¿Qué metal tiene el símbolo químico Fe?",
+    "answer": "El hierro",
+    "difficulty": 2
+  },
+  {
+    "id": 159,
+    "question": "¿Qué tipo de eclipse ocurre cuando la Luna se interpone entre la Tierra y el Sol?",
+    "answer": "Un eclipse solar",
+    "difficulty": 2
+  },
+  {
+    "id": 160,
+    "question": "¿Cómo se llama el cambio de líquido a gas?",
+    "answer": "Evaporación",
+    "difficulty": 2
+  },
+  {
+    "id": 161,
+    "question": "¿Qué planeta tarda más en dar una vuelta completa al Sol?",
+    "answer": "Neptuno",
+    "difficulty": 2
+  },
+  {
+    "id": 162,
+    "question": "¿Qué científico formuló la ley de la gravitación universal?",
+    "answer": "Isaac Newton",
+    "difficulty": 2
+  },
+  {
+    "id": 163,
+    "question": "¿Qué órgano se encarga principalmente de desintoxicar sustancias en el cuerpo humano?",
+    "answer": "El hígado",
+    "difficulty": 2
+  },
+  {
+    "id": 164,
+    "question": "¿Qué unidad se usa para medir la intensidad de corriente eléctrica?",
+    "answer": "El amperio",
+    "difficulty": 2
+  },
+  {
+    "id": 165,
+    "question": "¿Qué tejido del cuerpo une músculo con hueso?",
+    "answer": "El tendón",
+    "difficulty": 2
+  },
+  {
+    "id": 166,
+    "question": "¿Qué fenómeno hace que un imán atraiga ciertos metales?",
+    "answer": "El magnetismo",
+    "difficulty": 2
+  },
+  {
+    "id": 167,
+    "question": "¿Qué nombre recibe el conjunto de todos los genes de un organismo?",
+    "answer": "Genoma",
+    "difficulty": 2
+  },
+  {
+    "id": 168,
+    "question": "¿Qué partícula subatómica tiene carga negativa?",
+    "answer": "El electrón",
+    "difficulty": 3
+  },
+  {
+    "id": 169,
+    "question": "¿Qué capa de la atmósfera contiene la mayor parte del ozono?",
+    "answer": "La estratosfera",
+    "difficulty": 3
+  },
+  {
+    "id": 170,
+    "question": "¿En qué obra publicada en 1859 expuso Charles Darwin su teoría de la evolución por selección natural?",
+    "answer": "El origen de las especies",
+    "difficulty": 3
+  },
+  {
+    "id": 171,
+    "question": "¿Qué tipo de célula sanguínea participa principalmente en la defensa inmunitaria?",
+    "answer": "Los leucocitos",
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "question": "¿Qué órgano del oído interno participa en el equilibrio?",
+    "answer": "Los canales semicirculares",
+    "difficulty": 3
+  },
+  {
+    "id": 173,
+    "question": "¿Cómo se llama el punto de la órbita terrestre más cercano al Sol?",
+    "answer": "Perihelio",
+    "difficulty": 3
+  },
+  {
+    "id": 174,
+    "question": "¿Qué enlace químico se forma por compartición de electrones?",
+    "answer": "El enlace covalente",
+    "difficulty": 3
+  },
+  {
+    "id": 175,
+    "question": "¿Qué científico desarrolló las leyes del movimiento planetario?",
+    "answer": "Johannes Kepler",
+    "difficulty": 3
+  },
+  {
+    "id": 176,
+    "question": "¿Qué proceso celular produce la mayor parte del ATP en presencia de oxígeno?",
+    "answer": "La respiración celular",
+    "difficulty": 3
+  },
+  {
+    "id": 177,
+    "question": "¿Qué escala sismológica moderna mide la magnitud de un terremoto?",
+    "answer": "La magnitud de momento",
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "question": "¿Qué glóbulo sanguíneo transporta principalmente oxígeno?",
+    "answer": "El eritrocito o glóbulo rojo",
+    "difficulty": 3
+  },
+  {
+    "id": 179,
+    "question": "¿Qué rama de la física estudia el calor y la energía?",
+    "answer": "La termodinámica",
+    "difficulty": 3
+  },
+  {
+    "id": 180,
+    "question": "¿Qué planeta tiene el día más largo en duración de rotación?",
+    "answer": "Venus",
+    "difficulty": 3
+  },
+  {
+    "id": 181,
+    "question": "¿Qué biomolécula almacena la información genética?",
+    "answer": "El ADN",
+    "difficulty": 3
+  },
+  {
+    "id": 182,
+    "question": "¿Qué científico descubrió la penicilina?",
+    "answer": "Alexander Fleming",
+    "difficulty": 3
+  },
+  {
+    "id": 183,
+    "question": "¿Qué región del cerebro se asocia de forma destacada con la coordinación motora?",
+    "answer": "El cerebelo",
+    "difficulty": 3
+  },
+  {
+    "id": 184,
+    "question": "¿Cuántos electrones tiene el carbono en su configuración más estable cuando no está ionizado?",
+    "answer": "6 electrones (número atómico 6)",
+    "difficulty": 3
+  },
+  {
+    "id": 185,
+    "question": "¿Qué nombre recibe el proceso por el que una estrella agota su combustible y colapsa violentamente en algunos casos?",
+    "answer": "Supernova",
+    "difficulty": 3
+  },
+  {
+    "id": 186,
+    "question": "¿Qué órgano vegetal es responsable principalmente de la reproducción en las plantas con flor?",
+    "answer": "La flor",
+    "difficulty": 3
+  },
+  {
+    "id": 187,
+    "question": "¿Qué enfermedad se caracteriza por niveles altos de glucosa en sangre?",
+    "answer": "La diabetes",
+    "difficulty": 3
+  },
+  {
+    "id": 188,
+    "question": "¿Qué científico propuso el principio de incertidumbre?",
+    "answer": "Werner Heisenberg",
+    "difficulty": 4
+  },
+  {
+    "id": 189,
+    "question": "¿Qué orgánulo celular contiene enzimas digestivas y participa en la degradación de materiales?",
+    "answer": "El lisosoma",
+    "difficulty": 4
+  },
+  {
+    "id": 190,
+    "question": "¿Qué nombre recibe la radiación emitida cuando un electrón cambia a un nivel energético inferior?",
+    "answer": "Fotón",
+    "difficulty": 4
+  },
+  {
+    "id": 191,
+    "question": "¿Qué proceso convierte nitrógeno atmosférico en compuestos aprovechables biológicamente?",
+    "answer": "La fijación del nitrógeno",
+    "difficulty": 4
+  },
+  {
+    "id": 192,
+    "question": "¿Qué estructura del riñón filtra inicialmente la sangre?",
+    "answer": "El glomérulo",
+    "difficulty": 4
+  },
+  {
+    "id": 193,
+    "question": "¿Qué científico formuló las ecuaciones que unifican electricidad y magnetismo?",
+    "answer": "James Clerk Maxwell",
+    "difficulty": 4
+  },
+  {
+    "id": 194,
+    "question": "¿Qué tipo de roca se forma a partir del enfriamiento del magma?",
+    "answer": "Roca ígnea",
+    "difficulty": 4
+  },
+  {
+    "id": 195,
+    "question": "¿Qué partícula del núcleo atómico no tiene carga eléctrica?",
+    "answer": "El neutrón",
+    "difficulty": 4
+  },
+  {
+    "id": 196,
+    "question": "¿Qué nombre recibe la resistencia de un material a ser rayado en mineralogía?",
+    "answer": "Dureza",
+    "difficulty": 4
+  },
+  {
+    "id": 197,
+    "question": "¿Qué molécula transporta información del ADN a los ribosomas?",
+    "answer": "ARN mensajero",
+    "difficulty": 4
+  },
+  {
+    "id": 198,
+    "question": "¿Qué tipo de inmunidad se adquiere mediante vacunación?",
+    "answer": "Inmunidad activa artificial",
+    "difficulty": 4
+  },
+  {
+    "id": 199,
+    "question": "¿Qué astrónomo demostró con observaciones telescópicas evidencias a favor del heliocentrismo?",
+    "answer": "Galileo Galilei",
+    "difficulty": 4
+  },
+  {
+    "id": 200,
+    "question": "¿Qué proceso geológico crea nueva corteza oceánica en las dorsales?",
+    "answer": "Expansión del fondo oceánico",
+    "difficulty": 4
+  },
+  {
+    "id": 201,
+    "question": "¿Qué constante física representa la velocidad de la luz en el vacío?",
+    "answer": "c",
+    "difficulty": 4
+  },
+  {
+    "id": 202,
+    "question": "¿Qué neurotransmisor se encuentra reducido en el cuerpo estriado de los pacientes con Parkinson?",
+    "answer": "La dopamina",
+    "difficulty": 4
+  },
+  {
+    "id": 203,
+    "question": "¿Qué tipo de célula produce mielina en el sistema nervioso central?",
+    "answer": "El oligodendrocito",
+    "difficulty": 4
+  },
+  {
+    "id": 204,
+    "question": "¿A qué temperatura en Kelvin corresponde el punto de ebullición del agua a nivel del mar?",
+    "answer": "373,15 K",
+    "difficulty": 4
+  },
+  {
+    "id": 205,
+    "question": "¿Qué familia de elementos incluye helio, neón y argón?",
+    "answer": "Los gases nobles",
+    "difficulty": 4
+  },
+  {
+    "id": 206,
+    "question": "¿Qué teoría describe la atracción gravitatoria como curvatura del espacio-tiempo?",
+    "answer": "La relatividad general",
+    "difficulty": 4
+  },
+  {
+    "id": 207,
+    "question": "¿Qué proceso celular reparte cromosomas en dos núcleos idénticos durante la división somática?",
+    "answer": "Mitosis",
+    "difficulty": 4
+  },
+  {
+    "id": 208,
+    "question": "¿Qué científico describió la estructura en doble hélice del ADN junto con James Watson?",
+    "answer": "Francis Crick",
+    "difficulty": 5
+  },
+  {
+    "id": 209,
+    "question": "¿Qué fenómeno óptico explica la separación de colores en un prisma?",
+    "answer": "La dispersión de la luz",
+    "difficulty": 5
+  },
+  {
+    "id": 210,
+    "question": "¿Qué capa de la Tierra está formada principalmente por hierro y níquel en estado sólido en su parte más interna?",
+    "answer": "El núcleo interno",
+    "difficulty": 5
+  },
+  {
+    "id": 211,
+    "question": "¿Qué enzima de la PCR se hizo famosa por resistir altas temperaturas?",
+    "answer": "Taq polimerasa",
+    "difficulty": 5
+  },
+  {
+    "id": 212,
+    "question": "¿Qué nombre recibe el proceso por el que una célula incorpora partículas grandes rodeándolas con su membrana?",
+    "answer": "Fagocitosis",
+    "difficulty": 5
+  },
+  {
+    "id": 213,
+    "question": "¿Qué fuerza mantiene unidos protones y neutrones dentro del núcleo atómico?",
+    "answer": "La interacción nuclear fuerte",
+    "difficulty": 5
+  },
+  {
+    "id": 214,
+    "question": "¿Qué tipo de estrella es el Sol según su clasificación espectral principal?",
+    "answer": "Una enana amarilla de tipo G",
+    "difficulty": 5
+  },
+  {
+    "id": 215,
+    "question": "¿Qué ley de Mendel describe la separación de alelos durante la formación de gametos?",
+    "answer": "La ley de la segregación",
+    "difficulty": 5
+  },
+  {
+    "id": 216,
+    "question": "¿Qué estructura del encéfalo regula funciones como la temperatura corporal y el hambre?",
+    "answer": "El hipotálamo",
+    "difficulty": 5
+  },
+  {
+    "id": 217,
+    "question": "¿Qué mineral es la principal mena del aluminio?",
+    "answer": "La bauxita",
+    "difficulty": 5
+  },
+  {
+    "id": 218,
+    "question": "¿Qué científico explicó el efecto fotoeléctrico en 1905?",
+    "answer": "Albert Einstein",
+    "difficulty": 5
+  },
+  {
+    "id": 219,
+    "question": "¿Qué tipo de enlace estabiliza la estructura secundaria de las proteínas?",
+    "answer": "El puente de hidrógeno",
+    "difficulty": 5
+  },
+  {
+    "id": 220,
+    "question": "¿Qué nombre recibe el límite a partir del cual ni la luz puede escapar de un agujero negro no rotatorio?",
+    "answer": "El horizonte de sucesos",
+    "difficulty": 5
+  },
+  {
+    "id": 221,
+    "question": "¿Qué método usa ondas de alta frecuencia para generar imágenes médicas en tiempo real?",
+    "answer": "La ecografía",
+    "difficulty": 5
+  },
+  {
+    "id": 222,
+    "question": "¿Qué orgánulo celular es el principal responsable de la producción de ATP?",
+    "answer": "La mitocondria",
+    "difficulty": 5
+  },
+  {
+    "id": 223,
+    "question": "¿Qué científico planteó la teoría microbiana de la enfermedad y desarrolló vacunas como la de la rabia?",
+    "answer": "Louis Pasteur",
+    "difficulty": 5
+  },
+  {
+    "id": 224,
+    "question": "¿Qué tipo de fósil conserva la huella o actividad de un organismo más que su cuerpo?",
+    "answer": "Icnofósil",
+    "difficulty": 5
+  },
+  {
+    "id": 225,
+    "question": "¿Qué unidad se utiliza para medir dosis absorbida de radiación ionizante?",
+    "answer": "El gray",
+    "difficulty": 5
+  },
+  {
+    "id": 226,
+    "question": "¿Qué fenómeno cuántico permite que partículas atraviesen barreras de potencial?",
+    "answer": "El efecto túnel",
+    "difficulty": 5
+  },
+  {
+    "id": 227,
+    "question": "¿Qué célula inmunitaria produce anticuerpos de forma directa tras la diferenciación final de un linfocito B?",
+    "answer": "La célula plasmática",
+    "difficulty": 5
+  },
+  {
+    "id": 228,
+    "question": "¿Qué animal tiene tres corazones?",
+    "answer": "El pulpo",
+    "difficulty": 1
+  },
+  {
+    "id": 229,
+    "question": "¿Qué planeta gira 'acostado', casi sobre su lado?",
+    "answer": "Urano",
+    "difficulty": 1
+  },
+  {
+    "id": 230,
+    "question": "¿Qué metal es líquido a temperatura ambiente?",
+    "answer": "El mercurio",
+    "difficulty": 1
+  },
+  {
+    "id": 231,
+    "question": "¿Qué parte del cuerpo humano tiene las huellas dactilares?",
+    "answer": "Los dedos",
+    "difficulty": 1
+  },
+  {
+    "id": 232,
+    "question": "¿Qué gas hace que la voz se vuelva aguda al inhalarlo brevemente?",
+    "answer": "El helio",
+    "difficulty": 1
+  },
+  {
+    "id": 233,
+    "question": "¿Qué ave no puede volar pero es la más grande del mundo?",
+    "answer": "El avestruz",
+    "difficulty": 1
+  },
+  {
+    "id": 234,
+    "question": "¿Qué órgano humano no siente dolor porque carece de receptores del dolor en su tejido?",
+    "answer": "El cerebro",
+    "difficulty": 1
+  },
+  {
+    "id": 235,
+    "question": "¿Qué animal puede regenerar algunos de sus brazos?",
+    "answer": "La estrella de mar",
+    "difficulty": 1
+  },
+  {
+    "id": 236,
+    "question": "¿Qué planeta tiene el día más largo del sistema solar por su rotación lenta?",
+    "answer": "Venus",
+    "difficulty": 1
+  },
+  {
+    "id": 237,
+    "question": "¿Qué líquido del cuerpo ayuda a enfriar la piel al evaporarse?",
+    "answer": "El sudor",
+    "difficulty": 1
+  },
+  {
+    "id": 238,
+    "question": "¿Qué mamífero puede dormir colgado boca abajo?",
+    "answer": "El murciélago",
+    "difficulty": 1
+  },
+  {
+    "id": 239,
+    "question": "¿Qué parte de la lengua detecta sabores, aunque no haya zonas exclusivas rígidas como se creyó?",
+    "answer": "Las papilas gustativas",
+    "difficulty": 1
+  },
+  {
+    "id": 240,
+    "question": "¿Qué animal terrestre más rápido puede superar los 100 km/h?",
+    "answer": "El guepardo",
+    "difficulty": 1
+  },
+  {
+    "id": 241,
+    "question": "¿Qué elemento químico da nombre al símbolo O?",
+    "answer": "El oxígeno",
+    "difficulty": 1
+  },
+  {
+    "id": 242,
+    "question": "¿Qué animal tiene la mordida más potente entre los grandes felinos?",
+    "answer": "El jaguar",
+    "difficulty": 1
+  },
+  {
+    "id": 243,
+    "question": "¿Qué hueso del cuerpo humano es el más pequeño?",
+    "answer": "El estribo",
+    "difficulty": 1
+  },
+  {
+    "id": 244,
+    "question": "¿Qué planeta es famoso por su gran mancha roja?",
+    "answer": "Júpiter",
+    "difficulty": 1
+  },
+  {
+    "id": 245,
+    "question": "¿Qué animal es capaz de cambiar de color con gran rapidez?",
+    "answer": "El camaleón",
+    "difficulty": 1
+  },
+  {
+    "id": 246,
+    "question": "¿Qué tipo de luz del Sol puede ayudar al cuerpo a producir vitamina D?",
+    "answer": "La luz ultravioleta B",
+    "difficulty": 1
+  },
+  {
+    "id": 247,
+    "question": "¿Qué sustancia dura natural forma los diamantes?",
+    "answer": "Carbono",
+    "difficulty": 1
+  },
+  {
+    "id": 248,
+    "question": "¿Qué animal marino tiene sangre azul debido a la hemocianina?",
+    "answer": "El cangrejo herradura",
+    "difficulty": 2
+  },
+  {
+    "id": 249,
+    "question": "¿Qué fenómeno hace que el cielo parezca azul de día?",
+    "answer": "La dispersión de Rayleigh",
+    "difficulty": 2
+  },
+  {
+    "id": 250,
+    "question": "¿Qué planeta tiene vientos que pueden superar los 1.500 km/h?",
+    "answer": "Neptuno",
+    "difficulty": 2
+  },
+  {
+    "id": 251,
+    "question": "¿Qué partes del rostro humano siguen pareciendo más grandes con la edad, aunque el cartílago no crece indefinidamente?",
+    "answer": "La nariz y las orejas",
+    "difficulty": 2
+  },
+  {
+    "id": 252,
+    "question": "¿Qué animal puede sobrevivir a condiciones extremas entrando en criptobiosis?",
+    "answer": "El tardígrado",
+    "difficulty": 2
+  },
+  {
+    "id": 253,
+    "question": "¿Qué hueso humano es el más largo?",
+    "answer": "El fémur",
+    "difficulty": 2
+  },
+  {
+    "id": 254,
+    "question": "¿Qué animal pone los huevos más grandes del mundo actual?",
+    "answer": "El avestruz",
+    "difficulty": 2
+  },
+  {
+    "id": 255,
+    "question": "¿Qué planeta tiene la montaña más alta conocida del sistema solar?",
+    "answer": "Marte, con el Olympus Mons",
+    "difficulty": 2
+  },
+  {
+    "id": 256,
+    "question": "¿Qué líquido forma la mayor parte del cuerpo humano adulto?",
+    "answer": "El agua",
+    "difficulty": 2
+  },
+  {
+    "id": 257,
+    "question": "¿Qué insecto puede levantar varias veces su propio peso?",
+    "answer": "La hormiga",
+    "difficulty": 2
+  },
+  {
+    "id": 258,
+    "question": "¿Qué órgano humano consume una parte desproporcionada de la energía corporal en reposo?",
+    "answer": "El cerebro",
+    "difficulty": 2
+  },
+  {
+    "id": 259,
+    "question": "¿Qué mamífero marino puede aguantar mucho tiempo bajo el agua gracias a reservas de oxígeno y reflejos de inmersión?",
+    "answer": "El cachalote",
+    "difficulty": 2
+  },
+  {
+    "id": 260,
+    "question": "¿Qué metal alcalino explota con el agua de forma espectacular?",
+    "answer": "El sodio",
+    "difficulty": 2
+  },
+  {
+    "id": 261,
+    "question": "¿Qué planeta tiene más lunas conocidas en la actualidad que ninguno en algunas clasificaciones recientes?",
+    "answer": "Saturno",
+    "difficulty": 2
+  },
+  {
+    "id": 262,
+    "question": "¿Qué ser vivo produce la seda natural más conocida?",
+    "answer": "El gusano de seda",
+    "difficulty": 2
+  },
+  {
+    "id": 263,
+    "question": "¿Qué animal puede dormir de pie?",
+    "answer": "El caballo",
+    "difficulty": 2
+  },
+  {
+    "id": 264,
+    "question": "¿Qué tipo de roca se forma al enfriarse lava o magma?",
+    "answer": "La roca ígnea",
+    "difficulty": 2
+  },
+  {
+    "id": 265,
+    "question": "¿Qué ave puede volar hacia atrás?",
+    "answer": "El colibrí",
+    "difficulty": 2
+  },
+  {
+    "id": 266,
+    "question": "¿Qué estructura del ojo se encarga principalmente de enfocar la luz ajustando su forma?",
+    "answer": "El cristalino",
+    "difficulty": 2
+  },
+  {
+    "id": 267,
+    "question": "¿Qué planeta tiene una presión atmosférica superficial aplastante y una temperatura extrema?",
+    "answer": "Venus",
+    "difficulty": 2
+  },
+  {
+    "id": 268,
+    "question": "¿Qué animal posee el ojo más grande del reino animal actual?",
+    "answer": "El calamar gigante",
+    "difficulty": 3
+  },
+  {
+    "id": 269,
+    "question": "¿Qué fenómeno geológico puede crear columnas hexagonales de basalto al enfriarse lava?",
+    "answer": "La contracción térmica del basalto",
+    "difficulty": 3
+  },
+  {
+    "id": 270,
+    "question": "¿Qué molécula da color rojo a la sangre humana por su hierro?",
+    "answer": "La hemoglobina",
+    "difficulty": 3
+  },
+  {
+    "id": 271,
+    "question": "¿Qué estrella de mar, erizo y pepino de mar pertenecen al mismo grupo zoológico?",
+    "answer": "Los equinodermos",
+    "difficulty": 3
+  },
+  {
+    "id": 272,
+    "question": "¿Cómo se llama el régimen ecológico en que ciertos ecosistemas necesitan incendios periódicos para renovarse, como ocurre con pinos o eucaliptos?",
+    "answer": "Régimen de fuego o pirofitia",
+    "difficulty": 3
+  },
+  {
+    "id": 273,
+    "question": "¿Qué animal tiene el corazón del tamaño aproximado de un coche pequeño?",
+    "answer": "La ballena azul",
+    "difficulty": 3
+  },
+  {
+    "id": 274,
+    "question": "¿Qué nombre recibe el relámpago que ocurre dentro de una nube o entre nubes?",
+    "answer": "Rayo intranube o entre nubes",
+    "difficulty": 3
+  },
+  {
+    "id": 275,
+    "question": "¿Qué sustancia vuelve picantes a los chiles o guindillas?",
+    "answer": "La capsaicina",
+    "difficulty": 3
+  },
+  {
+    "id": 276,
+    "question": "¿Qué mineral común puede rayar el vidrio con facilidad?",
+    "answer": "El cuarzo",
+    "difficulty": 3
+  },
+  {
+    "id": 277,
+    "question": "¿Qué tejido vegetal transporta agua desde la raíz a las hojas?",
+    "answer": "El xilema",
+    "difficulty": 3
+  },
+  {
+    "id": 278,
+    "question": "¿Qué animal se orienta usando campos magnéticos además de otras pistas ambientales?",
+    "answer": "La tortuga marina",
+    "difficulty": 3
+  },
+  {
+    "id": 279,
+    "question": "¿Qué proceso biológico produce luz en animales como luciérnagas y algunos organismos marinos?",
+    "answer": "La bioluminiscencia",
+    "difficulty": 3
+  },
+  {
+    "id": 280,
+    "question": "¿Qué región de la atmósfera donde orbitan muchos satélites de baja altura se calienta intensamente pese a su baja densidad?",
+    "answer": "La termosfera",
+    "difficulty": 3
+  },
+  {
+    "id": 281,
+    "question": "¿Qué fenómeno hace que algunos metales se dilaten con el calor?",
+    "answer": "La expansión térmica",
+    "difficulty": 3
+  },
+  {
+    "id": 282,
+    "question": "¿Qué mamífero monotremo pone huevos en lugar de parir crías vivas?",
+    "answer": "El ornitorrinco",
+    "difficulty": 3
+  },
+  {
+    "id": 283,
+    "question": "¿Qué planta carnívora cierra rápidamente una trampa sobre sus presas?",
+    "answer": "La venus atrapamoscas",
+    "difficulty": 3
+  },
+  {
+    "id": 284,
+    "question": "¿Qué glóbulos sanguíneos ayudan a coagular la sangre aunque técnicamente sean fragmentos celulares?",
+    "answer": "Las plaquetas",
+    "difficulty": 3
+  },
+  {
+    "id": 285,
+    "question": "¿Qué tipo de nube se asocia a tormentas intensas y gran desarrollo vertical?",
+    "answer": "El cumulonimbo",
+    "difficulty": 3
+  },
+  {
+    "id": 286,
+    "question": "¿Qué fenómeno físico permite que un barco enorme flote?",
+    "answer": "El empuje de Arquímedes",
+    "difficulty": 3
+  },
+  {
+    "id": 287,
+    "question": "¿Qué animal puede detectar campos eléctricos débiles en el agua?",
+    "answer": "El tiburón",
+    "difficulty": 3
+  },
+  {
+    "id": 288,
+    "question": "¿Qué color adquiere a menudo la llama del cobre al calentarse?",
+    "answer": "Verdoso o verde azulado",
+    "difficulty": 4
+  },
+  {
+    "id": 289,
+    "question": "¿Qué nombre recibe el miedo intenso a los espacios cerrados que tiene base psicológica y fisiológica?",
+    "answer": "Claustrofobia",
+    "difficulty": 4
+  },
+  {
+    "id": 290,
+    "question": "¿Qué estructura de las bacterias les permite intercambiar material genético en algunos casos?",
+    "answer": "Los plásmidos",
+    "difficulty": 4
+  },
+  {
+    "id": 291,
+    "question": "¿Qué planeta del sistema solar emite más calor del que recibe del Sol de forma notable?",
+    "answer": "Júpiter",
+    "difficulty": 4
+  },
+  {
+    "id": 292,
+    "question": "¿Qué mineral forma gran parte de los esqueletos de muchos animales marinos como corales y moluscos?",
+    "answer": "Carbonato cálcico",
+    "difficulty": 4
+  },
+  {
+    "id": 293,
+    "question": "¿Qué capa del ojo contiene los fotorreceptores bastones y conos?",
+    "answer": "La retina",
+    "difficulty": 4
+  },
+  {
+    "id": 294,
+    "question": "¿Qué nombre recibe el agua subterránea acumulada en una formación permeable?",
+    "answer": "Acuífero",
+    "difficulty": 4
+  },
+  {
+    "id": 295,
+    "question": "¿Qué fenómeno hace que algunas ranas o insectos sobrevivan parcialmente congelados en invierno?",
+    "answer": "La crioprotección biológica",
+    "difficulty": 4
+  },
+  {
+    "id": 296,
+    "question": "¿Qué partícula elemental de la luz explica que también tenga comportamiento cuántico?",
+    "answer": "El fotón",
+    "difficulty": 4
+  },
+  {
+    "id": 297,
+    "question": "¿Qué gas noble se usa a veces para crear luces brillantes en carteles luminosos, aunque muchos usen mezclas?",
+    "answer": "Neón",
+    "difficulty": 4
+  },
+  {
+    "id": 298,
+    "question": "¿Qué estructura celular vegetal da rigidez extra y está compuesta en gran parte por celulosa?",
+    "answer": "La pared celular",
+    "difficulty": 4
+  },
+  {
+    "id": 299,
+    "question": "¿Qué bacteria intestinal famosa se usa mucho como organismo modelo en laboratorio?",
+    "answer": "Escherichia coli",
+    "difficulty": 4
+  },
+  {
+    "id": 300,
+    "question": "¿Qué nombre recibe el reflejo automático que hace contraerse la pupila ante mucha luz?",
+    "answer": "Reflejo fotomotor",
+    "difficulty": 4
+  },
+  {
+    "id": 301,
+    "question": "¿Qué tipo de simbiosis tienen ciertos hongos con raíces de plantas mejorando su absorción?",
+    "answer": "Micorrizas",
+    "difficulty": 4
+  },
+  {
+    "id": 302,
+    "question": "¿Qué planeta presenta estaciones extremas por su gran inclinación del eje de rotación?",
+    "answer": "Urano",
+    "difficulty": 4
+  },
+  {
+    "id": 303,
+    "question": "¿Qué tipo de animal marino usa ampolletas de Lorenzini para detectar electricidad?",
+    "answer": "Los tiburones y rayas",
+    "difficulty": 4
+  },
+  {
+    "id": 304,
+    "question": "¿Qué causa el sonido del trueno tras un rayo?",
+    "answer": "La expansión violenta del aire calentado por el arco eléctrico del rayo",
+    "difficulty": 4
+  },
+  {
+    "id": 305,
+    "question": "¿Qué parte del ADN se acorta con la edad celular y se relaciona con el envejecimiento replicativo?",
+    "answer": "Los telómeros",
+    "difficulty": 4
+  },
+  {
+    "id": 306,
+    "question": "¿Qué fenómeno químico hace que algunas sustancias absorban agua del ambiente con facilidad?",
+    "answer": "Higroscopicidad",
+    "difficulty": 4
+  },
+  {
+    "id": 307,
+    "question": "¿Qué grupo de mamíferos marinos incluye delfines y ballenas?",
+    "answer": "Los cetáceos",
+    "difficulty": 4
+  },
+  {
+    "id": 308,
+    "question": "¿Qué organismo extremófilo puede vivir en géiseres y fuentes termales muy calientes?",
+    "answer": "Algunas arqueas termófilas",
+    "difficulty": 5
+  },
+  {
+    "id": 309,
+    "question": "¿Qué nombre recibe el punto de equilibrio en el oído interno donde pequeños cristales mal colocados pueden causar vértigo?",
+    "answer": "El sistema vestibular; el problema típico es en los canales semicirculares",
+    "difficulty": 5
+  },
+  {
+    "id": 310,
+    "question": "¿Qué estrella conocida estallará algún día como supernova y está en la constelación de Orión?",
+    "answer": "Betelgeuse",
+    "difficulty": 5
+  },
+  {
+    "id": 311,
+    "question": "¿Qué molécula energética se considera la 'moneda' energética celular?",
+    "answer": "ATP",
+    "difficulty": 5
+  },
+  {
+    "id": 312,
+    "question": "¿Qué propiedad cuántica impide conocer simultáneamente con precisión absoluta posición y momento?",
+    "answer": "El principio de incertidumbre",
+    "difficulty": 5
+  },
+  {
+    "id": 313,
+    "question": "¿Qué animal marino posee un sistema nervioso distribuido con gran capacidad de aprendizaje y manipulación?",
+    "answer": "El pulpo",
+    "difficulty": 5
+  },
+  {
+    "id": 314,
+    "question": "¿Qué fenómeno geológico forma a veces 'bolas de piedra' o concreciones esféricas en sedimentos?",
+    "answer": "La concreción mineral",
+    "difficulty": 5
+  },
+  {
+    "id": 315,
+    "question": "¿Qué pigmento vegetal accesorio da tonos naranjas y amarillos a muchas hojas y frutos?",
+    "answer": "Los carotenoides",
+    "difficulty": 5
+  },
+  {
+    "id": 316,
+    "question": "¿Qué proceso hace que la luz cambie de dirección al pasar de un medio a otro?",
+    "answer": "La refracción",
+    "difficulty": 5
+  },
+  {
+    "id": 317,
+    "question": "¿Qué término describe a los organismos capaces de fabricar su propia materia orgánica a partir de sustancias inorgánicas?",
+    "answer": "Autótrofos",
+    "difficulty": 5
+  },
+  {
+    "id": 318,
+    "question": "¿Qué animal soporta temperaturas corporales variables reduciendo su metabolismo al mínimo en el hielo antártico?",
+    "answer": "Algunos peces antárticos con proteínas anticongelantes",
+    "difficulty": 5
+  },
+  {
+    "id": 319,
+    "question": "¿Qué nombre recibe el fenómeno por el que los satélites muestran siempre la misma cara a su planeta por acoplamiento gravitatorio?",
+    "answer": "Rotación síncrona",
+    "difficulty": 5
+  },
+  {
+    "id": 320,
+    "question": "¿Qué estructura geológica se forma cuando magma se enfría lentamente bajo tierra y luego queda expuesto por erosión?",
+    "answer": "Un plutón",
+    "difficulty": 5
+  },
+  {
+    "id": 321,
+    "question": "¿Qué compuesto del ajo se genera al cortarlo y contribuye a su olor característico?",
+    "answer": "La alicina",
+    "difficulty": 5
+  },
+  {
+    "id": 322,
+    "question": "¿Qué adaptación tienen algunos mamíferos del desierto para perder menos agua al respirar?",
+    "answer": "Cornetes nasales que recuperan humedad",
+    "difficulty": 5
+  },
+  {
+    "id": 323,
+    "question": "¿Qué neuronas del ojo responden principalmente a poca luz y no distinguen bien colores?",
+    "answer": "Los bastones",
+    "difficulty": 5
+  },
+  {
+    "id": 324,
+    "question": "¿Qué fenómeno astronómico produce auroras boreales y australes?",
+    "answer": "La interacción del viento solar con la magnetosfera y la atmósfera",
+    "difficulty": 5
+  },
+  {
+    "id": 325,
+    "question": "¿Qué estructura del ADN estabiliza la doble hélice mediante enlaces entre bases complementarias?",
+    "answer": "Los puentes de hidrógeno",
+    "difficulty": 5
+  },
+  {
+    "id": 326,
+    "question": "¿Qué tipo de compuestos se emplea para emitir fluorescencia en muchos estudios biológicos bajo luz ultravioleta o azul?",
+    "answer": "Proteínas fluorescentes",
+    "difficulty": 5
+  },
+  {
+    "id": 327,
+    "question": "¿Qué proceso genera isótopos radiactivos al desintegrarse núcleos inestables con el tiempo?",
+    "answer": "Desintegración radiactiva",
+    "difficulty": 5
+  },
+  {
+    "id": 354,
+    "question": "¿Cómo se llama la fase intermedia en la que una oruga se encierra antes de convertirse en mariposa?",
+    "answer": "La crisálida",
+    "difficulty": 1
+  },
+  {
+    "id": 365,
+    "question": "¿Cuánto tarda la Tierra en completar una vuelta alrededor del Sol?",
+    "answer": "365 días y casi 6 horas (un año)",
+    "difficulty": 1
+  },
+  {
+    "id": 366,
+    "question": "¿Cuántos planetas tiene actualmente el sistema solar?",
+    "answer": "Ocho",
+    "difficulty": 1
+  },
+  {
+    "id": 367,
+    "question": "¿Qué animal es un insecto y produce miel?",
+    "answer": "La abeja",
+    "difficulty": 1
+  },
+  {
+    "id": 374,
+    "question": "¿Qué parte del cerebro coordina el equilibrio y la precisión del movimiento en colaboración con el oído interno?",
+    "answer": "El cerebelo",
+    "difficulty": 1
+  },
+  {
+    "id": 384,
+    "question": "¿Qué tipo de tejido del cuerpo produce fuerza y movimiento al contraerse?",
+    "answer": "El tejido muscular",
+    "difficulty": 1
+  },
+  {
+    "id": 385,
+    "question": "¿Qué estructura ósea rodea y protege los pulmones y el corazón?",
+    "answer": "La caja torácica (costillas, esternón y columna)",
+    "difficulty": 1
+  },
+  {
+    "id": 389,
+    "question": "¿Qué instrumento meteorológico mide la temperatura?",
+    "answer": "El termómetro",
+    "difficulty": 1
+  },
+  {
+    "id": 390,
+    "question": "¿Qué instrumento meteorológico mide la cantidad de lluvia caída?",
+    "answer": "El pluviómetro",
+    "difficulty": 1
+  },
+  {
+    "id": 391,
+    "question": "¿Qué instrumento meteorológico mide la velocidad del viento?",
+    "answer": "El anemómetro",
+    "difficulty": 1
+  },
+  {
+    "id": 392,
+    "question": "¿Cómo se llama la capa más externa y sólida de la Tierra sobre la que vivimos?",
+    "answer": "La corteza terrestre",
+    "difficulty": 1
+  },
+  {
+    "id": 398,
+    "question": "¿Qué gas noble, mucho más ligero que el aire, se usa para inflar globos aerostáticos y dirigibles?",
+    "answer": "El helio",
+    "difficulty": 1
+  },
+  {
+    "id": 399,
+    "question": "¿Qué estructura ósea del esqueleto axial protege la médula espinal?",
+    "answer": "La columna vertebral",
+    "difficulty": 1
+  },
+  {
+    "id": 421,
+    "question": "¿Qué compuesto químico, presente en la arena, es la principal materia prima para fabricar vidrio?",
+    "answer": "El dióxido de silicio (SiO₂) o sílice",
+    "difficulty": 1
+  },
+  {
+    "id": 423,
+    "question": "¿Qué órgano produce la insulina?",
+    "answer": "El páncreas",
+    "difficulty": 2
+  },
+  {
+    "id": 424,
+    "question": "¿Qué planeta tiene la montaña Olympus Mons?",
+    "answer": "Marte",
+    "difficulty": 2
+  },
+  {
+    "id": 425,
+    "question": "¿Qué hueso une el brazo con el antebrazo en la parte superior?",
+    "answer": "El húmero",
+    "difficulty": 2
+  },
+  {
+    "id": 426,
+    "question": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+    "answer": "El nitrógeno",
+    "difficulty": 2
+  },
+  {
+    "id": 427,
+    "question": "¿Qué parte del sistema nervioso conecta el encéfalo con el resto del cuerpo?",
+    "answer": "La médula espinal",
+    "difficulty": 2
+  },
+  {
+    "id": 428,
+    "question": "¿Qué órgano humano desintoxica sustancias y produce bilis?",
+    "answer": "El hígado",
+    "difficulty": 2
+  },
+  {
+    "id": 429,
+    "question": "¿Qué planeta tiene la Gran Mancha Roja?",
+    "answer": "Júpiter",
+    "difficulty": 2
+  },
+  {
+    "id": 430,
+    "question": "¿Qué unidad del sistema internacional mide la fuerza?",
+    "answer": "El newton",
+    "difficulty": 2
+  },
+  {
+    "id": 431,
+    "question": "¿Qué proceso convierte un líquido en gas por calentamiento o evaporación?",
+    "answer": "La vaporización",
+    "difficulty": 2
+  },
+  {
+    "id": 432,
+    "question": "¿Qué célula sanguínea transporta oxígeno?",
+    "answer": "El glóbulo rojo",
+    "difficulty": 2
+  },
+  {
+    "id": 433,
+    "question": "¿Qué estructura del ojo enfoca la luz ajustando su forma?",
+    "answer": "El cristalino",
+    "difficulty": 2
+  },
+  {
+    "id": 434,
+    "question": "¿Qué estrella se encuentra en el centro del sistema solar?",
+    "answer": "El Sol",
+    "difficulty": 2
+  },
+  {
+    "id": 435,
+    "question": "¿Qué órgano vegetal transporta agua y sales minerales por el xilema?",
+    "answer": "El tallo",
+    "difficulty": 2
+  },
+  {
+    "id": 436,
+    "question": "¿Qué ciencia estudia los terremotos?",
+    "answer": "La sismología",
+    "difficulty": 2
+  },
+  {
+    "id": 437,
+    "question": "¿Qué estructura del oído interno ayuda al equilibrio?",
+    "answer": "Los canales semicirculares",
+    "difficulty": 2
+  },
+  {
+    "id": 438,
+    "question": "¿Qué mineral tiene dureza 10 en la escala de Mohs?",
+    "answer": "El diamante",
+    "difficulty": 2
+  },
+  {
+    "id": 439,
+    "question": "¿Qué parte del riñón filtra inicialmente la sangre?",
+    "answer": "El glomérulo",
+    "difficulty": 2
+  },
+  {
+    "id": 440,
+    "question": "¿Qué enlace químico comparte electrones entre átomos?",
+    "answer": "El enlace covalente",
+    "difficulty": 2
+  },
+  {
+    "id": 441,
+    "question": "¿Qué planeta está más cerca de la Tierra en muchos momentos orbitales medios?",
+    "answer": "Venus",
+    "difficulty": 2
+  },
+  {
+    "id": 442,
+    "question": "¿Qué tipo de célula produce anticuerpos tras diferenciarse?",
+    "answer": "El linfocito B o célula plasmática",
+    "difficulty": 2
+  },
+  {
+    "id": 443,
+    "question": "¿Qué glándula regula gran parte del metabolismo mediante hormonas tiroideas?",
+    "answer": "La tiroides",
+    "difficulty": 2
+  },
+  {
+    "id": 444,
+    "question": "¿Qué nombre recibe el cambio de sólido a gas sin pasar por líquido?",
+    "answer": "Sublimación",
+    "difficulty": 2
+  },
+  {
+    "id": 445,
+    "question": "¿Qué tejido une músculo con hueso?",
+    "answer": "El tendón",
+    "difficulty": 2
+  },
+  {
+    "id": 446,
+    "question": "¿Qué nombre recibe la energía almacenada en los alimentos por sus enlaces químicos?",
+    "answer": "Energía química",
+    "difficulty": 2
+  },
+  {
+    "id": 447,
+    "question": "¿Qué órgano del sistema respiratorio intercambia gases con la sangre?",
+    "answer": "Los alvéolos pulmonares",
+    "difficulty": 2
+  },
+  {
+    "id": 448,
+    "question": "¿Qué planeta tarda más en completar una vuelta al Sol?",
+    "answer": "Neptuno",
+    "difficulty": 2
+  },
+  {
+    "id": 449,
+    "question": "¿Qué rama de la biología estudia los hongos?",
+    "answer": "La micología",
+    "difficulty": 2
+  },
+  {
+    "id": 450,
+    "question": "¿Qué órgano humano almacena la orina antes de expulsarla?",
+    "answer": "La vejiga",
+    "difficulty": 2
+  },
+  {
+    "id": 451,
+    "question": "¿Qué función metabólica fundamental cumple la vitamina D en el organismo humano?",
+    "answer": "Favorece la absorción intestinal del calcio y el fósforo",
+    "difficulty": 2
+  },
+  {
+    "id": 452,
+    "question": "¿Qué tipo de roca se forma por presión y calor sobre otras rocas?",
+    "answer": "La roca metamórfica",
+    "difficulty": 2
+  },
+  {
+    "id": 453,
+    "question": "¿Qué elemento químico tiene símbolo Na?",
+    "answer": "El sodio",
+    "difficulty": 2
+  },
+  {
+    "id": 454,
+    "question": "¿Qué parte de la célula contiene la mayor parte del ADN?",
+    "answer": "El núcleo",
+    "difficulty": 2
+  },
+  {
+    "id": 455,
+    "question": "¿Qué científico formuló las leyes del movimiento y la gravitación clásica?",
+    "answer": "Isaac Newton",
+    "difficulty": 2
+  },
+  {
+    "id": 456,
+    "question": "¿Qué tipo de inmunidad se adquiere mediante vacunas?",
+    "answer": "Inmunidad activa artificial",
+    "difficulty": 2
+  },
+  {
+    "id": 457,
+    "question": "¿Qué nombre recibe la galaxia donde está el sistema solar?",
+    "answer": "La Vía Láctea",
+    "difficulty": 2
+  },
+  {
+    "id": 458,
+    "question": "¿Qué proceso usan las plantas para fabricar glucosa con luz?",
+    "answer": "La fotosíntesis",
+    "difficulty": 2
+  },
+  {
+    "id": 459,
+    "question": "¿Qué hormona regula de forma principal la glucosa en sangre al disminuirla?",
+    "answer": "La insulina",
+    "difficulty": 2
+  },
+  {
+    "id": 460,
+    "question": "¿Qué parte del sistema digestivo absorbe la mayor parte de los nutrientes?",
+    "answer": "El intestino delgado",
+    "difficulty": 2
+  },
+  {
+    "id": 461,
+    "question": "¿Qué científico descubrió la radiactividad natural en sales de uranio?",
+    "answer": "Henri Becquerel",
+    "difficulty": 2
+  },
+  {
+    "id": 462,
+    "question": "¿Qué compuesto forma la capa dura de conchas y muchos corales?",
+    "answer": "Carbonato cálcico",
+    "difficulty": 2
+  },
+  {
+    "id": 463,
+    "question": "¿Qué rama de la física estudia el calor y sus transformaciones?",
+    "answer": "La termodinámica",
+    "difficulty": 2
+  },
+  {
+    "id": 464,
+    "question": "¿Qué unidad mide la diferencia de potencial eléctrico?",
+    "answer": "El voltio",
+    "difficulty": 2
+  },
+  {
+    "id": 465,
+    "question": "¿Qué gas de efecto invernadero expulsan volcanes, océanos e industrias y usan las plantas?",
+    "answer": "Dióxido de carbono",
+    "difficulty": 2
+  },
+  {
+    "id": 466,
+    "question": "¿Qué planeta gira más lentamente sobre su eje entre los principales?",
+    "answer": "Venus",
+    "difficulty": 2
+  },
+  {
+    "id": 467,
+    "question": "¿Qué tejido del cuerpo almacena gran parte de la grasa?",
+    "answer": "El tejido adiposo",
+    "difficulty": 2
+  },
+  {
+    "id": 468,
+    "question": "¿Qué orgánulo produce la mayor parte del ATP celular?",
+    "answer": "La mitocondria",
+    "difficulty": 2
+  },
+  {
+    "id": 469,
+    "question": "¿Qué nombre recibe el conjunto de todos los genes de un organismo?",
+    "answer": "El genoma",
+    "difficulty": 2
+  },
+  {
+    "id": 470,
+    "question": "¿Qué metal precioso tiene símbolo químico Au?",
+    "answer": "El oro",
+    "difficulty": 2
+  },
+  {
+    "id": 471,
+    "question": "¿Qué estructura protege al encéfalo junto con las meninges?",
+    "answer": "El cráneo",
+    "difficulty": 2
+  },
+  {
+    "id": 472,
+    "question": "¿Qué órgano del cuerpo produce la bilis?",
+    "answer": "El hígado",
+    "difficulty": 2
+  },
+  {
+    "id": 473,
+    "question": "¿Qué planeta tiene el día más largo por rotación muy lenta?",
+    "answer": "Venus",
+    "difficulty": 2
+  },
+  {
+    "id": 474,
+    "question": "¿Qué proceso divide una célula somática en dos células hijas similares?",
+    "answer": "La mitosis",
+    "difficulty": 2
+  },
+  {
+    "id": 475,
+    "question": "¿Qué tipo de nube suele producir tormentas intensas?",
+    "answer": "El cumulonimbo",
+    "difficulty": 2
+  },
+  {
+    "id": 476,
+    "question": "¿Qué glándula del encéfalo segrega melatonina y regula ritmos circadianos?",
+    "answer": "La glándula pineal",
+    "difficulty": 2
+  },
+  {
+    "id": 477,
+    "question": "¿Qué órgano del sistema inmunitario filtra sangre y participa en respuestas defensivas?",
+    "answer": "El bazo",
+    "difficulty": 2
+  },
+  {
+    "id": 478,
+    "question": "¿Qué elemento es básico en moléculas orgánicas como proteínas y azúcares?",
+    "answer": "El carbono",
+    "difficulty": 2
+  },
+  {
+    "id": 479,
+    "question": "¿Qué función cumple el líquido que rodea al feto en el interior del saco amniótico?",
+    "answer": "Amortiguar impactos, regular temperatura y permitir los movimientos fetales",
+    "difficulty": 2
+  },
+  {
+    "id": 480,
+    "question": "¿Qué científico desarrolló la teoría heliocéntrica moderna temprana?",
+    "answer": "Nicolás Copérnico",
+    "difficulty": 2
+  },
+  {
+    "id": 481,
+    "question": "¿Qué parte del ojo contiene bastones y conos?",
+    "answer": "La retina",
+    "difficulty": 2
+  },
+  {
+    "id": 482,
+    "question": "¿Qué escala moderna mide la magnitud de terremotos grandes?",
+    "answer": "La magnitud de momento",
+    "difficulty": 2
+  },
+  {
+    "id": 483,
+    "question": "¿Qué estructura del oído vibra antes de transmitir el sonido a huesecillos?",
+    "answer": "El tímpano",
+    "difficulty": 2
+  },
+  {
+    "id": 484,
+    "question": "¿Qué órgano participa especialmente en el equilibrio de líquidos y sales del cuerpo?",
+    "answer": "Los riñones",
+    "difficulty": 2
+  },
+  {
+    "id": 485,
+    "question": "¿Qué proceso convierte nitrógeno atmosférico en compuestos utilizables biológicamente?",
+    "answer": "La fijación del nitrógeno",
+    "difficulty": 2
+  },
+  {
+    "id": 486,
+    "question": "¿Qué científico relacionó electricidad y magnetismo con ecuaciones unificadas?",
+    "answer": "James Clerk Maxwell",
+    "difficulty": 2
+  },
+  {
+    "id": 487,
+    "question": "¿Qué nombre recibe el punto más cercano de la órbita terrestre al Sol?",
+    "answer": "Perihelio",
+    "difficulty": 2
+  },
+  {
+    "id": 488,
+    "question": "¿Qué tejido protege el cuerpo y ayuda a regular la temperatura?",
+    "answer": "La piel",
+    "difficulty": 2
+  },
+  {
+    "id": 489,
+    "question": "¿Qué partícula de luz explica su comportamiento cuántico?",
+    "answer": "El fotón",
+    "difficulty": 2
+  },
+  {
+    "id": 490,
+    "question": "¿Qué tipo de animales tienen columna vertebral?",
+    "answer": "Los vertebrados",
+    "difficulty": 2
+  },
+  {
+    "id": 491,
+    "question": "¿Qué rama de la ciencia estudia los fósiles?",
+    "answer": "La paleontología",
+    "difficulty": 2
+  },
+  {
+    "id": 492,
+    "question": "¿Qué nombre recibe el fenómeno por el que se rompen enlaces por agua?",
+    "answer": "Hidrólisis",
+    "difficulty": 2
+  },
+  {
+    "id": 493,
+    "question": "¿Qué célula nerviosa transmite impulsos eléctricos en el sistema nervioso?",
+    "answer": "La neurona",
+    "difficulty": 2
+  },
+  {
+    "id": 494,
+    "question": "¿Qué órgano humano realiza la mayor parte del procesamiento visual inicial cortical?",
+    "answer": "El lóbulo occipital",
+    "difficulty": 2
+  },
+  {
+    "id": 495,
+    "question": "¿Qué músculo principal interviene en la respiración al contraerse bajo los pulmones?",
+    "answer": "El diafragma",
+    "difficulty": 2
+  },
+  {
+    "id": 496,
+    "question": "¿Qué tipo de reproducción mezcla material genético de dos progenitores?",
+    "answer": "La reproducción sexual",
+    "difficulty": 2
+  },
+  {
+    "id": 497,
+    "question": "¿Qué científico descubrió la estructura de doble hélice junto a James Watson?",
+    "answer": "Francis Crick",
+    "difficulty": 2
+  },
+  {
+    "id": 498,
+    "question": "¿Qué fenómeno hace que algunos materiales se imanten temporal o permanentemente?",
+    "answer": "El magnetismo",
+    "difficulty": 2
+  },
+  {
+    "id": 499,
+    "question": "¿Qué nombre recibe el borde de un agujero negro del que no escapa la luz?",
+    "answer": "El horizonte de sucesos",
+    "difficulty": 2
+  },
+  {
+    "id": 500,
+    "question": "¿Qué especie humana es la actual?",
+    "answer": "Homo sapiens",
+    "difficulty": 2
+  },
+  {
+    "id": 501,
+    "question": "¿Qué proceso celular descompone glucosa para obtener energía?",
+    "answer": "La respiración celular",
+    "difficulty": 2
+  },
+  {
+    "id": 502,
+    "question": "¿Qué elemento químico tiene símbolo K?",
+    "answer": "El potasio",
+    "difficulty": 2
+  },
+  {
+    "id": 503,
+    "question": "¿Qué rama de la química estudia compuestos del carbono?",
+    "answer": "La química orgánica",
+    "difficulty": 2
+  },
+  {
+    "id": 504,
+    "question": "¿Qué científico ideó la escala absoluta de temperatura que lleva su nombre?",
+    "answer": "William Thomson, lord Kelvin",
+    "difficulty": 2
+  },
+  {
+    "id": 505,
+    "question": "¿Qué capa de la Tierra está entre la corteza y el núcleo?",
+    "answer": "El manto",
+    "difficulty": 2
+  },
+  {
+    "id": 506,
+    "question": "¿Qué nombre recibe un animal que se alimenta de plantas y carne?",
+    "answer": "Omnívoro",
+    "difficulty": 2
+  },
+  {
+    "id": 507,
+    "question": "¿Qué proteína de las células animales forma microtúbulos y ayuda en la división celular?",
+    "answer": "La tubulina",
+    "difficulty": 2
+  },
+  {
+    "id": 508,
+    "question": "¿Qué fenómeno óptico separa la luz blanca en colores al pasar por un prisma?",
+    "answer": "La dispersión",
+    "difficulty": 2
+  },
+  {
+    "id": 509,
+    "question": "¿Qué nombre recibe el conjunto de huesos del cuerpo humano?",
+    "answer": "El esqueleto",
+    "difficulty": 2
+  },
+  {
+    "id": 510,
+    "question": "¿Qué órgano produce gran parte del movimiento muscular voluntario junto al sistema nervioso?",
+    "answer": "Los músculos",
+    "difficulty": 2
+  },
+  {
+    "id": 511,
+    "question": "¿A qué grupo zoológico pertenece el panda gigante?",
+    "answer": "Mamífero",
+    "difficulty": 2
+  },
+  {
+    "id": 513,
+    "question": "¿En qué tipo de hábitat vive habitualmente el panda gigante?",
+    "answer": "Bosques templados de bambú",
+    "difficulty": 1
+  },
+  {
+    "id": 515,
+    "question": "¿Qué tipo de alimentación predomina en el panda gigante?",
+    "answer": "Herbívora",
+    "difficulty": 1
+  },
+  {
+    "id": 517,
+    "question": "¿Cuál es el alimento principal del panda gigante?",
+    "answer": "El bambú",
+    "difficulty": 4
+  },
+  {
+    "id": 519,
+    "question": "¿Con qué región del mundo se relaciona de forma emblemática el panda gigante?",
+    "answer": "China central",
+    "difficulty": 3
+  },
+  {
+    "id": 521,
+    "question": "¿A qué clase de vertebrados pertenece el ajolote?",
+    "answer": "Anfibio",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "question": "¿En qué hábitat vive habitualmente el ajolote?",
+    "answer": "Lagos y canales de agua dulce",
+    "difficulty": 2
+  },
+  {
+    "id": 525,
+    "question": "¿Qué tipo de alimentación predomina en el ajolote?",
+    "answer": "Carnívora",
+    "difficulty": 2
+  },
+  {
+    "id": 527,
+    "question": "¿Qué capacidad regenerativa destacada tiene el ajolote?",
+    "answer": "Puede regenerar extremidades y órganos",
+    "difficulty": 5
+  },
+  {
+    "id": 529,
+    "question": "¿En qué lugar de México vive el ajolote en su hábitat natural?",
+    "answer": "Xochimilco, México",
+    "difficulty": 4
+  },
+  {
+    "id": 531,
+    "question": "¿A qué orden de mamíferos pertenece el ornitorrinco?",
+    "answer": "Mamífero monotremado",
+    "difficulty": 4
+  },
+  {
+    "id": 533,
+    "question": "¿En qué hábitat vive habitualmente el ornitorrinco?",
+    "answer": "Ríos y arroyos",
+    "difficulty": 3
+  },
+  {
+    "id": 535,
+    "question": "¿Qué tipo de alimentación predomina en el ornitorrinco?",
+    "answer": "Carnívora",
+    "difficulty": 3
+  },
+  {
+    "id": 537,
+    "question": "¿Qué característica inusual tiene el ornitorrinco pese a ser mamífero?",
+    "answer": "Pone huevos",
+    "difficulty": 1
+  },
+  {
+    "id": 539,
+    "question": "¿En qué continente vive el ornitorrinco en libertad?",
+    "answer": "Australia (este)",
+    "difficulty": 5
+  },
+  {
+    "id": 541,
+    "question": "¿A qué grupo zoológico pertenece el narval?",
+    "answer": "Mamífero marino",
+    "difficulty": 5
+  },
+  {
+    "id": 543,
+    "question": "¿En qué hábitat vive habitualmente el narval?",
+    "answer": "Aguas árticas",
+    "difficulty": 4
+  },
+  {
+    "id": 545,
+    "question": "¿Qué tipo de alimentación predomina en el narval?",
+    "answer": "Carnívora",
+    "difficulty": 4
+  },
+  {
+    "id": 547,
+    "question": "¿Qué rasgo físico destacado suele tener el macho del narval?",
+    "answer": "Un largo colmillo helicoidal",
+    "difficulty": 2
+  },
+  {
+    "id": 549,
+    "question": "¿En qué océano vive el narval?",
+    "answer": "Océano Ártico",
+    "difficulty": 1
+  },
+  {
+    "id": 551,
+    "question": "¿A qué grupo zoológico pertenece el suricata?",
+    "answer": "Mamífero",
+    "difficulty": 1
+  },
+  {
+    "id": 553,
+    "question": "¿En qué tipo de hábitat vive habitualmente el suricata?",
+    "answer": "Zonas áridas y semidesérticas",
+    "difficulty": 5
+  },
+  {
+    "id": 555,
+    "question": "¿Qué tipo de alimentación tiene el suricata?",
+    "answer": "Omnívora",
+    "difficulty": 5
+  },
+  {
+    "id": 557,
+    "question": "¿Qué comportamiento social característico tiene el suricata?",
+    "answer": "Un individuo hace guardia erguido mientras el grupo busca alimento",
+    "difficulty": 3
+  },
+  {
+    "id": 559,
+    "question": "¿En qué región del mundo vive el suricata en libertad?",
+    "answer": "África austral",
+    "difficulty": 2
+  },
+  {
+    "id": 561,
+    "question": "¿A qué grupo de mamíferos pertenece el koala?",
+    "answer": "Mamífero marsupial",
+    "difficulty": 2
+  },
+  {
+    "id": 563,
+    "question": "¿En qué tipo de bosque vive el koala?",
+    "answer": "Bosques de eucalipto",
+    "difficulty": 1
+  },
+  {
+    "id": 565,
+    "question": "¿Cuál es la dieta del koala?",
+    "answer": "Herbívora",
+    "difficulty": 1
+  },
+  {
+    "id": 567,
+    "question": "¿Qué alimento constituye prácticamente toda la dieta del koala?",
+    "answer": "Hojas de eucalipto",
+    "difficulty": 4
+  },
+  {
+    "id": 569,
+    "question": "¿En qué país vive el koala en libertad?",
+    "answer": "Australia oriental",
+    "difficulty": 3
+  },
+  {
+    "id": 571,
+    "question": "¿A qué familia felina pertenece el lince ibérico?",
+    "answer": "Mamífero félido (Lynx pardinus)",
+    "difficulty": 3
+  },
+  {
+    "id": 573,
+    "question": "¿En qué tipo de hábitat vive el lince ibérico?",
+    "answer": "Monte mediterráneo",
+    "difficulty": 2
+  },
+  {
+    "id": 575,
+    "question": "¿Cuál es el tipo de dieta del lince ibérico?",
+    "answer": "Carnívora",
+    "difficulty": 2
+  },
+  {
+    "id": 577,
+    "question": "¿De qué presa depende principalmente el lince ibérico para alimentarse?",
+    "answer": "Del conejo europeo",
+    "difficulty": 5
+  },
+  {
+    "id": 579,
+    "question": "¿En qué región geográfica es endémico el lince ibérico?",
+    "answer": "Península ibérica",
+    "difficulty": 4
+  },
+  {
+    "id": 581,
+    "question": "¿Qué tipo de roedor es el capibara?",
+    "answer": "El roedor más grande del mundo",
+    "difficulty": 4
+  },
+  {
+    "id": 583,
+    "question": "¿En qué hábitat vive el capibara?",
+    "answer": "Humedales y sabanas inundables",
+    "difficulty": 3
+  },
+  {
+    "id": 585,
+    "question": "¿Cuál es el tipo de alimentación del capibara?",
+    "answer": "Herbívora",
+    "difficulty": 3
+  },
+  {
+    "id": 587,
+    "question": "¿Qué récord ostenta el capibara entre los roedores actuales?",
+    "answer": "Es el roedor más grande del mundo",
+    "difficulty": 1
+  },
+  {
+    "id": 589,
+    "question": "¿En qué continente vive el capibara en su hábitat natural?",
+    "answer": "Sudamérica",
+    "difficulty": 5
+  },
+  {
+    "id": 591,
+    "question": "¿A qué clase de animales pertenece el pingüino emperador?",
+    "answer": "Ave",
+    "difficulty": 5
+  },
+  {
+    "id": 593,
+    "question": "¿En qué hábitat vive el pingüino emperador?",
+    "answer": "Costas heladas y banquisa antártica",
+    "difficulty": 4
+  },
+  {
+    "id": 595,
+    "question": "¿Cuál es la dieta del pingüino emperador?",
+    "answer": "Carnívora (peces y calamares)",
+    "difficulty": 4
+  },
+  {
+    "id": 597,
+    "question": "¿En qué época del año se reproduce el pingüino emperador?",
+    "answer": "Durante el invierno antártico",
+    "difficulty": 2
+  },
+  {
+    "id": 599,
+    "question": "¿En qué continente vive el pingüino emperador?",
+    "answer": "Antártida",
+    "difficulty": 1
+  },
+  {
+    "id": 601,
+    "question": "¿A qué grupo pertenece el dragón de Komodo?",
+    "answer": "Reptil (lagarto)",
+    "difficulty": 1
+  },
+  {
+    "id": 603,
+    "question": "¿En qué hábitat vive el dragón de Komodo?",
+    "answer": "Islas secas y sabanas",
+    "difficulty": 5
+  },
+  {
+    "id": 605,
+    "question": "¿Cuál es la dieta del dragón de Komodo?",
+    "answer": "Carnívora",
+    "difficulty": 5
+  },
+  {
+    "id": 607,
+    "question": "¿Qué récord tiene el dragón de Komodo entre los lagartos actuales?",
+    "answer": "Es el lagarto más grande del mundo",
+    "difficulty": 3
+  },
+  {
+    "id": 609,
+    "question": "¿En qué país se encuentran las islas donde vive el dragón de Komodo?",
+    "answer": "Indonesia",
+    "difficulty": 2
+  },
+  {
+    "id": 611,
+    "question": "¿A qué clase animal pertenece la tortuga laúd?",
+    "answer": "Reptil (tortuga marina)",
+    "difficulty": 2
+  },
+  {
+    "id": 613,
+    "question": "¿En qué hábitat vive la tortuga laúd?",
+    "answer": "Océanos tropicales y templados",
+    "difficulty": 1
+  },
+  {
+    "id": 615,
+    "question": "¿De qué se alimenta principalmente la tortuga laúd?",
+    "answer": "De medusas (dieta carnívora)",
+    "difficulty": 1
+  },
+  {
+    "id": 617,
+    "question": "¿Qué característica diferencia el caparazón de la tortuga laúd del de otras tortugas?",
+    "answer": "Es flexible y coriáceo en lugar de rígido",
+    "difficulty": 4
+  },
+  {
+    "id": 619,
+    "question": "¿En qué océanos se encuentra la tortuga laúd?",
+    "answer": "Atlántico, Pacífico e Índico",
+    "difficulty": 3
+  },
+  {
+    "id": 621,
+    "question": "¿A qué familia animal pertenece el fennec?",
+    "answer": "Mamífero (cánido)",
+    "difficulty": 3
+  },
+  {
+    "id": 623,
+    "question": "¿En qué tipo de hábitat vive el fennec?",
+    "answer": "Desiertos cálidos",
+    "difficulty": 2
+  },
+  {
+    "id": 625,
+    "question": "¿Cuál es el tipo de alimentación del fennec?",
+    "answer": "Omnívora",
+    "difficulty": 2
+  },
+  {
+    "id": 627,
+    "question": "¿Para qué sirven las orejas grandes del fennec?",
+    "answer": "Para disipar el calor corporal",
+    "difficulty": 5
+  },
+  {
+    "id": 629,
+    "question": "¿En qué desierto es emblemático el fennec?",
+    "answer": "El Sáhara y norte de África",
+    "difficulty": 4
+  },
+  {
+    "id": 631,
+    "question": "¿A qué clase animal pertenece el halcón peregrino?",
+    "answer": "Ave rapaz",
+    "difficulty": 4
+  },
+  {
+    "id": 633,
+    "question": "¿En qué hábitats nidifica habitualmente el halcón peregrino?",
+    "answer": "Acantilados, montañas y ciudades",
+    "difficulty": 3
+  },
+  {
+    "id": 635,
+    "question": "¿Cuál es la dieta del halcón peregrino?",
+    "answer": "Carnívora (aves en vuelo)",
+    "difficulty": 3
+  },
+  {
+    "id": 637,
+    "question": "¿Qué record de velocidad tiene el halcón peregrino?",
+    "answer": "Es el animal más rápido del mundo en picado (supera 300 km/h)",
+    "difficulty": 1
+  },
+  {
+    "id": 639,
+    "question": "¿Cuál es la distribución geográfica del halcón peregrino?",
+    "answer": "Casi mundial (excepto la Antártida)",
+    "difficulty": 5
+  },
+  {
+    "id": 641,
+    "question": "¿A qué grupo pertenece el manatí antillano?",
+    "answer": "Mamífero marino (sirénido)",
+    "difficulty": 5
+  },
+  {
+    "id": 643,
+    "question": "¿En qué hábitat vive el manatí antillano?",
+    "answer": "Aguas costeras, estuarios y ríos lentos",
+    "difficulty": 4
+  },
+  {
+    "id": 645,
+    "question": "¿Cuál es la dieta del manatí antillano?",
+    "answer": "Herbívora (vegetación acuática)",
+    "difficulty": 4
+  },
+  {
+    "id": 647,
+    "question": "¿Cómo se alimenta el manatí antillano?",
+    "answer": "Pastando vegetación acuática",
+    "difficulty": 2
+  },
+  {
+    "id": 649,
+    "question": "¿En qué región geográfica vive el manatí antillano?",
+    "answer": "Caribe y costa atlántica americana",
+    "difficulty": 1
+  },
+  {
+    "id": 651,
+    "question": "¿A qué clase animal pertenece el camaleón pantera?",
+    "answer": "Reptil (saurio)",
+    "difficulty": 1
+  },
+  {
+    "id": 653,
+    "question": "¿En qué hábitat vive el camaleón pantera?",
+    "answer": "Bosques tropicales",
+    "difficulty": 5
+  },
+  {
+    "id": 655,
+    "question": "¿Cuál es la dieta del camaleón pantera?",
+    "answer": "Insectívora",
+    "difficulty": 5
+  },
+  {
+    "id": 657,
+    "question": "¿Qué habilidad cromática caracteriza especialmente al camaleón pantera?",
+    "answer": "Sus intensos y rápidos cambios de color",
+    "difficulty": 3
+  },
+  {
+    "id": 659,
+    "question": "¿En qué isla vive el camaleón pantera?",
+    "answer": "Madagascar",
+    "difficulty": 2
+  },
+  {
+    "id": 661,
+    "question": "¿A qué orden de primates pertenece el gorila de montaña?",
+    "answer": "Mamífero primate (hominoideos)",
+    "difficulty": 2
+  },
+  {
+    "id": 663,
+    "question": "¿En qué tipo de hábitat vive el gorila de montaña?",
+    "answer": "Bosques montanos",
+    "difficulty": 1
+  },
+  {
+    "id": 665,
+    "question": "¿Cuál es la dieta del gorila de montaña?",
+    "answer": "Herbívora",
+    "difficulty": 1
+  },
+  {
+    "id": 667,
+    "question": "¿Cómo se organiza socialmente el gorila de montaña?",
+    "answer": "En grupos liderados por un macho espalda plateada",
+    "difficulty": 4
+  },
+  {
+    "id": 669,
+    "question": "¿En qué países de África central vive el gorila de montaña?",
+    "answer": "En los macizos de Virunga y el bosque de Bwindi",
+    "difficulty": 3
+  },
+  {
+    "id": 671,
+    "question": "¿A qué clase animal pertenece el pez luna (Mola mola)?",
+    "answer": "Pez óseo (actinopterigio)",
+    "difficulty": 3
+  },
+  {
+    "id": 673,
+    "question": "¿En qué hábitat vive el pez luna?",
+    "answer": "Océano abierto templado y tropical",
+    "difficulty": 2
+  },
+  {
+    "id": 675,
+    "question": "¿De qué se alimenta principalmente el pez luna?",
+    "answer": "De medusas y otros invertebrados marinos",
+    "difficulty": 2
+  },
+  {
+    "id": 677,
+    "question": "¿Qué forma corporal característica tiene el pez luna?",
+    "answer": "Cuerpo muy alto y aplanado lateralmente, sin aleta caudal típica",
+    "difficulty": 5
+  },
+  {
+    "id": 679,
+    "question": "¿En qué mares se encuentra el pez luna habitualmente?",
+    "answer": "Mares templados y tropicales",
+    "difficulty": 4
+  },
+  {
+    "id": 681,
+    "question": "¿A qué clase animal pertenece el cóndor andino?",
+    "answer": "Ave rapaz (catártido)",
+    "difficulty": 4
+  },
+  {
+    "id": 683,
+    "question": "¿En qué tipo de hábitat vive el cóndor andino?",
+    "answer": "Cordilleras y cañones de alta montaña",
+    "difficulty": 3
+  },
+  {
+    "id": 685,
+    "question": "¿Cuál es la dieta del cóndor andino?",
+    "answer": "Carroñera",
+    "difficulty": 3
+  },
+  {
+    "id": 687,
+    "question": "¿Qué envergadura tiene el cóndor andino comparado con otras aves voladoras?",
+    "answer": "Es una de las aves voladoras con mayor envergadura del mundo",
+    "difficulty": 1
+  },
+  {
+    "id": 689,
+    "question": "¿En qué cordillera vive el cóndor andino?",
+    "answer": "La Cordillera de los Andes",
+    "difficulty": 5
+  },
+  {
+    "id": 691,
+    "question": "¿A qué orden de mamíferos pertenece el reno?",
+    "answer": "Mamífero artiodáctilo (cérvido)",
+    "difficulty": 5
+  },
+  {
+    "id": 693,
+    "question": "¿En qué hábitat vive el reno?",
+    "answer": "Tundras y bosques boreales",
+    "difficulty": 4
+  },
+  {
+    "id": 695,
+    "question": "¿Cuál es el tipo de alimentación del reno?",
+    "answer": "Herbívora",
+    "difficulty": 4
+  },
+  {
+    "id": 697,
+    "question": "¿Qué característica inusual tienen las astas del reno respecto a otros cérvidos?",
+    "answer": "Tanto machos como hembras pueden desarrollar astas",
+    "difficulty": 2
+  },
+  {
+    "id": 699,
+    "question": "¿En qué tipo de regiones vive el reno?",
+    "answer": "Regiones árticas y subárticas",
+    "difficulty": 1
+  },
+  {
+    "id": 701,
+    "question": "¿A qué filo y clase pertenece el pulpo común?",
+    "answer": "Molusco cefalópodo",
+    "difficulty": 1
+  },
+  {
+    "id": 703,
+    "question": "¿En qué hábitat vive el pulpo común?",
+    "answer": "Fondos marinos rocosos",
+    "difficulty": 5
+  },
+  {
+    "id": 705,
+    "question": "¿Cuál es la dieta del pulpo común?",
+    "answer": "Carnívora",
+    "difficulty": 5
+  },
+  {
+    "id": 707,
+    "question": "¿Qué capacidades defensivas e intelectuales destacan en el pulpo común?",
+    "answer": "Puede expulsar tinta como defensa y resolver problemas como abrir recipientes",
+    "difficulty": 3
+  },
+  {
+    "id": 709,
+    "question": "¿En qué mares es más abundante el pulpo común (Octopus vulgaris)?",
+    "answer": "Atlántico oriental y Mediterráneo",
+    "difficulty": 2
+  },
+  {
+    "id": 713,
+    "question": "¿Qué molécula formada por nucleótidos almacena la información genética en la mayoría de los seres vivos?",
+    "answer": "El ADN",
+    "difficulty": 5
+  },
+  {
+    "id": 714,
+    "question": "¿Qué animal puede ver colores que los humanos no perciben gracias a sus dieciséis tipos de fotorreceptores?",
+    "answer": "La mantis marina (crustáceo estomatópodo)",
+    "difficulty": 1
+  },
+  {
+    "id": 715,
+    "question": "¿Qué fruta flota en el agua porque aproximadamente un 25 % de su volumen es aire?",
+    "answer": "La manzana",
+    "difficulty": 1
+  },
+  {
+    "id": 716,
+    "question": "¿Qué animal terrestre tiene la lengua más larga en proporción a su cuerpo?",
+    "answer": "El camaleón",
+    "difficulty": 1
+  },
+  {
+    "id": 717,
+    "question": "¿Cuántos corazones tiene un gusano de tierra?",
+    "answer": "Cinco pares de arcos aórticos (diez en total)",
+    "difficulty": 1
+  },
+  {
+    "id": 718,
+    "question": "¿Qué tipo de animal es el murciélago: mamífero, reptil o ave?",
+    "answer": "Un mamífero",
+    "difficulty": 1
+  },
+  {
+    "id": 719,
+    "question": "¿Qué planeta es más parecido en tamaño a la Tierra entre todos los del sistema solar?",
+    "answer": "Venus",
+    "difficulty": 1
+  },
+  {
+    "id": 720,
+    "question": "¿Cuántos lados tiene un hexágono?",
+    "answer": "Seis",
+    "difficulty": 1
+  },
+  {
+    "id": 721,
+    "question": "¿Qué nombre recibe el instrumento que mide la presión atmosférica?",
+    "answer": "El barómetro",
+    "difficulty": 1
+  },
+  {
+    "id": 722,
+    "question": "¿Qué metal es el mejor conductor eléctrico conocido a temperatura ambiente?",
+    "answer": "La plata",
+    "difficulty": 2
+  },
+  {
+    "id": 723,
+    "question": "¿Qué nombre recibe el proceso por el que las plantas pierden agua en forma de vapor por sus hojas?",
+    "answer": "Transpiración",
+    "difficulty": 2
+  },
+  {
+    "id": 724,
+    "question": "¿Qué nombre recibe el fenómeno por el que la Luna parece más grande cerca del horizonte que en lo alto del cielo?",
+    "answer": "Ilusión óptica de la Luna en el horizonte",
+    "difficulty": 2
+  },
+  {
+    "id": 725,
+    "question": "¿Qué elemento químico tiene el mayor punto de fusión de todos los metales?",
+    "answer": "El wolframio (tungsteno)",
+    "difficulty": 2
+  },
+  {
+    "id": 726,
+    "question": "¿Qué animal marino puede cambiar de sexo de hembra a macho cuando el macho dominante del grupo desaparece?",
+    "answer": "El pez payaso (Amphiprion)",
+    "difficulty": 2
+  },
+  {
+    "id": 727,
+    "question": "¿Qué nombre recibe el periodo de tiempo en que un isótopo radiactivo reduce a la mitad su actividad?",
+    "answer": "Vida media o periodo de semidesintegración",
+    "difficulty": 2
+  },
+  {
+    "id": 728,
+    "question": "¿Qué mineral da el color verde a las esmeraldas?",
+    "answer": "Trazas de cromo en la berilo",
+    "difficulty": 2
+  },
+  {
+    "id": 729,
+    "question": "¿Qué nombre recibe la unión de dos o más átomos del mismo o diferente elemento para formar una molécula?",
+    "answer": "Enlace químico",
+    "difficulty": 2
+  },
+  {
+    "id": 730,
+    "question": "¿Qué tipo de onda sísmica llega primero a las estaciones de registro tras un terremoto?",
+    "answer": "Las ondas P (primarias o de compresión)",
+    "difficulty": 2
+  },
+  {
+    "id": 731,
+    "question": "¿Qué nombre recibe la ciencia que estudia la composición y estructura del universo a gran escala?",
+    "answer": "La cosmología",
+    "difficulty": 2
+  },
+  {
+    "id": 732,
+    "question": "¿Qué gas produce las burbujas en los refrescos carbonatados?",
+    "answer": "Dióxido de carbono (CO₂)",
+    "difficulty": 2
+  },
+  {
+    "id": 733,
+    "question": "¿Qué científica ganó dos Premios Nobel en disciplinas diferentes: Física y Química?",
+    "answer": "Marie Curie",
+    "difficulty": 2
+  },
+  {
+    "id": 734,
+    "question": "¿Qué nombre recibe la zona de transición entre dos ecosistemas diferentes, como bosque y pradera?",
+    "answer": "Ecotono",
+    "difficulty": 3
+  },
+  {
+    "id": 735,
+    "question": "¿Qué nombre recibe el proceso por el que ciertas bacterias producen metano a partir de materia orgánica sin oxígeno?",
+    "answer": "Metanogénesis",
+    "difficulty": 3
+  },
+  {
+    "id": 736,
+    "question": "¿Qué fenómeno eléctrico ocurre cuando la resistencia de un material cae a cero a temperaturas muy bajas?",
+    "answer": "La superconductividad",
+    "difficulty": 3
+  },
+  {
+    "id": 737,
+    "question": "¿Qué tipo de estrella es la más común en la galaxia, con masa inferior al 50 % de la del Sol?",
+    "answer": "Las enanas rojas (tipo espectral M)",
+    "difficulty": 3
+  },
+  {
+    "id": 738,
+    "question": "¿Qué tipo de reproducción se da cuando un organismo produce descendencia a partir de un único progenitor sin fecundación?",
+    "answer": "Reproducción asexual",
+    "difficulty": 3
+  },
+  {
+    "id": 739,
+    "question": "¿Qué mineral forma la mayor parte del manto terrestre superior?",
+    "answer": "El olivino",
+    "difficulty": 3
+  },
+  {
+    "id": 740,
+    "question": "¿Qué nombre recibe el tipo de simbiosis en que un organismo se beneficia sin que el otro note efecto apreciable?",
+    "answer": "Comensalismo",
+    "difficulty": 3
+  },
+  {
+    "id": 741,
+    "question": "¿Qué nombre recibe el pigmento que da color azul-verdoso a la sangre de algunos moluscos y artrópodos?",
+    "answer": "La hemocianina",
+    "difficulty": 3
+  },
+  {
+    "id": 742,
+    "question": "¿Qué símbolo químico tiene el wolframio (tungsteno) y de qué lengua procede?",
+    "answer": "W, del alemán Wolfram",
+    "difficulty": 3
+  },
+  {
+    "id": 743,
+    "question": "¿Qué nombre recibe la capa de la epidermis donde se producen los melanocitos que fabrican melanina?",
+    "answer": "El estrato germinativo o capa basal",
+    "difficulty": 3
+  },
+  {
+    "id": 744,
+    "question": "¿Qué tipo de bacteria puede convertir nitratos del suelo en nitrógeno gas mediante desnitrificación?",
+    "answer": "Las bacterias desnitrificantes como Pseudomonas denitrificans",
+    "difficulty": 3
+  },
+  {
+    "id": 745,
+    "question": "¿Qué nombre recibe la ciencia que estudia los hongos?",
+    "answer": "La micología",
+    "difficulty": 3
+  },
+  {
+    "id": 746,
+    "question": "¿Qué nombre recibe la región codificante del ARN mensajero que se conserva tras el procesamiento del pre-ARNm?",
+    "answer": "El exón",
+    "difficulty": 4
+  },
+  {
+    "id": 747,
+    "question": "¿Qué tipo de radiación ionizante tiene mayor poder de penetración en los tejidos biológicos?",
+    "answer": "La radiación gamma",
+    "difficulty": 4
+  },
+  {
+    "id": 748,
+    "question": "¿Qué nombre recibe el proceso por el que los ribosomas sintetizan una proteína a partir del ARN mensajero?",
+    "answer": "Traducción",
+    "difficulty": 4
+  },
+  {
+    "id": 749,
+    "question": "¿Qué tipo de unión química estabiliza la estructura terciaria de muchas proteínas mediante la oxidación de grupos tiol?",
+    "answer": "El puente disulfuro",
+    "difficulty": 4
+  },
+  {
+    "id": 750,
+    "question": "¿Qué instrumento científico usa la interferencia de luz láser para detectar ondas gravitacionales?",
+    "answer": "El interferómetro láser (como el LIGO)",
+    "difficulty": 4
+  },
+  {
+    "id": 751,
+    "question": "¿Qué nombre recibe la capa límite donde la presión del viento solar iguala la presión de la magnetosfera terrestre?",
+    "answer": "La magnetopausa",
+    "difficulty": 4
+  },
+  {
+    "id": 752,
+    "question": "¿Qué orgánulo celular empaqueta y distribuye las proteínas fabricadas en el retículo endoplasmático rugoso?",
+    "answer": "El aparato de Golgi",
+    "difficulty": 4
+  },
+  {
+    "id": 753,
+    "question": "¿Qué número de oxidación tiene el manganeso en el permanganato potásico (KMnO₄)?",
+    "answer": "+7",
+    "difficulty": 4
+  },
+  {
+    "id": 754,
+    "question": "¿Qué nombre recibe el modelo que describe el universo temprano como un estado extremadamente denso y caliente que se expandió?",
+    "answer": "El Big Bang",
+    "difficulty": 4
+  },
+  {
+    "id": 755,
+    "question": "¿Qué nombre recibe el fenómeno óptico por el que la luz cambia de velocidad y dirección al pasar de un medio a otro con distinto índice de refracción?",
+    "answer": "Refracción",
+    "difficulty": 4
+  },
+  {
+    "id": 756,
+    "question": "¿Qué nombre recibe el potencial de membrana en reposo de una neurona típica de mamífero?",
+    "answer": "Aproximadamente −70 mV",
+    "difficulty": 5
+  },
+  {
+    "id": 757,
+    "question": "¿Qué proceso molecular ocurre en la rodopsina al absorber un fotón, iniciando la visión?",
+    "answer": "La isomerización cis-trans del 11-cis retinal a todo-trans retinal",
+    "difficulty": 5
+  },
+  {
+    "id": 758,
+    "question": "¿Qué nombre recibe la hipótesis de que las mitocondrias se originaron por la endosimbiosis de una alfa-proteobacteria, propuesta por Lynn Margulis?",
+    "answer": "Teoría endosimbiótica serial",
+    "difficulty": 5
+  },
+  {
+    "id": 759,
+    "question": "¿Qué nombre recibe la constante que relaciona la energía de un fotón con su frecuencia?",
+    "answer": "La constante de Planck (h ≈ 6,626 × 10⁻³⁴ J·s)",
+    "difficulty": 5
+  },
+  {
+    "id": 760,
+    "question": "¿Qué mecanismo usa la telomerasa para alargar los telómeros empleando su propio ARN como molde?",
+    "answer": "La retrotranscripción: sintetiza ADN a partir del molde de ARN interno de la enzima",
+    "difficulty": 5
+  },
+  {
+    "id": 761,
+    "question": "¿Qué nombre recibe el umbral de densidad cosmológica que separa un universo abierto de uno cerrado en el modelo estándar?",
+    "answer": "La densidad crítica",
+    "difficulty": 5
+  },
+  {
+    "id": 762,
+    "question": "¿Qué reacción impulsa la síntesis de ATP en la cadena de transporte de electrones mitocondrial según la teoría quimiosmótica de Mitchell?",
+    "answer": "El flujo de protones a través de la ATP sintasa impulsado por el gradiente electroquímico (fuerza protomotriz)",
+    "difficulty": 5
+  },
+  {
+    "id": 763,
+    "question": "¿Qué nombre recibe el efecto por el que partículas subatómicas atraviesan barreras de energía clásicamente infranqueables gracias a la mecánica cuántica?",
+    "answer": "Efecto túnel",
+    "difficulty": 5
+  },
+  {
+    "id": 764,
+    "question": "¿Cuántos corazones tiene un pulpo y cuántos cerebros (o ganglios centrales) posee su sistema nervioso?",
+    "answer": "Tres corazones (uno sistémico y dos branquiales) y nueve cerebros (un cerebro central más uno por cada brazo)",
+    "difficulty": 3
+  },
+  {
+    "id": 765,
+    "question": "¿Qué animal terrestre tiene el período de gestación más largo del mundo y cuántos meses dura?",
+    "answer": "El elefante africano, con una gestación de aproximadamente 22 meses (casi dos años)",
+    "difficulty": 2
+  },
+  {
+    "id": 766,
+    "question": "¿Cuántos ojos tiene una araña típica del orden Araneae y qué tipo de visión tienen?",
+    "answer": "Ocho ojos en la mayoría de especies, aunque la visión es limitada; las arañas salticidas tienen la mejor visión del grupo",
+    "difficulty": 3
+  },
+  {
+    "id": 767,
+    "question": "¿Qué mamífero marino puede sumergirse hasta 2.992 metros de profundidad y aguantar más de dos horas sin respirar?",
+    "answer": "El cachalote (Physeter macrocephalus), el mayor depredador con dientes del mundo",
+    "difficulty": 4
+  },
+  {
+    "id": 768,
+    "question": "¿Cómo se llama el mecanismo que usan los murciélagos para orientarse en la oscuridad y cazar presas mediante ultrasonidos?",
+    "answer": "La ecolocalización (o ecolocación); emiten ultrasonidos y detectan el eco rebotado en los objetos",
+    "difficulty": 2
+  },
+  {
+    "id": 769,
+    "question": "¿Qué animal produce el veneno más potente del mundo animal terrestre, con una dosis letal para humanos de solo 0,0001 gramos?",
+    "answer": "La rana flecha dorada (Phyllobates terribilis), endémica de Colombia; su piel contiene batracotoxina",
+    "difficulty": 4
+  },
+  {
+    "id": 770,
+    "question": "¿Qué ave tiene el corazón que late más rápido del reino animal, llegando a superar las 1.200 pulsaciones por minuto en vuelo?",
+    "answer": "El colibrí (familia Trochilidae); también tiene el metabolismo más rápido de las aves",
+    "difficulty": 3
+  },
+  {
+    "id": 771,
+    "question": "¿Por qué los flamencos son de color rosado y qué sucedería si dejaran de comer su dieta habitual?",
+    "answer": "El color proviene de los carotenoides de las algas y crustáceos que comen; sin esa dieta, su plumaje se volvería blanco",
+    "difficulty": 3
+  },
+  {
+    "id": 772,
+    "question": "¿Qué animal puede regenerar órganos internos, el corazón y hasta el 90% del cuerpo, y es prácticamente inmortal en condiciones de laboratorio?",
+    "answer": "La hidra (Hydra vulgaris), pequeño invertebrado de agua dulce; las células madre telomerásicas le permiten regenerarse indefinidamente",
+    "difficulty": 4
+  },
+  {
+    "id": 773,
+    "question": "¿Cuántos kilómetros puede recorrer el águila real en una sola jornada de caza y a qué velocidad puede lanzarse en picado?",
+    "answer": "El águila real puede recorrer hasta 200 km diarios; en picado alcanza velocidades de 150-320 km/h",
+    "difficulty": 3
+  },
+  {
+    "id": 774,
+    "question": "¿Qué mamífero africano es el único que puede digerir hierba seca tan dura que descompone el cuerno de queratina?",
+    "answer": "La hiena manchada (Crocuta crocuta) puede triturar y digerir huesos completos gracias a su sistema digestivo altamente ácido",
+    "difficulty": 4
+  },
+  {
+    "id": 775,
+    "question": "¿Qué fenómeno biológico explica que las abejas reinas vivan 3-5 años mientras las obreras solo viven 6 semanas en verano?",
+    "answer": "La diferenciación por dieta durante el estado larvario: la futura reina recibe jalea real de forma exclusiva y prolongada, lo que activa genes de longevidad",
+    "difficulty": 4
+  },
+  {
+    "id": 776,
+    "question": "¿Cuántas especies de tiburón existen aproximadamente y cuántas son realmente peligrosas para los humanos?",
+    "answer": "Hay unas 530 especies descritas de tiburón; solo unas 30 han registrado ataques a humanos, y menos de 10 son realmente peligrosas (gran tiburón blanco, tiburón toro, tiburón tigre)",
+    "difficulty": 3
+  },
+  {
+    "id": 777,
+    "question": "¿Por qué el gecko puede caminar por el techo y no necesita ninguna sustancia adhesiva?",
+    "answer": "Gracias a millones de nanopelos llamados setas en sus patas, que generan fuerzas de Van der Waals (interacciones electrostáticas débiles) con la superficie",
+    "difficulty": 4
+  },
+  {
+    "id": 778,
+    "question": "¿Cuántas especies de delfines existen y cuál es la más grande del delfínido?",
+    "answer": "Hay unas 40 especies de delfines; la más grande es la orca (Orcinus orca), que técnicamente es un delfín (familia Delphinidae)",
+    "difficulty": 3
+  },
+  {
+    "id": 779,
+    "question": "¿Qué animal tiene la lengua más larga en relación a su tamaño corporal y para qué la usa?",
+    "answer": "El camaleón de lengua larga (como Chamaeleo calyptratus) puede disparar su lengua a una distancia igual a su longitud corporal completa para cazar insectos",
+    "difficulty": 3
+  },
+  {
+    "id": 780,
+    "question": "¿Cuántos años puede vivir una tortuga de las Galápagos y cuál es el récord documentado?",
+    "answer": "Pueden vivir más de 150 años; el individuo más longevo documentado fue Harriet, que murió en 2006 con estimados 175 años",
+    "difficulty": 3
+  },
+  {
+    "id": 781,
+    "question": "¿Qué ave construye el nido más grande del mundo, llegando a pesar toneladas tras generaciones de uso?",
+    "answer": "El águila pescadora africana o el águila calva americana, pero el nido más grande registrado fue de un águila calva: 2,9 m de diámetro y 6 m de profundidad, pesando 2 toneladas",
+    "difficulty": 4
+  },
+  {
+    "id": 782,
+    "question": "¿Cómo se llama el fenómeno por el que los salmones del Atlántico vuelven exactamente al río donde nacieron para reproducirse y morir?",
+    "answer": "Filotaxia natal o homing; los salmones detectan la huella química (olfativa) del río natal grabada durante la fase juvenil",
+    "difficulty": 4
+  },
+  {
+    "id": 783,
+    "question": "¿Qué animal puede sobrevivir a temperaturas de -272°C, en el vacío del espacio y a dosis de radiación 1.000 veces letales para el ser humano?",
+    "answer": "El tardígrado (también llamado 'osito de agua'), un microanimal de menos de 1 mm que puede entrar en criptobiosis",
+    "difficulty": 3
+  },
+  {
+    "id": 784,
+    "question": "¿Cuántos individuos puede tener una colonia de hormigas cortadoras de hojas y qué función realizan?",
+    "answer": "Hasta 8 millones de individuos; recortan hojas para cultivar el hongo Leucoagaricus dentro del hormiguero, que es su alimento principal",
+    "difficulty": 4
+  },
+  {
+    "id": 785,
+    "question": "¿Por qué las cebras tienen rayas y qué función se cree que tienen principalmente?",
+    "answer": "La hipótesis más respaldada es la protección contra las moscas tsé-tsé y tabánidos, ya que el patrón de rayas confunde a estos insectos; también puede dificultar la detección por depredadores en movimiento",
+    "difficulty": 3
+  },
+  {
+    "id": 786,
+    "question": "¿Qué animal marino puede mimetizarse con hasta 40 texturas y colores diferentes aunque es daltónico?",
+    "answer": "El pulpo (especialmente Octopus vulgaris); pese a ser daltónico, su piel tiene fotorreceptores y cromatóforos que le permiten el camuflaje",
+    "difficulty": 4
+  },
+  {
+    "id": 787,
+    "question": "¿Cuál es el animal más venenoso del mar y dónde vive principalmente?",
+    "answer": "El pez piedra (Synanceia verrucosa), que habita en los arrecifes del Indo-Pacífico; sus espinas dorsales inyectan una neurotoxina que puede ser mortal",
+    "difficulty": 4
+  },
+  {
+    "id": 788,
+    "question": "¿Cuántos años puede vivir un erizo de mar y qué especie ostenta el récord de longevidad?",
+    "answer": "Algunas especies viven más de 200 años; Strongylocentrotus franciscanus puede superar los 200 años según análisis de las placas del esqueleto",
+    "difficulty": 5
+  },
+  {
+    "id": 789,
+    "question": "¿Cuál es la diferencia entre un anfibio y un reptil en términos de reproducción y piel?",
+    "answer": "Los anfibios tienen piel desnuda y húmeda, y sus huevos carecen de amnios (deben ponerse en agua); los reptiles tienen escamas y huevos amnióticos que pueden depositarse en tierra",
+    "difficulty": 2
+  },
+  {
+    "id": 790,
+    "question": "¿Qué mamífero tiene el cerebro más grande del mundo en términos absolutos y cuánto pesa?",
+    "answer": "El cachalote (Physeter macrocephalus), con un cerebro que puede pesar hasta 9 kg",
+    "difficulty": 3
+  },
+  {
+    "id": 791,
+    "question": "¿Cuántos pasos da por segundo un guepardo en pleno esprint y cuánto dura su velocidad máxima antes de sobrecalentarse?",
+    "answer": "Unos 4 zancadas por segundo; puede mantener velocidad máxima (100-120 km/h) solo entre 20 y 60 segundos antes de sobrecalentarse",
+    "difficulty": 5
+  },
+  {
+    "id": 792,
+    "question": "¿Qué tipo de animal es el dragón de Komodo, en qué isla vive y cómo mata a sus presas grandes?",
+    "answer": "Es el lagarto vivo más grande (hasta 3 m y 70 kg); vive en Komodo, Rinca y otras islas de Indonesia; mata por veneno anticoagulante en sus glándulas labiales y por shock séptico de su saliva bacteriana",
+    "difficulty": 3
+  },
+  {
+    "id": 793,
+    "question": "¿Qué fenómeno permite a la anguila eléctrica generar descargas de hasta 860 voltios?",
+    "answer": "Órganos eléctricos formados por electrocitos (células musculares modificadas) apilados en serie que generan corriente; el 80% del cuerpo de la anguila son estos órganos",
+    "difficulty": 4
+  },
+  {
+    "id": 794,
+    "question": "¿Cuánto puede llegar a medir el calamar gigante (Architeuthis dux) y qué tiene de especial su ojo?",
+    "answer": "Hasta 13 metros de longitud total (tentáculos incluidos); tiene el ojo más grande del reino animal, llegando a 30 cm de diámetro",
+    "difficulty": 4
+  },
+  {
+    "id": 795,
+    "question": "¿Por qué el venado macho pierde y regenera su cuerna cada año y qué tejido lo hace posible?",
+    "answer": "La cuerna es el tejido animal de crecimiento más rápido conocido (hasta 2,5 cm/día); está irrigada por terciopelo vascular que se seca cuando los niveles de testosterona aumentan en otoño",
+    "difficulty": 4
+  },
+  {
+    "id": 796,
+    "question": "¿Cuántas células nerviosas (neuronas) tiene el cerebro de una abeja y qué comportamiento complejo desarrolla?",
+    "answer": "Aproximadamente 1 millón de neuronas; las abejas aprenden rutas, memorizan flores, usan el baile de la cola para comunicar distancia y dirección de alimento, y reconocen rostros humanos",
+    "difficulty": 4
+  },
+  {
+    "id": 797,
+    "question": "¿Qué animal africano tiene la lengua azul-negra de unos 50 cm y puede seleccionar hojas individuales en una acacia?",
+    "answer": "La jirafa (Giraffa camelopardalis); la pigmentación oscura protege su lengua de las quemaduras solares",
+    "difficulty": 2
+  },
+  {
+    "id": 798,
+    "question": "¿Cuántos kilómetros recorre el charrán ártico en su migración anual, el viaje migratorio más largo de cualquier animal?",
+    "answer": "Unos 70.000-90.000 km al año (ida y vuelta del Ártico a la Antártida), el récord mundial de migración",
+    "difficulty": 4
+  },
+  {
+    "id": 799,
+    "question": "¿Qué mecanismo biológico permite a los pingüinos emperador aguantar -60°C en la Antártida sin refugio?",
+    "answer": "Agrupamiento (huddle) rotativo de hasta 5.000 individuos, que eleva la temperatura del centro a +37°C; además tienen plumas superpuestas impermeables y grasa subcutánea gruesa",
+    "difficulty": 3
+  },
+  {
+    "id": 800,
+    "question": "¿Por qué los ojos del calamar vampiro (Vampyroteuthis infernalis) son los más grandes en relación al cuerpo de cualquier animal?",
+    "answer": "Vive a 600-900 m de profundidad en la zona mesopelágica con mínima luz; ojos de hasta 2,5 cm (en un animal de 30 cm) para maximizar la captación de luz en la oscuridad",
+    "difficulty": 5
+  },
+  {
+    "id": 801,
+    "question": "¿Cuánto pesa el huevo más grande puesto por un animal vivo actualmente y qué ave lo pone?",
+    "answer": "El avestruz (Struthio camelus) pone el huevo más grande de cualquier ave viva, con unos 1,4 kg de peso medio",
+    "difficulty": 2
+  },
+  {
+    "id": 802,
+    "question": "¿Qué característica única tienen los ornitorrincos además de ser mamíferos que ponen huevos?",
+    "answer": "El ornitorrinco (Ornithorhynchus anatinus) también detecta campos eléctricos de las presas con su pico (electrorrecepción) y el macho tiene espolones venenosos en las patas traseras",
+    "difficulty": 3
+  },
+  {
+    "id": 803,
+    "question": "¿Cuánto puede pesar el escarabajo goliat (Goliathus goliatus) y qué récord ostenta entre los insectos?",
+    "answer": "Hasta 100 gramos y 11 cm de longitud; es el insecto más pesado del mundo en estado adulto",
+    "difficulty": 4
+  },
+  {
+    "id": 804,
+    "question": "¿Por qué el caballo de mar (Hippocampus) es inusual respecto a la reproducción en el reino animal?",
+    "answer": "Es el macho quien queda embarazado: la hembra deposita los huevos en la bolsa incubadora del macho, que los gestiona y da a luz a las crías",
+    "difficulty": 3
+  },
+  {
+    "id": 805,
+    "question": "¿Qué animal puede vivir sin agua líquida obteniendo toda la humedad que necesita de sus alimentos y del metabolismo celular?",
+    "answer": "El canguro rata de Merriam (Dipodomys merriami) del desierto norteamericano; obtiene agua metabólica de la oxidación de los carbohidratos",
+    "difficulty": 5
+  },
+  {
+    "id": 806,
+    "question": "¿Cuántos años puede sobrevivir un escorpión sin comer y a cuántos grados puede aguantar congelado?",
+    "answer": "Algunos escorpiones pueden sobrevivir entre 6 y 12 meses sin alimento; algunas especies aguantan temporalmente temperaturas bajo cero congelándose parcialmente",
+    "difficulty": 4
+  },
+  {
+    "id": 807,
+    "question": "¿Qué animal marino puede revertir su ciclo vital de adulto a larva en condiciones de estrés, siendo considerado biológicamente inmortal?",
+    "answer": "Turritopsis dohrnii, una medusa de unos 4,5 mm; bajo estrés revierte de medusa adulta a pólipo, un proceso llamado transdeferenciación",
+    "difficulty": 4
+  },
+  {
+    "id": 808,
+    "question": "¿Cómo se llama el proceso por el que las mariposas disuelven casi completamente su cuerpo de oruga dentro de la crisálida?",
+    "answer": "Histólisis: las células se disuelven en un 'caldo' de células madre (imaginal discs), que luego se reorganizan para formar la mariposa adulta",
+    "difficulty": 5
+  },
+  {
+    "id": 809,
+    "question": "¿Qué especie de ballena produce el sonido más alto registrado en el reino animal, audible a miles de kilómetros de distancia?",
+    "answer": "El rorcual azul (Balaenoptera musculus); sus llamadas pueden superar los 188 decibelios y propagarse miles de kilómetros bajo el agua",
+    "difficulty": 4
+  },
+  {
+    "id": 810,
+    "question": "¿Cuántos cromosomas tiene el perro doméstico (Canis lupus familiaris) y cómo se compara con los del ser humano?",
+    "answer": "El perro tiene 78 cromosomas (39 pares); el ser humano tiene 46 (23 pares); más cromosomas no implica mayor complejidad genética",
+    "difficulty": 3
+  },
+  {
+    "id": 811,
+    "question": "¿Qué sentido tienen los tiburones que les permite detectar campos eléctricos de hasta 0,005 microvoltios generados por los latidos de otras criaturas?",
+    "answer": "La electrorrecepción, a través de los órganos de Lorenzini, poros gelatinosos alrededor del hocico",
+    "difficulty": 4
+  },
+  {
+    "id": 812,
+    "question": "¿Por qué el veneno de la cobra real (Ophiophagus hannah) es menos potente por molécula que el de otras cobras pero más letal en términos prácticos?",
+    "answer": "Porque inyecta una cantidad enorme de veneno (hasta 7 ml por mordedura), suficiente para matar a un elefante; la cobra real es la serpiente venenosa más larga del mundo",
+    "difficulty": 5
+  },
+  {
+    "id": 813,
+    "question": "¿Qué mecanismo usa el arquero (pez Toxotes jaculatrix) para derribar insectos de ramas sobre el agua?",
+    "answer": "Dispara chorros de agua con precisión hasta 3 metros de altura, compensando la refracción de la luz en la interfaz agua-aire para apuntar correctamente",
+    "difficulty": 3
+  }
 ]

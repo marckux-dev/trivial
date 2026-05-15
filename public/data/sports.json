@@ -1,131 +1,1676 @@
 [
-  { "id": 1, "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?", "answer": "1896, en Atenas (Grecia)", "difficulty": 2 },
-  { "id": 2, "question": "¿Cuántos jugadores hay en un equipo de fútbol en el terreno de juego?", "answer": "11 jugadores por equipo", "difficulty": 1 },
-  { "id": 3, "question": "¿Qué país ha ganado más Copas del Mundo de fútbol?", "answer": "Brasil (5 veces: 1958, 1962, 1970, 1994, 2002)", "difficulty": 2 },
-  { "id": 4, "question": "¿En qué deporte se usa un 'shuttlecock' (volante)?", "answer": "En el bádminton", "difficulty": 2 },
-  { "id": 5, "question": "¿Cuántos sets se necesitan ganar en un partido de Grand Slam masculino de tenis?", "answer": "Tres sets (al mejor de cinco)", "difficulty": 2 },
-  { "id": 6, "question": "¿Qué jugador ha ganado más Grand Slams en la historia del tenis masculino?", "answer": "Novak Djokovic (24 Grand Slams hasta 2024)", "difficulty": 3 },
-  { "id": 7, "question": "¿En qué año España ganó su primer Mundial de fútbol?", "answer": "2010 (en Sudáfrica)", "difficulty": 1 },
-  { "id": 8, "question": "¿Cuántos metros tiene una piscina olímpica?", "answer": "50 metros de largo", "difficulty": 1 },
-  { "id": 9, "question": "¿Qué deporte se practica en Wimbledon?", "answer": "Tenis (sobre hierba)", "difficulty": 1 },
-  { "id": 10, "question": "¿Cuántos jugadores forman un equipo de baloncesto en cancha?", "answer": "5 jugadores por equipo", "difficulty": 1 },
-  { "id": 11, "question": "¿Cuál es la distancia oficial de un maratón?", "answer": "42,195 km", "difficulty": 2 },
-  { "id": 12, "question": "¿En qué deporte se utiliza el término 'birdie'?", "answer": "En el golf (1 golpe bajo el par del hoyo)", "difficulty": 2 },
-  { "id": 13, "question": "¿Cuántos anillos tiene el símbolo olímpico y qué representan?", "answer": "5 anillos que representan los 5 continentes unidos en el olimpismo", "difficulty": 2 },
-  { "id": 14, "question": "¿Qué atleta keniano estableció el récord mundial de maratón en 2023?", "answer": "Kelvin Kiptum (2:00:35 en Chicago 2023)", "difficulty": 4 },
-  { "id": 15, "question": "¿En qué año el Real Madrid ganó su primera Copa de Europa?", "answer": "1956 (primera edición de la Copa de Europa)", "difficulty": 3 },
-  { "id": 16, "question": "¿Cuántas Ligas de Campeones ha ganado el Real Madrid hasta 2024?", "answer": "15 Ligas de Campeones", "difficulty": 3 },
-  { "id": 17, "question": "¿Qué deporte registra la mayor velocidad de proyectil en un golpe, superando los 400 km/h en un smash?", "answer": "El bádminton (el volante puede superar los 400 km/h en un smash profesional)", "difficulty": 4 },
-  { "id": 18, "question": "¿Cuántos tiempos tiene un partido de fútbol americano?", "answer": "4 cuartos (quarters) de 15 minutos", "difficulty": 2 },
-  { "id": 19, "question": "¿Qué pasatiempo de lógica numérica consiste en rellenar una cuadrícula de 9×9 con dígitos?", "answer": "El sudoku", "difficulty": 1 },
-  { "id": 20, "question": "¿Qué juego de mesa se disputa en un tablero de 64 casillas alternadas en blanco y negro?", "answer": "El ajedrez", "difficulty": 1 },
-  { "id": 21, "question": "¿Cuántas piezas tiene cada jugador al inicio de una partida de ajedrez?", "answer": "16 piezas", "difficulty": 2 },
-  { "id": 22, "question": "¿En qué año Rafael Nadal ganó su primer Roland Garros?", "answer": "2005", "difficulty": 3 },
-  { "id": 23, "question": "¿Cuántas casillas tiene un tablero de ajedrez?", "answer": "64 casillas", "difficulty": 1 },
-  { "id": 24, "question": "¿Qué juego de cartas español utiliza una baraja de 40 cartas?", "answer": "La baraja española (mus, tute, brisca, etc.)", "difficulty": 2 },
-  { "id": 25, "question": "¿Cuántos puntos vale un try en rugby union?", "answer": "5 puntos", "difficulty": 3 },
-  { "id": 26, "question": "¿Qué país ganó la Copa del Mundo de rugby en 2023?", "answer": "Sudáfrica (su cuarta Copa del Mundo)", "difficulty": 3 },
-  { "id": 27, "question": "¿En qué deporte se utilizan los términos 'balk', 'squeeze play' y 'grand slam'?", "answer": "En el béisbol", "difficulty": 3 },
-  { "id": 28, "question": "¿Cuál es la puntuación máxima en una partida de bolos (bowling)?", "answer": "300 puntos (12 strikes consecutivos)", "difficulty": 3 },
-  { "id": 29, "question": "¿Qué jugador de baloncesto tiene el récord de puntos en un solo partido de la NBA?", "answer": "Wilt Chamberlain con 100 puntos (2 de marzo de 1962)", "difficulty": 4 },
-  { "id": 30, "question": "¿Cuántas fichas tiene cada jugador al inicio de una partida estándar de dominó?", "answer": "7 fichas", "difficulty": 2 },
-  { "id": 31, "question": "¿Cuántos jugadores tiene un equipo de voleibol en la pista?", "answer": "6 jugadores", "difficulty": 1 },
-  { "id": 32, "question": "¿Cuántos metros de largo tiene el campo reglamentario de fútbol según la FIFA como mínimo?", "answer": "90 metros (el mínimo reglamentario; el máximo es 120 m)", "difficulty": 1 },
-  { "id": 33, "question": "¿En qué año se celebró por primera vez el Tour de Francia?", "answer": "1903", "difficulty": 1 },
-  { "id": 34, "question": "¿Cuántos juegos se necesitan para ganar un set de tenis (en condiciones normales)?", "answer": "6 juegos (con diferencia de 2, o tiebreak a partir de 6-6)", "difficulty": 1 },
-  { "id": 35, "question": "¿Cuántos hoyos tiene una vuelta completa de golf?", "answer": "18 hoyos", "difficulty": 1 },
-  { "id": 36, "question": "¿Quién ostenta el récord mundial de los 100 metros lisos masculinos y con qué tiempo?", "answer": "Usain Bolt con 9,58 segundos (Berlín, 2009)", "difficulty": 1 },
-  { "id": 37, "question": "¿Qué videojuego de bloques consiste en construir y explorar mundos generados proceduralmente?", "answer": "Minecraft", "difficulty": 1 },
-  { "id": 38, "question": "¿Qué mascota de Nintendo es un fontanero vestido de rojo?", "answer": "Mario", "difficulty": 1 },
-  { "id": 39, "question": "¿Qué juego de mesa consiste en comprar calles y construir casas u hoteles?", "answer": "Monopoly", "difficulty": 1 },
-  { "id": 40, "question": "¿Qué juego de cartas consiste en deshacerse antes que nadie de todas las cartas de colores y comodines?", "answer": "UNO", "difficulty": 1 },
-  { "id": 41, "question": "¿Qué afición consiste en cultivar plantas ornamentales o comestibles?", "answer": "La jardinería", "difficulty": 1 },
-  { "id": 42, "question": "¿Qué pasatiempo consiste en formar palabras en una cuadrícula usando definiciones?", "answer": "Los crucigramas", "difficulty": 1 },
-  { "id": 43, "question": "¿Qué deporte se practica sobre hielo con patines, sticks y un disco?", "answer": "Hockey sobre hielo", "difficulty": 1 },
-  { "id": 44, "question": "¿Cuántos jugadores forman un equipo de rugby union en el campo?", "answer": "15 jugadores", "difficulty": 1 },
-  { "id": 45, "question": "¿Qué videojuego de fútbol de Konami se llamó durante años Pro Evolution Soccer o PES?", "answer": "eFootball / Pro Evolution Soccer", "difficulty": 1 },
-  { "id": 46, "question": "¿Qué juego de mesa usa peones de colores para avanzar hasta la meta sacando un seis?", "answer": "Parchís", "difficulty": 1 },
-  { "id": 47, "question": "¿Cuántos puntos vale un triple en baloncesto?", "answer": "3 puntos", "difficulty": 1 },
-  { "id": 48, "question": "¿Qué juego de cartas clásico consiste en sumar 21 sin pasarse?", "answer": "Blackjack", "difficulty": 1 },
-  { "id": 49, "question": "¿Qué hobby consiste en tomar fotografías como afición?", "answer": "La fotografía", "difficulty": 1 },
-  { "id": 50, "question": "¿Qué videojuego de carreras de Nintendo protagoniza Mario en circuitos llenos de objetos?", "answer": "Mario Kart", "difficulty": 1 },
-  { "id": 51, "question": "¿Cuántos jugadores hay por equipo en balonmano en pista?", "answer": "7 jugadores", "difficulty": 2 },
-  { "id": 52, "question": "¿Cuántos jugadores hay por equipo en waterpolo dentro del agua?", "answer": "7 jugadores", "difficulty": 2 },
-  { "id": 53, "question": "¿Qué deporte se practica en una pista con una bola pesada y diez bolos?", "answer": "Bolos", "difficulty": 2 },
-  { "id": 54, "question": "¿Qué juego de mesa se juega con fichas blancas y negras sobre un tablero de 8x8, pero solo en las casillas oscuras?", "answer": "Damas", "difficulty": 2 },
-  { "id": 55, "question": "¿Cómo se llama la jugada de ajedrez en la que el rey y una torre se mueven a la vez?", "answer": "Enroque", "difficulty": 2 },
-  { "id": 56, "question": "¿Qué juego de cartas español suele jugarse por parejas y tiene lances como grande, chica, pares y juego?", "answer": "Mus", "difficulty": 2 },
-  { "id": 57, "question": "¿Qué juego de cartas se juega intentando ganar bazas y es muy popular con baraja española?", "answer": "Tute", "difficulty": 2 },
-  { "id": 58, "question": "¿Qué deporte de combate se practica sobre un tatami y permite inmovilizaciones y proyecciones?", "answer": "Judo", "difficulty": 2 },
-  { "id": 59, "question": "¿Qué saga de videojuegos de aventuras protagoniza Link?", "answer": "The Legend of Zelda", "difficulty": 2 },
-  { "id": 60, "question": "¿Qué empresa creó la consola PlayStation?", "answer": "Sony", "difficulty": 2 },
-  { "id": 61, "question": "¿Qué videojuego de disparos competitivo enfrenta a terroristas y antiterroristas?", "answer": "Counter-Strike", "difficulty": 2 },
-  { "id": 62, "question": "¿Qué juego de mesa moderno consiste en colonizar una isla negociando recursos como madera, lana o trigo?", "answer": "Catán", "difficulty": 2 },
-  { "id": 63, "question": "¿Qué afición consiste en reunir sellos de correos?", "answer": "La filatelia", "difficulty": 2 },
-  { "id": 64, "question": "¿Qué afición consiste en coleccionar monedas?", "answer": "La numismática", "difficulty": 2 },
-  { "id": 65, "question": "¿Qué pasatiempo consiste en montar piezas para formar una imagen?", "answer": "Los puzles o rompecabezas", "difficulty": 2 },
-  { "id": 66, "question": "¿Qué videojuego battle royale de Epic Games se hizo famoso por sus bailes y construcciones?", "answer": "Fortnite", "difficulty": 2 },
-  { "id": 67, "question": "¿Qué deporte se juega golpeando una bola con un palo largo sobre césped en equipos a caballo?", "answer": "Polo", "difficulty": 2 },
-  { "id": 68, "question": "¿Qué pieza vale más puntos normalmente en ajedrez después del rey por su movilidad?", "answer": "La dama o reina", "difficulty": 2 },
-  { "id": 69, "question": "¿Qué deporte combina esquí de fondo y tiro con carabina?", "answer": "Biatlón", "difficulty": 2 },
-  { "id": 70, "question": "¿Qué videojuego de fútbol de EA se llama actualmente EA Sports FC?", "answer": "La antigua saga FIFA", "difficulty": 2 },
-  { "id": 71, "question": "¿Cuántos dardos se lanzan en un turno estándar de dardos?", "answer": "3 dardos", "difficulty": 3 },
-  { "id": 72, "question": "¿Qué deporte de raqueta se juega por parejas en una pista cerrada con paredes?", "answer": "Pádel", "difficulty": 3 },
-  { "id": 73, "question": "¿Qué videojuego de Riot Games enfrenta a dos equipos de cinco campeones en tres calles?", "answer": "League of Legends", "difficulty": 3 },
-  { "id": 74, "question": "¿Qué saga de videojuegos de lucha incluye a personajes como Ryu, Chun-Li y Ken?", "answer": "Street Fighter", "difficulty": 3 },
-  { "id": 75, "question": "¿Qué juego de cartas coleccionables enfrenta a entrenadores con criaturas como Pikachu o Charizard?", "answer": "Pokemon TCG", "difficulty": 3 },
-  { "id": 76, "question": "¿Qué juego de mesa de deducción consiste en averiguar quién cometió un crimen, dónde y con qué arma?", "answer": "Cluedo", "difficulty": 3 },
-  { "id": 77, "question": "¿Qué juego de mesa abstracto oriental se juega colocando piedras negras y blancas para controlar territorio?", "answer": "Go", "difficulty": 3 },
-  { "id": 78, "question": "¿Qué videojuego de FromSoftware popularizó la expresión 'You Died' en combates exigentes?", "answer": "Dark Souls", "difficulty": 3 },
-  { "id": 79, "question": "¿Qué afición consiste en observar aves en libertad?", "answer": "La ornitología de campo o birdwatching", "difficulty": 3 },
-  { "id": 80, "question": "¿Qué hobby consiste en crear figuras o maquetas a escala de vehículos, edificios o personajes?", "answer": "El modelismo", "difficulty": 3 },
-  { "id": 81, "question": "¿Qué videojuego de estrategia en tiempo real enfrenta a tres razas como terran, zerg y protoss?", "answer": "StarCraft", "difficulty": 3 },
-  { "id": 82, "question": "¿Qué juego de cartas se juega con ciegas, flop, turn y river en su modalidad más famosa?", "answer": "Póker Texas Hold'em", "difficulty": 3 },
-  { "id": 83, "question": "¿Qué deporte se practica en una mesa con tacos, bolas y troneras?", "answer": "Billar", "difficulty": 3 },
-  { "id": 84, "question": "¿Qué videojuego de mundo abierto de Rockstar se ambienta en ciudades ficticias inspiradas en Estados Unidos?", "answer": "Grand Theft Auto", "difficulty": 3 },
-  { "id": 85, "question": "¿Qué juego de mesa cooperativo consiste en detener enfermedades por el mundo?", "answer": "Pandemic", "difficulty": 3 },
-  { "id": 86, "question": "¿Qué afición consiste en intercambiar y conservar cómics o tebeos?", "answer": "El coleccionismo de cómics", "difficulty": 3 },
-  { "id": 87, "question": "¿Qué deporte olímpico combina carrera, natación y ciclismo?", "answer": "Triatlón", "difficulty": 3 },
-  { "id": 88, "question": "¿Qué juego de cartas coleccionables creado por Wizards of the Coast usa colores de maná?", "answer": "Magic: The Gathering", "difficulty": 3 },
-  { "id": 89, "question": "¿Qué videojuego de aventuras y sigilo protagoniza Solid Snake?", "answer": "Metal Gear Solid", "difficulty": 3 },
-  { "id": 90, "question": "¿Qué deporte de invierno se practica descendiendo una pista helada en un trineo individual boca arriba?", "answer": "Luge", "difficulty": 3 },
-  { "id": 91, "question": "¿Cómo se llama la apertura de ajedrez que comienza con 1.e4 c5?", "answer": "Defensa siciliana", "difficulty": 4 },
-  { "id": 92, "question": "¿Qué juego de mesa de guerra fantástico usa ejércitos de miniaturas pintadas a mano y dados para combatir?", "answer": "Warhammer", "difficulty": 4 },
-  { "id": 93, "question": "¿Qué videojuego indie de gestión y exploración espacial consiste en pilotar una nave entre bucles temporales y descubrimientos arqueológicos?", "answer": "Outer Wilds", "difficulty": 4 },
-  { "id": 94, "question": "¿Qué juego de mesa estratégico se juega colocando losetas hexagonales y seguidores llamados meeples?", "answer": "Carcassonne", "difficulty": 4 },
-  { "id": 95, "question": "¿Qué disciplina de atletismo combina 10 pruebas en categoría masculina?", "answer": "Decatlón", "difficulty": 4 },
-  { "id": 96, "question": "¿Qué modalidad de escalada se centra en recorridos cortos e intensos sin cuerda a baja altura?", "answer": "Búlder", "difficulty": 4 },
-  { "id": 97, "question": "¿Qué videojuego de cartas y estrategia digital ambientado en el universo Warcraft popularizó Blizzard en 2014?", "answer": "Hearthstone", "difficulty": 4 },
-  { "id": 98, "question": "¿Qué afición consiste en buscar tesoros o monedas con un detector metálico?", "answer": "La detección de metales", "difficulty": 4 },
-  { "id": 99, "question": "¿Qué videojuego de puzles fue creado por Alekséi Pázhitnov en la Unión Soviética?", "answer": "Tetris", "difficulty": 4 },
-  { "id": 100, "question": "¿Qué juego de cartas español se juega intentando sumar 31 puntos?", "answer": "Treinta y una", "difficulty": 4 },
-  { "id": 101, "question": "¿Qué deporte de precisión usa una pista llamada sheet y piedras de granito que se barren?", "answer": "Curling", "difficulty": 4 },
-  { "id": 102, "question": "¿Qué videojuego de rol japonés de Square Enix popularizó personajes como Cloud Strife y Sephiroth?", "answer": "Final Fantasy VII", "difficulty": 4 },
-  { "id": 103, "question": "¿Qué hobby consiste en observar el cielo nocturno con telescopio o prismáticos?", "answer": "La astronomía amateur", "difficulty": 4 },
-  { "id": 104, "question": "¿Qué deporte de combate japonés se centra en golpes con manos y pies y no en agarres?", "answer": "Kárate", "difficulty": 4 },
-  { "id": 105, "question": "¿Qué videojuego de supervivencia y deducción social se hizo viral con tripulantes y un impostor?", "answer": "Among Us", "difficulty": 4 },
-  { "id": 106, "question": "¿Qué juego de cartas coleccionables de Yu-Gi-Oh! gira en torno a monstruos, hechizos y trampas?", "answer": "Yu-Gi-Oh! Trading Card Game", "difficulty": 4 },
-  { "id": 107, "question": "¿Qué deporte se practica deslizándose sobre una tabla y una ola?", "answer": "Surf", "difficulty": 4 },
-  { "id": 108, "question": "¿Qué juego de mesa de colocación de trabajadores se ambienta en la construcción de la Sagrada Familia?", "answer": "Sagrada", "difficulty": 4 },
-  { "id": 109, "question": "¿Qué pasatiempo creativo consiste en doblar papel para formar figuras?", "answer": "Origami", "difficulty": 4 },
-  { "id": 110, "question": "¿Qué variante del ajedrez se juega con relojes y ritmo muy rápido, normalmente de 3 minutos más incremento?", "answer": "Ajedrez blitz", "difficulty": 5 },
-  { "id": 111, "question": "¿Qué videojuego de exploración metroidvania de Team Cherry protagoniza un pequeño caballero insecto?", "answer": "Hollow Knight", "difficulty": 5 },
-  { "id": 112, "question": "¿Qué disciplina de ciclismo en pista consiste en perseguir a otro corredor saliendo desde lados opuestos del velódromo?", "answer": "Persecución", "difficulty": 5 },
-  { "id": 113, "question": "¿Qué juego de mesa de negociación ferroviaria de Francis Tresham dio origen a una famosa familia numérica como 1830?", "answer": "La serie 18XX", "difficulty": 5 },
-  { "id": 114, "question": "¿Qué videojuego de puzles en primera persona de Valve utiliza portales azules y naranjas?", "answer": "Portal", "difficulty": 5 },
-  { "id": 115, "question": "¿Qué deporte de remo se practica con una pala de una sola hoja y embarcaciones muy estrechas?", "answer": "Piragüismo en canoa", "difficulty": 5 },
-  { "id": 116, "question": "¿Qué juego de cartas digital popularizado por 'The Witcher 3' se basa en filas de combate?", "answer": "Gwent", "difficulty": 5 },
-  { "id": 117, "question": "¿Qué afición consiste en criar y seleccionar peces y plantas en acuarios domésticos?", "answer": "La acuariofilia", "difficulty": 5 },
-  { "id": 118, "question": "¿Qué deporte aéreo utiliza corrientes térmicas para mantener el vuelo con un ala flexible y un arnés?", "answer": "Parapente", "difficulty": 5 },
-  { "id": 119, "question": "¿Qué videojuego de simulación social de Nintendo transcurre en un pueblo o isla con vecinos animales?", "answer": "Animal Crossing", "difficulty": 5 },
-  { "id": 120, "question": "¿Qué juego de mesa abstracto moderno de Kris Burm utiliza canicas blancas y negras que pueden empujar a las del rival fuera del tablero?", "answer": "Abalone", "difficulty": 5 },
-  { "id": 121, "question": "¿Qué modalidad de esgrima permite tocar con todo el cuerpo y tiene prioridad convencional?", "answer": "Sable", "difficulty": 5 },
-  { "id": 122, "question": "¿Qué videojuego de estrategia por turnos de 2012 revivió la saga XCOM con aliens invadiendo la Tierra?", "answer": "XCOM: Enemy Unknown", "difficulty": 5 },
-  { "id": 123, "question": "¿Qué afición consiste en recoger, prensar y catalogar hojas o flores secas?", "answer": "La herborización", "difficulty": 5 },
-  { "id": 124, "question": "¿Qué juego de cartas de bazas utiliza un triunfo fijo y suele jugarse con baraja francesa en Europa central?", "answer": "Belote", "difficulty": 5 },
-  { "id": 125, "question": "¿Qué videojuego de simulación de granja creado por ConcernedApe se hizo muy popular por su vida rural y minería?", "answer": "Stardew Valley", "difficulty": 5 },
-  { "id": 126, "question": "¿Qué deporte de fuerza consiste en mover una piedra esférica o de hormigón en pruebas tradicionales del País Vasco?", "answer": "Harri-jasotzea", "difficulty": 5 },
-  { "id": 127, "question": "¿Qué juego de mesa moderno de exploración de mazmorras usa app de apoyo en algunas ediciones y se ambienta en el universo Lovecraft?", "answer": "Mansions of Madness", "difficulty": 5 },
-  { "id": 128, "question": "¿Qué hobby consiste en doblar y lanzar discos voladores en recorridos con cestas metálicas?", "answer": "Disc golf", "difficulty": 5 },
-  { "id": 129, "question": "¿Qué videojuego de rol occidental de BioWare se ambienta en la galaxia de Star Wars y se conoce por las siglas KOTOR?", "answer": "Star Wars: Knights of the Old Republic", "difficulty": 5 }
+  {
+    "id": 1,
+    "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+    "answer": "1896, en Atenas (Grecia)",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question": "¿Cuántos jugadores hay en un equipo de fútbol en el terreno de juego?",
+    "answer": "11 jugadores por equipo",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Qué país ha ganado más Copas del Mundo de fútbol?",
+    "answer": "Brasil (5 veces: 1958, 1962, 1970, 1994, 2002)",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question": "¿En qué deporte se usa un 'shuttlecock' (volante)?",
+    "answer": "En el bádminton",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "¿Cuántos sets se necesitan ganar en un partido de Grand Slam masculino de tenis?",
+    "answer": "Tres sets (al mejor de cinco)",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "¿Qué jugador ha ganado más Grand Slams en la historia del tenis masculino?",
+    "answer": "Novak Djokovic (24 Grand Slams hasta 2024)",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question": "¿En qué año España ganó su primer Mundial de fútbol?",
+    "answer": "2010 (en Sudáfrica)",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Cuántos metros tiene una piscina olímpica?",
+    "answer": "50 metros de largo",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "¿Qué deporte se practica en Wimbledon?",
+    "answer": "Tenis (sobre hierba)",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "¿Cuántos jugadores forman un equipo de baloncesto en cancha?",
+    "answer": "5 jugadores por equipo",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es la distancia oficial de un maratón?",
+    "answer": "42,195 km",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "¿En qué deporte se utiliza el término 'birdie'?",
+    "answer": "En el golf (1 golpe bajo el par del hoyo)",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "¿Cuántos anillos tiene el símbolo olímpico y qué representan?",
+    "answer": "5 anillos que representan los 5 continentes unidos en el olimpismo",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "¿Qué atleta keniano estableció el récord mundial de maratón en 2023?",
+    "answer": "Kelvin Kiptum (2:00:35 en Chicago 2023)",
+    "difficulty": 4
+  },
+  {
+    "id": 15,
+    "question": "¿En qué año el Real Madrid ganó su primera Copa de Europa?",
+    "answer": "1956 (primera edición de la Copa de Europa)",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question": "¿Cuántas Ligas de Campeones ha ganado el Real Madrid hasta 2024?",
+    "answer": "15 Ligas de Campeones",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question": "¿Qué deporte registra la mayor velocidad de proyectil en un golpe, superando los 400 km/h en un smash?",
+    "answer": "El bádminton (el volante puede superar los 400 km/h en un smash profesional)",
+    "difficulty": 4
+  },
+  {
+    "id": 18,
+    "question": "¿Cuántos tiempos tiene un partido de fútbol americano?",
+    "answer": "4 cuartos (quarters) de 15 minutos",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "¿Qué pasatiempo de lógica numérica consiste en rellenar una cuadrícula de 9×9 con dígitos?",
+    "answer": "El sudoku",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "¿Qué juego de mesa se disputa en un tablero de 64 casillas alternadas en blanco y negro?",
+    "answer": "El ajedrez",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "¿Cuántas piezas tiene cada jugador al inicio de una partida de ajedrez?",
+    "answer": "16 piezas",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "¿En qué año Rafael Nadal ganó su primer Roland Garros?",
+    "answer": "2005",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "question": "¿Cuántas casillas tiene un tablero de ajedrez?",
+    "answer": "64 casillas",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "¿Qué juego de cartas español utiliza una baraja de 40 cartas?",
+    "answer": "La baraja española (mus, tute, brisca, etc.)",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "¿Cuántos puntos vale un try en rugby union?",
+    "answer": "5 puntos",
+    "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question": "¿Qué país ganó la Copa del Mundo de rugby en 2023?",
+    "answer": "Sudáfrica (su cuarta Copa del Mundo)",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question": "¿En qué deporte se utilizan los términos 'balk', 'squeeze play' y 'grand slam'?",
+    "answer": "En el béisbol",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la puntuación máxima en una partida de bolos (bowling)?",
+    "answer": "300 puntos (12 strikes consecutivos)",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "question": "¿Qué jugador de baloncesto tiene el récord de puntos en un solo partido de la NBA?",
+    "answer": "Wilt Chamberlain con 100 puntos (2 de marzo de 1962)",
+    "difficulty": 4
+  },
+  {
+    "id": 30,
+    "question": "¿Cuántas fichas tiene cada jugador al inicio de una partida estándar de dominó?",
+    "answer": "7 fichas",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "¿Cuántos jugadores tiene un equipo de voleibol en la pista?",
+    "answer": "6 jugadores",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "¿Cuántos metros de largo tiene el campo reglamentario de fútbol según la FIFA como mínimo?",
+    "answer": "90 metros (el mínimo reglamentario; el máximo es 120 m)",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "¿En qué año se celebró por primera vez el Tour de Francia?",
+    "answer": "1903",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Cuántos juegos se necesitan para ganar un set de tenis (en condiciones normales)?",
+    "answer": "6 juegos (con diferencia de 2, o tiebreak a partir de 6-6)",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "¿Cuántos hoyos tiene una vuelta completa de golf?",
+    "answer": "18 hoyos",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "¿Quién ostenta el récord mundial de los 100 metros lisos masculinos y con qué tiempo?",
+    "answer": "Usain Bolt con 9,58 segundos (Berlín, 2009)",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "¿Qué videojuego de bloques consiste en construir y explorar mundos generados proceduralmente?",
+    "answer": "Minecraft",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "¿Qué mascota de Nintendo es un fontanero vestido de rojo?",
+    "answer": "Mario",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "¿Qué juego de mesa consiste en comprar calles y construir casas u hoteles?",
+    "answer": "Monopoly",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "¿Qué juego de cartas consiste en deshacerse antes que nadie de todas las cartas de colores y comodines?",
+    "answer": "UNO",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "¿Qué afición consiste en cultivar plantas ornamentales o comestibles?",
+    "answer": "La jardinería",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "¿Qué pasatiempo consiste en formar palabras en una cuadrícula usando definiciones?",
+    "answer": "Los crucigramas",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "¿Qué deporte se practica sobre hielo con patines, sticks y un disco?",
+    "answer": "Hockey sobre hielo",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Cuántos jugadores forman un equipo de rugby union en el campo?",
+    "answer": "15 jugadores",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "¿Qué videojuego de fútbol de Konami se llamó durante años Pro Evolution Soccer o PES?",
+    "answer": "eFootball / Pro Evolution Soccer",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "¿Qué juego de mesa usa peones de colores para avanzar hasta la meta sacando un seis?",
+    "answer": "Parchís",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "¿Cuántos puntos vale un triple en baloncesto?",
+    "answer": "3 puntos",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "¿Qué juego de cartas clásico consiste en sumar 21 sin pasarse?",
+    "answer": "Blackjack",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "¿Qué hobby consiste en tomar fotografías como afición?",
+    "answer": "La fotografía",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "¿Qué videojuego de carreras de Nintendo protagoniza Mario en circuitos llenos de objetos?",
+    "answer": "Mario Kart",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "¿Cuántos jugadores hay por equipo en balonmano en pista?",
+    "answer": "7 jugadores",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "¿Cuántos jugadores hay por equipo en waterpolo dentro del agua?",
+    "answer": "7 jugadores",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "¿Qué deporte se practica en una pista con una bola pesada y diez bolos?",
+    "answer": "Bolos",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "¿Qué juego de mesa se juega con fichas blancas y negras sobre un tablero de 8x8, pero solo en las casillas oscuras?",
+    "answer": "Damas",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "¿Cómo se llama la jugada de ajedrez en la que el rey y una torre se mueven a la vez?",
+    "answer": "Enroque",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "¿Qué juego de cartas español suele jugarse por parejas y tiene lances como grande, chica, pares y juego?",
+    "answer": "Mus",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question": "¿Qué juego de cartas se juega intentando ganar bazas y es muy popular con baraja española?",
+    "answer": "Tute",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "¿Qué deporte de combate se practica sobre un tatami y permite inmovilizaciones y proyecciones?",
+    "answer": "Judo",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "¿Qué saga de videojuegos de aventuras protagoniza Link?",
+    "answer": "The Legend of Zelda",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question": "¿Qué empresa creó la consola PlayStation?",
+    "answer": "Sony",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "¿Qué videojuego de disparos competitivo enfrenta a terroristas y antiterroristas?",
+    "answer": "Counter-Strike",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "¿Qué juego de mesa moderno consiste en colonizar una isla negociando recursos como madera, lana o trigo?",
+    "answer": "Catán",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "¿Qué afición consiste en reunir sellos de correos?",
+    "answer": "La filatelia",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "¿Qué afición consiste en coleccionar monedas?",
+    "answer": "La numismática",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "¿Qué pasatiempo consiste en montar piezas para formar una imagen?",
+    "answer": "Los puzles o rompecabezas",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "¿Qué videojuego battle royale de Epic Games se hizo famoso por sus bailes y construcciones?",
+    "answer": "Fortnite",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "question": "¿Qué deporte se juega golpeando una bola con un palo largo sobre césped en equipos a caballo?",
+    "answer": "Polo",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question": "¿Qué pieza vale más puntos normalmente en ajedrez después del rey por su movilidad?",
+    "answer": "La dama o reina",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "¿Qué deporte combina esquí de fondo y tiro con carabina?",
+    "answer": "Biatlón",
+    "difficulty": 2
+  },
+  {
+    "id": 70,
+    "question": "¿Qué videojuego de fútbol de EA se llama actualmente EA Sports FC?",
+    "answer": "La antigua saga FIFA",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question": "¿Cuántos dardos se lanzan en un turno estándar de dardos?",
+    "answer": "3 dardos",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question": "¿Qué deporte de raqueta se juega por parejas en una pista cerrada con paredes?",
+    "answer": "Pádel",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question": "¿Qué videojuego de Riot Games enfrenta a dos equipos de cinco campeones en tres calles?",
+    "answer": "League of Legends",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question": "¿Qué saga de videojuegos de lucha incluye a personajes como Ryu, Chun-Li y Ken?",
+    "answer": "Street Fighter",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question": "¿Qué juego de cartas coleccionables enfrenta a entrenadores con criaturas como Pikachu o Charizard?",
+    "answer": "Pokemon TCG",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question": "¿Qué juego de mesa de deducción consiste en averiguar quién cometió un crimen, dónde y con qué arma?",
+    "answer": "Cluedo",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question": "¿Qué juego de mesa abstracto oriental se juega colocando piedras negras y blancas para controlar territorio?",
+    "answer": "Go",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question": "¿Qué videojuego de FromSoftware popularizó la expresión 'You Died' en combates exigentes?",
+    "answer": "Dark Souls",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question": "¿Qué afición consiste en observar aves en libertad?",
+    "answer": "La ornitología de campo o birdwatching",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question": "¿Qué hobby consiste en crear figuras o maquetas a escala de vehículos, edificios o personajes?",
+    "answer": "El modelismo",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question": "¿Qué videojuego de estrategia en tiempo real enfrenta a tres razas como terran, zerg y protoss?",
+    "answer": "StarCraft",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question": "¿Qué juego de cartas se juega con ciegas, flop, turn y river en su modalidad más famosa?",
+    "answer": "Póker Texas Hold'em",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question": "¿Qué deporte se practica en una mesa con tacos, bolas y troneras?",
+    "answer": "Billar",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question": "¿Qué videojuego de mundo abierto de Rockstar se ambienta en ciudades ficticias inspiradas en Estados Unidos?",
+    "answer": "Grand Theft Auto",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question": "¿Qué juego de mesa cooperativo consiste en detener enfermedades por el mundo?",
+    "answer": "Pandemic",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question": "¿Qué afición consiste en intercambiar y conservar cómics o tebeos?",
+    "answer": "El coleccionismo de cómics",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question": "¿Qué deporte olímpico combina carrera, natación y ciclismo?",
+    "answer": "Triatlón",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question": "¿Qué juego de cartas coleccionables creado por Wizards of the Coast usa colores de maná?",
+    "answer": "Magic: The Gathering",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question": "¿Qué videojuego de aventuras y sigilo protagoniza Solid Snake?",
+    "answer": "Metal Gear Solid",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question": "¿Qué deporte de invierno se practica descendiendo una pista helada en un trineo individual boca arriba?",
+    "answer": "Luge",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question": "¿Cómo se llama la apertura de ajedrez que comienza con 1.e4 c5?",
+    "answer": "Defensa siciliana",
+    "difficulty": 4
+  },
+  {
+    "id": 92,
+    "question": "¿Qué juego de mesa de guerra fantástico usa ejércitos de miniaturas pintadas a mano y dados para combatir?",
+    "answer": "Warhammer",
+    "difficulty": 4
+  },
+  {
+    "id": 93,
+    "question": "¿Qué videojuego indie de gestión y exploración espacial consiste en pilotar una nave entre bucles temporales y descubrimientos arqueológicos?",
+    "answer": "Outer Wilds",
+    "difficulty": 4
+  },
+  {
+    "id": 94,
+    "question": "¿Qué juego de mesa estratégico se juega colocando losetas hexagonales y seguidores llamados meeples?",
+    "answer": "Carcassonne",
+    "difficulty": 4
+  },
+  {
+    "id": 95,
+    "question": "¿Qué disciplina de atletismo combina 10 pruebas en categoría masculina?",
+    "answer": "Decatlón",
+    "difficulty": 4
+  },
+  {
+    "id": 96,
+    "question": "¿Qué modalidad de escalada se centra en recorridos cortos e intensos sin cuerda a baja altura?",
+    "answer": "Búlder",
+    "difficulty": 4
+  },
+  {
+    "id": 97,
+    "question": "¿Qué videojuego de cartas y estrategia digital ambientado en el universo Warcraft popularizó Blizzard en 2014?",
+    "answer": "Hearthstone",
+    "difficulty": 4
+  },
+  {
+    "id": 98,
+    "question": "¿Qué afición consiste en buscar tesoros o monedas con un detector metálico?",
+    "answer": "La detección de metales",
+    "difficulty": 4
+  },
+  {
+    "id": 99,
+    "question": "¿Qué videojuego de puzles fue creado por Alekséi Pázhitnov en la Unión Soviética?",
+    "answer": "Tetris",
+    "difficulty": 4
+  },
+  {
+    "id": 100,
+    "question": "¿Qué juego de cartas español se juega intentando sumar 31 puntos?",
+    "answer": "Treinta y una",
+    "difficulty": 4
+  },
+  {
+    "id": 101,
+    "question": "¿Qué deporte de precisión usa una pista llamada sheet y piedras de granito que se barren?",
+    "answer": "Curling",
+    "difficulty": 4
+  },
+  {
+    "id": 102,
+    "question": "¿Qué videojuego de rol japonés de Square Enix popularizó personajes como Cloud Strife y Sephiroth?",
+    "answer": "Final Fantasy VII",
+    "difficulty": 4
+  },
+  {
+    "id": 103,
+    "question": "¿Qué hobby consiste en observar el cielo nocturno con telescopio o prismáticos?",
+    "answer": "La astronomía amateur",
+    "difficulty": 4
+  },
+  {
+    "id": 104,
+    "question": "¿Qué deporte de combate japonés se centra en golpes con manos y pies y no en agarres?",
+    "answer": "Kárate",
+    "difficulty": 4
+  },
+  {
+    "id": 105,
+    "question": "¿Qué videojuego de supervivencia y deducción social se hizo viral con tripulantes y un impostor?",
+    "answer": "Among Us",
+    "difficulty": 4
+  },
+  {
+    "id": 106,
+    "question": "¿Qué juego de cartas coleccionables de Yu-Gi-Oh! gira en torno a monstruos, hechizos y trampas?",
+    "answer": "Yu-Gi-Oh! Trading Card Game",
+    "difficulty": 4
+  },
+  {
+    "id": 107,
+    "question": "¿Qué deporte se practica deslizándose sobre una tabla y una ola?",
+    "answer": "Surf",
+    "difficulty": 4
+  },
+  {
+    "id": 108,
+    "question": "¿Qué juego de mesa de colocación de trabajadores se ambienta en la construcción de la Sagrada Familia?",
+    "answer": "Sagrada",
+    "difficulty": 4
+  },
+  {
+    "id": 109,
+    "question": "¿Qué pasatiempo creativo consiste en doblar papel para formar figuras?",
+    "answer": "Origami",
+    "difficulty": 4
+  },
+  {
+    "id": 110,
+    "question": "¿Qué variante del ajedrez se juega con relojes y ritmo muy rápido, normalmente de 3 minutos más incremento?",
+    "answer": "Ajedrez blitz",
+    "difficulty": 5
+  },
+  {
+    "id": 111,
+    "question": "¿Qué videojuego de exploración metroidvania de Team Cherry protagoniza un pequeño caballero insecto?",
+    "answer": "Hollow Knight",
+    "difficulty": 5
+  },
+  {
+    "id": 112,
+    "question": "¿Qué disciplina de ciclismo en pista consiste en perseguir a otro corredor saliendo desde lados opuestos del velódromo?",
+    "answer": "Persecución",
+    "difficulty": 5
+  },
+  {
+    "id": 113,
+    "question": "¿Qué juego de mesa de negociación ferroviaria de Francis Tresham dio origen a una famosa familia numérica como 1830?",
+    "answer": "La serie 18XX",
+    "difficulty": 5
+  },
+  {
+    "id": 114,
+    "question": "¿Qué videojuego de puzles en primera persona de Valve utiliza portales azules y naranjas?",
+    "answer": "Portal",
+    "difficulty": 5
+  },
+  {
+    "id": 115,
+    "question": "¿Qué deporte de remo se practica con una pala de una sola hoja y embarcaciones muy estrechas?",
+    "answer": "Piragüismo en canoa",
+    "difficulty": 5
+  },
+  {
+    "id": 116,
+    "question": "¿Qué juego de cartas digital popularizado por 'The Witcher 3' se basa en filas de combate?",
+    "answer": "Gwent",
+    "difficulty": 5
+  },
+  {
+    "id": 117,
+    "question": "¿Qué afición consiste en criar y seleccionar peces y plantas en acuarios domésticos?",
+    "answer": "La acuariofilia",
+    "difficulty": 5
+  },
+  {
+    "id": 118,
+    "question": "¿Qué deporte aéreo utiliza corrientes térmicas para mantener el vuelo con un ala flexible y un arnés?",
+    "answer": "Parapente",
+    "difficulty": 5
+  },
+  {
+    "id": 119,
+    "question": "¿Qué videojuego de simulación social de Nintendo transcurre en un pueblo o isla con vecinos animales?",
+    "answer": "Animal Crossing",
+    "difficulty": 5
+  },
+  {
+    "id": 120,
+    "question": "¿Qué juego de mesa abstracto moderno de Kris Burm utiliza canicas blancas y negras que pueden empujar a las del rival fuera del tablero?",
+    "answer": "Abalone",
+    "difficulty": 5
+  },
+  {
+    "id": 121,
+    "question": "¿Qué modalidad de esgrima permite tocar con todo el cuerpo y tiene prioridad convencional?",
+    "answer": "Sable",
+    "difficulty": 5
+  },
+  {
+    "id": 122,
+    "question": "¿Qué videojuego de estrategia por turnos de 2012 revivió la saga XCOM con aliens invadiendo la Tierra?",
+    "answer": "XCOM: Enemy Unknown",
+    "difficulty": 5
+  },
+  {
+    "id": 123,
+    "question": "¿Qué afición consiste en recoger, prensar y catalogar hojas o flores secas?",
+    "answer": "La herborización",
+    "difficulty": 5
+  },
+  {
+    "id": 124,
+    "question": "¿Qué juego de cartas de bazas utiliza un triunfo fijo y suele jugarse con baraja francesa en Europa central?",
+    "answer": "Belote",
+    "difficulty": 5
+  },
+  {
+    "id": 125,
+    "question": "¿Qué videojuego de simulación de granja creado por ConcernedApe se hizo muy popular por su vida rural y minería?",
+    "answer": "Stardew Valley",
+    "difficulty": 5
+  },
+  {
+    "id": 126,
+    "question": "¿Qué deporte de fuerza consiste en mover una piedra esférica o de hormigón en pruebas tradicionales del País Vasco?",
+    "answer": "Harri-jasotzea",
+    "difficulty": 5
+  },
+  {
+    "id": 127,
+    "question": "¿Qué juego de mesa moderno de exploración de mazmorras usa app de apoyo en algunas ediciones y se ambienta en el universo Lovecraft?",
+    "answer": "Mansions of Madness",
+    "difficulty": 5
+  },
+  {
+    "id": 128,
+    "question": "¿Qué hobby consiste en doblar y lanzar discos voladores en recorridos con cestas metálicas?",
+    "answer": "Disc golf",
+    "difficulty": 5
+  },
+  {
+    "id": 129,
+    "question": "¿Qué videojuego de rol occidental de BioWare se ambienta en la galaxia de Star Wars y se conoce por las siglas KOTOR?",
+    "answer": "Star Wars: Knights of the Old Republic",
+    "difficulty": 5
+  },
+  {
+    "id": 130,
+    "question": "¿Qué color tiene el jersey que lleva el líder de la clasificación general del Tour de Francia?",
+    "answer": "Amarillo (maillot jaune)",
+    "difficulty": 1
+  },
+  {
+    "id": 131,
+    "question": "¿Cuántos jugadores hay en cada equipo de béisbol durante el partido?",
+    "answer": "9 jugadores",
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "question": "¿Cuántos lados tiene un dado estándar?",
+    "answer": "6 lados, numerados del 1 al 6",
+    "difficulty": 1
+  },
+  {
+    "id": 133,
+    "question": "¿Qué deporte de raqueta se juega en una pista cerrada con paredes, golpeando una pelota de goma contra ellas?",
+    "answer": "Squash",
+    "difficulty": 1
+  },
+  {
+    "id": 134,
+    "question": "¿Cómo se llama la fiesta popular de Pamplona en la que se sueltan toros por las calles cada mes de julio?",
+    "answer": "El encierro de San Fermín (San Fermines)",
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "question": "¿Qué deporte acuático se practica de pie sobre una tabla larga empujando con un remo?",
+    "answer": "Paddle surf o SUP (Stand Up Paddle)",
+    "difficulty": 1
+  },
+  {
+    "id": 136,
+    "question": "¿Cuántos puntos vale un penalti convertido en fútbol?",
+    "answer": "1 gol, igual que cualquier otro tanto",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "question": "¿Qué juego de mesa clásico consiste en hundir los barcos del rival en una cuadrícula sin verlos?",
+    "answer": "Hundir la flota (Battleship)",
+    "difficulty": 1
+  },
+  {
+    "id": 138,
+    "question": "¿Cuántos kilómetros tiene aproximadamente una edición del Tour de Francia?",
+    "answer": "Alrededor de 3.400-3.600 km repartidos en 21 etapas a lo largo de tres semanas",
+    "difficulty": 2
+  },
+  {
+    "id": 139,
+    "question": "¿Qué deporte de nieve consiste en descender una montaña sobre una tabla con los dos pies fijados transversalmente?",
+    "answer": "Snowboard",
+    "difficulty": 2
+  },
+  {
+    "id": 140,
+    "question": "¿Cuántas cartas recibe cada jugador al inicio de una mano de póker Texas Hold'em?",
+    "answer": "2 cartas privadas (hole cards)",
+    "difficulty": 2
+  },
+  {
+    "id": 141,
+    "question": "¿Qué deporte de pelota vasca se juega con una cesta curva atada a la mano en un frontón?",
+    "answer": "Cesta punta o jai alai",
+    "difficulty": 2
+  },
+  {
+    "id": 142,
+    "question": "¿Qué juego de mesa chino se juega entre cuatro personas combinando fichas con caracteres y símbolos?",
+    "answer": "Mahjong",
+    "difficulty": 2
+  },
+  {
+    "id": 143,
+    "question": "¿En qué deporte de combate se compite en categorías como peso mosca, peso ligero o peso pesado golpeando con los puños?",
+    "answer": "Boxeo",
+    "difficulty": 2
+  },
+  {
+    "id": 144,
+    "question": "¿Qué hobby creativo consiste en tejer prendas con dos agujas largas y hilo de lana?",
+    "answer": "El punto de agujas (tricot o tejido de punto)",
+    "difficulty": 2
+  },
+  {
+    "id": 145,
+    "question": "¿Cuántos jugadores forman un equipo de críquet que sale al campo?",
+    "answer": "11 jugadores",
+    "difficulty": 2
+  },
+  {
+    "id": 146,
+    "question": "¿Qué deporte combina esquí de fondo y tiro con rifle en pruebas de hasta 20 km?",
+    "answer": "Biatlón",
+    "difficulty": 2
+  },
+  {
+    "id": 147,
+    "question": "¿Qué juego de mesa moderno consiste en colocar losetas para construir un paisaje con ciudades y carreteras, usando seguidores llamados meeples?",
+    "answer": "Carcassonne",
+    "difficulty": 2
+  },
+  {
+    "id": 148,
+    "question": "¿Qué distancia recorre el nadador en la prueba de aguas abiertas de los Juegos Olímpicos, conocida como 'maratón acuática'?",
+    "answer": "10 km",
+    "difficulty": 2
+  },
+  {
+    "id": 149,
+    "question": "¿Qué afición consiste en criar y cuidar peces ornamentales en acuarios domésticos?",
+    "answer": "La acuariofilia",
+    "difficulty": 2
+  },
+  {
+    "id": 150,
+    "question": "¿Qué jugadora de tenis ganó los cuatro Grand Slams en el mismo año calendario en 1988 y además el oro olímpico?",
+    "answer": "Steffi Graf; esa hazaña es conocida como el 'Golden Slam'",
+    "difficulty": 3
+  },
+  {
+    "id": 151,
+    "question": "¿Qué apertura de ajedrez lleva el nombre de un maestro español del siglo XVI y comienza con 1.e4 e5 2.Cf3 Cc6 3.Ab5?",
+    "answer": "La Apertura Española o Ruy López, llamada así por el sacerdote español Ruy López de Segura",
+    "difficulty": 3
+  },
+  {
+    "id": 152,
+    "question": "¿En qué Juegos Olímpicos se incluyó por primera vez el baloncesto como deporte oficial y en qué ciudad se celebraron?",
+    "answer": "En los Juegos de Berlín de 1936",
+    "difficulty": 3
+  },
+  {
+    "id": 153,
+    "question": "¿Qué técnica de salto de altura, considerada revolucionaria, popularizó Dick Fosbury en los Juegos Olímpicos de México 1968?",
+    "answer": "El Fosbury Flop, que consiste en pasar el listón de espaldas y con la cabeza por delante, al contrario de la técnica de rodillo ventral",
+    "difficulty": 3
+  },
+  {
+    "id": 154,
+    "question": "¿Qué país europeo acogió la primera edición de los Juegos Olímpicos de Invierno en 1924 y en qué ciudad?",
+    "answer": "Francia, en Chamonix, en los llamados Juegos de la I Semana Internacional de Deportes de Invierno",
+    "difficulty": 3
+  },
+  {
+    "id": 155,
+    "question": "¿Cuántos récords mundiales batió Michael Phelps a lo largo de su carrera y cuántas medallas de oro olímpicas ganó?",
+    "answer": "39 récords mundiales y 23 medallas de oro olímpicas, la mayor colección de oros de la historia",
+    "difficulty": 3
+  },
+  {
+    "id": 156,
+    "question": "¿En qué año se incluyó el maratón femenino por primera vez en los Juegos Olímpicos?",
+    "answer": "1984, en los Juegos de Los Ángeles",
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "question": "¿Qué ciclista español tiene más victorias en la Vuelta a España en toda la historia?",
+    "answer": "Roberto Heras con 4 victorias (2000, 2003, 2004, 2005), aunque la última le fue retirada por dopaje",
+    "difficulty": 3
+  },
+  {
+    "id": 158,
+    "question": "¿Cuántos jugadores pueden participar simultáneamente en una partida estándar de Cluedo?",
+    "answer": "Entre 3 y 6 jugadores",
+    "difficulty": 3
+  },
+  {
+    "id": 159,
+    "question": "¿Cuál es el nombre de la jugada de ajedrez en la que un peón puede capturar a otro peón que acaba de avanzar dos casillas, como si solo hubiera avanzado una?",
+    "answer": "Captura al paso o 'en passant'",
+    "difficulty": 3
+  },
+  {
+    "id": 160,
+    "question": "¿Qué deporte de precisión usa una diana circular con anillos valorados del 1 al 10 y fue deporte olímpico desde los primeros Juegos modernos?",
+    "answer": "Tiro con arco",
+    "difficulty": 3
+  },
+  {
+    "id": 161,
+    "question": "¿Qué país codificó las reglas del críquet por primera vez, aproximadamente en qué año, y cuántos días puede durar un partido de test?",
+    "answer": "Inglaterra; las primeras reglas escritas datan de 1744; un partido de test puede durar hasta 5 días",
+    "difficulty": 3
+  },
+  {
+    "id": 162,
+    "question": "¿Qué astronauta jugó al golf en la Luna durante la misión Apolo 14 en 1971 y con qué club improvisado?",
+    "answer": "Alan Shepard, que llevó una cabeza de hierro 6 atada a una barra de muestreo de roca; dio dos golpes en la superficie lunar",
+    "difficulty": 4
+  },
+  {
+    "id": 163,
+    "question": "¿Cuántos kilómetros recorrió Eddy Merckx en su récord de la Hora en 1972 en el velódromo de México y a qué altitud está dicho velódromo?",
+    "answer": "Merckx recorrió 49,431 km en una hora; el velódromo está a unos 2.250 m sobre el nivel del mar, lo que reduce la resistencia del aire",
+    "difficulty": 4
+  },
+  {
+    "id": 164,
+    "question": "¿Qué atleta etíope corrió descalzo y ganó el maratón olímpico de Roma 1960 batiendo el récord mundial?",
+    "answer": "Abebe Bikila; fue el primer africano subsahariano en ganar una medalla de oro olímpica",
+    "difficulty": 4
+  },
+  {
+    "id": 165,
+    "question": "¿Cuántos Grand Slams ganó Rafael Nadal en total y cuántos de ellos fueron en Roland Garros?",
+    "answer": "22 Grand Slams en total, 14 de ellos en Roland Garros (lo que le valió el apodo 'El Rey de la Tierra')",
+    "difficulty": 4
+  },
+  {
+    "id": 166,
+    "question": "¿En qué país surgió el bádminton moderno y en qué Juegos Olímpicos se incluyó por primera vez como deporte oficial?",
+    "answer": "Se codificó en Gran Bretaña (finca de Badminton, Gloucestershire, hacia 1873); entró en los JJOO en Barcelona 1992",
+    "difficulty": 4
+  },
+  {
+    "id": 167,
+    "question": "¿Cuántas vueltas debe dar un nadador en la prueba de 1.500 m libres en una piscina olímpica de 50 metros?",
+    "answer": "30 largos (15 idas y 15 vueltas)",
+    "difficulty": 4
+  },
+  {
+    "id": 168,
+    "question": "¿Qué deporte acrobático fue incluido como novedad en los Juegos Olímpicos de París 2024?",
+    "answer": "El breaking (breakdancing), que debutó como disciplina olímpica en París 2024",
+    "difficulty": 4
+  },
+  {
+    "id": 169,
+    "question": "¿Qué jugador de ajedrez mantuvo el título de campeón mundial durante 27 años sin perderlo nunca, de 1894 a 1921?",
+    "answer": "Emanuel Lasker, el campeón mundial más longevo de la historia del ajedrez",
+    "difficulty": 4
+  },
+  {
+    "id": 170,
+    "question": "¿Cuántos Grand Slams ganó Novak Djokovic hasta finales de 2024 y cuántos de ellos fueron en el Abierto de Australia?",
+    "answer": "24 Grand Slams en total, 10 de ellos en el Abierto de Australia",
+    "difficulty": 4
+  },
+  {
+    "id": 171,
+    "question": "¿Qué ciclista belga apodado 'El Caníbal' ganó 525 carreras profesionales a lo largo de su trayectoria?",
+    "answer": "Eddy Merckx, considerado el mejor ciclista de todos los tiempos; logró victorias en todas las clásicas y grandes vueltas",
+    "difficulty": 4
+  },
+  {
+    "id": 172,
+    "question": "¿En qué cultura y bajo qué nombre surgió el ajedrez hace más de 1.500 años, y qué representaban originalmente sus cuatro tipos de piezas?",
+    "answer": "Surgió en la India (siglo VI d.C.) bajo el nombre 'chaturanga', que representaba las cuatro ramas del ejército: infantería (peones), caballería (caballos), elefantes (alfiles) y carros (torres)",
+    "difficulty": 5
+  },
+  {
+    "id": 173,
+    "question": "¿Qué regla de ajedrez permite a un jugador tener más de una dama simultáneamente en el tablero y cómo se consigue?",
+    "answer": "La promoción de peón: cuando un peón llega a la última fila puede ser promovido a dama (u otra pieza), incluso si el jugador ya tiene su dama original; no hay límite de piezas por promoción",
+    "difficulty": 5
+  },
+  {
+    "id": 174,
+    "question": "¿Cuántos títulos del Tour de Francia le fueron retirados a Lance Armstrong y en qué año fue desposeído por la UCI?",
+    "answer": "7 títulos consecutivos (1999-2005) le fueron retirados; la UCI oficializó su despojamiento en octubre de 2012 tras el informe de la USADA",
+    "difficulty": 5
+  },
+  {
+    "id": 175,
+    "question": "¿En qué torneo de tenis femenino se igualaron los premios económicos entre hombres y mujeres por primera vez y en qué año?",
+    "answer": "El US Open fue el primero en igualarlos, en 1973, tras la presión de Billie Jean King; Wimbledon fue el último Grand Slam en hacerlo, en 2007",
+    "difficulty": 5
+  },
+  {
+    "id": 176,
+    "question": "¿Cuántos metros cuadrados mide el arco reglamentario de waterpolo y cuáles son sus dimensiones exactas?",
+    "answer": "El arco mide 3 metros de ancho por 0,9 metros de alto (medidos sobre la superficie del agua), con una superficie de 2,7 m²",
+    "difficulty": 5
+  },
+  {
+    "id": 177,
+    "question": "¿Cuál es el récord mundial de los 200 metros lisos de Usain Bolt, en qué competición lo estableció y cuál es el contexto histórico de esa marca?",
+    "answer": "19,19 s en el Mundial de Berlín 2009; superó su propio récord de 19,30 s de los JJOO de Pekín 2008; es el récord más longevo actualmente de las pruebas de velocidad pura",
+    "difficulty": 5
+  },
+  {
+    "id": 178,
+    "question": "¿Qué es el 'Golden Slam' en tenis, quién lo ha logrado en categoría masculina y femenina, y en qué año se consiguió cada uno?",
+    "answer": "Es ganar los cuatro Grand Slams y el oro olímpico en el mismo año natural; Steffi Graf lo logró en 1988; en masculino nadie lo ha completado (Djokovic ganó el Slam pero perdió el oro de Tokio 2021 ante Zverev)",
+    "difficulty": 5
+  },
+  {
+    "id": 179,
+    "question": "¿Cuántas pruebas componen el decatlón masculino en atletismo, en cuántas jornadas se disputa y qué prueba finaliza la competición?",
+    "answer": "10 pruebas en 2 jornadas consecutivas; el orden es: 100 m, salto de longitud, lanzamiento de peso, salto de altura y 400 m (día 1); 110 m vallas, lanzamiento de disco, pértiga, jabalina y 1.500 m (día 2)",
+    "difficulty": 5
+  },
+  {
+    "id": 180,
+    "question": "¿Qué ingredientes básicos lleva una paella valenciana tradicional, según la normativa del Consell Regulador?",
+    "answer": "Arroz, pollo, conejo, bajoqueta (judía verde plana), garrofó (judía blanca), tomate, aceite de oliva, sal, pimentón dulce y azafrán; sin mariscos en la versión original",
+    "difficulty": 2
+  },
+  {
+    "id": 181,
+    "question": "¿Cuál es la diferencia entre gazpacho y salmorejo y en qué provincias son más típicos?",
+    "answer": "El gazpacho es una sopa fría líquida de tomate, pepino, pimiento y ajo; el salmorejo es más espeso, solo lleva tomate, pan, ajo y aceite, y es de Córdoba. El gazpacho es de toda Andalucía",
+    "difficulty": 2
+  },
+  {
+    "id": 182,
+    "question": "¿De qué región de España proviene la fabada asturiana y cuáles son sus ingredientes esenciales?",
+    "answer": "De Asturias; lleva fabes (alubias blancas grandes), chorizo, morcilla asturiana, lacón o tocino y azafrán",
+    "difficulty": 2
+  },
+  {
+    "id": 183,
+    "question": "¿Qué denominación de origen tiene el jamón de mayor prestigio en España y en qué provincia se elabora?",
+    "answer": "El Jamón Ibérico de Bellota D.O.P. de Jabugo (Huelva) es el más reconocido; también destacan las D.O. de Guijuelo (Salamanca), Los Pedroches (Córdoba) y Dehesa de Extremadura",
+    "difficulty": 3
+  },
+  {
+    "id": 184,
+    "question": "¿Cuál es la diferencia entre una tortilla española con cebolla y sin cebolla, y en qué región es más popular la versión con cebolla?",
+    "answer": "La versión con cebolla pochada es más jugosa y dulce; en el País Vasco es habitual con cebolla, mientras en Madrid la preferencia está más dividida. No hay consenso nacional sobre cuál es la 'auténtica'",
+    "difficulty": 2
+  },
+  {
+    "id": 185,
+    "question": "¿Qué vino español con D.O.Ca. se produce en La Rioja y partes de Navarra y Álava, siendo el más reconocido internacionalmente?",
+    "answer": "El Rioja (D.O.Ca. Rioja), elaborado principalmente con uva Tempranillo; tiene cuatro categorías: Joven, Crianza, Reserva y Gran Reserva",
+    "difficulty": 2
+  },
+  {
+    "id": 186,
+    "question": "¿Qué es el cava y en qué región española se produce principalmente?",
+    "answer": "El cava es un vino espumoso elaborado por el método tradicional (segunda fermentación en botella); se produce principalmente en el Penedès (Cataluña), aunque hay productores en otras zonas",
+    "difficulty": 2
+  },
+  {
+    "id": 187,
+    "question": "¿Cuál es el origen del cocido madrileño y de qué otros cocidos regionales desciende?",
+    "answer": "Desciende de la adafina sefardí y la olla podrida castellana; tiene 'hermanos' en toda España: cocido maragato (León), escudella (Cataluña), pote gallego, puchero andaluz y berza gaditana",
+    "difficulty": 3
+  },
+  {
+    "id": 188,
+    "question": "¿Qué queso español con D.O.P. se elabora en La Mancha con leche de oveja manchega y tiene forma de rueda con corteza de esparto?",
+    "answer": "El queso manchego; se elabora con leche de oveja de la raza manchega y se prensa en moldes de esparto que dejan el patrón característico",
+    "difficulty": 2
+  },
+  {
+    "id": 189,
+    "question": "¿Qué plato tradicional catalán consiste en pan tostado frotado con tomate y ajo y rociado con aceite de oliva?",
+    "answer": "El pan con tomate (pa amb tomàquet en catalán); es el acompañamiento más básico de la cocina catalana",
+    "difficulty": 1
+  },
+  {
+    "id": 190,
+    "question": "¿Cuál es la diferencia entre vermut rojo y blanco y qué ciudad española es más famosa por su cultura del vermut?",
+    "answer": "El vermut rojo (rosso) es más dulce y especiado; el blanco (bianco o dry) es más seco. Madrid y Barcelona tienen una fuerte 'cultura del vermut', especialmente el domingo a mediodía",
+    "difficulty": 2
+  },
+  {
+    "id": 191,
+    "question": "¿Qué bebida española se elabora mezclando vino tinto con gaseosa o Casera y cuál es su diferencia con la clara?",
+    "answer": "El tinto de verano mezcla vino tinto con gaseosa; la clara mezcla cerveza con gaseosa o limón. Ambas son bebidas estivales muy populares en España",
+    "difficulty": 1
+  },
+  {
+    "id": 192,
+    "question": "¿De dónde es originario el pimiento de padrón y por qué se dice que 'unos pican y otros no'?",
+    "answer": "Del municipio de Padrón (Galicia); el picor depende del estrés hídrico durante el cultivo: los pimientos cultivados con poca agua desarrollan capsaicina para defenderse",
+    "difficulty": 3
+  },
+  {
+    "id": 193,
+    "question": "¿Qué es el alioli y en qué se diferencia del aioli provenzal francés?",
+    "answer": "El alioli catalán-valenciano tradicional se hace solo con ajo y aceite de oliva (sin huevo); el aioli provenzal suele llevar huevo. El alioli con mayonesa es una versión comercial simplificada",
+    "difficulty": 3
+  },
+  {
+    "id": 194,
+    "question": "¿Cuál es el plato nacional de la gastronomía vasca que mezcla bacalao, pimientos y huevos en una cazuela?",
+    "answer": "La piperade o piperrada vasca; aunque el bacalao al pil-pil y los pintxos también son emblemáticos de la cocina vasca",
+    "difficulty": 3
+  },
+  {
+    "id": 195,
+    "question": "¿Qué elaborado proceso distingue a un jamón ibérico de bellota 100% de uno de cebo?",
+    "answer": "El cerdo 100% ibérico de bellota se cría en dehesa y se alimenta de bellotas en la montanera (otoño-invierno); el de cebo se alimenta con pienso. La curación del bellota puede durar 36-48 meses o más",
+    "difficulty": 3
+  },
+  {
+    "id": 196,
+    "question": "¿Qué cocinero catalán, padre de la cocina de vanguardia española, dirigió el restaurante elBulli y fue nombrado el mejor del mundo cinco veces?",
+    "answer": "Ferran Adrià; elBulli, en Roses (Girona), cerró en 2011 y ganó 3 estrellas Michelin; Adrià inventó técnicas como la esferificación",
+    "difficulty": 3
+  },
+  {
+    "id": 197,
+    "question": "¿Qué bebida fermentada de sidra es típica de Asturias y el País Vasco y cómo se sirve de forma tradicional?",
+    "answer": "La sidra (o sagardoa en euskera); se escancia desde altura para oxigenarla antes de beberla en un trago; en Asturias hay chigres (sidrerías) que siguen este ritual",
+    "difficulty": 2
+  },
+  {
+    "id": 198,
+    "question": "¿Cuál es el ingrediente que da color amarillo al arroz en la paella y en la mayoría de arroces españoles?",
+    "answer": "El azafrán (Crocus sativus); la especia más cara del mundo, producida en La Mancha (Azafrán de La Mancha, D.O.P.)",
+    "difficulty": 1
+  },
+  {
+    "id": 199,
+    "question": "¿Qué plato originario de Vigo o Galicia consiste en pulpo cocido con aceite, pimentón y sal gruesa sobre madera?",
+    "answer": "El pulpo a la gallega (pulpo á feira); se cuece en agua con laurel, se corta con tijeras y se aliña con pimentón dulce y picante, sal gorda y aceite de oliva virgen",
+    "difficulty": 2
+  },
+  {
+    "id": 200,
+    "question": "¿Qué diferencia hay entre el aceite de oliva virgen extra (AOVE) y el aceite de oliva refinado?",
+    "answer": "El AOVE es zumo de aceituna de primera presión sin defectos organolépticos (acidez máx. 0,8°); el refinado procede de aceites defectuosos tratados químicamente y tiene menos aromas; el 'aceite de oliva' mezcla refinado con virgen",
+    "difficulty": 3
+  },
+  {
+    "id": 201,
+    "question": "¿Qué es el txakoli y en qué comunidad autónoma española se produce?",
+    "answer": "Es un vino blanco ligeramente espumoso, ácido y de baja graduación, producido en el País Vasco (Txakolina); hay tres D.O.: Getariako, Bizkaiko y Arabako Txakolina",
+    "difficulty": 3
+  },
+  {
+    "id": 202,
+    "question": "¿En qué ciudad española se inventaron los pintxos y cuál es la diferencia con las tapas?",
+    "answer": "San Sebastián (Donostia); los pintxos son bocados servidos sobre pan, pinchados con un palillo; las tapas son porciones pequeñas servidas gratis o de pago, no necesariamente sobre pan",
+    "difficulty": 2
+  },
+  {
+    "id": 203,
+    "question": "¿Qué vino dulce andaluz se elabora en Jerez de la Frontera con uva Palomino y tiene un proceso de crianza especial en botas de roble?",
+    "answer": "El jerez o sherry (vinos de Jerez-Xérès-Sherry, D.O.); los tipos van del Manzanilla y el Fino (secos) al Oloroso y al Pedro Ximénez (dulces)",
+    "difficulty": 3
+  },
+  {
+    "id": 204,
+    "question": "¿Cuál es el origen del gazpacho y cuándo se añadió el tomate a la receta tradicional?",
+    "answer": "El gazpacho original medieval (sin tomate) era una mezcla de pan, ajo, aceite y vinagre. El tomate se incorporó en el siglo XIX tras la popularización del tomate americano en España",
+    "difficulty": 4
+  },
+  {
+    "id": 205,
+    "question": "¿Qué postre español de origen árabe consiste en una masa frita en aceite estirada y enrollada bañada en miel o azúcar?",
+    "answer": "El churro... no. El pestiño: masa de harina y vino frita y bañada en miel, típico de Semana Santa y Navidad en Andalucía y Extremadura",
+    "difficulty": 4
+  },
+  {
+    "id": 206,
+    "question": "¿Qué técnica culinaria inventada por Ferran Adrià en elBulli consiste en encapsular líquidos en una membrana de alginato formando esferas de caviar artificial?",
+    "answer": "La esferificación, desarrollada en elBulli en 2003; hay esferificación básica (alginato + cloruro cálcico) e inversa (calcio en el interior)",
+    "difficulty": 4
+  },
+  {
+    "id": 207,
+    "question": "¿Qué denominación de origen protegida tiene el aceite de oliva producido en la campiña de Jaén, la mayor zona productora de aceite del mundo?",
+    "answer": "Sierra Mágina, Sierra de Segura, Sierra de Cazorla y otras D.O.P. en Jaén; Jaén produce el 20% del aceite de oliva mundial",
+    "difficulty": 4
+  },
+  {
+    "id": 208,
+    "question": "¿Qué plato vasco-navarro elaborado con bacalao en salazón se cocina agitando la cazuela para emulsionar su propio colágeno en una salsa gelatinosa?",
+    "answer": "El bacalao al pil-pil; la emulsión se consigue con el propio colágeno del bacalao (pil-pil) mediante el movimiento circular de la cazuela con aceite de oliva y ajo",
+    "difficulty": 4
+  },
+  {
+    "id": 209,
+    "question": "¿En qué consiste el sistema de crianza 'solera' usado en los vinos de Jerez y cuántos años puede contener el vino más viejo de una solera?",
+    "answer": "En apilar botas de vino en filas (escalas); se extrae vino de las botas del suelo (solera) y se repone con vino más joven de la escala superior. El vino de la solera puede contener fracciones de décadas de mezclas sucesivas",
+    "difficulty": 5
+  },
+  {
+    "id": 210,
+    "question": "¿Qué destilado español se produce en el municipio de El Hierro y está considerado el ron más austral de Europa?",
+    "answer": "El ron de caña de El Hierro (Canarias), aunque la miel de palma (no es ron) es más conocida en la isla. Nota: el ron de caña de España se produce más en Gran Canaria y Tenerife",
+    "difficulty": 5
+  },
+  {
+    "id": 211,
+    "question": "¿Cuál es la diferencia química entre la fermentación alcohólica del vino y la segunda fermentación del cava?",
+    "answer": "En el vino, las levaduras transforman azúcares en alcohol y CO₂ en un depósito abierto; en el cava, una segunda fermentación ocurre dentro de la botella cerrada, atrapando el CO₂ que se convierte en burbujas",
+    "difficulty": 4
+  },
+  {
+    "id": 212,
+    "question": "¿Qué tipo de cerveza se produce en España mayoritariamente y cuál fue la primera marca española fundada?",
+    "answer": "La lager rubia tipo pilsner domina el mercado español (Estrella, Mahou, Cruzcampo, Damm); la primera marca española fue El Águila, fundada en Madrid en 1900",
+    "difficulty": 3
+  },
+  {
+    "id": 213,
+    "question": "¿Qué postre helado español originario de Jijona (Alicante) se elabora con almendra tostada molida y miel?",
+    "answer": "El turrón blando de Jijona (Turrón de Jijona, I.G.P.); a diferencia del turrón duro de Alicante, que lleva las almendras enteras",
+    "difficulty": 2
+  },
+  {
+    "id": 214,
+    "question": "¿Qué es la morcilla de Burgos y en qué se diferencia de la morcilla de arroz murciana?",
+    "answer": "La morcilla de Burgos lleva arroz, cebolla, grasa de cerdo, piñones y especias; la murciana también lleva arroz pero tiene un perfil de especias diferente. Ambas son embutidos con sangre de cerdo",
+    "difficulty": 3
+  },
+  {
+    "id": 215,
+    "question": "¿Qué bebida típica de Valencia se elabora con chufa, agua y azúcar y tiene un nombre que en valenciano significa 'eso es oro'?",
+    "answer": "La horchata de chufa; 'orxata' en valenciano; la chufa (Cyperus esculentus) es un tubérculo cultivado en la Huerta Valenciana con D.O.P. Chufa de Valencia",
+    "difficulty": 2
+  },
+  {
+    "id": 216,
+    "question": "¿Qué plato de arroz típico de Alicante se cocina hasta que el arroz se tuesta en el fondo de la paella formando una capa crujiente?",
+    "answer": "La paella con socarrat; el socarrat es esa capa tostada y crujiente del fondo, considerada la mejor parte por los valencianos",
+    "difficulty": 3
+  },
+  {
+    "id": 217,
+    "question": "¿En qué siglo y por qué vía llegó el chocolate a España y cómo se consumía inicialmente?",
+    "answer": "El cacao llegó a España en el siglo XVI (tras la conquista de México por Hernán Cortés, 1519-1521); se consumía como bebida caliente amarga, adoptada de los aztecas; los españoles fueron los primeros en añadir azúcar",
+    "difficulty": 3
+  },
+  {
+    "id": 218,
+    "question": "¿Qué salsa catalana se elabora a base de ñoras secas, tomate, ajo y avellanas o almendras, típica para acompañar calçots?",
+    "answer": "La salsa romesco; también se usa para acompañar pescados y mariscos; la calçotada es la fiesta de los calçots (cebolletas) en Cataluña",
+    "difficulty": 3
+  },
+  {
+    "id": 219,
+    "question": "¿Qué vino blanco gallego elaborado con la uva Albariño es el más conocido internacionalmente de la viticultura gallega?",
+    "answer": "El Albariño de la D.O. Rías Baixas; se elabora principalmente en la comarca del Salnés (Pontevedra) y es uno de los blancos más aromáticos de España",
+    "difficulty": 3
+  },
+  {
+    "id": 220,
+    "question": "¿Qué es el sobrasada y en qué comunidad autónoma es un producto típico con indicación geográfica protegida?",
+    "answer": "Es un embutido curado de carne de cerdo con pimentón (dulce o picante) y sal; típico de las Islas Baleares (I.G.P. Sobrasada de Mallorca)",
+    "difficulty": 2
+  },
+  {
+    "id": 221,
+    "question": "¿Qué plato extremeño, de origen árabe, consiste en sopas de pan desmigado con leche, manteca de cerdo y pimentón dulce?",
+    "answer": "Las migas extremeñas; aunque las migas son comunes en toda España, las extremeñas se hacen con pan duro remojado, manteca de cerdo y chorizo; las manchegas usan gachas de harina de almortas",
+    "difficulty": 4
+  },
+  {
+    "id": 222,
+    "question": "¿Cómo se llama el método de elaboración de vinos espumosos en botella, originado en Champagne, que también usa el cava español?",
+    "answer": "El método tradicional (o méthode champenoise); consiste en añadir licor de tiraje (azúcar + levaduras) al vino base, dejándolo fermentar en botella cerrada; el CO₂ queda atrapado",
+    "difficulty": 4
+  },
+  {
+    "id": 223,
+    "question": "¿Qué fruta autóctona canaria, con variedad de tamaño pequeño y sabor muy dulce, tiene indicación geográfica protegida y se exporta a toda Europa?",
+    "answer": "El plátano de Canarias (I.G.P.); es más pequeño, curvo y dulce que el banano tropical; proviene de La Palma, Tenerife y Gran Canaria principalmente",
+    "difficulty": 2
+  },
+  {
+    "id": 224,
+    "question": "¿Qué cocinero vasco, con el mayor número de estrellas Michelin del mundo hasta 2023, dirige el grupo Arzak y Mugaritz entre otros?",
+    "answer": "Juan Mari Arzak (con su hija Elena Arzak); Mugaritz es de Andoni Luis Aduriz; el grupo Basque Culinary Center también es vasco. Nota: el más galardonado globalmente fue Joel Robuchon",
+    "difficulty": 4
+  },
+  {
+    "id": 225,
+    "question": "¿Qué es el ajoblanco malagueño y en qué se diferencia del gazpacho?",
+    "answer": "El ajoblanco es una sopa fría de almendras crudas, ajo, pan, aceite y vinagre, sin tomate; es el 'gazpacho blanco' andaluz, de origen árabe, típico de Málaga y Granada",
+    "difficulty": 3
+  },
+  {
+    "id": 226,
+    "question": "¿Qué coctel español de vino tinto, fruta y gaseosa fue prohibido en los Juegos Olímpicos de Barcelona 1992 para no 'dañar la imagen' de España?",
+    "answer": "La sangría; el Comité Olímpico no quería que se asociara España con una bebida alcohólica de imagen festiva. La prohibición fue muy criticada",
+    "difficulty": 4
+  },
+  {
+    "id": 227,
+    "question": "¿Qué proceso diferencia la manzanilla de Sanlúcar del fino de Jerez, siendo ambos vinos de velo de flor?",
+    "answer": "La manzanilla se cría en Sanlúcar de Barrameda, más cercana al mar, con mayor humedad; el velo de flor es más grueso y continuo, lo que le da un sabor más salino y fresco que el fino de Jerez",
+    "difficulty": 5
+  },
+  {
+    "id": 228,
+    "question": "¿Qué plato de la cocina vasca consiste en lomos de bacalao en salazón cocinados con una salsa verde de perejil, ajo y vino blanco?",
+    "answer": "El bacalao al pil-pil usa la salsa de colágeno; el de salsa verde (bacalao en salsa verde) lleva perejil, ajo y txakoli o vino blanco, y es el otro plato emblemático del bacalao vasco",
+    "difficulty": 4
+  },
+  {
+    "id": 229,
+    "question": "¿Qué bebida alcohólica de alta graduación se elabora en Galicia destilando orujo de uva y cuándo se consume tradicionalmente?",
+    "answer": "El orujo gallego (aguardiente de orujo); se consume especialmente en invierno; el queimada se hace flameando orujo con azúcar, limón y granos de café, recitando el conjuro del 'mouchos, corujas...'",
+    "difficulty": 3
+  },
+  {
+    "id": 230,
+    "question": "¿De qué país es la marca de coches Ferrari?",
+    "answer": "Italia; la sede está en Maranello, provincia de Módena",
+    "difficulty": 1
+  },
+  {
+    "id": 231,
+    "question": "¿Qué marca alemana tiene el logotipo con cuatro aros entrelazados que representan la unión de cuatro empresas?",
+    "answer": "Audi; los cuatro aros simbolizan la fusión de Audi, DKW, Horch y Wanderer en Auto Union (1932)",
+    "difficulty": 1
+  },
+  {
+    "id": 232,
+    "question": "¿Qué marca de coches eléctricos fue cofundada por Elon Musk en 2003 y es actualmente la más valiosa del sector?",
+    "answer": "Tesla (Tesla, Inc.); aunque Elon Musk no fue fundador original, lideró la empresa desde 2004 y es su CEO",
+    "difficulty": 1
+  },
+  {
+    "id": 233,
+    "question": "¿Qué significa el nombre 'Volkswagen' en alemán?",
+    "answer": "'Coche del pueblo' (Volk = pueblo, Wagen = coche); fue el nombre dado al proyecto del KdF-Wagen de los años 30",
+    "difficulty": 1
+  },
+  {
+    "id": 234,
+    "question": "¿Qué marca americana fabrica el Mustang, el deportivo más vendido en Europa durante varios años?",
+    "answer": "Ford Motor Company",
+    "difficulty": 1
+  },
+  {
+    "id": 235,
+    "question": "¿Qué marca de coches tiene el logo de un toro en plena embestida sobre fondo negro?",
+    "answer": "Lamborghini; el toro honra al signo zodiacal Tauro de su fundador Ferruccio Lamborghini y los toros de lidia que inspiraron sus modelos",
+    "difficulty": 1
+  },
+  {
+    "id": 236,
+    "question": "¿Qué marca española de automóviles, con sede en Martorell (Barcelona), pertenece al Grupo Volkswagen?",
+    "answer": "SEAT (Sociedad Española de Automóviles de Turismo); también tiene la submarca deportiva Cupra",
+    "difficulty": 1
+  },
+  {
+    "id": 237,
+    "question": "¿Qué significa el acrónimo BMW y en qué ciudad alemana tiene su sede central?",
+    "answer": "Bayerische Motoren Werke (Fábrica Bávara de Motores); sede central en Múnich, Baviera",
+    "difficulty": 2
+  },
+  {
+    "id": 238,
+    "question": "¿En qué año fundó Henry Ford la Ford Motor Company y dónde estaba su primera fábrica?",
+    "answer": "El 16 de junio de 1903, en Detroit (Michigan, EE. UU.)",
+    "difficulty": 2
+  },
+  {
+    "id": 239,
+    "question": "¿Cuál es el coche deportivo más icónico de Porsche, producido ininterrumpidamente desde 1964?",
+    "answer": "El Porsche 911; es el único modelo que se ha mantenido en producción desde los inicios de la marca con modificaciones graduales",
+    "difficulty": 2
+  },
+  {
+    "id": 240,
+    "question": "¿Qué marca italiana, rival histórica de Ferrari, usa nombres de toros de lidia para sus modelos (Miura, Countach, Diablo, Murciélago)?",
+    "answer": "Lamborghini; Ferruccio Lamborghini era aficionado a la tauromaquia y fan del signo Tauro",
+    "difficulty": 2
+  },
+  {
+    "id": 241,
+    "question": "¿Qué marca francesa tiene el logo del doble chevron y es conocida por sus soluciones técnicas innovadoras?",
+    "answer": "Citroën; el doble ángulo en V referencia los engranajes helicoidales que André Citroën fabricaba antes de hacer coches",
+    "difficulty": 2
+  },
+  {
+    "id": 242,
+    "question": "¿Qué marca japonesa fabrica el Civic, el Accord y el CR-V, y es también famosa por sus motos y motores de F1?",
+    "answer": "Honda Motor Co., Ltd.; es el mayor fabricante de motores del mundo por volumen (coches, motos, motores marinos y aviones)",
+    "difficulty": 2
+  },
+  {
+    "id": 243,
+    "question": "¿Qué modelo de Volkswagen fue el coche más vendido de la historia durante décadas y cuál es su apodo popular?",
+    "answer": "El Volkswagen Escarabajo (Beetle o Käfer en alemán); superó los 21 millones de unidades fabricadas en su primera generación (1938-2003)",
+    "difficulty": 2
+  },
+  {
+    "id": 244,
+    "question": "¿Qué marca sueca, famosa por su seguridad, fue adquirida por el grupo chino Geely en 2010 tras pasar por Ford?",
+    "answer": "Volvo Cars; Ford compró Volvo en 1999 y se la vendió a Geely en 2010 por 1.800 millones de dólares",
+    "difficulty": 2
+  },
+  {
+    "id": 245,
+    "question": "¿Qué modelo de Toyota fue el primer coche híbrido de producción masiva del mundo y en qué año se lanzó?",
+    "answer": "El Toyota Prius, lanzado en Japón en 1997 y en el resto del mundo en 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 246,
+    "question": "¿Qué marca de lujo inglesa fabrica el Phantom y el Ghost, coches utilizados por familias reales de todo el mundo?",
+    "answer": "Rolls-Royce; desde 2003 pertenece al Grupo BMW",
+    "difficulty": 2
+  },
+  {
+    "id": 247,
+    "question": "¿Qué marca japonesa de coches de lujo es la división premium de Toyota, creada en 1989?",
+    "answer": "Lexus; fue la primera marca japonesa de lujo en entrar al mercado americano con gran éxito",
+    "difficulty": 2
+  },
+  {
+    "id": 248,
+    "question": "¿En qué año y por quién fue fundada Ferrari, y cuál fue el primer coche con ese nombre?",
+    "answer": "Enzo Ferrari fundó Scuderia Ferrari en 1929 (equipo de carreras) y Auto Avio Costruzioni en 1939; el primer coche vendido como 'Ferrari' fue el 125 S en 1947",
+    "difficulty": 3
+  },
+  {
+    "id": 249,
+    "question": "¿Cuál fue la primera marca en instalar el cinturón de seguridad de tres puntos como equipamiento estándar (1959) y quién lo inventó?",
+    "answer": "Volvo; el ingeniero Nils Bohlin diseñó el cinturón en V de tres puntos y Volvo lo hizo estándar en el Amazon (120) en 1959; además cedió la patente gratis a toda la industria",
+    "difficulty": 3
+  },
+  {
+    "id": 250,
+    "question": "¿Qué grupo automovilístico, el mayor del mundo por ventas, agrupa marcas como Volkswagen, Audi, Porsche, SEAT, Škoda, Lamborghini, Bentley y Bugatti?",
+    "answer": "El Grupo Volkswagen (Volkswagen AG), con sede en Wolfsburgo (Alemania)",
+    "difficulty": 3
+  },
+  {
+    "id": 251,
+    "question": "¿Qué marca alemana de lujo fue fundada en 1909 por August Horch, quien no podía usar su apellido y lo tradujo al latín?",
+    "answer": "Audi; 'Horch' significa 'escucha' en alemán, y su equivalente latino es 'Audi' (del verbo audire); Horch ya tenía una empresa con su nombre",
+    "difficulty": 3
+  },
+  {
+    "id": 252,
+    "question": "¿Qué superdeportivo de Bugatti fue el primer coche de producción en superar los 1.000 CV en 2005?",
+    "answer": "El Bugatti Veyron 16.4, con 1.001 CV y motor W16 de 8 litros con cuatro turbocompresores; alcanzaba 407 km/h",
+    "difficulty": 3
+  },
+  {
+    "id": 253,
+    "question": "¿Qué coche de la marca Aston Martin es el favorito del espía James Bond y en qué película debutó?",
+    "answer": "El Aston Martin DB5; debutó en Goldfinger (1964), con Sean Connery; equipado con gadgets por Q como ametralladoras y asiento eyectable",
+    "difficulty": 3
+  },
+  {
+    "id": 254,
+    "question": "¿Cuál fue el primer coche producido en masa de la historia y a qué precio equivale hoy aproximadamente?",
+    "answer": "El Ford Model T (1908-1927); costaba 825 dólares en 1908 (unos 27.000 $ actuales), llegando a bajar a 260 $ en 1925 gracias a la cadena de montaje",
+    "difficulty": 3
+  },
+  {
+    "id": 255,
+    "question": "¿Qué marca italiana tiene el logo del tridente de Neptuno y cuál es su ciudad de origen?",
+    "answer": "Maserati; el tridente está inspirado en la fuente de Neptuno de la Piazza Maggiore de Bolonia, ciudad donde se fundó en 1914",
+    "difficulty": 3
+  },
+  {
+    "id": 256,
+    "question": "¿Qué significa el logo del caballo encabritado de Ferrari y de dónde proviene ese símbolo?",
+    "answer": "El 'Cavallino Rampante' fue el emblema del as de la aviación Francesco Baracca (WWI); su madre cedió el símbolo a Enzo Ferrari en 1923 para que trajera buena suerte",
+    "difficulty": 3
+  },
+  {
+    "id": 257,
+    "question": "¿Qué marca americana agrupa marcas como Cadillac, Chevrolet, GMC y Buick y fue el mayor fabricante de coches del mundo durante décadas?",
+    "answer": "General Motors (GM), fundada en 1908 en Detroit; fue la mayor empresa del mundo por capitalización bursátil en los años 50-60",
+    "difficulty": 3
+  },
+  {
+    "id": 258,
+    "question": "¿Qué marca inglesa, fundada en 1919 por Walter Owen Bentley, es conocida por sus berlinas deportivas de lujo y su palmarés en Le Mans?",
+    "answer": "Bentley Motors; ganó Le Mans 6 veces entre 1924 y 2003; desde 1998 pertenece al Grupo Volkswagen",
+    "difficulty": 3
+  },
+  {
+    "id": 259,
+    "question": "¿Qué marca coreana, fundada en 1967, se convirtió en el cuarto mayor fabricante de automóviles del mundo junto a Kia?",
+    "answer": "Hyundai Motor Company; junto con Kia (subsidiaria de Hyundai) forman el Grupo Hyundai-Kia, el cuarto mayor grupo mundial",
+    "difficulty": 3
+  },
+  {
+    "id": 260,
+    "question": "¿Qué revolucionaria tecnología presentó Citroën en el DS de 1955 que no existía en ningún otro coche de serie?",
+    "answer": "La suspensión hidroneumática, que se autorregulaba y mantenía el coche nivelado; además incorporó dirección asistida y frenos de disco en las cuatro ruedas. El DS fue nombrado el coche del siglo XX",
+    "difficulty": 4
+  },
+  {
+    "id": 261,
+    "question": "¿Qué marca sueca fundada como fabricante de aviones (Svenska Aeroplan AB) produjo coches desde 1949 hasta su desaparición en 2011?",
+    "answer": "SAAB (Saab Automobile); los primeros modelos como el Saab 92 tenían influencias aerodinámicas claras del mundo de la aviación",
+    "difficulty": 4
+  },
+  {
+    "id": 262,
+    "question": "¿Qué sistema de seguridad activa, desarrollado por Bosch e instalado por primera vez en el Mercedes-Benz Clase S y el BMW Serie 7 en 1978, revolucionó la conducción?",
+    "answer": "El ABS (Antiblockiersystem / Sistema Antibloqueo de Frenos); evita que las ruedas bloqueen al frenar bruscamente, manteniendo la dirección",
+    "difficulty": 4
+  },
+  {
+    "id": 263,
+    "question": "¿Qué marca española de automóviles de alta gama, fundada en Barcelona, fue pionera mundial de los motores de aviación y compitió en el circuito de Indianápolis?",
+    "answer": "Hispano-Suiza, fundada en 1904 por Damián Mateu y el ingeniero suizo Marc Birkigt; sus motores de avión equiparon los cazas aliados en la I Guerra Mundial",
+    "difficulty": 4
+  },
+  {
+    "id": 264,
+    "question": "¿Qué fusión fallida entre Mercedes-Benz y Chrysler, creada en 1998, se disolvió en 2007 con pérdidas millonarias?",
+    "answer": "DaimlerChrysler AG; Daimler vendió Chrysler a Cerberus Capital Management por 7.400 millones de dólares en 2007, tras grandes pérdidas en el mercado americano",
+    "difficulty": 4
+  },
+  {
+    "id": 265,
+    "question": "¿Qué motor inusual usa el Mazda RX-7 y el RX-8, diferente al pistón convencional?",
+    "answer": "El motor rotativo Wankel; usa un rotor triangular en lugar de pistones recíprocos, lo que permite alta potencia con menos peso y tamaño",
+    "difficulty": 4
+  },
+  {
+    "id": 266,
+    "question": "¿Qué marca italiana de coches de lujo fue adquirida por Ferrari (y Fiat) en 1969 y produce modelos como el GranTurismo?",
+    "answer": "Maserati; ha pasado por varios propietarios (Citroën, De Tomaso, Fiat, Ferrari); actualmente pertenece al grupo Stellantis",
+    "difficulty": 4
+  },
+  {
+    "id": 267,
+    "question": "¿Qué marca francesa, fundada en 1899 por Louis Renault, sigue siendo parcialmente propiedad del Estado francés?",
+    "answer": "Renault; el gobierno francés aún tiene participación en el capital de Renault, que también posee el 43% de Nissan",
+    "difficulty": 3
+  },
+  {
+    "id": 268,
+    "question": "¿En qué año se fundó la marca Rolls-Royce y quiénes fueron sus dos fundadores?",
+    "answer": "En 1906; Charles Stewart Rolls (aristócrata y piloto) y Frederick Henry Royce (ingeniero); el lema es 'Strive for Perfection'",
+    "difficulty": 4
+  },
+  {
+    "id": 269,
+    "question": "¿Qué fue el Tucker 48 (1947-1948) y por qué se convirtió en un símbolo de la lucha contra el monopolio industrial americano?",
+    "answer": "Un coche innovador de Preston Tucker con motor trasero, parabrisas de seguridad y faro central giratório; solo se fabricaron 51 unidades antes de que la SEC cerrara la empresa; muchos creen que fue saboteado por los Tres Grandes (GM, Ford, Chrysler)",
+    "difficulty": 5
+  },
+  {
+    "id": 270,
+    "question": "¿Qué superdeportivo híbrido de McLaren, presentado en 2012 con más de 900 CV, fue el primero de calle con más de 1.000 CV?",
+    "answer": "El McLaren P1, con 916 CV (motor V8 + motor eléctrico); el Porsche 918 Spyder y el LaFerrari completaron la 'Santa Trinidad' de hipercars híbridos",
+    "difficulty": 5
+  },
+  {
+    "id": 271,
+    "question": "¿Qué norma de emisiones europea obliga a los fabricantes desde 2035 a vender únicamente coches de cero emisiones en la UE?",
+    "answer": "El reglamento Euro 7 y el objetivo de neutralidad de carbono 2035 fijado por la Comisión Europea prohíben vender coches nuevos con motor de combustión interna a partir de 2035",
+    "difficulty": 4
+  },
+  {
+    "id": 272,
+    "question": "¿Qué marca de coches de lujo británica, fundada en 1919 por Lionel Martin y Robert Bamford, toma su nombre de una colina cerca de Aylesbury?",
+    "answer": "Aston Martin; el nombre combina 'Aston' (la colina de Aston Clinton) y 'Martin' (el apellido del cofundador Lionel Martin)",
+    "difficulty": 4
+  },
+  {
+    "id": 273,
+    "question": "¿Qué marca italiana de motos y coches deportivos, fundada en 1910, produce el Alfa Romeo Giulia y el Stelvio bajo el grupo Stellantis?",
+    "answer": "Alfa Romeo (Anonima Lombarda Fabbrica Automobili); fundada en 1910 en Milán; el logo tiene la serpiente viscontea y la cruz de San Jorge de Milán",
+    "difficulty": 3
+  },
+  {
+    "id": 274,
+    "question": "¿Qué marca de coches fundada en 1903 en Indianapolis, famosa por sus utilitarios económicos y el Punto, dejó de fabricar coches en 2021?",
+    "answer": "Fiat (Fabbrica Italiana Automobili Torino), fundada en Turín en 1899; la marca sigue viva pero se reenfoca en modelos eléctricos bajo Stellantis",
+    "difficulty": 3
+  },
+  {
+    "id": 275,
+    "question": "¿Cuántos modelos tiene actualmente la gama de Lamborghini y cuál es el más vendido?",
+    "answer": "Lamborghini tiene históricamente dos modelos de gama principal; el Urus (SUV de lujo, 2018) se convirtió en el más vendido superando en ventas a Huracán y Aventador juntos",
+    "difficulty": 4
+  },
+  {
+    "id": 276,
+    "question": "¿Qué nombre recibe el motor central de combustión interna que mueve las ruedas traseras en la mayoría de los Ferrari de calle?",
+    "answer": "Motor central-trasero (mid-engine rear-wheel drive); colocado detrás de los asientos pero delante del eje trasero para óptima distribución de pesos",
+    "difficulty": 3
+  },
+  {
+    "id": 277,
+    "question": "¿Qué fabricante chino de vehículos eléctricos superó en 2023 a Tesla como el mayor vendedor mundial de coches eléctricos?",
+    "answer": "BYD (Build Your Dreams), empresa china con sede en Shenzhen que también fabrica baterías y autobuses eléctricos",
+    "difficulty": 4
+  },
+  {
+    "id": 278,
+    "question": "¿Qué marca japonesa fundó su división de lujo Infiniti en 1989 para competir con los alemanes BMW y Mercedes en el mercado americano?",
+    "answer": "Nissan; Infiniti se lanzó en EE. UU. en 1989 al mismo tiempo que Toyota lanzaba Lexus, ambas como respuesta a las marcas alemanas",
+    "difficulty": 4
+  },
+  {
+    "id": 279,
+    "question": "¿Qué escudería de Fórmula 1 perteneciente a una marca de coches de calle lleva más de 40 años sin ganar el campeonato de constructores pese a ser un referente del deporte?",
+    "answer": "McLaren; aunque ha ganado 8 campeonatos de constructores, el último fue en 1998. Actualmente opera con motor Mercedes y compite bajo McLaren Racing, independiente de McLaren Automotive",
+    "difficulty": 5
+  }
 ]
