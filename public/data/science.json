@@ -4978,5 +4978,1205 @@
     "question": "¿Qué científico formuló el principio de exclusión que impide a dos electrones compartir los cuatro números cuánticos?",
     "answer": "Wolfgang Pauli",
     "difficulty": 4
+  },
+  {
+    "id": 831,
+    "question": "¿Qué raza de perro es famosa por su carácter sociable y su afinidad por el agua?",
+    "answer": "Labrador Retriever",
+    "difficulty": 1
+  },
+  {
+    "id": 832,
+    "question": "¿De qué país o región procede la raza Labrador Retriever?",
+    "answer": "Canadá",
+    "difficulty": 2
+  },
+  {
+    "id": 833,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Labrador Retriever?",
+    "answer": "cobrar piezas de caza y trabajar en el agua",
+    "difficulty": 3
+  },
+  {
+    "id": 834,
+    "question": "¿Qué raza encaja con esta descripción: pelaje corto, cola fuerte y fama como perro familiar?",
+    "answer": "Labrador Retriever",
+    "difficulty": 4
+  },
+  {
+    "id": 835,
+    "question": "Si te hablan de un perro originario de Canadá y asociado a cobrar piezas de caza y trabajar en el agua, ¿de qué raza se trata?",
+    "answer": "Labrador Retriever",
+    "difficulty": 5
+  },
+  {
+    "id": 836,
+    "question": "¿Qué raza de perro es famosa por su pelaje dorado y su temperamento amistoso?",
+    "answer": "Golden Retriever",
+    "difficulty": 1
+  },
+  {
+    "id": 837,
+    "question": "¿De qué país o región procede la raza Golden Retriever?",
+    "answer": "Escocia",
+    "difficulty": 2
+  },
+  {
+    "id": 838,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Golden Retriever?",
+    "answer": "cobrar aves de caza",
+    "difficulty": 3
+  },
+  {
+    "id": 839,
+    "question": "¿Qué raza encaja con esta descripción: manto largo color oro y gran facilidad para el adiestramiento?",
+    "answer": "Golden Retriever",
+    "difficulty": 4
+  },
+  {
+    "id": 840,
+    "question": "Si te hablan de un perro originario de Escocia y asociado a cobrar aves de caza, ¿de qué raza se trata?",
+    "answer": "Golden Retriever",
+    "difficulty": 5
+  },
+  {
+    "id": 841,
+    "question": "¿Qué raza de perro es famosa por su inteligencia y uso frecuente en policía y rescate?",
+    "answer": "Pastor alemán",
+    "difficulty": 1
+  },
+  {
+    "id": 842,
+    "question": "¿De qué país o región procede la raza Pastor alemán?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 843,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Pastor alemán?",
+    "answer": "pastoreo y trabajo de servicio",
+    "difficulty": 3
+  },
+  {
+    "id": 844,
+    "question": "¿Qué raza encaja con esta descripción: orejas erguidas, dorso fuerte y gran versatilidad laboral?",
+    "answer": "Pastor alemán",
+    "difficulty": 4
+  },
+  {
+    "id": 845,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a pastoreo y trabajo de servicio, ¿de qué raza se trata?",
+    "answer": "Pastor alemán",
+    "difficulty": 5
+  },
+  {
+    "id": 846,
+    "question": "¿Qué raza de perro es famosa por su enorme energía y obediencia en el pastoreo?",
+    "answer": "Border Collie",
+    "difficulty": 1
+  },
+  {
+    "id": 847,
+    "question": "¿De qué país o región procede la raza Border Collie?",
+    "answer": "la frontera entre Escocia e Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 848,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Border Collie?",
+    "answer": "pastorear ovejas",
+    "difficulty": 3
+  },
+  {
+    "id": 849,
+    "question": "¿Qué raza encaja con esta descripción: mirada intensa y fama como uno de los perros más inteligentes?",
+    "answer": "Border Collie",
+    "difficulty": 4
+  },
+  {
+    "id": 850,
+    "question": "Si te hablan de un perro originario de la frontera entre Escocia e Inglaterra y asociado a pastorear ovejas, ¿de qué raza se trata?",
+    "answer": "Border Collie",
+    "difficulty": 5
+  },
+  {
+    "id": 851,
+    "question": "¿Qué raza de perro es famosa por su resistencia al frío y su aspecto lobuno?",
+    "answer": "Husky siberiano",
+    "difficulty": 1
+  },
+  {
+    "id": 852,
+    "question": "¿De qué país o región procede la raza Husky siberiano?",
+    "answer": "Siberia",
+    "difficulty": 2
+  },
+  {
+    "id": 853,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Husky siberiano?",
+    "answer": "tirar de trineos en climas fríos",
+    "difficulty": 3
+  },
+  {
+    "id": 854,
+    "question": "¿Qué raza encaja con esta descripción: pelaje espeso, ojos llamativos y capacidad para correr largas distancias?",
+    "answer": "Husky siberiano",
+    "difficulty": 4
+  },
+  {
+    "id": 855,
+    "question": "Si te hablan de un perro originario de Siberia y asociado a tirar de trineos en climas fríos, ¿de qué raza se trata?",
+    "answer": "Husky siberiano",
+    "difficulty": 5
+  },
+  {
+    "id": 856,
+    "question": "¿Qué raza de perro es famosa por su pelaje blanco con manchas negras?",
+    "answer": "Dálmata",
+    "difficulty": 1
+  },
+  {
+    "id": 857,
+    "question": "¿De qué país o región procede la raza Dálmata?",
+    "answer": "Croacia",
+    "difficulty": 2
+  },
+  {
+    "id": 858,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Dálmata?",
+    "answer": "acompañar carruajes y servir como perro de guardia",
+    "difficulty": 3
+  },
+  {
+    "id": 859,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo atlético y dibujo moteado muy reconocible?",
+    "answer": "Dálmata",
+    "difficulty": 4
+  },
+  {
+    "id": 860,
+    "question": "Si te hablan de un perro originario de Croacia y asociado a acompañar carruajes y servir como perro de guardia, ¿de qué raza se trata?",
+    "answer": "Dálmata",
+    "difficulty": 5
+  },
+  {
+    "id": 861,
+    "question": "¿Qué raza de perro es famosa por su tamaño mediano y su excelente olfato?",
+    "answer": "Beagle",
+    "difficulty": 1
+  },
+  {
+    "id": 862,
+    "question": "¿De qué país o región procede la raza Beagle?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 863,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Beagle?",
+    "answer": "cazar siguiendo rastros olorosos",
+    "difficulty": 3
+  },
+  {
+    "id": 864,
+    "question": "¿Qué raza encaja con esta descripción: orejas caídas y fama como perro rastreador?",
+    "answer": "Beagle",
+    "difficulty": 4
+  },
+  {
+    "id": 865,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a cazar siguiendo rastros olorosos, ¿de qué raza se trata?",
+    "answer": "Beagle",
+    "difficulty": 5
+  },
+  {
+    "id": 866,
+    "question": "¿Qué raza de perro es famosa por su hocico corto y su cuerpo musculoso?",
+    "answer": "Bóxer",
+    "difficulty": 1
+  },
+  {
+    "id": 867,
+    "question": "¿De qué país o región procede la raza Bóxer?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 868,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Bóxer?",
+    "answer": "guardar y proteger",
+    "difficulty": 3
+  },
+  {
+    "id": 869,
+    "question": "¿Qué raza encaja con esta descripción: cara expresiva, pecho amplio y gran energía?",
+    "answer": "Bóxer",
+    "difficulty": 4
+  },
+  {
+    "id": 870,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a guardar y proteger, ¿de qué raza se trata?",
+    "answer": "Bóxer",
+    "difficulty": 5
+  },
+  {
+    "id": 871,
+    "question": "¿Qué raza de perro es famosa por su potencia física y su instinto de protección?",
+    "answer": "Rottweiler",
+    "difficulty": 1
+  },
+  {
+    "id": 872,
+    "question": "¿De qué país o región procede la raza Rottweiler?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 873,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Rottweiler?",
+    "answer": "arrear ganado y tirar de carros",
+    "difficulty": 3
+  },
+  {
+    "id": 874,
+    "question": "¿Qué raza encaja con esta descripción: pelaje negro con marcas fuego y constitución robusta?",
+    "answer": "Rottweiler",
+    "difficulty": 4
+  },
+  {
+    "id": 875,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a arrear ganado y tirar de carros, ¿de qué raza se trata?",
+    "answer": "Rottweiler",
+    "difficulty": 5
+  },
+  {
+    "id": 876,
+    "question": "¿Qué raza de perro es famosa por su tamaño diminuto y sus orejas grandes?",
+    "answer": "Chihuahua",
+    "difficulty": 1
+  },
+  {
+    "id": 877,
+    "question": "¿De qué país o región procede la raza Chihuahua?",
+    "answer": "México",
+    "difficulty": 2
+  },
+  {
+    "id": 878,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Chihuahua?",
+    "answer": "perro de compañía",
+    "difficulty": 3
+  },
+  {
+    "id": 879,
+    "question": "¿Qué raza encaja con esta descripción: peso muy ligero y gran personalidad en formato pequeño?",
+    "answer": "Chihuahua",
+    "difficulty": 4
+  },
+  {
+    "id": 880,
+    "question": "Si te hablan de un perro originario de México y asociado a perro de compañía, ¿de qué raza se trata?",
+    "answer": "Chihuahua",
+    "difficulty": 5
+  },
+  {
+    "id": 881,
+    "question": "¿Qué raza de perro es famosa por su hocico corto y su abundante pelo largo?",
+    "answer": "Shih Tzu",
+    "difficulty": 1
+  },
+  {
+    "id": 882,
+    "question": "¿De qué país o región procede la raza Shih Tzu?",
+    "answer": "el Tíbet",
+    "difficulty": 2
+  },
+  {
+    "id": 883,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Shih Tzu?",
+    "answer": "compañía en cortes imperiales",
+    "difficulty": 3
+  },
+  {
+    "id": 884,
+    "question": "¿Qué raza encaja con esta descripción: porte elegante y manto que suele peinarse con moño?",
+    "answer": "Shih Tzu",
+    "difficulty": 4
+  },
+  {
+    "id": 885,
+    "question": "Si te hablan de un perro originario de el Tíbet y asociado a compañía en cortes imperiales, ¿de qué raza se trata?",
+    "answer": "Shih Tzu",
+    "difficulty": 5
+  },
+  {
+    "id": 886,
+    "question": "¿Qué raza de perro es famosa por su cara chata y su cola enroscada?",
+    "answer": "Carlino",
+    "difficulty": 1
+  },
+  {
+    "id": 887,
+    "question": "¿De qué país o región procede la raza Carlino?",
+    "answer": "China",
+    "difficulty": 2
+  },
+  {
+    "id": 888,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Carlino?",
+    "answer": "perro de compañía",
+    "difficulty": 3
+  },
+  {
+    "id": 889,
+    "question": "¿Qué raza encaja con esta descripción: arrugas marcadas y tamaño pequeño de salón?",
+    "answer": "Carlino",
+    "difficulty": 4
+  },
+  {
+    "id": 890,
+    "question": "Si te hablan de un perro originario de China y asociado a perro de compañía, ¿de qué raza se trata?",
+    "answer": "Carlino",
+    "difficulty": 5
+  },
+  {
+    "id": 891,
+    "question": "¿Qué raza de perro es famosa por sus orejas largas y su carácter alegre?",
+    "answer": "Cocker Spaniel inglés",
+    "difficulty": 1
+  },
+  {
+    "id": 892,
+    "question": "¿De qué país o región procede la raza Cocker Spaniel inglés?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 893,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Cocker Spaniel inglés?",
+    "answer": "levantar y cobrar aves",
+    "difficulty": 3
+  },
+  {
+    "id": 894,
+    "question": "¿Qué raza encaja con esta descripción: manto sedoso y movimiento vivaz?",
+    "answer": "Cocker Spaniel inglés",
+    "difficulty": 4
+  },
+  {
+    "id": 895,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a levantar y cobrar aves, ¿de qué raza se trata?",
+    "answer": "Cocker Spaniel inglés",
+    "difficulty": 5
+  },
+  {
+    "id": 896,
+    "question": "¿Qué raza de perro es famosa por su silueta elegante y su fama como guardián?",
+    "answer": "Dóberman",
+    "difficulty": 1
+  },
+  {
+    "id": 897,
+    "question": "¿De qué país o región procede la raza Dóberman?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 898,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Dóberman?",
+    "answer": "protección personal",
+    "difficulty": 3
+  },
+  {
+    "id": 899,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo atlético, hocico fino y gran rapidez?",
+    "answer": "Dóberman",
+    "difficulty": 4
+  },
+  {
+    "id": 900,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a protección personal, ¿de qué raza se trata?",
+    "answer": "Dóberman",
+    "difficulty": 5
+  },
+  {
+    "id": 901,
+    "question": "¿Qué raza de perro es famosa por su enorme altura?",
+    "answer": "Gran danés",
+    "difficulty": 1
+  },
+  {
+    "id": 902,
+    "question": "¿De qué país o región procede la raza Gran danés?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 903,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Gran danés?",
+    "answer": "cazar jabalíes y guardar fincas",
+    "difficulty": 3
+  },
+  {
+    "id": 904,
+    "question": "¿Qué raza encaja con esta descripción: aspecto gigante y patas muy largas?",
+    "answer": "Gran danés",
+    "difficulty": 4
+  },
+  {
+    "id": 905,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a cazar jabalíes y guardar fincas, ¿de qué raza se trata?",
+    "answer": "Gran danés",
+    "difficulty": 5
+  },
+  {
+    "id": 906,
+    "question": "¿Qué raza de perro es famosa por su gran tamaño y su relación con los Alpes?",
+    "answer": "San Bernardo",
+    "difficulty": 1
+  },
+  {
+    "id": 907,
+    "question": "¿De qué país o región procede la raza San Bernardo?",
+    "answer": "Suiza",
+    "difficulty": 2
+  },
+  {
+    "id": 908,
+    "question": "¿Para qué trabajo fue criada originalmente la raza San Bernardo?",
+    "answer": "rescate en montaña",
+    "difficulty": 3
+  },
+  {
+    "id": 909,
+    "question": "¿Qué raza encaja con esta descripción: manto espeso y fama como perro salvavidas en la nieve?",
+    "answer": "San Bernardo",
+    "difficulty": 4
+  },
+  {
+    "id": 910,
+    "question": "Si te hablan de un perro originario de Suiza y asociado a rescate en montaña, ¿de qué raza se trata?",
+    "answer": "San Bernardo",
+    "difficulty": 5
+  },
+  {
+    "id": 911,
+    "question": "¿Qué raza de perro es famosa por su pelaje tricolor y su temperamento tranquilo?",
+    "answer": "Boyero de Berna",
+    "difficulty": 1
+  },
+  {
+    "id": 912,
+    "question": "¿De qué país o región procede la raza Boyero de Berna?",
+    "answer": "Suiza",
+    "difficulty": 2
+  },
+  {
+    "id": 913,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Boyero de Berna?",
+    "answer": "tirar de carros y trabajar en granjas",
+    "difficulty": 3
+  },
+  {
+    "id": 914,
+    "question": "¿Qué raza encaja con esta descripción: manto negro con marcas blancas y fuego?",
+    "answer": "Boyero de Berna",
+    "difficulty": 4
+  },
+  {
+    "id": 915,
+    "question": "Si te hablan de un perro originario de Suiza y asociado a tirar de carros y trabajar en granjas, ¿de qué raza se trata?",
+    "answer": "Boyero de Berna",
+    "difficulty": 5
+  },
+  {
+    "id": 916,
+    "question": "¿Qué raza de perro es famosa por su cuerpo alargado y patas cortas?",
+    "answer": "Teckel",
+    "difficulty": 1
+  },
+  {
+    "id": 917,
+    "question": "¿De qué país o región procede la raza Teckel?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 918,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Teckel?",
+    "answer": "cazar tejones en madrigueras",
+    "difficulty": 3
+  },
+  {
+    "id": 919,
+    "question": "¿Qué raza encaja con esta descripción: silueta baja y nombre asociado a la caza subterránea?",
+    "answer": "Teckel",
+    "difficulty": 4
+  },
+  {
+    "id": 920,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a cazar tejones en madrigueras, ¿de qué raza se trata?",
+    "answer": "Teckel",
+    "difficulty": 5
+  },
+  {
+    "id": 921,
+    "question": "¿Qué raza de perro es famosa por su pequeño tamaño y su pelaje esponjoso?",
+    "answer": "Pomerania",
+    "difficulty": 1
+  },
+  {
+    "id": 922,
+    "question": "¿De qué país o región procede la raza Pomerania?",
+    "answer": "la región de Pomerania",
+    "difficulty": 2
+  },
+  {
+    "id": 923,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Pomerania?",
+    "answer": "perro de compañía",
+    "difficulty": 3
+  },
+  {
+    "id": 924,
+    "question": "¿Qué raza encaja con esta descripción: cara de zorro y manto muy abundante?",
+    "answer": "Pomerania",
+    "difficulty": 4
+  },
+  {
+    "id": 925,
+    "question": "Si te hablan de un perro originario de la región de Pomerania y asociado a perro de compañía, ¿de qué raza se trata?",
+    "answer": "Pomerania",
+    "difficulty": 5
+  },
+  {
+    "id": 926,
+    "question": "¿Qué raza de perro es famosa por su dignidad serena y su origen japonés?",
+    "answer": "Akita Inu",
+    "difficulty": 1
+  },
+  {
+    "id": 927,
+    "question": "¿De qué país o región procede la raza Akita Inu?",
+    "answer": "Japón",
+    "difficulty": 2
+  },
+  {
+    "id": 928,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Akita Inu?",
+    "answer": "caza mayor y guardia",
+    "difficulty": 3
+  },
+  {
+    "id": 929,
+    "question": "¿Qué raza encaja con esta descripción: cola enroscada, orejas triangulares y gran aplomo?",
+    "answer": "Akita Inu",
+    "difficulty": 4
+  },
+  {
+    "id": 930,
+    "question": "Si te hablan de un perro originario de Japón y asociado a caza mayor y guardia, ¿de qué raza se trata?",
+    "answer": "Akita Inu",
+    "difficulty": 5
+  },
+  {
+    "id": 931,
+    "question": "¿Qué raza de perro es famosa por su tamaño mediano-pequeño y su aspecto de zorro?",
+    "answer": "Shiba Inu",
+    "difficulty": 1
+  },
+  {
+    "id": 932,
+    "question": "¿De qué país o región procede la raza Shiba Inu?",
+    "answer": "Japón",
+    "difficulty": 2
+  },
+  {
+    "id": 933,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Shiba Inu?",
+    "answer": "cazar piezas pequeñas",
+    "difficulty": 3
+  },
+  {
+    "id": 934,
+    "question": "¿Qué raza encaja con esta descripción: expresión despierta y cola curvada sobre el lomo?",
+    "answer": "Shiba Inu",
+    "difficulty": 4
+  },
+  {
+    "id": 935,
+    "question": "Si te hablan de un perro originario de Japón y asociado a cazar piezas pequeñas, ¿de qué raza se trata?",
+    "answer": "Shiba Inu",
+    "difficulty": 5
+  },
+  {
+    "id": 936,
+    "question": "¿Qué raza de perro es famosa por sus frecuentes ojos claros y su energía de trabajo?",
+    "answer": "Pastor australiano",
+    "difficulty": 1
+  },
+  {
+    "id": 937,
+    "question": "¿De qué país o región procede la raza Pastor australiano?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 938,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Pastor australiano?",
+    "answer": "pastoreo de ganado",
+    "difficulty": 3
+  },
+  {
+    "id": 939,
+    "question": "¿Qué raza encaja con esta descripción: gran agilidad y fama en deportes caninos?",
+    "answer": "Pastor australiano",
+    "difficulty": 4
+  },
+  {
+    "id": 940,
+    "question": "Si te hablan de un perro originario de Estados Unidos y asociado a pastoreo de ganado, ¿de qué raza se trata?",
+    "answer": "Pastor australiano",
+    "difficulty": 5
+  },
+  {
+    "id": 941,
+    "question": "¿Qué raza de perro es famosa por su resistencia y su instinto para mover ganado?",
+    "answer": "Boyero australiano",
+    "difficulty": 1
+  },
+  {
+    "id": 942,
+    "question": "¿De qué país o región procede la raza Boyero australiano?",
+    "answer": "Australia",
+    "difficulty": 2
+  },
+  {
+    "id": 943,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Boyero australiano?",
+    "answer": "conducir reses a largas distancias",
+    "difficulty": 3
+  },
+  {
+    "id": 944,
+    "question": "¿Qué raza encaja con esta descripción: manto moteado y gran dureza física?",
+    "answer": "Boyero australiano",
+    "difficulty": 4
+  },
+  {
+    "id": 945,
+    "question": "Si te hablan de un perro originario de Australia y asociado a conducir reses a largas distancias, ¿de qué raza se trata?",
+    "answer": "Boyero australiano",
+    "difficulty": 5
+  },
+  {
+    "id": 946,
+    "question": "¿Qué raza de perro es famosa por sus patas cortas y su asociación con la realeza británica?",
+    "answer": "Corgi galés de Pembroke",
+    "difficulty": 1
+  },
+  {
+    "id": 947,
+    "question": "¿De qué país o región procede la raza Corgi galés de Pembroke?",
+    "answer": "Gales",
+    "difficulty": 2
+  },
+  {
+    "id": 948,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Corgi galés de Pembroke?",
+    "answer": "pastorear ganado",
+    "difficulty": 3
+  },
+  {
+    "id": 949,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo bajo, orejas erguidas y gran vivacidad?",
+    "answer": "Corgi galés de Pembroke",
+    "difficulty": 4
+  },
+  {
+    "id": 950,
+    "question": "Si te hablan de un perro originario de Gales y asociado a pastorear ganado, ¿de qué raza se trata?",
+    "answer": "Corgi galés de Pembroke",
+    "difficulty": 5
+  },
+  {
+    "id": 951,
+    "question": "¿Qué raza de perro es famosa por su pelaje blanco y su llamada sonrisa?",
+    "answer": "Samoyedo",
+    "difficulty": 1
+  },
+  {
+    "id": 952,
+    "question": "¿De qué país o región procede la raza Samoyedo?",
+    "answer": "Siberia",
+    "difficulty": 2
+  },
+  {
+    "id": 953,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Samoyedo?",
+    "answer": "tirar de trineos y cuidar renos",
+    "difficulty": 3
+  },
+  {
+    "id": 954,
+    "question": "¿Qué raza encaja con esta descripción: manto muy denso y expresión amable?",
+    "answer": "Samoyedo",
+    "difficulty": 4
+  },
+  {
+    "id": 955,
+    "question": "Si te hablan de un perro originario de Siberia y asociado a tirar de trineos y cuidar renos, ¿de qué raza se trata?",
+    "answer": "Samoyedo",
+    "difficulty": 5
+  },
+  {
+    "id": 956,
+    "question": "¿Qué raza de perro es famosa por su fuerza y su aspecto nórdico?",
+    "answer": "Malamute de Alaska",
+    "difficulty": 1
+  },
+  {
+    "id": 957,
+    "question": "¿De qué país o región procede la raza Malamute de Alaska?",
+    "answer": "Alaska",
+    "difficulty": 2
+  },
+  {
+    "id": 958,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Malamute de Alaska?",
+    "answer": "tirar de cargas pesadas en trineo",
+    "difficulty": 3
+  },
+  {
+    "id": 959,
+    "question": "¿Qué raza encaja con esta descripción: gran tamaño y resistencia para trabajos de tiro?",
+    "answer": "Malamute de Alaska",
+    "difficulty": 4
+  },
+  {
+    "id": 960,
+    "question": "Si te hablan de un perro originario de Alaska y asociado a tirar de cargas pesadas en trineo, ¿de qué raza se trata?",
+    "answer": "Malamute de Alaska",
+    "difficulty": 5
+  },
+  {
+    "id": 961,
+    "question": "¿Qué raza de perro es famosa por sus patas cortas y sus orejas larguísimas?",
+    "answer": "Basset Hound",
+    "difficulty": 1
+  },
+  {
+    "id": 962,
+    "question": "¿De qué país o región procede la raza Basset Hound?",
+    "answer": "Francia",
+    "difficulty": 2
+  },
+  {
+    "id": 963,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Basset Hound?",
+    "answer": "seguir rastros con el olfato",
+    "difficulty": 3
+  },
+  {
+    "id": 964,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo bajo y mirada melancólica?",
+    "answer": "Basset Hound",
+    "difficulty": 4
+  },
+  {
+    "id": 965,
+    "question": "Si te hablan de un perro originario de Francia y asociado a seguir rastros con el olfato, ¿de qué raza se trata?",
+    "answer": "Basset Hound",
+    "difficulty": 5
+  },
+  {
+    "id": 966,
+    "question": "¿Qué raza de perro es famosa por su extraordinario sentido del olfato?",
+    "answer": "Bloodhound",
+    "difficulty": 1
+  },
+  {
+    "id": 967,
+    "question": "¿De qué país o región procede la raza Bloodhound?",
+    "answer": "Bélgica",
+    "difficulty": 2
+  },
+  {
+    "id": 968,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Bloodhound?",
+    "answer": "rastreo de olores a larga distancia",
+    "difficulty": 3
+  },
+  {
+    "id": 969,
+    "question": "¿Qué raza encaja con esta descripción: piel suelta, orejas largas y gran capacidad rastreadora?",
+    "answer": "Bloodhound",
+    "difficulty": 4
+  },
+  {
+    "id": 970,
+    "question": "Si te hablan de un perro originario de Bélgica y asociado a rastreo de olores a larga distancia, ¿de qué raza se trata?",
+    "answer": "Bloodhound",
+    "difficulty": 5
+  },
+  {
+    "id": 971,
+    "question": "¿Qué raza de perro es famosa por su masa corporal imponente?",
+    "answer": "Mastín inglés",
+    "difficulty": 1
+  },
+  {
+    "id": 972,
+    "question": "¿De qué país o región procede la raza Mastín inglés?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 973,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Mastín inglés?",
+    "answer": "guardia de propiedades",
+    "difficulty": 3
+  },
+  {
+    "id": 974,
+    "question": "¿Qué raza encaja con esta descripción: cabeza grande y temperamento protector?",
+    "answer": "Mastín inglés",
+    "difficulty": 4
+  },
+  {
+    "id": 975,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a guardia de propiedades, ¿de qué raza se trata?",
+    "answer": "Mastín inglés",
+    "difficulty": 5
+  },
+  {
+    "id": 976,
+    "question": "¿Qué raza de perro es famosa por su fuerza en el agua y su tamaño gigante?",
+    "answer": "Terranova",
+    "difficulty": 1
+  },
+  {
+    "id": 977,
+    "question": "¿De qué país o región procede la raza Terranova?",
+    "answer": "Canadá",
+    "difficulty": 2
+  },
+  {
+    "id": 978,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Terranova?",
+    "answer": "rescate acuático y trabajo con pescadores",
+    "difficulty": 3
+  },
+  {
+    "id": 979,
+    "question": "¿Qué raza encaja con esta descripción: pies parcialmente palmeados y pelaje resistente al agua?",
+    "answer": "Terranova",
+    "difficulty": 4
+  },
+  {
+    "id": 980,
+    "question": "Si te hablan de un perro originario de Canadá y asociado a rescate acuático y trabajo con pescadores, ¿de qué raza se trata?",
+    "answer": "Terranova",
+    "difficulty": 5
+  },
+  {
+    "id": 981,
+    "question": "¿Qué raza de perro es famosa por su velocidad y su cuerpo estilizado?",
+    "answer": "Galgo inglés",
+    "difficulty": 1
+  },
+  {
+    "id": 982,
+    "question": "¿De qué país o región procede la raza Galgo inglés?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 983,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Galgo inglés?",
+    "answer": "caza a la vista y carreras",
+    "difficulty": 3
+  },
+  {
+    "id": 984,
+    "question": "¿Qué raza encaja con esta descripción: pecho profundo y figura aerodinámica?",
+    "answer": "Galgo inglés",
+    "difficulty": 4
+  },
+  {
+    "id": 985,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a caza a la vista y carreras, ¿de qué raza se trata?",
+    "answer": "Galgo inglés",
+    "difficulty": 5
+  },
+  {
+    "id": 986,
+    "question": "¿Qué raza de perro es famosa por su aspecto de galgo en tamaño mediano?",
+    "answer": "Whippet",
+    "difficulty": 1
+  },
+  {
+    "id": 987,
+    "question": "¿De qué país o región procede la raza Whippet?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 988,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Whippet?",
+    "answer": "caza ligera y carreras",
+    "difficulty": 3
+  },
+  {
+    "id": 989,
+    "question": "¿Qué raza encaja con esta descripción: gran velocidad con menor tamaño que el greyhound?",
+    "answer": "Whippet",
+    "difficulty": 4
+  },
+  {
+    "id": 990,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a caza ligera y carreras, ¿de qué raza se trata?",
+    "answer": "Whippet",
+    "difficulty": 5
+  },
+  {
+    "id": 991,
+    "question": "¿Qué raza de perro es famosa por su pequeño tamaño y su energía inagotable?",
+    "answer": "Jack Russell Terrier",
+    "difficulty": 1
+  },
+  {
+    "id": 992,
+    "question": "¿De qué país o región procede la raza Jack Russell Terrier?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 993,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Jack Russell Terrier?",
+    "answer": "cazar zorros",
+    "difficulty": 3
+  },
+  {
+    "id": 994,
+    "question": "¿Qué raza encaja con esta descripción: terrrier compacto, muy activo y de fuerte instinto cazador?",
+    "answer": "Jack Russell Terrier",
+    "difficulty": 4
+  },
+  {
+    "id": 995,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a cazar zorros, ¿de qué raza se trata?",
+    "answer": "Jack Russell Terrier",
+    "difficulty": 5
+  },
+  {
+    "id": 996,
+    "question": "¿Qué raza de perro es famosa por su cabeza con perfil ovoide?",
+    "answer": "Bull Terrier",
+    "difficulty": 1
+  },
+  {
+    "id": 997,
+    "question": "¿De qué país o región procede la raza Bull Terrier?",
+    "answer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "id": 998,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Bull Terrier?",
+    "answer": "compañía y trabajo de terrier",
+    "difficulty": 3
+  },
+  {
+    "id": 999,
+    "question": "¿Qué raza encaja con esta descripción: constitución compacta y hocico muy particular?",
+    "answer": "Bull Terrier",
+    "difficulty": 4
+  },
+  {
+    "id": 1000,
+    "question": "Si te hablan de un perro originario de Inglaterra y asociado a compañía y trabajo de terrier, ¿de qué raza se trata?",
+    "answer": "Bull Terrier",
+    "difficulty": 5
+  },
+  {
+    "id": 1001,
+    "question": "¿Qué raza de perro es famosa por sus orejas de murciélago y su tamaño pequeño?",
+    "answer": "Bulldog francés",
+    "difficulty": 1
+  },
+  {
+    "id": 1002,
+    "question": "¿De qué país o región procede la raza Bulldog francés?",
+    "answer": "Francia",
+    "difficulty": 2
+  },
+  {
+    "id": 1003,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Bulldog francés?",
+    "answer": "compañía urbana",
+    "difficulty": 3
+  },
+  {
+    "id": 1004,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo compacto y cara chata muy reconocible?",
+    "answer": "Bulldog francés",
+    "difficulty": 4
+  },
+  {
+    "id": 1005,
+    "question": "Si te hablan de un perro originario de Francia y asociado a compañía urbana, ¿de qué raza se trata?",
+    "answer": "Bulldog francés",
+    "difficulty": 5
+  },
+  {
+    "id": 1006,
+    "question": "¿Qué raza de perro es famosa por su porte poderoso y su origen italiano?",
+    "answer": "Cane Corso",
+    "difficulty": 1
+  },
+  {
+    "id": 1007,
+    "question": "¿De qué país o región procede la raza Cane Corso?",
+    "answer": "Italia",
+    "difficulty": 2
+  },
+  {
+    "id": 1008,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Cane Corso?",
+    "answer": "guardia de fincas y protección",
+    "difficulty": 3
+  },
+  {
+    "id": 1009,
+    "question": "¿Qué raza encaja con esta descripción: moloso atlético usado tradicionalmente como guardián?",
+    "answer": "Cane Corso",
+    "difficulty": 4
+  },
+  {
+    "id": 1010,
+    "question": "Si te hablan de un perro originario de Italia y asociado a guardia de fincas y protección, ¿de qué raza se trata?",
+    "answer": "Cane Corso",
+    "difficulty": 5
+  },
+  {
+    "id": 1011,
+    "question": "¿Qué raza de perro es famosa por su pelaje rojizo y su elegancia?",
+    "answer": "Setter irlandés",
+    "difficulty": 1
+  },
+  {
+    "id": 1012,
+    "question": "¿De qué país o región procede la raza Setter irlandés?",
+    "answer": "Irlanda",
+    "difficulty": 2
+  },
+  {
+    "id": 1013,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Setter irlandés?",
+    "answer": "muestra en caza de aves",
+    "difficulty": 3
+  },
+  {
+    "id": 1014,
+    "question": "¿Qué raza encaja con esta descripción: manto caoba y zancada amplia?",
+    "answer": "Setter irlandés",
+    "difficulty": 4
+  },
+  {
+    "id": 1015,
+    "question": "Si te hablan de un perro originario de Irlanda y asociado a muestra en caza de aves, ¿de qué raza se trata?",
+    "answer": "Setter irlandés",
+    "difficulty": 5
+  },
+  {
+    "id": 1016,
+    "question": "¿Qué raza de perro es famosa por su pelaje gris plateado?",
+    "answer": "Weimaraner",
+    "difficulty": 1
+  },
+  {
+    "id": 1017,
+    "question": "¿De qué país o región procede la raza Weimaraner?",
+    "answer": "Alemania",
+    "difficulty": 2
+  },
+  {
+    "id": 1018,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Weimaraner?",
+    "answer": "cazar piezas mayores y menores",
+    "difficulty": 3
+  },
+  {
+    "id": 1019,
+    "question": "¿Qué raza encaja con esta descripción: ojos claros y silueta atlética de cazador?",
+    "answer": "Weimaraner",
+    "difficulty": 4
+  },
+  {
+    "id": 1020,
+    "question": "Si te hablan de un perro originario de Alemania y asociado a cazar piezas mayores y menores, ¿de qué raza se trata?",
+    "answer": "Weimaraner",
+    "difficulty": 5
+  },
+  {
+    "id": 1021,
+    "question": "¿Qué raza de perro es famosa por su color dorado rojizo y su apego al dueño?",
+    "answer": "Vizsla",
+    "difficulty": 1
+  },
+  {
+    "id": 1022,
+    "question": "¿De qué país o región procede la raza Vizsla?",
+    "answer": "Hungría",
+    "difficulty": 2
+  },
+  {
+    "id": 1023,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Vizsla?",
+    "answer": "muestra y cobro en caza",
+    "difficulty": 3
+  },
+  {
+    "id": 1024,
+    "question": "¿Qué raza encaja con esta descripción: cuerpo esbelto y fama como perro de caza muy afectuoso?",
+    "answer": "Vizsla",
+    "difficulty": 4
+  },
+  {
+    "id": 1025,
+    "question": "Si te hablan de un perro originario de Hungría y asociado a muestra y cobro en caza, ¿de qué raza se trata?",
+    "answer": "Vizsla",
+    "difficulty": 5
+  },
+  {
+    "id": 1026,
+    "question": "¿Qué raza de perro es famosa por su gran impulso de trabajo y obediencia?",
+    "answer": "Pastor belga malinois",
+    "difficulty": 1
+  },
+  {
+    "id": 1027,
+    "question": "¿De qué país o región procede la raza Pastor belga malinois?",
+    "answer": "Bélgica",
+    "difficulty": 2
+  },
+  {
+    "id": 1028,
+    "question": "¿Para qué trabajo fue criada originalmente la raza Pastor belga malinois?",
+    "answer": "pastoreo y trabajo policial o militar",
+    "difficulty": 3
+  },
+  {
+    "id": 1029,
+    "question": "¿Qué raza encaja con esta descripción: pelaje corto leonardo con máscara negra y enorme energía?",
+    "answer": "Pastor belga malinois",
+    "difficulty": 4
+  },
+  {
+    "id": 1030,
+    "question": "Si te hablan de un perro originario de Bélgica y asociado a pastoreo y trabajo policial o militar, ¿de qué raza se trata?",
+    "answer": "Pastor belga malinois",
+    "difficulty": 5
   }
 ]

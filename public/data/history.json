@@ -6472,5 +6472,1235 @@
     "question": "¿Qué navegante portugués llegó a la India por mar en 1498?",
     "answer": "Vasco da Gama",
     "difficulty": 3
+  },
+  {
+    "id": 1080,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una oleada de levantamientos cambió regímenes y agendas regionales?",
+    "answer": "la Primavera Árabe",
+    "difficulty": 1
+  },
+  {
+    "id": 1081,
+    "question": "¿En qué año ocurrió la Primavera Árabe?",
+    "answer": "2011",
+    "difficulty": 2
+  },
+  {
+    "id": 1082,
+    "question": "¿Dónde tuvo lugar principalmente la Primavera Árabe?",
+    "answer": "varios países del norte de África y Oriente Medio",
+    "difficulty": 3
+  },
+  {
+    "id": 1083,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la Primavera Árabe?",
+    "answer": "movimientos ciudadanos y protestas prodemocráticas",
+    "difficulty": 4
+  },
+  {
+    "id": 1084,
+    "question": "¿Qué hecho de 2011 estuvo ligado a movimientos ciudadanos y protestas prodemocráticas y ocurrió en varios países del norte de África y Oriente Medio?",
+    "answer": "la Primavera Árabe",
+    "difficulty": 5
+  },
+  {
+    "id": 1085,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una operación estadounidense puso fin al líder de Al Qaeda?",
+    "answer": "la muerte de Osama bin Laden",
+    "difficulty": 1
+  },
+  {
+    "id": 1086,
+    "question": "¿En qué año ocurrió la muerte de Osama bin Laden?",
+    "answer": "2011",
+    "difficulty": 2
+  },
+  {
+    "id": 1087,
+    "question": "¿Dónde tuvo lugar principalmente la muerte de Osama bin Laden?",
+    "answer": "Abbottabad, Pakistán",
+    "difficulty": 3
+  },
+  {
+    "id": 1088,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la muerte de Osama bin Laden?",
+    "answer": "fuerzas especiales de Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 1089,
+    "question": "¿Qué hecho de 2011 estuvo ligado a fuerzas especiales de Estados Unidos y ocurrió en Abbottabad, Pakistán?",
+    "answer": "la muerte de Osama bin Laden",
+    "difficulty": 5
+  },
+  {
+    "id": 1090,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un terremoto y un tsunami desencadenaron una grave crisis atómica?",
+    "answer": "el accidente nuclear de Fukushima",
+    "difficulty": 1
+  },
+  {
+    "id": 1091,
+    "question": "¿En qué año ocurrió el accidente nuclear de Fukushima?",
+    "answer": "2011",
+    "difficulty": 2
+  },
+  {
+    "id": 1092,
+    "question": "¿Dónde tuvo lugar principalmente el accidente nuclear de Fukushima?",
+    "answer": "Japón",
+    "difficulty": 3
+  },
+  {
+    "id": 1093,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el accidente nuclear de Fukushima?",
+    "answer": "la central de Fukushima Daiichi",
+    "difficulty": 4
+  },
+  {
+    "id": 1094,
+    "question": "¿Qué hecho de 2011 estuvo ligado a la central de Fukushima Daiichi y ocurrió en Japón?",
+    "answer": "el accidente nuclear de Fukushima",
+    "difficulty": 5
+  },
+  {
+    "id": 1095,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: nació el país más joven del mundo reconocido internacionalmente?",
+    "answer": "la independencia de Sudán del Sur",
+    "difficulty": 1
+  },
+  {
+    "id": 1096,
+    "question": "¿En qué año ocurrió la independencia de Sudán del Sur?",
+    "answer": "2011",
+    "difficulty": 2
+  },
+  {
+    "id": 1097,
+    "question": "¿Dónde tuvo lugar principalmente la independencia de Sudán del Sur?",
+    "answer": "Sudán del Sur",
+    "difficulty": 3
+  },
+  {
+    "id": 1098,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la independencia de Sudán del Sur?",
+    "answer": "el nuevo Estado sursudanés",
+    "difficulty": 4
+  },
+  {
+    "id": 1099,
+    "question": "¿Qué hecho de 2011 estuvo ligado a el nuevo Estado sursudanés y ocurrió en Sudán del Sur?",
+    "answer": "la independencia de Sudán del Sur",
+    "difficulty": 5
+  },
+  {
+    "id": 1100,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un rover empezó a explorar el cráter Gale?",
+    "answer": "la misión Curiosity en Marte",
+    "difficulty": 1
+  },
+  {
+    "id": 1101,
+    "question": "¿En qué año ocurrió la misión Curiosity en Marte?",
+    "answer": "2012",
+    "difficulty": 2
+  },
+  {
+    "id": 1102,
+    "question": "¿Dónde tuvo lugar principalmente la misión Curiosity en Marte?",
+    "answer": "Marte",
+    "difficulty": 3
+  },
+  {
+    "id": 1103,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la misión Curiosity en Marte?",
+    "answer": "la NASA",
+    "difficulty": 4
+  },
+  {
+    "id": 1104,
+    "question": "¿Qué hecho de 2012 estuvo ligado a la NASA y ocurrió en Marte?",
+    "answer": "la misión Curiosity en Marte",
+    "difficulty": 5
+  },
+  {
+    "id": 1105,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: la capital británica acogió la gran cita deportiva del verano?",
+    "answer": "los Juegos Olímpicos de Londres",
+    "difficulty": 1
+  },
+  {
+    "id": 1106,
+    "question": "¿En qué año ocurrió los Juegos Olímpicos de Londres?",
+    "answer": "2012",
+    "difficulty": 2
+  },
+  {
+    "id": 1107,
+    "question": "¿Dónde tuvo lugar principalmente los Juegos Olímpicos de Londres?",
+    "answer": "Londres",
+    "difficulty": 3
+  },
+  {
+    "id": 1108,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a los Juegos Olímpicos de Londres?",
+    "answer": "el Comité Olímpico Internacional y Reino Unido",
+    "difficulty": 4
+  },
+  {
+    "id": 1109,
+    "question": "¿Qué hecho de 2012 estuvo ligado a el Comité Olímpico Internacional y Reino Unido y ocurrió en Londres?",
+    "answer": "los Juegos Olímpicos de Londres",
+    "difficulty": 5
+  },
+  {
+    "id": 1110,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: el presidente demócrata consiguió un segundo mandato?",
+    "answer": "la reelección de Barack Obama",
+    "difficulty": 1
+  },
+  {
+    "id": 1111,
+    "question": "¿En qué año ocurrió la reelección de Barack Obama?",
+    "answer": "2012",
+    "difficulty": 2
+  },
+  {
+    "id": 1112,
+    "question": "¿Dónde tuvo lugar principalmente la reelección de Barack Obama?",
+    "answer": "Estados Unidos",
+    "difficulty": 3
+  },
+  {
+    "id": 1113,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la reelección de Barack Obama?",
+    "answer": "Barack Obama",
+    "difficulty": 4
+  },
+  {
+    "id": 1114,
+    "question": "¿Qué hecho de 2012 estuvo ligado a Barack Obama y ocurrió en Estados Unidos?",
+    "answer": "la reelección de Barack Obama",
+    "difficulty": 5
+  },
+  {
+    "id": 1115,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un pontífice dejó el cargo antes de su fallecimiento, algo excepcional en tiempos modernos?",
+    "answer": "la renuncia de Benedicto XVI",
+    "difficulty": 1
+  },
+  {
+    "id": 1116,
+    "question": "¿En qué año ocurrió la renuncia de Benedicto XVI?",
+    "answer": "2013",
+    "difficulty": 2
+  },
+  {
+    "id": 1117,
+    "question": "¿Dónde tuvo lugar principalmente la renuncia de Benedicto XVI?",
+    "answer": "Ciudad del Vaticano",
+    "difficulty": 3
+  },
+  {
+    "id": 1118,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la renuncia de Benedicto XVI?",
+    "answer": "el papa Benedicto XVI",
+    "difficulty": 4
+  },
+  {
+    "id": 1119,
+    "question": "¿Qué hecho de 2013 estuvo ligado a el papa Benedicto XVI y ocurrió en Ciudad del Vaticano?",
+    "answer": "la renuncia de Benedicto XVI",
+    "difficulty": 5
+  },
+  {
+    "id": 1120,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un cardenal argentino pasó a liderar la Iglesia católica?",
+    "answer": "la elección del papa Francisco",
+    "difficulty": 1
+  },
+  {
+    "id": 1121,
+    "question": "¿En qué año ocurrió la elección del papa Francisco?",
+    "answer": "2013",
+    "difficulty": 2
+  },
+  {
+    "id": 1122,
+    "question": "¿Dónde tuvo lugar principalmente la elección del papa Francisco?",
+    "answer": "Ciudad del Vaticano",
+    "difficulty": 3
+  },
+  {
+    "id": 1123,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la elección del papa Francisco?",
+    "answer": "Jorge Mario Bergoglio",
+    "difficulty": 4
+  },
+  {
+    "id": 1124,
+    "question": "¿Qué hecho de 2013 estuvo ligado a Jorge Mario Bergoglio y ocurrió en Ciudad del Vaticano?",
+    "answer": "la elección del papa Francisco",
+    "difficulty": 5
+  },
+  {
+    "id": 1125,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: protestas masivas en Kiev alteraron el rumbo político del país?",
+    "answer": "el inicio de la crisis del Euromaidán",
+    "difficulty": 1
+  },
+  {
+    "id": 1126,
+    "question": "¿En qué año ocurrió el inicio de la crisis del Euromaidán?",
+    "answer": "2013",
+    "difficulty": 2
+  },
+  {
+    "id": 1127,
+    "question": "¿Dónde tuvo lugar principalmente el inicio de la crisis del Euromaidán?",
+    "answer": "Ucrania",
+    "difficulty": 3
+  },
+  {
+    "id": 1128,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el inicio de la crisis del Euromaidán?",
+    "answer": "manifestantes proeuropeos",
+    "difficulty": 4
+  },
+  {
+    "id": 1129,
+    "question": "¿Qué hecho de 2013 estuvo ligado a manifestantes proeuropeos y ocurrió en Ucrania?",
+    "answer": "el inicio de la crisis del Euromaidán",
+    "difficulty": 5
+  },
+  {
+    "id": 1130,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: la península cambió de control tras una intervención y un referéndum no reconocido por gran parte de la comunidad internacional?",
+    "answer": "la anexión de Crimea por Rusia",
+    "difficulty": 1
+  },
+  {
+    "id": 1131,
+    "question": "¿En qué año ocurrió la anexión de Crimea por Rusia?",
+    "answer": "2014",
+    "difficulty": 2
+  },
+  {
+    "id": 1132,
+    "question": "¿Dónde tuvo lugar principalmente la anexión de Crimea por Rusia?",
+    "answer": "Crimea",
+    "difficulty": 3
+  },
+  {
+    "id": 1133,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la anexión de Crimea por Rusia?",
+    "answer": "Rusia",
+    "difficulty": 4
+  },
+  {
+    "id": 1134,
+    "question": "¿Qué hecho de 2014 estuvo ligado a Rusia y ocurrió en Crimea?",
+    "answer": "la anexión de Crimea por Rusia",
+    "difficulty": 5
+  },
+  {
+    "id": 1135,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un grupo yihadista proclamó un califato y ocupó amplias zonas?",
+    "answer": "la expansión del Estado Islámico en Irak y Siria",
+    "difficulty": 1
+  },
+  {
+    "id": 1136,
+    "question": "¿En qué año ocurrió la expansión del Estado Islámico en Irak y Siria?",
+    "answer": "2014",
+    "difficulty": 2
+  },
+  {
+    "id": 1137,
+    "question": "¿Dónde tuvo lugar principalmente la expansión del Estado Islámico en Irak y Siria?",
+    "answer": "Irak y Siria",
+    "difficulty": 3
+  },
+  {
+    "id": 1138,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la expansión del Estado Islámico en Irak y Siria?",
+    "answer": "Estado Islámico",
+    "difficulty": 4
+  },
+  {
+    "id": 1139,
+    "question": "¿Qué hecho de 2014 estuvo ligado a Estado Islámico y ocurrió en Irak y Siria?",
+    "answer": "la expansión del Estado Islámico en Irak y Siria",
+    "difficulty": 5
+  },
+  {
+    "id": 1140,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una epidemia sanitaria causó alarma internacional?",
+    "answer": "el brote de ébola en África occidental",
+    "difficulty": 1
+  },
+  {
+    "id": 1141,
+    "question": "¿En qué año ocurrió el brote de ébola en África occidental?",
+    "answer": "2014",
+    "difficulty": 2
+  },
+  {
+    "id": 1142,
+    "question": "¿Dónde tuvo lugar principalmente el brote de ébola en África occidental?",
+    "answer": "África occidental",
+    "difficulty": 3
+  },
+  {
+    "id": 1143,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el brote de ébola en África occidental?",
+    "answer": "Guinea, Liberia y Sierra Leona",
+    "difficulty": 4
+  },
+  {
+    "id": 1144,
+    "question": "¿Qué hecho de 2014 estuvo ligado a Guinea, Liberia y Sierra Leona y ocurrió en África occidental?",
+    "answer": "el brote de ébola en África occidental",
+    "difficulty": 5
+  },
+  {
+    "id": 1145,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un pacto global buscó limitar el calentamiento del planeta?",
+    "answer": "el acuerdo climático de París",
+    "difficulty": 1
+  },
+  {
+    "id": 1146,
+    "question": "¿En qué año ocurrió el acuerdo climático de París?",
+    "answer": "2015",
+    "difficulty": 2
+  },
+  {
+    "id": 1147,
+    "question": "¿Dónde tuvo lugar principalmente el acuerdo climático de París?",
+    "answer": "París",
+    "difficulty": 3
+  },
+  {
+    "id": 1148,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el acuerdo climático de París?",
+    "answer": "casi 200 países",
+    "difficulty": 4
+  },
+  {
+    "id": 1149,
+    "question": "¿Qué hecho de 2015 estuvo ligado a casi 200 países y ocurrió en París?",
+    "answer": "el acuerdo climático de París",
+    "difficulty": 5
+  },
+  {
+    "id": 1150,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: el continente afrontó una llegada masiva de desplazados?",
+    "answer": "la crisis migratoria europea",
+    "difficulty": 1
+  },
+  {
+    "id": 1151,
+    "question": "¿En qué año ocurrió la crisis migratoria europea?",
+    "answer": "2015",
+    "difficulty": 2
+  },
+  {
+    "id": 1152,
+    "question": "¿Dónde tuvo lugar principalmente la crisis migratoria europea?",
+    "answer": "Europa y el Mediterráneo",
+    "difficulty": 3
+  },
+  {
+    "id": 1153,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la crisis migratoria europea?",
+    "answer": "refugiados y gobiernos europeos",
+    "difficulty": 4
+  },
+  {
+    "id": 1154,
+    "question": "¿Qué hecho de 2015 estuvo ligado a refugiados y gobiernos europeos y ocurrió en Europa y el Mediterráneo?",
+    "answer": "la crisis migratoria europea",
+    "difficulty": 5
+  },
+  {
+    "id": 1155,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: dos países dieron un giro diplomático tras décadas de hostilidad?",
+    "answer": "la restauración de relaciones entre Estados Unidos y Cuba",
+    "difficulty": 1
+  },
+  {
+    "id": 1156,
+    "question": "¿En qué año ocurrió la restauración de relaciones entre Estados Unidos y Cuba?",
+    "answer": "2015",
+    "difficulty": 2
+  },
+  {
+    "id": 1157,
+    "question": "¿Dónde tuvo lugar principalmente la restauración de relaciones entre Estados Unidos y Cuba?",
+    "answer": "Estados Unidos y Cuba",
+    "difficulty": 3
+  },
+  {
+    "id": 1158,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la restauración de relaciones entre Estados Unidos y Cuba?",
+    "answer": "Barack Obama y Raúl Castro",
+    "difficulty": 4
+  },
+  {
+    "id": 1159,
+    "question": "¿Qué hecho de 2015 estuvo ligado a Barack Obama y Raúl Castro y ocurrió en Estados Unidos y Cuba?",
+    "answer": "la restauración de relaciones entre Estados Unidos y Cuba",
+    "difficulty": 5
+  },
+  {
+    "id": 1160,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una consulta decidió la salida de un país de la Unión Europea?",
+    "answer": "el referéndum del Brexit",
+    "difficulty": 1
+  },
+  {
+    "id": 1161,
+    "question": "¿En qué año ocurrió el referéndum del Brexit?",
+    "answer": "2016",
+    "difficulty": 2
+  },
+  {
+    "id": 1162,
+    "question": "¿Dónde tuvo lugar principalmente el referéndum del Brexit?",
+    "answer": "Reino Unido",
+    "difficulty": 3
+  },
+  {
+    "id": 1163,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el referéndum del Brexit?",
+    "answer": "el electorado británico",
+    "difficulty": 4
+  },
+  {
+    "id": 1164,
+    "question": "¿Qué hecho de 2016 estuvo ligado a el electorado británico y ocurrió en Reino Unido?",
+    "answer": "el referéndum del Brexit",
+    "difficulty": 5
+  },
+  {
+    "id": 1165,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: la primera cita olímpica en Sudamérica tuvo lugar ese año?",
+    "answer": "los Juegos Olímpicos de Río",
+    "difficulty": 1
+  },
+  {
+    "id": 1166,
+    "question": "¿En qué año ocurrió los Juegos Olímpicos de Río?",
+    "answer": "2016",
+    "difficulty": 2
+  },
+  {
+    "id": 1167,
+    "question": "¿Dónde tuvo lugar principalmente los Juegos Olímpicos de Río?",
+    "answer": "Río de Janeiro",
+    "difficulty": 3
+  },
+  {
+    "id": 1168,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a los Juegos Olímpicos de Río?",
+    "answer": "Brasil y el COI",
+    "difficulty": 4
+  },
+  {
+    "id": 1169,
+    "question": "¿Qué hecho de 2016 estuvo ligado a Brasil y el COI y ocurrió en Río de Janeiro?",
+    "answer": "los Juegos Olímpicos de Río",
+    "difficulty": 5
+  },
+  {
+    "id": 1170,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un empresario y candidato republicano ganó la presidencia?",
+    "answer": "la elección de Donald Trump",
+    "difficulty": 1
+  },
+  {
+    "id": 1171,
+    "question": "¿En qué año ocurrió la elección de Donald Trump?",
+    "answer": "2016",
+    "difficulty": 2
+  },
+  {
+    "id": 1172,
+    "question": "¿Dónde tuvo lugar principalmente la elección de Donald Trump?",
+    "answer": "Estados Unidos",
+    "difficulty": 3
+  },
+  {
+    "id": 1173,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la elección de Donald Trump?",
+    "answer": "Donald Trump",
+    "difficulty": 4
+  },
+  {
+    "id": 1174,
+    "question": "¿Qué hecho de 2016 estuvo ligado a Donald Trump y ocurrió en Estados Unidos?",
+    "answer": "la elección de Donald Trump",
+    "difficulty": 5
+  },
+  {
+    "id": 1175,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: se cumplieron cien años de un proceso que derribó al zarismo?",
+    "answer": "el centenario de la Revolución rusa con renovado debate histórico",
+    "difficulty": 1
+  },
+  {
+    "id": 1176,
+    "question": "¿En qué año ocurrió el centenario de la Revolución rusa con renovado debate histórico?",
+    "answer": "2017",
+    "difficulty": 2
+  },
+  {
+    "id": 1177,
+    "question": "¿Dónde tuvo lugar principalmente el centenario de la Revolución rusa con renovado debate histórico?",
+    "answer": "Rusia",
+    "difficulty": 3
+  },
+  {
+    "id": 1178,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el centenario de la Revolución rusa con renovado debate histórico?",
+    "answer": "historiadores e instituciones rusas",
+    "difficulty": 4
+  },
+  {
+    "id": 1179,
+    "question": "¿Qué hecho de 2017 estuvo ligado a historiadores e instituciones rusas y ocurrió en Rusia?",
+    "answer": "el centenario de la Revolución rusa con renovado debate histórico",
+    "difficulty": 5
+  },
+  {
+    "id": 1180,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: cientos de miles de personas huyeron de la violencia en Rakhine?",
+    "answer": "la crisis de los rohinyás",
+    "difficulty": 1
+  },
+  {
+    "id": 1181,
+    "question": "¿En qué año ocurrió la crisis de los rohinyás?",
+    "answer": "2017",
+    "difficulty": 2
+  },
+  {
+    "id": 1182,
+    "question": "¿Dónde tuvo lugar principalmente la crisis de los rohinyás?",
+    "answer": "Myanmar y Bangladés",
+    "difficulty": 3
+  },
+  {
+    "id": 1183,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la crisis de los rohinyás?",
+    "answer": "la minoría rohinyá",
+    "difficulty": 4
+  },
+  {
+    "id": 1184,
+    "question": "¿Qué hecho de 2017 estuvo ligado a la minoría rohinyá y ocurrió en Myanmar y Bangladés?",
+    "answer": "la crisis de los rohinyás",
+    "difficulty": 5
+  },
+  {
+    "id": 1185,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una votación no reconocida provocó una gran crisis institucional?",
+    "answer": "el referéndum independentista catalán del 1-O",
+    "difficulty": 1
+  },
+  {
+    "id": 1186,
+    "question": "¿En qué año ocurrió el referéndum independentista catalán del 1-O?",
+    "answer": "2017",
+    "difficulty": 2
+  },
+  {
+    "id": 1187,
+    "question": "¿Dónde tuvo lugar principalmente el referéndum independentista catalán del 1-O?",
+    "answer": "Cataluña, España",
+    "difficulty": 3
+  },
+  {
+    "id": 1188,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el referéndum independentista catalán del 1-O?",
+    "answer": "el gobierno catalán y el Estado español",
+    "difficulty": 4
+  },
+  {
+    "id": 1189,
+    "question": "¿Qué hecho de 2017 estuvo ligado a el gobierno catalán y el Estado español y ocurrió en Cataluña, España?",
+    "answer": "el referéndum independentista catalán del 1-O",
+    "difficulty": 5
+  },
+  {
+    "id": 1190,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: doce menores y su entrenador quedaron atrapados bajo tierra por las lluvias?",
+    "answer": "el rescate de los niños de la cueva de Tham Luang",
+    "difficulty": 1
+  },
+  {
+    "id": 1191,
+    "question": "¿En qué año ocurrió el rescate de los niños de la cueva de Tham Luang?",
+    "answer": "2018",
+    "difficulty": 2
+  },
+  {
+    "id": 1192,
+    "question": "¿Dónde tuvo lugar principalmente el rescate de los niños de la cueva de Tham Luang?",
+    "answer": "Tailandia",
+    "difficulty": 3
+  },
+  {
+    "id": 1193,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el rescate de los niños de la cueva de Tham Luang?",
+    "answer": "un equipo internacional de rescate",
+    "difficulty": 4
+  },
+  {
+    "id": 1194,
+    "question": "¿Qué hecho de 2018 estuvo ligado a un equipo internacional de rescate y ocurrió en Tailandia?",
+    "answer": "el rescate de los niños de la cueva de Tham Luang",
+    "difficulty": 5
+  },
+  {
+    "id": 1195,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un presidente estadounidense se reunió con un líder norcoreano por primera vez?",
+    "answer": "la cumbre entre Donald Trump y Kim Jong-un en Singapur",
+    "difficulty": 1
+  },
+  {
+    "id": 1196,
+    "question": "¿En qué año ocurrió la cumbre entre Donald Trump y Kim Jong-un en Singapur?",
+    "answer": "2018",
+    "difficulty": 2
+  },
+  {
+    "id": 1197,
+    "question": "¿Dónde tuvo lugar principalmente la cumbre entre Donald Trump y Kim Jong-un en Singapur?",
+    "answer": "Singapur",
+    "difficulty": 3
+  },
+  {
+    "id": 1198,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la cumbre entre Donald Trump y Kim Jong-un en Singapur?",
+    "answer": "Donald Trump y Kim Jong-un",
+    "difficulty": 4
+  },
+  {
+    "id": 1199,
+    "question": "¿Qué hecho de 2018 estuvo ligado a Donald Trump y Kim Jong-un y ocurrió en Singapur?",
+    "answer": "la cumbre entre Donald Trump y Kim Jong-un en Singapur",
+    "difficulty": 5
+  },
+  {
+    "id": 1200,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un símbolo gótico europeo sufrió graves daños por el fuego?",
+    "answer": "el incendio de Notre Dame",
+    "difficulty": 1
+  },
+  {
+    "id": 1201,
+    "question": "¿En qué año ocurrió el incendio de Notre Dame?",
+    "answer": "2019",
+    "difficulty": 2
+  },
+  {
+    "id": 1202,
+    "question": "¿Dónde tuvo lugar principalmente el incendio de Notre Dame?",
+    "answer": "París",
+    "difficulty": 3
+  },
+  {
+    "id": 1203,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el incendio de Notre Dame?",
+    "answer": "la catedral de Notre Dame",
+    "difficulty": 4
+  },
+  {
+    "id": 1204,
+    "question": "¿Qué hecho de 2019 estuvo ligado a la catedral de Notre Dame y ocurrió en París?",
+    "answer": "el incendio de Notre Dame",
+    "difficulty": 5
+  },
+  {
+    "id": 1205,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: millones de personas salieron a la calle contra una ley y por mayores libertades?",
+    "answer": "las protestas de Hong Kong",
+    "difficulty": 1
+  },
+  {
+    "id": 1206,
+    "question": "¿En qué año ocurrió las protestas de Hong Kong?",
+    "answer": "2019",
+    "difficulty": 2
+  },
+  {
+    "id": 1207,
+    "question": "¿Dónde tuvo lugar principalmente las protestas de Hong Kong?",
+    "answer": "Hong Kong",
+    "difficulty": 3
+  },
+  {
+    "id": 1208,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a las protestas de Hong Kong?",
+    "answer": "manifestantes prodemocracia",
+    "difficulty": 4
+  },
+  {
+    "id": 1209,
+    "question": "¿Qué hecho de 2019 estuvo ligado a manifestantes prodemocracia y ocurrió en Hong Kong?",
+    "answer": "las protestas de Hong Kong",
+    "difficulty": 5
+  },
+  {
+    "id": 1210,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: un coronavirus alteró movilidad, economía y vida cotidiana a escala planetaria?",
+    "answer": "la pandemia de COVID-19",
+    "difficulty": 1
+  },
+  {
+    "id": 1211,
+    "question": "¿En qué año ocurrió la pandemia de COVID-19?",
+    "answer": "2020",
+    "difficulty": 2
+  },
+  {
+    "id": 1212,
+    "question": "¿Dónde tuvo lugar principalmente la pandemia de COVID-19?",
+    "answer": "todo el mundo",
+    "difficulty": 3
+  },
+  {
+    "id": 1213,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la pandemia de COVID-19?",
+    "answer": "la Organización Mundial de la Salud y los sistemas sanitarios globales",
+    "difficulty": 4
+  },
+  {
+    "id": 1214,
+    "question": "¿Qué hecho de 2020 estuvo ligado a la Organización Mundial de la Salud y los sistemas sanitarios globales y ocurrió en todo el mundo?",
+    "answer": "la pandemia de COVID-19",
+    "difficulty": 5
+  },
+  {
+    "id": 1215,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una enorme detonación destruyó parte de la capital libanesa?",
+    "answer": "la explosión del puerto de Beirut",
+    "difficulty": 1
+  },
+  {
+    "id": 1216,
+    "question": "¿En qué año ocurrió la explosión del puerto de Beirut?",
+    "answer": "2020",
+    "difficulty": 2
+  },
+  {
+    "id": 1217,
+    "question": "¿Dónde tuvo lugar principalmente la explosión del puerto de Beirut?",
+    "answer": "Beirut",
+    "difficulty": 3
+  },
+  {
+    "id": 1218,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la explosión del puerto de Beirut?",
+    "answer": "el puerto de Beirut",
+    "difficulty": 4
+  },
+  {
+    "id": 1219,
+    "question": "¿Qué hecho de 2020 estuvo ligado a el puerto de Beirut y ocurrió en Beirut?",
+    "answer": "la explosión del puerto de Beirut",
+    "difficulty": 5
+  },
+  {
+    "id": 1220,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una muerte bajo custodia policial impulsó movilizaciones masivas contra el racismo?",
+    "answer": "el asesinato de George Floyd y las protestas globales",
+    "difficulty": 1
+  },
+  {
+    "id": 1221,
+    "question": "¿En qué año ocurrió el asesinato de George Floyd y las protestas globales?",
+    "answer": "2020",
+    "difficulty": 2
+  },
+  {
+    "id": 1222,
+    "question": "¿Dónde tuvo lugar principalmente el asesinato de George Floyd y las protestas globales?",
+    "answer": "Mineápolis y muchas ciudades del mundo",
+    "difficulty": 3
+  },
+  {
+    "id": 1223,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el asesinato de George Floyd y las protestas globales?",
+    "answer": "el movimiento Black Lives Matter",
+    "difficulty": 4
+  },
+  {
+    "id": 1224,
+    "question": "¿Qué hecho de 2020 estuvo ligado a el movimiento Black Lives Matter y ocurrió en Mineápolis y muchas ciudades del mundo?",
+    "answer": "el asesinato de George Floyd y las protestas globales",
+    "difficulty": 5
+  },
+  {
+    "id": 1225,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una multitud irrumpió en la sede legislativa durante la certificación electoral?",
+    "answer": "el asalto al Capitolio de Estados Unidos",
+    "difficulty": 1
+  },
+  {
+    "id": 1226,
+    "question": "¿En qué año ocurrió el asalto al Capitolio de Estados Unidos?",
+    "answer": "2021",
+    "difficulty": 2
+  },
+  {
+    "id": 1227,
+    "question": "¿Dónde tuvo lugar principalmente el asalto al Capitolio de Estados Unidos?",
+    "answer": "Washington D. C.",
+    "difficulty": 3
+  },
+  {
+    "id": 1228,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el asalto al Capitolio de Estados Unidos?",
+    "answer": "partidarios de Donald Trump",
+    "difficulty": 4
+  },
+  {
+    "id": 1229,
+    "question": "¿Qué hecho de 2021 estuvo ligado a partidarios de Donald Trump y ocurrió en Washington D. C.?",
+    "answer": "el asalto al Capitolio de Estados Unidos",
+    "difficulty": 5
+  },
+  {
+    "id": 1230,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: el final de una larga intervención internacional cambió de nuevo el gobierno del país?",
+    "answer": "la retirada de Afganistán y la vuelta de los talibanes al poder",
+    "difficulty": 1
+  },
+  {
+    "id": 1231,
+    "question": "¿En qué año ocurrió la retirada de Afganistán y la vuelta de los talibanes al poder?",
+    "answer": "2021",
+    "difficulty": 2
+  },
+  {
+    "id": 1232,
+    "question": "¿Dónde tuvo lugar principalmente la retirada de Afganistán y la vuelta de los talibanes al poder?",
+    "answer": "Afganistán",
+    "difficulty": 3
+  },
+  {
+    "id": 1233,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la retirada de Afganistán y la vuelta de los talibanes al poder?",
+    "answer": "los talibanes",
+    "difficulty": 4
+  },
+  {
+    "id": 1234,
+    "question": "¿Qué hecho de 2021 estuvo ligado a los talibanes y ocurrió en Afganistán?",
+    "answer": "la retirada de Afganistán y la vuelta de los talibanes al poder",
+    "difficulty": 5
+  },
+  {
+    "id": 1235,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: la gran cita deportiva se celebró un año más tarde de lo previsto?",
+    "answer": "los Juegos Olímpicos de Tokio aplazados por la pandemia",
+    "difficulty": 1
+  },
+  {
+    "id": 1236,
+    "question": "¿En qué año ocurrió los Juegos Olímpicos de Tokio aplazados por la pandemia?",
+    "answer": "2021",
+    "difficulty": 2
+  },
+  {
+    "id": 1237,
+    "question": "¿Dónde tuvo lugar principalmente los Juegos Olímpicos de Tokio aplazados por la pandemia?",
+    "answer": "Tokio",
+    "difficulty": 3
+  },
+  {
+    "id": 1238,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a los Juegos Olímpicos de Tokio aplazados por la pandemia?",
+    "answer": "Japón y el COI",
+    "difficulty": 4
+  },
+  {
+    "id": 1239,
+    "question": "¿Qué hecho de 2021 estuvo ligado a Japón y el COI y ocurrió en Tokio?",
+    "answer": "los Juegos Olímpicos de Tokio aplazados por la pandemia",
+    "difficulty": 5
+  },
+  {
+    "id": 1240,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una ofensiva militar reabrió una guerra abierta en Europa?",
+    "answer": "la invasión rusa de Ucrania a gran escala",
+    "difficulty": 1
+  },
+  {
+    "id": 1241,
+    "question": "¿En qué año ocurrió la invasión rusa de Ucrania a gran escala?",
+    "answer": "2022",
+    "difficulty": 2
+  },
+  {
+    "id": 1242,
+    "question": "¿Dónde tuvo lugar principalmente la invasión rusa de Ucrania a gran escala?",
+    "answer": "Ucrania",
+    "difficulty": 3
+  },
+  {
+    "id": 1243,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la invasión rusa de Ucrania a gran escala?",
+    "answer": "Rusia y Ucrania",
+    "difficulty": 4
+  },
+  {
+    "id": 1244,
+    "question": "¿Qué hecho de 2022 estuvo ligado a Rusia y Ucrania y ocurrió en Ucrania?",
+    "answer": "la invasión rusa de Ucrania a gran escala",
+    "difficulty": 5
+  },
+  {
+    "id": 1245,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: terminó el reinado más largo de la monarquía británica?",
+    "answer": "la muerte de Isabel II",
+    "difficulty": 1
+  },
+  {
+    "id": 1246,
+    "question": "¿En qué año ocurrió la muerte de Isabel II?",
+    "answer": "2022",
+    "difficulty": 2
+  },
+  {
+    "id": 1247,
+    "question": "¿Dónde tuvo lugar principalmente la muerte de Isabel II?",
+    "answer": "Reino Unido",
+    "difficulty": 3
+  },
+  {
+    "id": 1248,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la muerte de Isabel II?",
+    "answer": "la reina Isabel II",
+    "difficulty": 4
+  },
+  {
+    "id": 1249,
+    "question": "¿Qué hecho de 2022 estuvo ligado a la reina Isabel II y ocurrió en Reino Unido?",
+    "answer": "la muerte de Isabel II",
+    "difficulty": 5
+  },
+  {
+    "id": 1250,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: los modelos conversacionales pasaron al centro del debate público?",
+    "answer": "el lanzamiento público de ChatGPT y el auge de la IA generativa",
+    "difficulty": 1
+  },
+  {
+    "id": 1251,
+    "question": "¿En qué año ocurrió el lanzamiento público de ChatGPT y el auge de la IA generativa?",
+    "answer": "2022",
+    "difficulty": 2
+  },
+  {
+    "id": 1252,
+    "question": "¿Dónde tuvo lugar principalmente el lanzamiento público de ChatGPT y el auge de la IA generativa?",
+    "answer": "internet y el sector tecnológico global",
+    "difficulty": 3
+  },
+  {
+    "id": 1253,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a el lanzamiento público de ChatGPT y el auge de la IA generativa?",
+    "answer": "OpenAI y la industria tecnológica",
+    "difficulty": 4
+  },
+  {
+    "id": 1254,
+    "question": "¿Qué hecho de 2022 estuvo ligado a OpenAI y la industria tecnológica y ocurrió en internet y el sector tecnológico global?",
+    "answer": "el lanzamiento público de ChatGPT y el auge de la IA generativa",
+    "difficulty": 5
+  },
+  {
+    "id": 1255,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: dos grandes seísmos causaron una devastación enorme en febrero?",
+    "answer": "los terremotos de Turquía y Siria",
+    "difficulty": 1
+  },
+  {
+    "id": 1256,
+    "question": "¿En qué año ocurrió los terremotos de Turquía y Siria?",
+    "answer": "2023",
+    "difficulty": 2
+  },
+  {
+    "id": 1257,
+    "question": "¿Dónde tuvo lugar principalmente los terremotos de Turquía y Siria?",
+    "answer": "Turquía y Siria",
+    "difficulty": 3
+  },
+  {
+    "id": 1258,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a los terremotos de Turquía y Siria?",
+    "answer": "equipos de emergencia y población local",
+    "difficulty": 4
+  },
+  {
+    "id": 1259,
+    "question": "¿Qué hecho de 2023 estuvo ligado a equipos de emergencia y población local y ocurrió en Turquía y Siria?",
+    "answer": "los terremotos de Turquía y Siria",
+    "difficulty": 5
+  },
+  {
+    "id": 1260,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: el heredero británico fue investido oficialmente como monarca?",
+    "answer": "la coronación de Carlos III",
+    "difficulty": 1
+  },
+  {
+    "id": 1261,
+    "question": "¿En qué año ocurrió la coronación de Carlos III?",
+    "answer": "2023",
+    "difficulty": 2
+  },
+  {
+    "id": 1262,
+    "question": "¿Dónde tuvo lugar principalmente la coronación de Carlos III?",
+    "answer": "Londres",
+    "difficulty": 3
+  },
+  {
+    "id": 1263,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la coronación de Carlos III?",
+    "answer": "Carlos III",
+    "difficulty": 4
+  },
+  {
+    "id": 1264,
+    "question": "¿Qué hecho de 2023 estuvo ligado a Carlos III y ocurrió en Londres?",
+    "answer": "la coronación de Carlos III",
+    "difficulty": 5
+  },
+  {
+    "id": 1265,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: una nueva fase del conflicto provocó una grave crisis humanitaria y militar?",
+    "answer": "la guerra entre Israel y Hamás desencadenada tras los ataques del 7 de octubre",
+    "difficulty": 1
+  },
+  {
+    "id": 1266,
+    "question": "¿En qué año ocurrió la guerra entre Israel y Hamás desencadenada tras los ataques del 7 de octubre?",
+    "answer": "2023",
+    "difficulty": 2
+  },
+  {
+    "id": 1267,
+    "question": "¿Dónde tuvo lugar principalmente la guerra entre Israel y Hamás desencadenada tras los ataques del 7 de octubre?",
+    "answer": "Israel y Gaza",
+    "difficulty": 3
+  },
+  {
+    "id": 1268,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la guerra entre Israel y Hamás desencadenada tras los ataques del 7 de octubre?",
+    "answer": "Hamás e Israel",
+    "difficulty": 4
+  },
+  {
+    "id": 1269,
+    "question": "¿Qué hecho de 2023 estuvo ligado a Hamás e Israel y ocurrió en Israel y Gaza?",
+    "answer": "la guerra entre Israel y Hamás desencadenada tras los ataques del 7 de octubre",
+    "difficulty": 5
+  },
+  {
+    "id": 1270,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: por primera vez una mujer ganó la presidencia del país?",
+    "answer": "las elecciones presidenciales de México ganadas por Claudia Sheinbaum",
+    "difficulty": 1
+  },
+  {
+    "id": 1271,
+    "question": "¿En qué año ocurrió las elecciones presidenciales de México ganadas por Claudia Sheinbaum?",
+    "answer": "2024",
+    "difficulty": 2
+  },
+  {
+    "id": 1272,
+    "question": "¿Dónde tuvo lugar principalmente las elecciones presidenciales de México ganadas por Claudia Sheinbaum?",
+    "answer": "México",
+    "difficulty": 3
+  },
+  {
+    "id": 1273,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a las elecciones presidenciales de México ganadas por Claudia Sheinbaum?",
+    "answer": "Claudia Sheinbaum",
+    "difficulty": 4
+  },
+  {
+    "id": 1274,
+    "question": "¿Qué hecho de 2024 estuvo ligado a Claudia Sheinbaum y ocurrió en México?",
+    "answer": "las elecciones presidenciales de México ganadas por Claudia Sheinbaum",
+    "difficulty": 5
+  },
+  {
+    "id": 1275,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: la capital francesa volvió a organizar la cita olímpica un siglo después?",
+    "answer": "los Juegos Olímpicos de París",
+    "difficulty": 1
+  },
+  {
+    "id": 1276,
+    "question": "¿En qué año ocurrió los Juegos Olímpicos de París?",
+    "answer": "2024",
+    "difficulty": 2
+  },
+  {
+    "id": 1277,
+    "question": "¿Dónde tuvo lugar principalmente los Juegos Olímpicos de París?",
+    "answer": "París",
+    "difficulty": 3
+  },
+  {
+    "id": 1278,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a los Juegos Olímpicos de París?",
+    "answer": "Francia y el COI",
+    "difficulty": 4
+  },
+  {
+    "id": 1279,
+    "question": "¿Qué hecho de 2024 estuvo ligado a Francia y el COI y ocurrió en París?",
+    "answer": "los Juegos Olímpicos de París",
+    "difficulty": 5
+  },
+  {
+    "id": 1280,
+    "question": "¿Qué acontecimiento histórico reciente se resume así: el bloque comunitario fijó un marco legal pionero para sistemas de IA?",
+    "answer": "la aprobación del Reglamento de Inteligencia Artificial de la Unión Europea",
+    "difficulty": 1
+  },
+  {
+    "id": 1281,
+    "question": "¿En qué año ocurrió la aprobación del Reglamento de Inteligencia Artificial de la Unión Europea?",
+    "answer": "2024",
+    "difficulty": 2
+  },
+  {
+    "id": 1282,
+    "question": "¿Dónde tuvo lugar principalmente la aprobación del Reglamento de Inteligencia Artificial de la Unión Europea?",
+    "answer": "Unión Europea",
+    "difficulty": 3
+  },
+  {
+    "id": 1283,
+    "question": "¿Qué actor, país, institución o movimiento estuvo especialmente vinculado a la aprobación del Reglamento de Inteligencia Artificial de la Unión Europea?",
+    "answer": "las instituciones europeas",
+    "difficulty": 4
+  },
+  {
+    "id": 1284,
+    "question": "¿Qué hecho de 2024 estuvo ligado a las instituciones europeas y ocurrió en Unión Europea?",
+    "answer": "la aprobación del Reglamento de Inteligencia Artificial de la Unión Europea",
+    "difficulty": 5
   }
 ]

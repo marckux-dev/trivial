@@ -2872,5 +2872,1205 @@
     "question": "¿Qué tipo de golpe es un “slam dunk” en baloncesto?",
     "answer": "Un mate",
     "difficulty": 2
+  },
+  {
+    "id": 480,
+    "question": "¿Qué creación de Nintendo se reconoce por fontanero bigotudo vestido de rojo?",
+    "answer": "Mario",
+    "difficulty": 1
+  },
+  {
+    "id": 481,
+    "question": "¿Qué tipo de creación de Nintendo es Mario?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 482,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Mario?",
+    "answer": "la franquicia Super Mario",
+    "difficulty": 3
+  },
+  {
+    "id": 483,
+    "question": "¿En qué año debutó Mario?",
+    "answer": "1981",
+    "difficulty": 4
+  },
+  {
+    "id": 484,
+    "question": "¿Qué elemento de Nintendo debutó en 1981, se relaciona con la franquicia Super Mario y destaca por fontanero bigotudo vestido de rojo?",
+    "answer": "Mario",
+    "difficulty": 5
+  },
+  {
+    "id": 485,
+    "question": "¿Qué creación de Nintendo se reconoce por héroe hyliano con espada y escudo?",
+    "answer": "Link",
+    "difficulty": 1
+  },
+  {
+    "id": 486,
+    "question": "¿Qué tipo de creación de Nintendo es Link?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 487,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Link?",
+    "answer": "la saga The Legend of Zelda",
+    "difficulty": 3
+  },
+  {
+    "id": 488,
+    "question": "¿En qué año debutó Link?",
+    "answer": "1986",
+    "difficulty": 4
+  },
+  {
+    "id": 489,
+    "question": "¿Qué elemento de Nintendo debutó en 1986, se relaciona con la saga The Legend of Zelda y destaca por héroe hyliano con espada y escudo?",
+    "answer": "Link",
+    "difficulty": 5
+  },
+  {
+    "id": 490,
+    "question": "¿Qué creación de Nintendo se reconoce por cazarrecompensas espacial con armadura?",
+    "answer": "Samus Aran",
+    "difficulty": 1
+  },
+  {
+    "id": 491,
+    "question": "¿Qué tipo de creación de Nintendo es Samus Aran?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 492,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Samus Aran?",
+    "answer": "la saga Metroid",
+    "difficulty": 3
+  },
+  {
+    "id": 493,
+    "question": "¿En qué año debutó Samus Aran?",
+    "answer": "1986",
+    "difficulty": 4
+  },
+  {
+    "id": 494,
+    "question": "¿Qué elemento de Nintendo debutó en 1986, se relaciona con la saga Metroid y destaca por cazarrecompensas espacial con armadura?",
+    "answer": "Samus Aran",
+    "difficulty": 5
+  },
+  {
+    "id": 495,
+    "question": "¿Qué creación de Nintendo se reconoce por bola rosa que absorbe poderes?",
+    "answer": "Kirby",
+    "difficulty": 1
+  },
+  {
+    "id": 496,
+    "question": "¿Qué tipo de creación de Nintendo es Kirby?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 497,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Kirby?",
+    "answer": "la saga Kirby",
+    "difficulty": 3
+  },
+  {
+    "id": 498,
+    "question": "¿En qué año debutó Kirby?",
+    "answer": "1992",
+    "difficulty": 4
+  },
+  {
+    "id": 499,
+    "question": "¿Qué elemento de Nintendo debutó en 1992, se relaciona con la saga Kirby y destaca por bola rosa que absorbe poderes?",
+    "answer": "Kirby",
+    "difficulty": 5
+  },
+  {
+    "id": 500,
+    "question": "¿Qué creación de Nintendo se reconoce por ratón eléctrico amarillo con mejillas rojas?",
+    "answer": "Pikachu",
+    "difficulty": 1
+  },
+  {
+    "id": 501,
+    "question": "¿Qué tipo de creación de Nintendo es Pikachu?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 502,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Pikachu?",
+    "answer": "la franquicia Pokémon",
+    "difficulty": 3
+  },
+  {
+    "id": 503,
+    "question": "¿En qué año debutó Pikachu?",
+    "answer": "1996",
+    "difficulty": 4
+  },
+  {
+    "id": 504,
+    "question": "¿Qué elemento de Nintendo debutó en 1996, se relaciona con la franquicia Pokémon y destaca por ratón eléctrico amarillo con mejillas rojas?",
+    "answer": "Pikachu",
+    "difficulty": 5
+  },
+  {
+    "id": 505,
+    "question": "¿Qué creación de Nintendo se reconoce por gorila asociado a barriles y plataformas?",
+    "answer": "Donkey Kong",
+    "difficulty": 1
+  },
+  {
+    "id": 506,
+    "question": "¿Qué tipo de creación de Nintendo es Donkey Kong?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 507,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Donkey Kong?",
+    "answer": "la saga Donkey Kong",
+    "difficulty": 3
+  },
+  {
+    "id": 508,
+    "question": "¿En qué año debutó Donkey Kong?",
+    "answer": "1981",
+    "difficulty": 4
+  },
+  {
+    "id": 509,
+    "question": "¿Qué elemento de Nintendo debutó en 1981, se relaciona con la saga Donkey Kong y destaca por gorila asociado a barriles y plataformas?",
+    "answer": "Donkey Kong",
+    "difficulty": 5
+  },
+  {
+    "id": 510,
+    "question": "¿Qué creación de Nintendo se reconoce por dinosaurio que acompaña a Mario?",
+    "answer": "Yoshi",
+    "difficulty": 1
+  },
+  {
+    "id": 511,
+    "question": "¿Qué tipo de creación de Nintendo es Yoshi?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 512,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Yoshi?",
+    "answer": "la franquicia Super Mario",
+    "difficulty": 3
+  },
+  {
+    "id": 513,
+    "question": "¿En qué año debutó Yoshi?",
+    "answer": "1990",
+    "difficulty": 4
+  },
+  {
+    "id": 514,
+    "question": "¿Qué elemento de Nintendo debutó en 1990, se relaciona con la franquicia Super Mario y destaca por dinosaurio que acompaña a Mario?",
+    "answer": "Yoshi",
+    "difficulty": 5
+  },
+  {
+    "id": 515,
+    "question": "¿Qué creación de Nintendo se reconoce por miembro de la familia real de Hyrule?",
+    "answer": "Princesa Zelda",
+    "difficulty": 1
+  },
+  {
+    "id": 516,
+    "question": "¿Qué tipo de creación de Nintendo es Princesa Zelda?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 517,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Princesa Zelda?",
+    "answer": "la saga The Legend of Zelda",
+    "difficulty": 3
+  },
+  {
+    "id": 518,
+    "question": "¿En qué año debutó Princesa Zelda?",
+    "answer": "1986",
+    "difficulty": 4
+  },
+  {
+    "id": 519,
+    "question": "¿Qué elemento de Nintendo debutó en 1986, se relaciona con la saga The Legend of Zelda y destaca por miembro de la familia real de Hyrule?",
+    "answer": "Princesa Zelda",
+    "difficulty": 5
+  },
+  {
+    "id": 520,
+    "question": "¿Qué creación de Nintendo se reconoce por piloto espacial de un equipo animal?",
+    "answer": "Fox McCloud",
+    "difficulty": 1
+  },
+  {
+    "id": 521,
+    "question": "¿Qué tipo de creación de Nintendo es Fox McCloud?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 522,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Fox McCloud?",
+    "answer": "la saga Star Fox",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "question": "¿En qué año debutó Fox McCloud?",
+    "answer": "1993",
+    "difficulty": 4
+  },
+  {
+    "id": 524,
+    "question": "¿Qué elemento de Nintendo debutó en 1993, se relaciona con la saga Star Fox y destaca por piloto espacial de un equipo animal?",
+    "answer": "Fox McCloud",
+    "difficulty": 5
+  },
+  {
+    "id": 525,
+    "question": "¿Qué creación de Nintendo se reconoce por corredor futurista del Blue Falcon?",
+    "answer": "Captain Falcon",
+    "difficulty": 1
+  },
+  {
+    "id": 526,
+    "question": "¿Qué tipo de creación de Nintendo es Captain Falcon?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 527,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Captain Falcon?",
+    "answer": "la saga F-Zero",
+    "difficulty": 3
+  },
+  {
+    "id": 528,
+    "question": "¿En qué año debutó Captain Falcon?",
+    "answer": "1990",
+    "difficulty": 4
+  },
+  {
+    "id": 529,
+    "question": "¿Qué elemento de Nintendo debutó en 1990, se relaciona con la saga F-Zero y destaca por corredor futurista del Blue Falcon?",
+    "answer": "Captain Falcon",
+    "difficulty": 5
+  },
+  {
+    "id": 530,
+    "question": "¿Qué creación de Nintendo se reconoce por hermano de Mario vestido de verde?",
+    "answer": "Luigi",
+    "difficulty": 1
+  },
+  {
+    "id": 531,
+    "question": "¿Qué tipo de creación de Nintendo es Luigi?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 532,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Luigi?",
+    "answer": "la franquicia Super Mario",
+    "difficulty": 3
+  },
+  {
+    "id": 533,
+    "question": "¿En qué año debutó Luigi?",
+    "answer": "1983",
+    "difficulty": 4
+  },
+  {
+    "id": 534,
+    "question": "¿Qué elemento de Nintendo debutó en 1983, se relaciona con la franquicia Super Mario y destaca por hermano de Mario vestido de verde?",
+    "answer": "Luigi",
+    "difficulty": 5
+  },
+  {
+    "id": 535,
+    "question": "¿Qué creación de Nintendo se reconoce por rey de los Koopas y rival habitual de Mario?",
+    "answer": "Bowser",
+    "difficulty": 1
+  },
+  {
+    "id": 536,
+    "question": "¿Qué tipo de creación de Nintendo es Bowser?",
+    "answer": "personaje",
+    "difficulty": 2
+  },
+  {
+    "id": 537,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Bowser?",
+    "answer": "la franquicia Super Mario",
+    "difficulty": 3
+  },
+  {
+    "id": 538,
+    "question": "¿En qué año debutó Bowser?",
+    "answer": "1985",
+    "difficulty": 4
+  },
+  {
+    "id": 539,
+    "question": "¿Qué elemento de Nintendo debutó en 1985, se relaciona con la franquicia Super Mario y destaca por rey de los Koopas y rival habitual de Mario?",
+    "answer": "Bowser",
+    "difficulty": 5
+  },
+  {
+    "id": 540,
+    "question": "¿Qué creación de Nintendo se reconoce por simulación social con vecinos antropomorfos?",
+    "answer": "Animal Crossing",
+    "difficulty": 1
+  },
+  {
+    "id": 541,
+    "question": "¿Qué tipo de creación de Nintendo es Animal Crossing?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 542,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Animal Crossing?",
+    "answer": "una vida relajada en pueblos habitados por animales",
+    "difficulty": 3
+  },
+  {
+    "id": 543,
+    "question": "¿En qué año debutó Animal Crossing?",
+    "answer": "2001",
+    "difficulty": 4
+  },
+  {
+    "id": 544,
+    "question": "¿Qué elemento de Nintendo debutó en 2001, se relaciona con una vida relajada en pueblos habitados por animales y destaca por simulación social con vecinos antropomorfos?",
+    "answer": "Animal Crossing",
+    "difficulty": 5
+  },
+  {
+    "id": 545,
+    "question": "¿Qué creación de Nintendo se reconoce por shooter estilizado protagonizado por inkling?",
+    "answer": "Splatoon",
+    "difficulty": 1
+  },
+  {
+    "id": 546,
+    "question": "¿Qué tipo de creación de Nintendo es Splatoon?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 547,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Splatoon?",
+    "answer": "combates de tinta multicolor",
+    "difficulty": 3
+  },
+  {
+    "id": 548,
+    "question": "¿En qué año debutó Splatoon?",
+    "answer": "2015",
+    "difficulty": 4
+  },
+  {
+    "id": 549,
+    "question": "¿Qué elemento de Nintendo debutó en 2015, se relaciona con combates de tinta multicolor y destaca por shooter estilizado protagonizado por inkling?",
+    "answer": "Splatoon",
+    "difficulty": 5
+  },
+  {
+    "id": 550,
+    "question": "¿Qué creación de Nintendo se reconoce por serie estratégica con nobles, ejércitos y permadeath?",
+    "answer": "Fire Emblem",
+    "difficulty": 1
+  },
+  {
+    "id": 551,
+    "question": "¿Qué tipo de creación de Nintendo es Fire Emblem?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 552,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Fire Emblem?",
+    "answer": "combate táctico por turnos",
+    "difficulty": 3
+  },
+  {
+    "id": 553,
+    "question": "¿En qué año debutó Fire Emblem?",
+    "answer": "1990",
+    "difficulty": 4
+  },
+  {
+    "id": 554,
+    "question": "¿Qué elemento de Nintendo debutó en 1990, se relaciona con combate táctico por turnos y destaca por serie estratégica con nobles, ejércitos y permadeath?",
+    "answer": "Fire Emblem",
+    "difficulty": 5
+  },
+  {
+    "id": 555,
+    "question": "¿Qué creación de Nintendo se reconoce por aventuras de rol asociadas a Monolith Soft?",
+    "answer": "Xenoblade Chronicles",
+    "difficulty": 1
+  },
+  {
+    "id": 556,
+    "question": "¿Qué tipo de creación de Nintendo es Xenoblade Chronicles?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 557,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Xenoblade Chronicles?",
+    "answer": "RPG de grandes mundos y titanes",
+    "difficulty": 3
+  },
+  {
+    "id": 558,
+    "question": "¿En qué año debutó Xenoblade Chronicles?",
+    "answer": "2010",
+    "difficulty": 4
+  },
+  {
+    "id": 559,
+    "question": "¿Qué elemento de Nintendo debutó en 2010, se relaciona con RPG de grandes mundos y titanes y destaca por aventuras de rol asociadas a Monolith Soft?",
+    "answer": "Xenoblade Chronicles",
+    "difficulty": 5
+  },
+  {
+    "id": 560,
+    "question": "¿Qué creación de Nintendo se reconoce por serie de ciencia ficción con atmósfera aislada?",
+    "answer": "Metroid",
+    "difficulty": 1
+  },
+  {
+    "id": 561,
+    "question": "¿Qué tipo de creación de Nintendo es Metroid?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 562,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Metroid?",
+    "answer": "exploración espacial y habilidad progresiva",
+    "difficulty": 3
+  },
+  {
+    "id": 563,
+    "question": "¿En qué año debutó Metroid?",
+    "answer": "1986",
+    "difficulty": 4
+  },
+  {
+    "id": 564,
+    "question": "¿Qué elemento de Nintendo debutó en 1986, se relaciona con exploración espacial y habilidad progresiva y destaca por serie de ciencia ficción con atmósfera aislada?",
+    "answer": "Metroid",
+    "difficulty": 5
+  },
+  {
+    "id": 565,
+    "question": "¿Qué creación de Nintendo se reconoce por aventuras de fantasía con puzles y exploración?",
+    "answer": "The Legend of Zelda",
+    "difficulty": 1
+  },
+  {
+    "id": 566,
+    "question": "¿Qué tipo de creación de Nintendo es The Legend of Zelda?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 567,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente The Legend of Zelda?",
+    "answer": "Hyrule, mazmorras y la Trifuerza",
+    "difficulty": 3
+  },
+  {
+    "id": 568,
+    "question": "¿En qué año debutó The Legend of Zelda?",
+    "answer": "1986",
+    "difficulty": 4
+  },
+  {
+    "id": 569,
+    "question": "¿Qué elemento de Nintendo debutó en 1986, se relaciona con Hyrule, mazmorras y la Trifuerza y destaca por aventuras de fantasía con puzles y exploración?",
+    "answer": "The Legend of Zelda",
+    "difficulty": 5
+  },
+  {
+    "id": 570,
+    "question": "¿Qué creación de Nintendo se reconoce por plataformas clásico que popularizó el Reino Champiñón?",
+    "answer": "Super Mario Bros.",
+    "difficulty": 1
+  },
+  {
+    "id": 571,
+    "question": "¿Qué tipo de creación de Nintendo es Super Mario Bros.?",
+    "answer": "videojuego",
+    "difficulty": 2
+  },
+  {
+    "id": 572,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Super Mario Bros.?",
+    "answer": "la consola NES",
+    "difficulty": 3
+  },
+  {
+    "id": 573,
+    "question": "¿En qué año debutó Super Mario Bros.?",
+    "answer": "1985",
+    "difficulty": 4
+  },
+  {
+    "id": 574,
+    "question": "¿Qué elemento de Nintendo debutó en 1985, se relaciona con la consola NES y destaca por plataformas clásico que popularizó el Reino Champiñón?",
+    "answer": "Super Mario Bros.",
+    "difficulty": 5
+  },
+  {
+    "id": 575,
+    "question": "¿Qué creación de Nintendo se reconoce por competición caótica con caparazones y plátanos?",
+    "answer": "Mario Kart",
+    "difficulty": 1
+  },
+  {
+    "id": 576,
+    "question": "¿Qué tipo de creación de Nintendo es Mario Kart?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 577,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Mario Kart?",
+    "answer": "carreras con objetos y circuitos coloridos",
+    "difficulty": 3
+  },
+  {
+    "id": 578,
+    "question": "¿En qué año debutó Mario Kart?",
+    "answer": "1992",
+    "difficulty": 4
+  },
+  {
+    "id": 579,
+    "question": "¿Qué elemento de Nintendo debutó en 1992, se relaciona con carreras con objetos y circuitos coloridos y destaca por competición caótica con caparazones y plátanos?",
+    "answer": "Mario Kart",
+    "difficulty": 5
+  },
+  {
+    "id": 580,
+    "question": "¿Qué creación de Nintendo se reconoce por juego de combate basado en expulsar rivales del escenario?",
+    "answer": "Super Smash Bros.",
+    "difficulty": 1
+  },
+  {
+    "id": 581,
+    "question": "¿Qué tipo de creación de Nintendo es Super Smash Bros.?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 582,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Super Smash Bros.?",
+    "answer": "peleas cruzadas entre personajes de Nintendo",
+    "difficulty": 3
+  },
+  {
+    "id": 583,
+    "question": "¿En qué año debutó Super Smash Bros.?",
+    "answer": "1999",
+    "difficulty": 4
+  },
+  {
+    "id": 584,
+    "question": "¿Qué elemento de Nintendo debutó en 1999, se relaciona con peleas cruzadas entre personajes de Nintendo y destaca por juego de combate basado en expulsar rivales del escenario?",
+    "answer": "Super Smash Bros.",
+    "difficulty": 5
+  },
+  {
+    "id": 585,
+    "question": "¿Qué creación de Nintendo se reconoce por primer gran fenómeno portátil de criaturas coleccionables?",
+    "answer": "Pokémon Rojo y Azul",
+    "difficulty": 1
+  },
+  {
+    "id": 586,
+    "question": "¿Qué tipo de creación de Nintendo es Pokémon Rojo y Azul?",
+    "answer": "videojuego",
+    "difficulty": 2
+  },
+  {
+    "id": 587,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Pokémon Rojo y Azul?",
+    "answer": "la franquicia Pokémon y Game Boy",
+    "difficulty": 3
+  },
+  {
+    "id": 588,
+    "question": "¿En qué año debutó Pokémon Rojo y Azul?",
+    "answer": "1996",
+    "difficulty": 4
+  },
+  {
+    "id": 589,
+    "question": "¿Qué elemento de Nintendo debutó en 1996, se relaciona con la franquicia Pokémon y Game Boy y destaca por primer gran fenómeno portátil de criaturas coleccionables?",
+    "answer": "Pokémon Rojo y Azul",
+    "difficulty": 5
+  },
+  {
+    "id": 590,
+    "question": "¿Qué creación de Nintendo se reconoce por máquina con mandos Joy-Con desmontables?",
+    "answer": "Nintendo Switch",
+    "difficulty": 1
+  },
+  {
+    "id": 591,
+    "question": "¿Qué tipo de creación de Nintendo es Nintendo Switch?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 592,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Nintendo Switch?",
+    "answer": "formato híbrido de sobremesa y portátil",
+    "difficulty": 3
+  },
+  {
+    "id": 593,
+    "question": "¿En qué año debutó Nintendo Switch?",
+    "answer": "2017",
+    "difficulty": 4
+  },
+  {
+    "id": 594,
+    "question": "¿Qué elemento de Nintendo debutó en 2017, se relaciona con formato híbrido de sobremesa y portátil y destaca por máquina con mandos Joy-Con desmontables?",
+    "answer": "Nintendo Switch",
+    "difficulty": 5
+  },
+  {
+    "id": 595,
+    "question": "¿Qué creación de Nintendo se reconoce por sistema blanco que popularizó jugar agitando el mando?",
+    "answer": "Wii",
+    "difficulty": 1
+  },
+  {
+    "id": 596,
+    "question": "¿Qué tipo de creación de Nintendo es Wii?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 597,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Wii?",
+    "answer": "control por movimiento",
+    "difficulty": 3
+  },
+  {
+    "id": 598,
+    "question": "¿En qué año debutó Wii?",
+    "answer": "2006",
+    "difficulty": 4
+  },
+  {
+    "id": 599,
+    "question": "¿Qué elemento de Nintendo debutó en 2006, se relaciona con control por movimiento y destaca por sistema blanco que popularizó jugar agitando el mando?",
+    "answer": "Wii",
+    "difficulty": 5
+  },
+  {
+    "id": 600,
+    "question": "¿Qué creación de Nintendo se reconoce por máquina portátil clásica de pantalla verdosa?",
+    "answer": "Game Boy",
+    "difficulty": 1
+  },
+  {
+    "id": 601,
+    "question": "¿Qué tipo de creación de Nintendo es Game Boy?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 602,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Game Boy?",
+    "answer": "portátiles monocromas de Nintendo",
+    "difficulty": 3
+  },
+  {
+    "id": 603,
+    "question": "¿En qué año debutó Game Boy?",
+    "answer": "1989",
+    "difficulty": 4
+  },
+  {
+    "id": 604,
+    "question": "¿Qué elemento de Nintendo debutó en 1989, se relaciona con portátiles monocromas de Nintendo y destaca por máquina portátil clásica de pantalla verdosa?",
+    "answer": "Game Boy",
+    "difficulty": 5
+  },
+  {
+    "id": 605,
+    "question": "¿Qué creación de Nintendo se reconoce por portátil de tapa con gran catálogo casual y tradicional?",
+    "answer": "Nintendo DS",
+    "difficulty": 1
+  },
+  {
+    "id": 606,
+    "question": "¿Qué tipo de creación de Nintendo es Nintendo DS?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 607,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Nintendo DS?",
+    "answer": "doble pantalla, una de ellas táctil",
+    "difficulty": 3
+  },
+  {
+    "id": 608,
+    "question": "¿En qué año debutó Nintendo DS?",
+    "answer": "2004",
+    "difficulty": 4
+  },
+  {
+    "id": 609,
+    "question": "¿Qué elemento de Nintendo debutó en 2004, se relaciona con doble pantalla, una de ellas táctil y destaca por portátil de tapa con gran catálogo casual y tradicional?",
+    "answer": "Nintendo DS",
+    "difficulty": 5
+  },
+  {
+    "id": 610,
+    "question": "¿Qué creación de Nintendo se reconoce por sistema de 8 bits que relanzó el mercado doméstico?",
+    "answer": "NES",
+    "difficulty": 1
+  },
+  {
+    "id": 611,
+    "question": "¿Qué tipo de creación de Nintendo es NES?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 612,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente NES?",
+    "answer": "la Nintendo Entertainment System",
+    "difficulty": 3
+  },
+  {
+    "id": 613,
+    "question": "¿En qué año debutó NES?",
+    "answer": "1983",
+    "difficulty": 4
+  },
+  {
+    "id": 614,
+    "question": "¿Qué elemento de Nintendo debutó en 1983, se relaciona con la Nintendo Entertainment System y destaca por sistema de 8 bits que relanzó el mercado doméstico?",
+    "answer": "NES",
+    "difficulty": 5
+  },
+  {
+    "id": 615,
+    "question": "¿Qué creación de Nintendo se reconoce por consola de 16 bits con mando de botones de colores?",
+    "answer": "SNES",
+    "difficulty": 1
+  },
+  {
+    "id": 616,
+    "question": "¿Qué tipo de creación de Nintendo es SNES?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 617,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente SNES?",
+    "answer": "la Super Nintendo Entertainment System",
+    "difficulty": 3
+  },
+  {
+    "id": 618,
+    "question": "¿En qué año debutó SNES?",
+    "answer": "1990",
+    "difficulty": 4
+  },
+  {
+    "id": 619,
+    "question": "¿Qué elemento de Nintendo debutó en 1990, se relaciona con la Super Nintendo Entertainment System y destaca por consola de 16 bits con mando de botones de colores?",
+    "answer": "SNES",
+    "difficulty": 5
+  },
+  {
+    "id": 620,
+    "question": "¿Qué creación de Nintendo se reconoce por sistema donde brillaron Mario 64 y Ocarina of Time?",
+    "answer": "Nintendo 64",
+    "difficulty": 1
+  },
+  {
+    "id": 621,
+    "question": "¿Qué tipo de creación de Nintendo es Nintendo 64?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 622,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Nintendo 64?",
+    "answer": "cartuchos y mando con stick analógico central",
+    "difficulty": 3
+  },
+  {
+    "id": 623,
+    "question": "¿En qué año debutó Nintendo 64?",
+    "answer": "1996",
+    "difficulty": 4
+  },
+  {
+    "id": 624,
+    "question": "¿Qué elemento de Nintendo debutó en 1996, se relaciona con cartuchos y mando con stick analógico central y destaca por sistema donde brillaron Mario 64 y Ocarina of Time?",
+    "answer": "Nintendo 64",
+    "difficulty": 5
+  },
+  {
+    "id": 625,
+    "question": "¿Qué creación de Nintendo se reconoce por máquina compacta con asa en la parte trasera?",
+    "answer": "GameCube",
+    "difficulty": 1
+  },
+  {
+    "id": 626,
+    "question": "¿Qué tipo de creación de Nintendo es GameCube?",
+    "answer": "consola",
+    "difficulty": 2
+  },
+  {
+    "id": 627,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente GameCube?",
+    "answer": "cubo púrpura con discos pequeños",
+    "difficulty": 3
+  },
+  {
+    "id": 628,
+    "question": "¿En qué año debutó GameCube?",
+    "answer": "2001",
+    "difficulty": 4
+  },
+  {
+    "id": 629,
+    "question": "¿Qué elemento de Nintendo debutó en 2001, se relaciona con cubo púrpura con discos pequeños y destaca por máquina compacta con asa en la parte trasera?",
+    "answer": "GameCube",
+    "difficulty": 5
+  },
+  {
+    "id": 630,
+    "question": "¿Qué creación de Nintendo se reconoce por colección deportiva que acompañó a millones de consolas?",
+    "answer": "Wii Sports",
+    "difficulty": 1
+  },
+  {
+    "id": 631,
+    "question": "¿Qué tipo de creación de Nintendo es Wii Sports?",
+    "answer": "videojuego",
+    "difficulty": 2
+  },
+  {
+    "id": 632,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Wii Sports?",
+    "answer": "la consola Wii",
+    "difficulty": 3
+  },
+  {
+    "id": 633,
+    "question": "¿En qué año debutó Wii Sports?",
+    "answer": "2006",
+    "difficulty": 4
+  },
+  {
+    "id": 634,
+    "question": "¿Qué elemento de Nintendo debutó en 2006, se relaciona con la consola Wii y destaca por colección deportiva que acompañó a millones de consolas?",
+    "answer": "Wii Sports",
+    "difficulty": 5
+  },
+  {
+    "id": 635,
+    "question": "¿Qué creación de Nintendo se reconoce por mezcla ejercicio físico y aventura fantástica?",
+    "answer": "Ring Fit Adventure",
+    "difficulty": 1
+  },
+  {
+    "id": 636,
+    "question": "¿Qué tipo de creación de Nintendo es Ring Fit Adventure?",
+    "answer": "videojuego",
+    "difficulty": 2
+  },
+  {
+    "id": 637,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Ring Fit Adventure?",
+    "answer": "Nintendo Switch y el accesorio Ring-Con",
+    "difficulty": 3
+  },
+  {
+    "id": 638,
+    "question": "¿En qué año debutó Ring Fit Adventure?",
+    "answer": "2019",
+    "difficulty": 4
+  },
+  {
+    "id": 639,
+    "question": "¿Qué elemento de Nintendo debutó en 2019, se relaciona con Nintendo Switch y el accesorio Ring-Con y destaca por mezcla ejercicio físico y aventura fantástica?",
+    "answer": "Ring Fit Adventure",
+    "difficulty": 5
+  },
+  {
+    "id": 640,
+    "question": "¿Qué creación de Nintendo se reconoce por programa de ejercicios mentales con el Dr. Kawashima?",
+    "answer": "Brain Training",
+    "difficulty": 1
+  },
+  {
+    "id": 641,
+    "question": "¿Qué tipo de creación de Nintendo es Brain Training?",
+    "answer": "videojuego",
+    "difficulty": 2
+  },
+  {
+    "id": 642,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Brain Training?",
+    "answer": "Nintendo DS",
+    "difficulty": 3
+  },
+  {
+    "id": 643,
+    "question": "¿En qué año debutó Brain Training?",
+    "answer": "2005",
+    "difficulty": 4
+  },
+  {
+    "id": 644,
+    "question": "¿Qué elemento de Nintendo debutó en 2005, se relaciona con Nintendo DS y destaca por programa de ejercicios mentales con el Dr. Kawashima?",
+    "answer": "Brain Training",
+    "difficulty": 5
+  },
+  {
+    "id": 645,
+    "question": "¿Qué creación de Nintendo se reconoce por serie con vehículos antigravedad y circuitos extremos?",
+    "answer": "F-Zero",
+    "difficulty": 1
+  },
+  {
+    "id": 646,
+    "question": "¿Qué tipo de creación de Nintendo es F-Zero?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 647,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente F-Zero?",
+    "answer": "carreras futuristas a alta velocidad",
+    "difficulty": 3
+  },
+  {
+    "id": 648,
+    "question": "¿En qué año debutó F-Zero?",
+    "answer": "1990",
+    "difficulty": 4
+  },
+  {
+    "id": 649,
+    "question": "¿Qué elemento de Nintendo debutó en 1990, se relaciona con carreras futuristas a alta velocidad y destaca por serie con vehículos antigravedad y circuitos extremos?",
+    "answer": "F-Zero",
+    "difficulty": 5
+  },
+  {
+    "id": 650,
+    "question": "¿Qué creación de Nintendo se reconoce por escuadrón animal pilotando Arwings?",
+    "answer": "Star Fox",
+    "difficulty": 1
+  },
+  {
+    "id": 651,
+    "question": "¿Qué tipo de creación de Nintendo es Star Fox?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 652,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Star Fox?",
+    "answer": "batallas espaciales sobre raíles",
+    "difficulty": 3
+  },
+  {
+    "id": 653,
+    "question": "¿En qué año debutó Star Fox?",
+    "answer": "1993",
+    "difficulty": 4
+  },
+  {
+    "id": 654,
+    "question": "¿Qué elemento de Nintendo debutó en 1993, se relaciona con batallas espaciales sobre raíles y destaca por escuadrón animal pilotando Arwings?",
+    "answer": "Star Fox",
+    "difficulty": 5
+  },
+  {
+    "id": 655,
+    "question": "¿Qué creación de Nintendo se reconoce por estrategia en tiempo real a escala diminuta?",
+    "answer": "Pikmin",
+    "difficulty": 1
+  },
+  {
+    "id": 656,
+    "question": "¿Qué tipo de creación de Nintendo es Pikmin?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 657,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Pikmin?",
+    "answer": "pequeñas criaturas vegetales que obedecen órdenes",
+    "difficulty": 3
+  },
+  {
+    "id": 658,
+    "question": "¿En qué año debutó Pikmin?",
+    "answer": "2001",
+    "difficulty": 4
+  },
+  {
+    "id": 659,
+    "question": "¿Qué elemento de Nintendo debutó en 2001, se relaciona con pequeñas criaturas vegetales que obedecen órdenes y destaca por estrategia en tiempo real a escala diminuta?",
+    "answer": "Pikmin",
+    "difficulty": 5
+  },
+  {
+    "id": 660,
+    "question": "¿Qué creación de Nintendo se reconoce por aventura de mansiones embrujadas?",
+    "answer": "Luigi's Mansion",
+    "difficulty": 1
+  },
+  {
+    "id": 661,
+    "question": "¿Qué tipo de creación de Nintendo es Luigi's Mansion?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 662,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Luigi's Mansion?",
+    "answer": "Luigi cazando fantasmas con una aspiradora",
+    "difficulty": 3
+  },
+  {
+    "id": 663,
+    "question": "¿En qué año debutó Luigi's Mansion?",
+    "answer": "2001",
+    "difficulty": 4
+  },
+  {
+    "id": 664,
+    "question": "¿Qué elemento de Nintendo debutó en 2001, se relaciona con Luigi cazando fantasmas con una aspiradora y destaca por aventura de mansiones embrujadas?",
+    "answer": "Luigi's Mansion",
+    "difficulty": 5
+  },
+  {
+    "id": 665,
+    "question": "¿Qué creación de Nintendo se reconoce por aventuras con pliegues, humor y combates por turnos?",
+    "answer": "Paper Mario",
+    "difficulty": 1
+  },
+  {
+    "id": 666,
+    "question": "¿Qué tipo de creación de Nintendo es Paper Mario?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 667,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Paper Mario?",
+    "answer": "RPG con estética de papel",
+    "difficulty": 3
+  },
+  {
+    "id": 668,
+    "question": "¿En qué año debutó Paper Mario?",
+    "answer": "2000",
+    "difficulty": 4
+  },
+  {
+    "id": 669,
+    "question": "¿Qué elemento de Nintendo debutó en 2000, se relaciona con RPG con estética de papel y destaca por aventuras con pliegues, humor y combates por turnos?",
+    "answer": "Paper Mario",
+    "difficulty": 5
+  },
+  {
+    "id": 670,
+    "question": "¿Qué creación de Nintendo se reconoce por serie táctica de Intelligent Systems?",
+    "answer": "Advance Wars",
+    "difficulty": 1
+  },
+  {
+    "id": 671,
+    "question": "¿Qué tipo de creación de Nintendo es Advance Wars?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 672,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente Advance Wars?",
+    "answer": "estrategia militar por turnos",
+    "difficulty": 3
+  },
+  {
+    "id": 673,
+    "question": "¿En qué año debutó Advance Wars?",
+    "answer": "2001",
+    "difficulty": 4
+  },
+  {
+    "id": 674,
+    "question": "¿Qué elemento de Nintendo debutó en 2001, se relaciona con estrategia militar por turnos y destaca por serie táctica de Intelligent Systems?",
+    "answer": "Advance Wars",
+    "difficulty": 5
+  },
+  {
+    "id": 675,
+    "question": "¿Qué creación de Nintendo se reconoce por lucha colorida pensada para Nintendo Switch?",
+    "answer": "ARMS",
+    "difficulty": 1
+  },
+  {
+    "id": 676,
+    "question": "¿Qué tipo de creación de Nintendo es ARMS?",
+    "answer": "franquicia",
+    "difficulty": 2
+  },
+  {
+    "id": 677,
+    "question": "¿Con qué saga, hardware o concepto se asocia principalmente ARMS?",
+    "answer": "combate con brazos extensibles",
+    "difficulty": 3
+  },
+  {
+    "id": 678,
+    "question": "¿En qué año debutó ARMS?",
+    "answer": "2017",
+    "difficulty": 4
+  },
+  {
+    "id": 679,
+    "question": "¿Qué elemento de Nintendo debutó en 2017, se relaciona con combate con brazos extensibles y destaca por lucha colorida pensada para Nintendo Switch?",
+    "answer": "ARMS",
+    "difficulty": 5
   }
 ]

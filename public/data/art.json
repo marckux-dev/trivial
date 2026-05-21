@@ -6904,5 +6904,1205 @@
     "question": "¿Qué autor argentino escribió “Sobre héroes y tumbas”?",
     "answer": "Ernesto Sabato",
     "difficulty": 4
+  },
+  {
+    "id": 1152,
+    "question": "¿Quién escribió el cuento \"Caperucita Roja\"?",
+    "answer": "Charles Perrault",
+    "difficulty": 1
+  },
+  {
+    "id": 1153,
+    "question": "¿Quién es el protagonista principal de \"Caperucita Roja\"?",
+    "answer": "Caperucita Roja",
+    "difficulty": 2
+  },
+  {
+    "id": 1154,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Caperucita Roja\"?",
+    "answer": "la caperuza roja",
+    "difficulty": 3
+  },
+  {
+    "id": 1155,
+    "question": "¿Qué cuento infantil se reconoce por una niña, un bosque y un lobo engañador?",
+    "answer": "Caperucita Roja",
+    "difficulty": 4
+  },
+  {
+    "id": 1156,
+    "question": "¿A qué relato clásico pertenecen la caperuza roja y Caperucita Roja?",
+    "answer": "Caperucita Roja",
+    "difficulty": 5
+  },
+  {
+    "id": 1157,
+    "question": "¿Quién escribió el cuento \"Blancanieves\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1158,
+    "question": "¿Quién es el protagonista principal de \"Blancanieves\"?",
+    "answer": "Blancanieves",
+    "difficulty": 2
+  },
+  {
+    "id": 1159,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Blancanieves\"?",
+    "answer": "la manzana envenenada",
+    "difficulty": 3
+  },
+  {
+    "id": 1160,
+    "question": "¿Qué cuento infantil se reconoce por una reina celosa y siete enanitos?",
+    "answer": "Blancanieves",
+    "difficulty": 4
+  },
+  {
+    "id": 1161,
+    "question": "¿A qué relato clásico pertenecen la manzana envenenada y Blancanieves?",
+    "answer": "Blancanieves",
+    "difficulty": 5
+  },
+  {
+    "id": 1162,
+    "question": "¿Quién escribió el cuento \"Cenicienta\"?",
+    "answer": "Charles Perrault",
+    "difficulty": 1
+  },
+  {
+    "id": 1163,
+    "question": "¿Quién es el protagonista principal de \"Cenicienta\"?",
+    "answer": "Cenicienta",
+    "difficulty": 2
+  },
+  {
+    "id": 1164,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Cenicienta\"?",
+    "answer": "el zapato de cristal",
+    "difficulty": 3
+  },
+  {
+    "id": 1165,
+    "question": "¿Qué cuento infantil se reconoce por un baile real y un hada madrina?",
+    "answer": "Cenicienta",
+    "difficulty": 4
+  },
+  {
+    "id": 1166,
+    "question": "¿A qué relato clásico pertenecen el zapato de cristal y Cenicienta?",
+    "answer": "Cenicienta",
+    "difficulty": 5
+  },
+  {
+    "id": 1167,
+    "question": "¿Quién escribió el cuento \"Hansel y Gretel\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1168,
+    "question": "¿Quién es el protagonista principal de \"Hansel y Gretel\"?",
+    "answer": "Hansel y Gretel",
+    "difficulty": 2
+  },
+  {
+    "id": 1169,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Hansel y Gretel\"?",
+    "answer": "la casa de chocolate",
+    "difficulty": 3
+  },
+  {
+    "id": 1170,
+    "question": "¿Qué cuento infantil se reconoce por dos hermanos abandonados y una bruja?",
+    "answer": "Hansel y Gretel",
+    "difficulty": 4
+  },
+  {
+    "id": 1171,
+    "question": "¿A qué relato clásico pertenecen la casa de chocolate y Hansel y Gretel?",
+    "answer": "Hansel y Gretel",
+    "difficulty": 5
+  },
+  {
+    "id": 1172,
+    "question": "¿Quién escribió el cuento \"La bella durmiente\"?",
+    "answer": "Charles Perrault",
+    "difficulty": 1
+  },
+  {
+    "id": 1173,
+    "question": "¿Quién es el protagonista principal de \"La bella durmiente\"?",
+    "answer": "Aurora",
+    "difficulty": 2
+  },
+  {
+    "id": 1174,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La bella durmiente\"?",
+    "answer": "el huso",
+    "difficulty": 3
+  },
+  {
+    "id": 1175,
+    "question": "¿Qué cuento infantil se reconoce por un largo sueño causado por un hechizo?",
+    "answer": "La bella durmiente",
+    "difficulty": 4
+  },
+  {
+    "id": 1176,
+    "question": "¿A qué relato clásico pertenecen el huso y Aurora?",
+    "answer": "La bella durmiente",
+    "difficulty": 5
+  },
+  {
+    "id": 1177,
+    "question": "¿Quién escribió el cuento \"La sirenita\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1178,
+    "question": "¿Quién es el protagonista principal de \"La sirenita\"?",
+    "answer": "la Sirenita",
+    "difficulty": 2
+  },
+  {
+    "id": 1179,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La sirenita\"?",
+    "answer": "la voz entregada a la bruja del mar",
+    "difficulty": 3
+  },
+  {
+    "id": 1180,
+    "question": "¿Qué cuento infantil se reconoce por una princesa marina enamorada de un humano?",
+    "answer": "La sirenita",
+    "difficulty": 4
+  },
+  {
+    "id": 1181,
+    "question": "¿A qué relato clásico pertenecen la voz entregada a la bruja del mar y la Sirenita?",
+    "answer": "La sirenita",
+    "difficulty": 5
+  },
+  {
+    "id": 1182,
+    "question": "¿Quién escribió el cuento \"El patito feo\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1183,
+    "question": "¿Quién es el protagonista principal de \"El patito feo\"?",
+    "answer": "el patito feo",
+    "difficulty": 2
+  },
+  {
+    "id": 1184,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El patito feo\"?",
+    "answer": "el cisne en que se convierte",
+    "difficulty": 3
+  },
+  {
+    "id": 1185,
+    "question": "¿Qué cuento infantil se reconoce por un ave rechazada que descubre su verdadera identidad?",
+    "answer": "El patito feo",
+    "difficulty": 4
+  },
+  {
+    "id": 1186,
+    "question": "¿A qué relato clásico pertenecen el cisne en que se convierte y el patito feo?",
+    "answer": "El patito feo",
+    "difficulty": 5
+  },
+  {
+    "id": 1187,
+    "question": "¿Quién escribió el cuento \"El soldadito de plomo\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1188,
+    "question": "¿Quién es el protagonista principal de \"El soldadito de plomo\"?",
+    "answer": "el soldadito de plomo",
+    "difficulty": 2
+  },
+  {
+    "id": 1189,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El soldadito de plomo\"?",
+    "answer": "la bailarina de papel",
+    "difficulty": 3
+  },
+  {
+    "id": 1190,
+    "question": "¿Qué cuento infantil se reconoce por un juguete valiente con una sola pierna?",
+    "answer": "El soldadito de plomo",
+    "difficulty": 4
+  },
+  {
+    "id": 1191,
+    "question": "¿A qué relato clásico pertenecen la bailarina de papel y el soldadito de plomo?",
+    "answer": "El soldadito de plomo",
+    "difficulty": 5
+  },
+  {
+    "id": 1192,
+    "question": "¿Quién escribió el cuento \"Pinocho\"?",
+    "answer": "Carlo Collodi",
+    "difficulty": 1
+  },
+  {
+    "id": 1193,
+    "question": "¿Quién es el protagonista principal de \"Pinocho\"?",
+    "answer": "Pinocho",
+    "difficulty": 2
+  },
+  {
+    "id": 1194,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Pinocho\"?",
+    "answer": "la nariz que crece",
+    "difficulty": 3
+  },
+  {
+    "id": 1195,
+    "question": "¿Qué cuento infantil se reconoce por una marioneta que quiere ser niño?",
+    "answer": "Pinocho",
+    "difficulty": 4
+  },
+  {
+    "id": 1196,
+    "question": "¿A qué relato clásico pertenecen la nariz que crece y Pinocho?",
+    "answer": "Pinocho",
+    "difficulty": 5
+  },
+  {
+    "id": 1197,
+    "question": "¿Quién escribió el cuento \"Alicia en el País de las Maravillas\"?",
+    "answer": "Lewis Carroll",
+    "difficulty": 1
+  },
+  {
+    "id": 1198,
+    "question": "¿Quién es el protagonista principal de \"Alicia en el País de las Maravillas\"?",
+    "answer": "Alicia",
+    "difficulty": 2
+  },
+  {
+    "id": 1199,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Alicia en el País de las Maravillas\"?",
+    "answer": "el conejo blanco",
+    "difficulty": 3
+  },
+  {
+    "id": 1200,
+    "question": "¿Qué cuento infantil se reconoce por una niña que cae por una madriguera?",
+    "answer": "Alicia en el País de las Maravillas",
+    "difficulty": 4
+  },
+  {
+    "id": 1201,
+    "question": "¿A qué relato clásico pertenecen el conejo blanco y Alicia?",
+    "answer": "Alicia en el País de las Maravillas",
+    "difficulty": 5
+  },
+  {
+    "id": 1202,
+    "question": "¿Quién escribió el cuento \"Peter Pan\"?",
+    "answer": "J. M. Barrie",
+    "difficulty": 1
+  },
+  {
+    "id": 1203,
+    "question": "¿Quién es el protagonista principal de \"Peter Pan\"?",
+    "answer": "Peter Pan",
+    "difficulty": 2
+  },
+  {
+    "id": 1204,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Peter Pan\"?",
+    "answer": "Nunca Jamás",
+    "difficulty": 3
+  },
+  {
+    "id": 1205,
+    "question": "¿Qué cuento infantil se reconoce por un niño que no quiere crecer?",
+    "answer": "Peter Pan",
+    "difficulty": 4
+  },
+  {
+    "id": 1206,
+    "question": "¿A qué relato clásico pertenecen Nunca Jamás y Peter Pan?",
+    "answer": "Peter Pan",
+    "difficulty": 5
+  },
+  {
+    "id": 1207,
+    "question": "¿Quién escribió el cuento \"El mago de Oz\"?",
+    "answer": "L. Frank Baum",
+    "difficulty": 1
+  },
+  {
+    "id": 1208,
+    "question": "¿Quién es el protagonista principal de \"El mago de Oz\"?",
+    "answer": "Dorothy",
+    "difficulty": 2
+  },
+  {
+    "id": 1209,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El mago de Oz\"?",
+    "answer": "el camino de baldosas amarillas",
+    "difficulty": 3
+  },
+  {
+    "id": 1210,
+    "question": "¿Qué cuento infantil se reconoce por un viaje a un mundo fantástico tras un tornado?",
+    "answer": "El mago de Oz",
+    "difficulty": 4
+  },
+  {
+    "id": 1211,
+    "question": "¿A qué relato clásico pertenecen el camino de baldosas amarillas y Dorothy?",
+    "answer": "El mago de Oz",
+    "difficulty": 5
+  },
+  {
+    "id": 1212,
+    "question": "¿Quién escribió el cuento \"Ricitos de Oro y los tres osos\"?",
+    "answer": "Robert Southey",
+    "difficulty": 1
+  },
+  {
+    "id": 1213,
+    "question": "¿Quién es el protagonista principal de \"Ricitos de Oro y los tres osos\"?",
+    "answer": "Ricitos de Oro",
+    "difficulty": 2
+  },
+  {
+    "id": 1214,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Ricitos de Oro y los tres osos\"?",
+    "answer": "las tres sillas",
+    "difficulty": 3
+  },
+  {
+    "id": 1215,
+    "question": "¿Qué cuento infantil se reconoce por una niña curiosa entra en una casa ajena?",
+    "answer": "Ricitos de Oro y los tres osos",
+    "difficulty": 4
+  },
+  {
+    "id": 1216,
+    "question": "¿A qué relato clásico pertenecen las tres sillas y Ricitos de Oro?",
+    "answer": "Ricitos de Oro y los tres osos",
+    "difficulty": 5
+  },
+  {
+    "id": 1217,
+    "question": "¿Quién escribió el cuento \"Los tres cerditos\"?",
+    "answer": "Joseph Jacobs",
+    "difficulty": 1
+  },
+  {
+    "id": 1218,
+    "question": "¿Quién es el protagonista principal de \"Los tres cerditos\"?",
+    "answer": "los tres cerditos",
+    "difficulty": 2
+  },
+  {
+    "id": 1219,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Los tres cerditos\"?",
+    "answer": "la casa de ladrillo",
+    "difficulty": 3
+  },
+  {
+    "id": 1220,
+    "question": "¿Qué cuento infantil se reconoce por tres hermanos construyen casas y un lobo sopla?",
+    "answer": "Los tres cerditos",
+    "difficulty": 4
+  },
+  {
+    "id": 1221,
+    "question": "¿A qué relato clásico pertenecen la casa de ladrillo y los tres cerditos?",
+    "answer": "Los tres cerditos",
+    "difficulty": 5
+  },
+  {
+    "id": 1222,
+    "question": "¿Quién escribió el cuento \"El flautista de Hamelín\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1223,
+    "question": "¿Quién es el protagonista principal de \"El flautista de Hamelín\"?",
+    "answer": "el flautista",
+    "difficulty": 2
+  },
+  {
+    "id": 1224,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El flautista de Hamelín\"?",
+    "answer": "la flauta mágica",
+    "difficulty": 3
+  },
+  {
+    "id": 1225,
+    "question": "¿Qué cuento infantil se reconoce por un músico libra a una ciudad de ratas?",
+    "answer": "El flautista de Hamelín",
+    "difficulty": 4
+  },
+  {
+    "id": 1226,
+    "question": "¿A qué relato clásico pertenecen la flauta mágica y el flautista?",
+    "answer": "El flautista de Hamelín",
+    "difficulty": 5
+  },
+  {
+    "id": 1227,
+    "question": "¿Quién escribió el cuento \"Jack y las habichuelas mágicas\"?",
+    "answer": "Joseph Jacobs",
+    "difficulty": 1
+  },
+  {
+    "id": 1228,
+    "question": "¿Quién es el protagonista principal de \"Jack y las habichuelas mágicas\"?",
+    "answer": "Jack",
+    "difficulty": 2
+  },
+  {
+    "id": 1229,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Jack y las habichuelas mágicas\"?",
+    "answer": "las habichuelas mágicas",
+    "difficulty": 3
+  },
+  {
+    "id": 1230,
+    "question": "¿Qué cuento infantil se reconoce por una planta gigante lleva a un castillo en las nubes?",
+    "answer": "Jack y las habichuelas mágicas",
+    "difficulty": 4
+  },
+  {
+    "id": 1231,
+    "question": "¿A qué relato clásico pertenecen las habichuelas mágicas y Jack?",
+    "answer": "Jack y las habichuelas mágicas",
+    "difficulty": 5
+  },
+  {
+    "id": 1232,
+    "question": "¿Quién escribió el cuento \"Pulgarcito\"?",
+    "answer": "Charles Perrault",
+    "difficulty": 1
+  },
+  {
+    "id": 1233,
+    "question": "¿Quién es el protagonista principal de \"Pulgarcito\"?",
+    "answer": "Pulgarcito",
+    "difficulty": 2
+  },
+  {
+    "id": 1234,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Pulgarcito\"?",
+    "answer": "las migas o piedras del camino",
+    "difficulty": 3
+  },
+  {
+    "id": 1235,
+    "question": "¿Qué cuento infantil se reconoce por un niño diminuto usa su ingenio para salvarse?",
+    "answer": "Pulgarcito",
+    "difficulty": 4
+  },
+  {
+    "id": 1236,
+    "question": "¿A qué relato clásico pertenecen las migas o piedras del camino y Pulgarcito?",
+    "answer": "Pulgarcito",
+    "difficulty": 5
+  },
+  {
+    "id": 1237,
+    "question": "¿Quién escribió el cuento \"La princesa y el guisante\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1238,
+    "question": "¿Quién es el protagonista principal de \"La princesa y el guisante\"?",
+    "answer": "la princesa",
+    "difficulty": 2
+  },
+  {
+    "id": 1239,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La princesa y el guisante\"?",
+    "answer": "el guisante bajo los colchones",
+    "difficulty": 3
+  },
+  {
+    "id": 1240,
+    "question": "¿Qué cuento infantil se reconoce por una prueba de sensibilidad en palacio?",
+    "answer": "La princesa y el guisante",
+    "difficulty": 4
+  },
+  {
+    "id": 1241,
+    "question": "¿A qué relato clásico pertenecen el guisante bajo los colchones y la princesa?",
+    "answer": "La princesa y el guisante",
+    "difficulty": 5
+  },
+  {
+    "id": 1242,
+    "question": "¿Quién escribió el cuento \"El traje nuevo del emperador\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1243,
+    "question": "¿Quién es el protagonista principal de \"El traje nuevo del emperador\"?",
+    "answer": "el emperador",
+    "difficulty": 2
+  },
+  {
+    "id": 1244,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El traje nuevo del emperador\"?",
+    "answer": "el supuesto traje invisible",
+    "difficulty": 3
+  },
+  {
+    "id": 1245,
+    "question": "¿Qué cuento infantil se reconoce por dos estafadores y una vanidad ridícula?",
+    "answer": "El traje nuevo del emperador",
+    "difficulty": 4
+  },
+  {
+    "id": 1246,
+    "question": "¿A qué relato clásico pertenecen el supuesto traje invisible y el emperador?",
+    "answer": "El traje nuevo del emperador",
+    "difficulty": 5
+  },
+  {
+    "id": 1247,
+    "question": "¿Quién escribió el cuento \"La reina de las nieves\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1248,
+    "question": "¿Quién es el protagonista principal de \"La reina de las nieves\"?",
+    "answer": "Gerda",
+    "difficulty": 2
+  },
+  {
+    "id": 1249,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La reina de las nieves\"?",
+    "answer": "el espejo roto",
+    "difficulty": 3
+  },
+  {
+    "id": 1250,
+    "question": "¿Qué cuento infantil se reconoce por una niña viaja para rescatar a Kay?",
+    "answer": "La reina de las nieves",
+    "difficulty": 4
+  },
+  {
+    "id": 1251,
+    "question": "¿A qué relato clásico pertenecen el espejo roto y Gerda?",
+    "answer": "La reina de las nieves",
+    "difficulty": 5
+  },
+  {
+    "id": 1252,
+    "question": "¿Quién escribió el cuento \"Rumpelstiltskin\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1253,
+    "question": "¿Quién es el protagonista principal de \"Rumpelstiltskin\"?",
+    "answer": "Rumpelstiltskin",
+    "difficulty": 2
+  },
+  {
+    "id": 1254,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Rumpelstiltskin\"?",
+    "answer": "el nombre secreto",
+    "difficulty": 3
+  },
+  {
+    "id": 1255,
+    "question": "¿Qué cuento infantil se reconoce por un enano ayuda a hilar paja en oro?",
+    "answer": "Rumpelstiltskin",
+    "difficulty": 4
+  },
+  {
+    "id": 1256,
+    "question": "¿A qué relato clásico pertenecen el nombre secreto y Rumpelstiltskin?",
+    "answer": "Rumpelstiltskin",
+    "difficulty": 5
+  },
+  {
+    "id": 1257,
+    "question": "¿Quién escribió el cuento \"Rapunzel\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1258,
+    "question": "¿Quién es el protagonista principal de \"Rapunzel\"?",
+    "answer": "Rapunzel",
+    "difficulty": 2
+  },
+  {
+    "id": 1259,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Rapunzel\"?",
+    "answer": "la larga cabellera",
+    "difficulty": 3
+  },
+  {
+    "id": 1260,
+    "question": "¿Qué cuento infantil se reconoce por una joven encerrada en una torre?",
+    "answer": "Rapunzel",
+    "difficulty": 4
+  },
+  {
+    "id": 1261,
+    "question": "¿A qué relato clásico pertenecen la larga cabellera y Rapunzel?",
+    "answer": "Rapunzel",
+    "difficulty": 5
+  },
+  {
+    "id": 1262,
+    "question": "¿Quién escribió el cuento \"La bella y la bestia\"?",
+    "answer": "Jeanne-Marie Leprince de Beaumont",
+    "difficulty": 1
+  },
+  {
+    "id": 1263,
+    "question": "¿Quién es el protagonista principal de \"La bella y la bestia\"?",
+    "answer": "Bella",
+    "difficulty": 2
+  },
+  {
+    "id": 1264,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La bella y la bestia\"?",
+    "answer": "la rosa encantada",
+    "difficulty": 3
+  },
+  {
+    "id": 1265,
+    "question": "¿Qué cuento infantil se reconoce por una joven aprende a ver más allá de la apariencia?",
+    "answer": "La bella y la bestia",
+    "difficulty": 4
+  },
+  {
+    "id": 1266,
+    "question": "¿A qué relato clásico pertenecen la rosa encantada y Bella?",
+    "answer": "La bella y la bestia",
+    "difficulty": 5
+  },
+  {
+    "id": 1267,
+    "question": "¿Quién escribió el cuento \"El sastrecillo valiente\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1268,
+    "question": "¿Quién es el protagonista principal de \"El sastrecillo valiente\"?",
+    "answer": "el sastrecillo",
+    "difficulty": 2
+  },
+  {
+    "id": 1269,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El sastrecillo valiente\"?",
+    "answer": "el lema siete de un golpe",
+    "difficulty": 3
+  },
+  {
+    "id": 1270,
+    "question": "¿Qué cuento infantil se reconoce por un pequeño artesano derrota gigantes con ingenio?",
+    "answer": "El sastrecillo valiente",
+    "difficulty": 4
+  },
+  {
+    "id": 1271,
+    "question": "¿A qué relato clásico pertenecen el lema siete de un golpe y el sastrecillo?",
+    "answer": "El sastrecillo valiente",
+    "difficulty": 5
+  },
+  {
+    "id": 1272,
+    "question": "¿Quién escribió el cuento \"El gato con botas\"?",
+    "answer": "Charles Perrault",
+    "difficulty": 1
+  },
+  {
+    "id": 1273,
+    "question": "¿Quién es el protagonista principal de \"El gato con botas\"?",
+    "answer": "el gato con botas",
+    "difficulty": 2
+  },
+  {
+    "id": 1274,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El gato con botas\"?",
+    "answer": "las botas",
+    "difficulty": 3
+  },
+  {
+    "id": 1275,
+    "question": "¿Qué cuento infantil se reconoce por un felino astuto consigue fortuna para su amo?",
+    "answer": "El gato con botas",
+    "difficulty": 4
+  },
+  {
+    "id": 1276,
+    "question": "¿A qué relato clásico pertenecen las botas y el gato con botas?",
+    "answer": "El gato con botas",
+    "difficulty": 5
+  },
+  {
+    "id": 1277,
+    "question": "¿Quién escribió el cuento \"La liebre y la tortuga\"?",
+    "answer": "Esopo",
+    "difficulty": 1
+  },
+  {
+    "id": 1278,
+    "question": "¿Quién es el protagonista principal de \"La liebre y la tortuga\"?",
+    "answer": "la tortuga",
+    "difficulty": 2
+  },
+  {
+    "id": 1279,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La liebre y la tortuga\"?",
+    "answer": "la carrera",
+    "difficulty": 3
+  },
+  {
+    "id": 1280,
+    "question": "¿Qué cuento infantil se reconoce por una fábula sobre constancia frente a velocidad?",
+    "answer": "La liebre y la tortuga",
+    "difficulty": 4
+  },
+  {
+    "id": 1281,
+    "question": "¿A qué relato clásico pertenecen la carrera y la tortuga?",
+    "answer": "La liebre y la tortuga",
+    "difficulty": 5
+  },
+  {
+    "id": 1282,
+    "question": "¿Quién escribió el cuento \"La cigarra y la hormiga\"?",
+    "answer": "Esopo",
+    "difficulty": 1
+  },
+  {
+    "id": 1283,
+    "question": "¿Quién es el protagonista principal de \"La cigarra y la hormiga\"?",
+    "answer": "la hormiga",
+    "difficulty": 2
+  },
+  {
+    "id": 1284,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La cigarra y la hormiga\"?",
+    "answer": "las provisiones de invierno",
+    "difficulty": 3
+  },
+  {
+    "id": 1285,
+    "question": "¿Qué cuento infantil se reconoce por una fábula sobre trabajo y previsión?",
+    "answer": "La cigarra y la hormiga",
+    "difficulty": 4
+  },
+  {
+    "id": 1286,
+    "question": "¿A qué relato clásico pertenecen las provisiones de invierno y la hormiga?",
+    "answer": "La cigarra y la hormiga",
+    "difficulty": 5
+  },
+  {
+    "id": 1287,
+    "question": "¿Quién escribió el cuento \"El león y el ratón\"?",
+    "answer": "Esopo",
+    "difficulty": 1
+  },
+  {
+    "id": 1288,
+    "question": "¿Quién es el protagonista principal de \"El león y el ratón\"?",
+    "answer": "el ratón",
+    "difficulty": 2
+  },
+  {
+    "id": 1289,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El león y el ratón\"?",
+    "answer": "la red que roe",
+    "difficulty": 3
+  },
+  {
+    "id": 1290,
+    "question": "¿Qué cuento infantil se reconoce por un pequeño animal ayuda a uno mucho más grande?",
+    "answer": "El león y el ratón",
+    "difficulty": 4
+  },
+  {
+    "id": 1291,
+    "question": "¿A qué relato clásico pertenecen la red que roe y el ratón?",
+    "answer": "El león y el ratón",
+    "difficulty": 5
+  },
+  {
+    "id": 1292,
+    "question": "¿Quién escribió el cuento \"Bambi\"?",
+    "answer": "Felix Salten",
+    "difficulty": 1
+  },
+  {
+    "id": 1293,
+    "question": "¿Quién es el protagonista principal de \"Bambi\"?",
+    "answer": "Bambi",
+    "difficulty": 2
+  },
+  {
+    "id": 1294,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Bambi\"?",
+    "answer": "el bosque",
+    "difficulty": 3
+  },
+  {
+    "id": 1295,
+    "question": "¿Qué cuento infantil se reconoce por un cervatillo crece entre descubrimientos y pérdidas?",
+    "answer": "Bambi",
+    "difficulty": 4
+  },
+  {
+    "id": 1296,
+    "question": "¿A qué relato clásico pertenecen el bosque y Bambi?",
+    "answer": "Bambi",
+    "difficulty": 5
+  },
+  {
+    "id": 1297,
+    "question": "¿Quién escribió el cuento \"Heidi\"?",
+    "answer": "Johanna Spyri",
+    "difficulty": 1
+  },
+  {
+    "id": 1298,
+    "question": "¿Quién es el protagonista principal de \"Heidi\"?",
+    "answer": "Heidi",
+    "difficulty": 2
+  },
+  {
+    "id": 1299,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Heidi\"?",
+    "answer": "los Alpes",
+    "difficulty": 3
+  },
+  {
+    "id": 1300,
+    "question": "¿Qué cuento infantil se reconoce por una niña vive con su abuelo en la montaña?",
+    "answer": "Heidi",
+    "difficulty": 4
+  },
+  {
+    "id": 1301,
+    "question": "¿A qué relato clásico pertenecen los Alpes y Heidi?",
+    "answer": "Heidi",
+    "difficulty": 5
+  },
+  {
+    "id": 1302,
+    "question": "¿Quién escribió el cuento \"Pippi Calzaslargas\"?",
+    "answer": "Astrid Lindgren",
+    "difficulty": 1
+  },
+  {
+    "id": 1303,
+    "question": "¿Quién es el protagonista principal de \"Pippi Calzaslargas\"?",
+    "answer": "Pippi",
+    "difficulty": 2
+  },
+  {
+    "id": 1304,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Pippi Calzaslargas\"?",
+    "answer": "las trenzas pelirrojas",
+    "difficulty": 3
+  },
+  {
+    "id": 1305,
+    "question": "¿Qué cuento infantil se reconoce por una niña fortísima y muy independiente?",
+    "answer": "Pippi Calzaslargas",
+    "difficulty": 4
+  },
+  {
+    "id": 1306,
+    "question": "¿A qué relato clásico pertenecen las trenzas pelirrojas y Pippi?",
+    "answer": "Pippi Calzaslargas",
+    "difficulty": 5
+  },
+  {
+    "id": 1307,
+    "question": "¿Quién escribió el cuento \"Winnie-the-Pooh\"?",
+    "answer": "A. A. Milne",
+    "difficulty": 1
+  },
+  {
+    "id": 1308,
+    "question": "¿Quién es el protagonista principal de \"Winnie-the-Pooh\"?",
+    "answer": "Winnie-the-Pooh",
+    "difficulty": 2
+  },
+  {
+    "id": 1309,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Winnie-the-Pooh\"?",
+    "answer": "la miel",
+    "difficulty": 3
+  },
+  {
+    "id": 1310,
+    "question": "¿Qué cuento infantil se reconoce por un oso amistoso y sus aventuras en el Bosque de los Cien Acres?",
+    "answer": "Winnie-the-Pooh",
+    "difficulty": 4
+  },
+  {
+    "id": 1311,
+    "question": "¿A qué relato clásico pertenecen la miel y Winnie-the-Pooh?",
+    "answer": "Winnie-the-Pooh",
+    "difficulty": 5
+  },
+  {
+    "id": 1312,
+    "question": "¿Quién escribió el cuento \"El viento en los sauces\"?",
+    "answer": "Kenneth Grahame",
+    "difficulty": 1
+  },
+  {
+    "id": 1313,
+    "question": "¿Quién es el protagonista principal de \"El viento en los sauces\"?",
+    "answer": "Topo",
+    "difficulty": 2
+  },
+  {
+    "id": 1314,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El viento en los sauces\"?",
+    "answer": "el río",
+    "difficulty": 3
+  },
+  {
+    "id": 1315,
+    "question": "¿Qué cuento infantil se reconoce por animales parlantes y vida campestre inglesa?",
+    "answer": "El viento en los sauces",
+    "difficulty": 4
+  },
+  {
+    "id": 1316,
+    "question": "¿A qué relato clásico pertenecen el río y Topo?",
+    "answer": "El viento en los sauces",
+    "difficulty": 5
+  },
+  {
+    "id": 1317,
+    "question": "¿Quién escribió el cuento \"El libro de la selva\"?",
+    "answer": "Rudyard Kipling",
+    "difficulty": 1
+  },
+  {
+    "id": 1318,
+    "question": "¿Quién es el protagonista principal de \"El libro de la selva\"?",
+    "answer": "Mowgli",
+    "difficulty": 2
+  },
+  {
+    "id": 1319,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El libro de la selva\"?",
+    "answer": "la manada de lobos",
+    "difficulty": 3
+  },
+  {
+    "id": 1320,
+    "question": "¿Qué cuento infantil se reconoce por un niño criado en la jungla?",
+    "answer": "El libro de la selva",
+    "difficulty": 4
+  },
+  {
+    "id": 1321,
+    "question": "¿A qué relato clásico pertenecen la manada de lobos y Mowgli?",
+    "answer": "El libro de la selva",
+    "difficulty": 5
+  },
+  {
+    "id": 1322,
+    "question": "¿Quién escribió el cuento \"El gigante egoísta\"?",
+    "answer": "Oscar Wilde",
+    "difficulty": 1
+  },
+  {
+    "id": 1323,
+    "question": "¿Quién es el protagonista principal de \"El gigante egoísta\"?",
+    "answer": "el gigante",
+    "difficulty": 2
+  },
+  {
+    "id": 1324,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El gigante egoísta\"?",
+    "answer": "el jardín cerrado",
+    "difficulty": 3
+  },
+  {
+    "id": 1325,
+    "question": "¿Qué cuento infantil se reconoce por un jardín sin niños queda atrapado en el invierno?",
+    "answer": "El gigante egoísta",
+    "difficulty": 4
+  },
+  {
+    "id": 1326,
+    "question": "¿A qué relato clásico pertenecen el jardín cerrado y el gigante?",
+    "answer": "El gigante egoísta",
+    "difficulty": 5
+  },
+  {
+    "id": 1327,
+    "question": "¿Quién escribió el cuento \"Los músicos de Bremen\"?",
+    "answer": "los hermanos Grimm",
+    "difficulty": 1
+  },
+  {
+    "id": 1328,
+    "question": "¿Quién es el protagonista principal de \"Los músicos de Bremen\"?",
+    "answer": "el burro",
+    "difficulty": 2
+  },
+  {
+    "id": 1329,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Los músicos de Bremen\"?",
+    "answer": "la torre de animales",
+    "difficulty": 3
+  },
+  {
+    "id": 1330,
+    "question": "¿Qué cuento infantil se reconoce por cuatro animales buscan una nueva vida como músicos?",
+    "answer": "Los músicos de Bremen",
+    "difficulty": 4
+  },
+  {
+    "id": 1331,
+    "question": "¿A qué relato clásico pertenecen la torre de animales y el burro?",
+    "answer": "Los músicos de Bremen",
+    "difficulty": 5
+  },
+  {
+    "id": 1332,
+    "question": "¿Quién escribió el cuento \"La pequeña cerillera\"?",
+    "answer": "Hans Christian Andersen",
+    "difficulty": 1
+  },
+  {
+    "id": 1333,
+    "question": "¿Quién es el protagonista principal de \"La pequeña cerillera\"?",
+    "answer": "la cerillera",
+    "difficulty": 2
+  },
+  {
+    "id": 1334,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"La pequeña cerillera\"?",
+    "answer": "las cerillas encendidas",
+    "difficulty": 3
+  },
+  {
+    "id": 1335,
+    "question": "¿Qué cuento infantil se reconoce por una niña pobre tiene visiones en una noche helada?",
+    "answer": "La pequeña cerillera",
+    "difficulty": 4
+  },
+  {
+    "id": 1336,
+    "question": "¿A qué relato clásico pertenecen las cerillas encendidas y la cerillera?",
+    "answer": "La pequeña cerillera",
+    "difficulty": 5
+  },
+  {
+    "id": 1337,
+    "question": "¿Quién escribió el cuento \"El cascanueces y el rey de los ratones\"?",
+    "answer": "E. T. A. Hoffmann",
+    "difficulty": 1
+  },
+  {
+    "id": 1338,
+    "question": "¿Quién es el protagonista principal de \"El cascanueces y el rey de los ratones\"?",
+    "answer": "Marie",
+    "difficulty": 2
+  },
+  {
+    "id": 1339,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El cascanueces y el rey de los ratones\"?",
+    "answer": "el cascanueces",
+    "difficulty": 3
+  },
+  {
+    "id": 1340,
+    "question": "¿Qué cuento infantil se reconoce por un juguete se transforma en príncipe en Nochebuena?",
+    "answer": "El cascanueces y el rey de los ratones",
+    "difficulty": 4
+  },
+  {
+    "id": 1341,
+    "question": "¿A qué relato clásico pertenecen el cascanueces y Marie?",
+    "answer": "El cascanueces y el rey de los ratones",
+    "difficulty": 5
+  },
+  {
+    "id": 1342,
+    "question": "¿Quién escribió el cuento \"Las aventuras de Tom Sawyer\"?",
+    "answer": "Mark Twain",
+    "difficulty": 1
+  },
+  {
+    "id": 1343,
+    "question": "¿Quién es el protagonista principal de \"Las aventuras de Tom Sawyer\"?",
+    "answer": "Tom Sawyer",
+    "difficulty": 2
+  },
+  {
+    "id": 1344,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"Las aventuras de Tom Sawyer\"?",
+    "answer": "la valla encalada",
+    "difficulty": 3
+  },
+  {
+    "id": 1345,
+    "question": "¿Qué cuento infantil se reconoce por un muchacho travieso vive aventuras junto al Misisipi?",
+    "answer": "Las aventuras de Tom Sawyer",
+    "difficulty": 4
+  },
+  {
+    "id": 1346,
+    "question": "¿A qué relato clásico pertenecen la valla encalada y Tom Sawyer?",
+    "answer": "Las aventuras de Tom Sawyer",
+    "difficulty": 5
+  },
+  {
+    "id": 1347,
+    "question": "¿Quién escribió el cuento \"El Principito\"?",
+    "answer": "Antoine de Saint-Exupéry",
+    "difficulty": 1
+  },
+  {
+    "id": 1348,
+    "question": "¿Quién es el protagonista principal de \"El Principito\"?",
+    "answer": "el Principito",
+    "difficulty": 2
+  },
+  {
+    "id": 1349,
+    "question": "¿Qué elemento simbólico se asocia especialmente con \"El Principito\"?",
+    "answer": "la rosa",
+    "difficulty": 3
+  },
+  {
+    "id": 1350,
+    "question": "¿Qué cuento infantil se reconoce por un pequeño viajero de otro planeta habla de amistad y sentido?",
+    "answer": "El Principito",
+    "difficulty": 4
+  },
+  {
+    "id": 1351,
+    "question": "¿A qué relato clásico pertenecen la rosa y el Principito?",
+    "answer": "El Principito",
+    "difficulty": 5
   }
 ]

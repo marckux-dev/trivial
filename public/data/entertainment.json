@@ -3982,5 +3982,1205 @@
     "question": "¿Qué álbum de Amy Winehouse incluye canciones como “Rehab” y “You Know I'm No Good”?",
     "answer": "Back to Black",
     "difficulty": 3
+  },
+  {
+    "id": 665,
+    "question": "¿Qué serie de televisión se describe así: un justiciero acompañado por un automóvil parlante?",
+    "answer": "El coche fantástico",
+    "difficulty": 1
+  },
+  {
+    "id": 666,
+    "question": "¿En qué década se estrenó originalmente \"El coche fantástico\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 667,
+    "question": "¿En qué año debutó \"El coche fantástico\"?",
+    "answer": "1982",
+    "difficulty": 3
+  },
+  {
+    "id": 668,
+    "question": "¿Cuál es el principal escenario o contexto de \"El coche fantástico\"?",
+    "answer": "las carreteras de Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 669,
+    "question": "¿Qué serie reúne a Michael Knight y el coche KITT y se sitúa en las carreteras de Estados Unidos?",
+    "answer": "El coche fantástico",
+    "difficulty": 5
+  },
+  {
+    "id": 670,
+    "question": "¿Qué serie de televisión se describe así: un comando que ayuda a inocentes mientras huye del ejército?",
+    "answer": "El equipo A",
+    "difficulty": 1
+  },
+  {
+    "id": 671,
+    "question": "¿En qué década se estrenó originalmente \"El equipo A\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 672,
+    "question": "¿En qué año debutó \"El equipo A\"?",
+    "answer": "1983",
+    "difficulty": 3
+  },
+  {
+    "id": 673,
+    "question": "¿Cuál es el principal escenario o contexto de \"El equipo A\"?",
+    "answer": "misiones itinerantes por Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 674,
+    "question": "¿Qué serie reúne a Hannibal, M. A., Fénix y Murdock y se sitúa en misiones itinerantes por Estados Unidos?",
+    "answer": "El equipo A",
+    "difficulty": 5
+  },
+  {
+    "id": 675,
+    "question": "¿Qué serie de televisión se describe así: policías encubiertos, trajes pastel y música pop?",
+    "answer": "Corrupción en Miami",
+    "difficulty": 1
+  },
+  {
+    "id": 676,
+    "question": "¿En qué década se estrenó originalmente \"Corrupción en Miami\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 677,
+    "question": "¿En qué año debutó \"Corrupción en Miami\"?",
+    "answer": "1984",
+    "difficulty": 3
+  },
+  {
+    "id": 678,
+    "question": "¿Cuál es el principal escenario o contexto de \"Corrupción en Miami\"?",
+    "answer": "Miami",
+    "difficulty": 4
+  },
+  {
+    "id": 679,
+    "question": "¿Qué serie reúne a Sonny Crockett y Rico Tubbs y se sitúa en Miami?",
+    "answer": "Corrupción en Miami",
+    "difficulty": 5
+  },
+  {
+    "id": 680,
+    "question": "¿Qué serie de televisión se describe así: una novelista resuelve asesinatos con aguda observación?",
+    "answer": "Se ha escrito un crimen",
+    "difficulty": 1
+  },
+  {
+    "id": 681,
+    "question": "¿En qué década se estrenó originalmente \"Se ha escrito un crimen\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 682,
+    "question": "¿En qué año debutó \"Se ha escrito un crimen\"?",
+    "answer": "1984",
+    "difficulty": 3
+  },
+  {
+    "id": 683,
+    "question": "¿Cuál es el principal escenario o contexto de \"Se ha escrito un crimen\"?",
+    "answer": "Cabot Cove y otros lugares",
+    "difficulty": 4
+  },
+  {
+    "id": 684,
+    "question": "¿Qué serie reúne a Jessica Fletcher y se sitúa en Cabot Cove y otros lugares?",
+    "answer": "Se ha escrito un crimen",
+    "difficulty": 5
+  },
+  {
+    "id": 685,
+    "question": "¿Qué serie de televisión se describe así: cuatro mujeres mayores comparten casa y diálogos afilados?",
+    "answer": "Las chicas de oro",
+    "difficulty": 1
+  },
+  {
+    "id": 686,
+    "question": "¿En qué década se estrenó originalmente \"Las chicas de oro\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 687,
+    "question": "¿En qué año debutó \"Las chicas de oro\"?",
+    "answer": "1985",
+    "difficulty": 3
+  },
+  {
+    "id": 688,
+    "question": "¿Cuál es el principal escenario o contexto de \"Las chicas de oro\"?",
+    "answer": "Miami",
+    "difficulty": 4
+  },
+  {
+    "id": 689,
+    "question": "¿Qué serie reúne a Dorothy, Rose, Blanche y Sophia y se sitúa en Miami?",
+    "answer": "Las chicas de oro",
+    "difficulty": 5
+  },
+  {
+    "id": 690,
+    "question": "¿Qué serie de televisión se describe así: un héroe que improvisa soluciones con objetos cotidianos?",
+    "answer": "MacGyver",
+    "difficulty": 1
+  },
+  {
+    "id": 691,
+    "question": "¿En qué década se estrenó originalmente \"MacGyver\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 692,
+    "question": "¿En qué año debutó \"MacGyver\"?",
+    "answer": "1985",
+    "difficulty": 3
+  },
+  {
+    "id": 693,
+    "question": "¿Cuál es el principal escenario o contexto de \"MacGyver\"?",
+    "answer": "misiones internacionales y estadounidenses",
+    "difficulty": 4
+  },
+  {
+    "id": 694,
+    "question": "¿Qué serie reúne a Angus MacGyver y se sitúa en misiones internacionales y estadounidenses?",
+    "answer": "MacGyver",
+    "difficulty": 5
+  },
+  {
+    "id": 695,
+    "question": "¿Qué serie de televisión se describe así: un extraterrestre peludo vive oculto con una familia humana?",
+    "answer": "Alf",
+    "difficulty": 1
+  },
+  {
+    "id": 696,
+    "question": "¿En qué década se estrenó originalmente \"Alf\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 697,
+    "question": "¿En qué año debutó \"Alf\"?",
+    "answer": "1986",
+    "difficulty": 3
+  },
+  {
+    "id": 698,
+    "question": "¿Cuál es el principal escenario o contexto de \"Alf\"?",
+    "answer": "una casa suburbana en Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 699,
+    "question": "¿Qué serie reúne a ALF y la familia Tanner y se sitúa en una casa suburbana en Estados Unidos?",
+    "answer": "Alf",
+    "difficulty": 5
+  },
+  {
+    "id": 700,
+    "question": "¿Qué serie de televisión se describe así: exploración espacial con diplomacia y ciencia ficción?",
+    "answer": "Star Trek: La nueva generación",
+    "difficulty": 1
+  },
+  {
+    "id": 701,
+    "question": "¿En qué década se estrenó originalmente \"Star Trek: La nueva generación\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 702,
+    "question": "¿En qué año debutó \"Star Trek: La nueva generación\"?",
+    "answer": "1987",
+    "difficulty": 3
+  },
+  {
+    "id": 703,
+    "question": "¿Cuál es el principal escenario o contexto de \"Star Trek: La nueva generación\"?",
+    "answer": "la nave Enterprise-D",
+    "difficulty": 4
+  },
+  {
+    "id": 704,
+    "question": "¿Qué serie reúne a el capitán Picard y su tripulación y se sitúa en la nave Enterprise-D?",
+    "answer": "Star Trek: La nueva generación",
+    "difficulty": 5
+  },
+  {
+    "id": 705,
+    "question": "¿Qué serie de televisión se describe así: una familia amarilla satiriza la vida estadounidense?",
+    "answer": "Los Simpson",
+    "difficulty": 1
+  },
+  {
+    "id": 706,
+    "question": "¿En qué década se estrenó originalmente \"Los Simpson\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 707,
+    "question": "¿En qué año debutó \"Los Simpson\"?",
+    "answer": "1989",
+    "difficulty": 3
+  },
+  {
+    "id": 708,
+    "question": "¿Cuál es el principal escenario o contexto de \"Los Simpson\"?",
+    "answer": "Springfield",
+    "difficulty": 4
+  },
+  {
+    "id": 709,
+    "question": "¿Qué serie reúne a la familia Simpson y se sitúa en Springfield?",
+    "answer": "Los Simpson",
+    "difficulty": 5
+  },
+  {
+    "id": 710,
+    "question": "¿Qué serie de televisión se describe así: vigilantes de playa y acción junto al océano?",
+    "answer": "Baywatch",
+    "difficulty": 1
+  },
+  {
+    "id": 711,
+    "question": "¿En qué década se estrenó originalmente \"Baywatch\"?",
+    "answer": "los años 80",
+    "difficulty": 2
+  },
+  {
+    "id": 712,
+    "question": "¿En qué año debutó \"Baywatch\"?",
+    "answer": "1989",
+    "difficulty": 3
+  },
+  {
+    "id": 713,
+    "question": "¿Cuál es el principal escenario o contexto de \"Baywatch\"?",
+    "answer": "las playas de California",
+    "difficulty": 4
+  },
+  {
+    "id": 714,
+    "question": "¿Qué serie reúne a socorristas liderados por Mitch Buchannon y se sitúa en las playas de California?",
+    "answer": "Baywatch",
+    "difficulty": 5
+  },
+  {
+    "id": 715,
+    "question": "¿Qué serie de televisión se describe así: un misterio extraño empieza con el asesinato de Laura Palmer?",
+    "answer": "Twin Peaks",
+    "difficulty": 1
+  },
+  {
+    "id": 716,
+    "question": "¿En qué década se estrenó originalmente \"Twin Peaks\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 717,
+    "question": "¿En qué año debutó \"Twin Peaks\"?",
+    "answer": "1990",
+    "difficulty": 3
+  },
+  {
+    "id": 718,
+    "question": "¿Cuál es el principal escenario o contexto de \"Twin Peaks\"?",
+    "answer": "Twin Peaks, Washington",
+    "difficulty": 4
+  },
+  {
+    "id": 719,
+    "question": "¿Qué serie reúne a el agente Dale Cooper y se sitúa en Twin Peaks, Washington?",
+    "answer": "Twin Peaks",
+    "difficulty": 5
+  },
+  {
+    "id": 720,
+    "question": "¿Qué serie de televisión se describe así: un adolescente de Filadelfia se muda con familiares adinerados?",
+    "answer": "El príncipe de Bel-Air",
+    "difficulty": 1
+  },
+  {
+    "id": 721,
+    "question": "¿En qué década se estrenó originalmente \"El príncipe de Bel-Air\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 722,
+    "question": "¿En qué año debutó \"El príncipe de Bel-Air\"?",
+    "answer": "1990",
+    "difficulty": 3
+  },
+  {
+    "id": 723,
+    "question": "¿Cuál es el principal escenario o contexto de \"El príncipe de Bel-Air\"?",
+    "answer": "Bel-Air, Los Ángeles",
+    "difficulty": 4
+  },
+  {
+    "id": 724,
+    "question": "¿Qué serie reúne a Will y la familia Banks y se sitúa en Bel-Air, Los Ángeles?",
+    "answer": "El príncipe de Bel-Air",
+    "difficulty": 5
+  },
+  {
+    "id": 725,
+    "question": "¿Qué serie de televisión se describe así: dos agentes investigan ovnis y conspiraciones?",
+    "answer": "Expediente X",
+    "difficulty": 1
+  },
+  {
+    "id": 726,
+    "question": "¿En qué década se estrenó originalmente \"Expediente X\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 727,
+    "question": "¿En qué año debutó \"Expediente X\"?",
+    "answer": "1993",
+    "difficulty": 3
+  },
+  {
+    "id": 728,
+    "question": "¿Cuál es el principal escenario o contexto de \"Expediente X\"?",
+    "answer": "oficinas del FBI y casos paranormales por Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 729,
+    "question": "¿Qué serie reúne a Mulder y Scully y se sitúa en oficinas del FBI y casos paranormales por Estados Unidos?",
+    "answer": "Expediente X",
+    "difficulty": 5
+  },
+  {
+    "id": 730,
+    "question": "¿Qué serie de televisión se describe así: un psiquiatra radiofónico vive entre neurosis y humor refinado?",
+    "answer": "Frasier",
+    "difficulty": 1
+  },
+  {
+    "id": 731,
+    "question": "¿En qué década se estrenó originalmente \"Frasier\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 732,
+    "question": "¿En qué año debutó \"Frasier\"?",
+    "answer": "1993",
+    "difficulty": 3
+  },
+  {
+    "id": 733,
+    "question": "¿Cuál es el principal escenario o contexto de \"Frasier\"?",
+    "answer": "Seattle",
+    "difficulty": 4
+  },
+  {
+    "id": 734,
+    "question": "¿Qué serie reúne a Frasier Crane y su entorno familiar y laboral y se sitúa en Seattle?",
+    "answer": "Frasier",
+    "difficulty": 5
+  },
+  {
+    "id": 735,
+    "question": "¿Qué serie de televisión se describe así: seis amigos comparten piso, café y vida sentimental?",
+    "answer": "Friends",
+    "difficulty": 1
+  },
+  {
+    "id": 736,
+    "question": "¿En qué década se estrenó originalmente \"Friends\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 737,
+    "question": "¿En qué año debutó \"Friends\"?",
+    "answer": "1994",
+    "difficulty": 3
+  },
+  {
+    "id": 738,
+    "question": "¿Cuál es el principal escenario o contexto de \"Friends\"?",
+    "answer": "Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 739,
+    "question": "¿Qué serie reúne a Rachel, Ross, Monica, Chandler, Joey y Phoebe y se sitúa en Nueva York?",
+    "answer": "Friends",
+    "difficulty": 5
+  },
+  {
+    "id": 740,
+    "question": "¿Qué serie de televisión se describe así: drama médico vertiginoso en una sala de emergencias?",
+    "answer": "Urgencias",
+    "difficulty": 1
+  },
+  {
+    "id": 741,
+    "question": "¿En qué década se estrenó originalmente \"Urgencias\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 742,
+    "question": "¿En qué año debutó \"Urgencias\"?",
+    "answer": "1994",
+    "difficulty": 3
+  },
+  {
+    "id": 743,
+    "question": "¿Cuál es el principal escenario o contexto de \"Urgencias\"?",
+    "answer": "un hospital de Chicago",
+    "difficulty": 4
+  },
+  {
+    "id": 744,
+    "question": "¿Qué serie reúne a médicos y enfermeras del County General y se sitúa en un hospital de Chicago?",
+    "answer": "Urgencias",
+    "difficulty": 5
+  },
+  {
+    "id": 745,
+    "question": "¿Qué serie de televisión se describe así: aventuras fantásticas de una heroína con chakram?",
+    "answer": "Xena: la princesa guerrera",
+    "difficulty": 1
+  },
+  {
+    "id": 746,
+    "question": "¿En qué década se estrenó originalmente \"Xena: la princesa guerrera\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 747,
+    "question": "¿En qué año debutó \"Xena: la princesa guerrera\"?",
+    "answer": "1995",
+    "difficulty": 3
+  },
+  {
+    "id": 748,
+    "question": "¿Cuál es el principal escenario o contexto de \"Xena: la princesa guerrera\"?",
+    "answer": "una Grecia mítica",
+    "difficulty": 4
+  },
+  {
+    "id": 749,
+    "question": "¿Qué serie reúne a Xena y Gabrielle y se sitúa en una Grecia mítica?",
+    "answer": "Xena: la princesa guerrera",
+    "difficulty": 5
+  },
+  {
+    "id": 750,
+    "question": "¿Qué serie de televisión se describe así: hazañas heroicas basadas libremente en mitos clásicos?",
+    "answer": "Hércules: sus viajes legendarios",
+    "difficulty": 1
+  },
+  {
+    "id": 751,
+    "question": "¿En qué década se estrenó originalmente \"Hércules: sus viajes legendarios\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 752,
+    "question": "¿En qué año debutó \"Hércules: sus viajes legendarios\"?",
+    "answer": "1995",
+    "difficulty": 3
+  },
+  {
+    "id": 753,
+    "question": "¿Cuál es el principal escenario o contexto de \"Hércules: sus viajes legendarios\"?",
+    "answer": "un mundo inspirado en la mitología griega",
+    "difficulty": 4
+  },
+  {
+    "id": 754,
+    "question": "¿Qué serie reúne a Hércules e Iolaus y se sitúa en un mundo inspirado en la mitología griega?",
+    "answer": "Hércules: sus viajes legendarios",
+    "difficulty": 5
+  },
+  {
+    "id": 755,
+    "question": "¿Qué serie de televisión se describe así: una estudiante compagina instituto y monstruos?",
+    "answer": "Buffy, cazavampiros",
+    "difficulty": 1
+  },
+  {
+    "id": 756,
+    "question": "¿En qué década se estrenó originalmente \"Buffy, cazavampiros\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 757,
+    "question": "¿En qué año debutó \"Buffy, cazavampiros\"?",
+    "answer": "1997",
+    "difficulty": 3
+  },
+  {
+    "id": 758,
+    "question": "¿Cuál es el principal escenario o contexto de \"Buffy, cazavampiros\"?",
+    "answer": "Sunnydale",
+    "difficulty": 4
+  },
+  {
+    "id": 759,
+    "question": "¿Qué serie reúne a Buffy y la Scooby Gang y se sitúa en Sunnydale?",
+    "answer": "Buffy, cazavampiros",
+    "difficulty": 5
+  },
+  {
+    "id": 760,
+    "question": "¿Qué serie de televisión se describe así: animación irreverente con humor provocador?",
+    "answer": "South Park",
+    "difficulty": 1
+  },
+  {
+    "id": 761,
+    "question": "¿En qué década se estrenó originalmente \"South Park\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 762,
+    "question": "¿En qué año debutó \"South Park\"?",
+    "answer": "1997",
+    "difficulty": 3
+  },
+  {
+    "id": 763,
+    "question": "¿Cuál es el principal escenario o contexto de \"South Park\"?",
+    "answer": "South Park, Colorado",
+    "difficulty": 4
+  },
+  {
+    "id": 764,
+    "question": "¿Qué serie reúne a Stan, Kyle, Cartman y Kenny y se sitúa en South Park, Colorado?",
+    "answer": "South Park",
+    "difficulty": 5
+  },
+  {
+    "id": 765,
+    "question": "¿Qué serie de televisión se describe así: cuatro amigas hablan de amor, trabajo y estilo urbano?",
+    "answer": "Sexo en Nueva York",
+    "difficulty": 1
+  },
+  {
+    "id": 766,
+    "question": "¿En qué década se estrenó originalmente \"Sexo en Nueva York\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 767,
+    "question": "¿En qué año debutó \"Sexo en Nueva York\"?",
+    "answer": "1998",
+    "difficulty": 3
+  },
+  {
+    "id": 768,
+    "question": "¿Cuál es el principal escenario o contexto de \"Sexo en Nueva York\"?",
+    "answer": "Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 769,
+    "question": "¿Qué serie reúne a Carrie, Miranda, Charlotte y Samantha y se sitúa en Nueva York?",
+    "answer": "Sexo en Nueva York",
+    "difficulty": 5
+  },
+  {
+    "id": 770,
+    "question": "¿Qué serie de televisión se describe así: tres hermanas descubren que son brujas poderosas?",
+    "answer": "Embrujadas",
+    "difficulty": 1
+  },
+  {
+    "id": 771,
+    "question": "¿En qué década se estrenó originalmente \"Embrujadas\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 772,
+    "question": "¿En qué año debutó \"Embrujadas\"?",
+    "answer": "1998",
+    "difficulty": 3
+  },
+  {
+    "id": 773,
+    "question": "¿Cuál es el principal escenario o contexto de \"Embrujadas\"?",
+    "answer": "San Francisco",
+    "difficulty": 4
+  },
+  {
+    "id": 774,
+    "question": "¿Qué serie reúne a las hermanas Halliwell y se sitúa en San Francisco?",
+    "answer": "Embrujadas",
+    "difficulty": 5
+  },
+  {
+    "id": 775,
+    "question": "¿Qué serie de televisión se describe así: un jefe criminal va a terapia mientras dirige su clan?",
+    "answer": "The Sopranos",
+    "difficulty": 1
+  },
+  {
+    "id": 776,
+    "question": "¿En qué década se estrenó originalmente \"The Sopranos\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 777,
+    "question": "¿En qué año debutó \"The Sopranos\"?",
+    "answer": "1999",
+    "difficulty": 3
+  },
+  {
+    "id": 778,
+    "question": "¿Cuál es el principal escenario o contexto de \"The Sopranos\"?",
+    "answer": "Nueva Jersey",
+    "difficulty": 4
+  },
+  {
+    "id": 779,
+    "question": "¿Qué serie reúne a Tony Soprano y su familia mafiosa y se sitúa en Nueva Jersey?",
+    "answer": "The Sopranos",
+    "difficulty": 5
+  },
+  {
+    "id": 780,
+    "question": "¿Qué serie de televisión se describe así: un repartidor despierta en el siglo XXXI?",
+    "answer": "Futurama",
+    "difficulty": 1
+  },
+  {
+    "id": 781,
+    "question": "¿En qué década se estrenó originalmente \"Futurama\"?",
+    "answer": "los años 90",
+    "difficulty": 2
+  },
+  {
+    "id": 782,
+    "question": "¿En qué año debutó \"Futurama\"?",
+    "answer": "1999",
+    "difficulty": 3
+  },
+  {
+    "id": 783,
+    "question": "¿Cuál es el principal escenario o contexto de \"Futurama\"?",
+    "answer": "Nueva Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 784,
+    "question": "¿Qué serie reúne a Fry, Leela y Bender y se sitúa en Nueva Nueva York?",
+    "answer": "Futurama",
+    "difficulty": 5
+  },
+  {
+    "id": 785,
+    "question": "¿Qué serie de televisión se describe así: investigación policial basada en pruebas científicas?",
+    "answer": "CSI: Las Vegas",
+    "difficulty": 1
+  },
+  {
+    "id": 786,
+    "question": "¿En qué década se estrenó originalmente \"CSI: Las Vegas\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 787,
+    "question": "¿En qué año debutó \"CSI: Las Vegas\"?",
+    "answer": "2000",
+    "difficulty": 3
+  },
+  {
+    "id": 788,
+    "question": "¿Cuál es el principal escenario o contexto de \"CSI: Las Vegas\"?",
+    "answer": "Las Vegas",
+    "difficulty": 4
+  },
+  {
+    "id": 789,
+    "question": "¿Qué serie reúne a el equipo forense del laboratorio criminalístico y se sitúa en Las Vegas?",
+    "answer": "CSI: Las Vegas",
+    "difficulty": 5
+  },
+  {
+    "id": 790,
+    "question": "¿Qué serie de televisión se describe así: madre e hija comparten diálogos rápidos y mucha cafeína?",
+    "answer": "Gilmore Girls",
+    "difficulty": 1
+  },
+  {
+    "id": 791,
+    "question": "¿En qué década se estrenó originalmente \"Gilmore Girls\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 792,
+    "question": "¿En qué año debutó \"Gilmore Girls\"?",
+    "answer": "2000",
+    "difficulty": 3
+  },
+  {
+    "id": 793,
+    "question": "¿Cuál es el principal escenario o contexto de \"Gilmore Girls\"?",
+    "answer": "Stars Hollow, Connecticut",
+    "difficulty": 4
+  },
+  {
+    "id": 794,
+    "question": "¿Qué serie reúne a Lorelai y Rory Gilmore y se sitúa en Stars Hollow, Connecticut?",
+    "answer": "Gilmore Girls",
+    "difficulty": 5
+  },
+  {
+    "id": 795,
+    "question": "¿Qué serie de televisión se describe así: los años de juventud del futuro Superman?",
+    "answer": "Smallville",
+    "difficulty": 1
+  },
+  {
+    "id": 796,
+    "question": "¿En qué década se estrenó originalmente \"Smallville\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 797,
+    "question": "¿En qué año debutó \"Smallville\"?",
+    "answer": "2001",
+    "difficulty": 3
+  },
+  {
+    "id": 798,
+    "question": "¿Cuál es el principal escenario o contexto de \"Smallville\"?",
+    "answer": "Smallville, Kansas",
+    "difficulty": 4
+  },
+  {
+    "id": 799,
+    "question": "¿Qué serie reúne a Clark Kent y sus amigos y se sitúa en Smallville, Kansas?",
+    "answer": "Smallville",
+    "difficulty": 5
+  },
+  {
+    "id": 800,
+    "question": "¿Qué serie de televisión se describe así: cada temporada sigue un día en tiempo casi real?",
+    "answer": "24",
+    "difficulty": 1
+  },
+  {
+    "id": 801,
+    "question": "¿En qué década se estrenó originalmente \"24\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 802,
+    "question": "¿En qué año debutó \"24\"?",
+    "answer": "2001",
+    "difficulty": 3
+  },
+  {
+    "id": 803,
+    "question": "¿Cuál es el principal escenario o contexto de \"24\"?",
+    "answer": "Los Ángeles y operaciones antiterroristas",
+    "difficulty": 4
+  },
+  {
+    "id": 804,
+    "question": "¿Qué serie reúne a Jack Bauer y se sitúa en Los Ángeles y operaciones antiterroristas?",
+    "answer": "24",
+    "difficulty": 5
+  },
+  {
+    "id": 805,
+    "question": "¿Qué serie de televisión se describe así: retrato coral del crimen y las instituciones urbanas?",
+    "answer": "The Wire",
+    "difficulty": 1
+  },
+  {
+    "id": 806,
+    "question": "¿En qué década se estrenó originalmente \"The Wire\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 807,
+    "question": "¿En qué año debutó \"The Wire\"?",
+    "answer": "2002",
+    "difficulty": 3
+  },
+  {
+    "id": 808,
+    "question": "¿Cuál es el principal escenario o contexto de \"The Wire\"?",
+    "answer": "Baltimore",
+    "difficulty": 4
+  },
+  {
+    "id": 809,
+    "question": "¿Qué serie reúne a policías, traficantes y políticos de la ciudad y se sitúa en Baltimore?",
+    "answer": "The Wire",
+    "difficulty": 5
+  },
+  {
+    "id": 810,
+    "question": "¿Qué serie de televisión se describe así: un detective brillante con trastorno obsesivo resuelve casos?",
+    "answer": "Monk",
+    "difficulty": 1
+  },
+  {
+    "id": 811,
+    "question": "¿En qué década se estrenó originalmente \"Monk\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 812,
+    "question": "¿En qué año debutó \"Monk\"?",
+    "answer": "2002",
+    "difficulty": 3
+  },
+  {
+    "id": 813,
+    "question": "¿Cuál es el principal escenario o contexto de \"Monk\"?",
+    "answer": "San Francisco",
+    "difficulty": 4
+  },
+  {
+    "id": 814,
+    "question": "¿Qué serie reúne a Adrian Monk y se sitúa en San Francisco?",
+    "answer": "Monk",
+    "difficulty": 5
+  },
+  {
+    "id": 815,
+    "question": "¿Qué serie de televisión se describe así: drama juvenil en una comunidad acomodada costera?",
+    "answer": "The O.C.",
+    "difficulty": 1
+  },
+  {
+    "id": 816,
+    "question": "¿En qué década se estrenó originalmente \"The O.C.\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 817,
+    "question": "¿En qué año debutó \"The O.C.\"?",
+    "answer": "2003",
+    "difficulty": 3
+  },
+  {
+    "id": 818,
+    "question": "¿Cuál es el principal escenario o contexto de \"The O.C.\"?",
+    "answer": "Orange County, California",
+    "difficulty": 4
+  },
+  {
+    "id": 819,
+    "question": "¿Qué serie reúne a Ryan, Seth, Summer y Marissa y se sitúa en Orange County, California?",
+    "answer": "The O.C.",
+    "difficulty": 5
+  },
+  {
+    "id": 820,
+    "question": "¿Qué serie de televisión se describe así: un accidente aéreo lleva a una comunidad a enfrentar enigmas?",
+    "answer": "Lost",
+    "difficulty": 1
+  },
+  {
+    "id": 821,
+    "question": "¿En qué década se estrenó originalmente \"Lost\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 822,
+    "question": "¿En qué año debutó \"Lost\"?",
+    "answer": "2004",
+    "difficulty": 3
+  },
+  {
+    "id": 823,
+    "question": "¿Cuál es el principal escenario o contexto de \"Lost\"?",
+    "answer": "una isla misteriosa del Pacífico",
+    "difficulty": 4
+  },
+  {
+    "id": 824,
+    "question": "¿Qué serie reúne a los supervivientes del vuelo 815 y se sitúa en una isla misteriosa del Pacífico?",
+    "answer": "Lost",
+    "difficulty": 5
+  },
+  {
+    "id": 825,
+    "question": "¿Qué serie de televisión se describe así: drama y sátira suburbana tras una muerte inesperada?",
+    "answer": "Mujeres desesperadas",
+    "difficulty": 1
+  },
+  {
+    "id": 826,
+    "question": "¿En qué década se estrenó originalmente \"Mujeres desesperadas\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 827,
+    "question": "¿En qué año debutó \"Mujeres desesperadas\"?",
+    "answer": "2004",
+    "difficulty": 3
+  },
+  {
+    "id": 828,
+    "question": "¿Cuál es el principal escenario o contexto de \"Mujeres desesperadas\"?",
+    "answer": "Wisteria Lane",
+    "difficulty": 4
+  },
+  {
+    "id": 829,
+    "question": "¿Qué serie reúne a Susan, Lynette, Bree y Gabrielle y se sitúa en Wisteria Lane?",
+    "answer": "Mujeres desesperadas",
+    "difficulty": 5
+  },
+  {
+    "id": 830,
+    "question": "¿Qué serie de televisión se describe así: un doctor genial y huraño diagnostica casos imposibles?",
+    "answer": "House",
+    "difficulty": 1
+  },
+  {
+    "id": 831,
+    "question": "¿En qué década se estrenó originalmente \"House\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 832,
+    "question": "¿En qué año debutó \"House\"?",
+    "answer": "2004",
+    "difficulty": 3
+  },
+  {
+    "id": 833,
+    "question": "¿Cuál es el principal escenario o contexto de \"House\"?",
+    "answer": "el hospital Princeton-Plainsboro",
+    "difficulty": 4
+  },
+  {
+    "id": 834,
+    "question": "¿Qué serie reúne a Gregory House y su equipo médico y se sitúa en el hospital Princeton-Plainsboro?",
+    "answer": "House",
+    "difficulty": 5
+  },
+  {
+    "id": 835,
+    "question": "¿Qué serie de televisión se describe así: una larga historia retrospectiva sobre amistades y amor?",
+    "answer": "Cómo conocí a vuestra madre",
+    "difficulty": 1
+  },
+  {
+    "id": 836,
+    "question": "¿En qué década se estrenó originalmente \"Cómo conocí a vuestra madre\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 837,
+    "question": "¿En qué año debutó \"Cómo conocí a vuestra madre\"?",
+    "answer": "2005",
+    "difficulty": 3
+  },
+  {
+    "id": 838,
+    "question": "¿Cuál es el principal escenario o contexto de \"Cómo conocí a vuestra madre\"?",
+    "answer": "Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 839,
+    "question": "¿Qué serie reúne a Ted, Robin, Barney, Marshall y Lily y se sitúa en Nueva York?",
+    "answer": "Cómo conocí a vuestra madre",
+    "difficulty": 5
+  },
+  {
+    "id": 840,
+    "question": "¿Qué serie de televisión se describe así: un hombre entra en prisión para sacar a su hermano?",
+    "answer": "Prison Break",
+    "difficulty": 1
+  },
+  {
+    "id": 841,
+    "question": "¿En qué década se estrenó originalmente \"Prison Break\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 842,
+    "question": "¿En qué año debutó \"Prison Break\"?",
+    "answer": "2005",
+    "difficulty": 3
+  },
+  {
+    "id": 843,
+    "question": "¿Cuál es el principal escenario o contexto de \"Prison Break\"?",
+    "answer": "la prisión de Fox River y otros lugares",
+    "difficulty": 4
+  },
+  {
+    "id": 844,
+    "question": "¿Qué serie reúne a Michael Scofield y Lincoln Burrows y se sitúa en la prisión de Fox River y otros lugares?",
+    "answer": "Prison Break",
+    "difficulty": 5
+  },
+  {
+    "id": 845,
+    "question": "¿Qué serie de televisión se describe así: un analista forense lleva una doble vida como asesino?",
+    "answer": "Dexter",
+    "difficulty": 1
+  },
+  {
+    "id": 846,
+    "question": "¿En qué década se estrenó originalmente \"Dexter\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 847,
+    "question": "¿En qué año debutó \"Dexter\"?",
+    "answer": "2006",
+    "difficulty": 3
+  },
+  {
+    "id": 848,
+    "question": "¿Cuál es el principal escenario o contexto de \"Dexter\"?",
+    "answer": "Miami",
+    "difficulty": 4
+  },
+  {
+    "id": 849,
+    "question": "¿Qué serie reúne a Dexter Morgan y se sitúa en Miami?",
+    "answer": "Dexter",
+    "difficulty": 5
+  },
+  {
+    "id": 850,
+    "question": "¿Qué serie de televisión se describe así: una asistente poco convencional entra en el mundo de la moda?",
+    "answer": "Ugly Betty",
+    "difficulty": 1
+  },
+  {
+    "id": 851,
+    "question": "¿En qué década se estrenó originalmente \"Ugly Betty\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 852,
+    "question": "¿En qué año debutó \"Ugly Betty\"?",
+    "answer": "2006",
+    "difficulty": 3
+  },
+  {
+    "id": 853,
+    "question": "¿Cuál es el principal escenario o contexto de \"Ugly Betty\"?",
+    "answer": "Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 854,
+    "question": "¿Qué serie reúne a Betty Suarez y la revista Mode y se sitúa en Nueva York?",
+    "answer": "Ugly Betty",
+    "difficulty": 5
+  },
+  {
+    "id": 855,
+    "question": "¿Qué serie de televisión se describe así: drama elegante sobre publicidad y sociedad en los años 60?",
+    "answer": "Mad Men",
+    "difficulty": 1
+  },
+  {
+    "id": 856,
+    "question": "¿En qué década se estrenó originalmente \"Mad Men\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 857,
+    "question": "¿En qué año debutó \"Mad Men\"?",
+    "answer": "2007",
+    "difficulty": 3
+  },
+  {
+    "id": 858,
+    "question": "¿Cuál es el principal escenario o contexto de \"Mad Men\"?",
+    "answer": "agencias de publicidad de Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 859,
+    "question": "¿Qué serie reúne a Don Draper y sus colegas y se sitúa en agencias de publicidad de Nueva York?",
+    "answer": "Mad Men",
+    "difficulty": 5
+  },
+  {
+    "id": 860,
+    "question": "¿Qué serie de televisión se describe así: la élite adolescente neoyorquina vive bajo una voz anónima?",
+    "answer": "Gossip Girl",
+    "difficulty": 1
+  },
+  {
+    "id": 861,
+    "question": "¿En qué década se estrenó originalmente \"Gossip Girl\"?",
+    "answer": "los años 2000",
+    "difficulty": 2
+  },
+  {
+    "id": 862,
+    "question": "¿En qué año debutó \"Gossip Girl\"?",
+    "answer": "2007",
+    "difficulty": 3
+  },
+  {
+    "id": 863,
+    "question": "¿Cuál es el principal escenario o contexto de \"Gossip Girl\"?",
+    "answer": "el Upper East Side de Nueva York",
+    "difficulty": 4
+  },
+  {
+    "id": 864,
+    "question": "¿Qué serie reúne a Serena, Blair, Dan, Chuck y Nate y se sitúa en el Upper East Side de Nueva York?",
+    "answer": "Gossip Girl",
+    "difficulty": 5
   }
 ]

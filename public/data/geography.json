@@ -4198,5 +4198,1205 @@
     "question": "¿Qué paso marítimo separa Alaska de Siberia?",
     "answer": "El estrecho de Bering",
     "difficulty": 3
+  },
+  {
+    "id": 701,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Amélie\"?",
+    "answer": "París",
+    "difficulty": 1
+  },
+  {
+    "id": 702,
+    "question": "¿En qué país se encuentra París, lugar muy asociado a \"Amélie\"?",
+    "answer": "Francia",
+    "difficulty": 2
+  },
+  {
+    "id": 703,
+    "question": "¿Qué película queda especialmente ligada a París?",
+    "answer": "Amélie",
+    "difficulty": 3
+  },
+  {
+    "id": 704,
+    "question": "Si quisieras recrear el ambiente principal de \"Amélie\", ¿qué lugar deberías visitar?",
+    "answer": "París",
+    "difficulty": 4
+  },
+  {
+    "id": 705,
+    "question": "¿Qué localización cinematográfica se reconoce por Montmartre, cafés de barrio y paseos por el Sena en \"Amélie\"?",
+    "answer": "París",
+    "difficulty": 5
+  },
+  {
+    "id": 706,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Lost in Translation\"?",
+    "answer": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "id": 707,
+    "question": "¿En qué país se encuentra Tokio, lugar muy asociado a \"Lost in Translation\"?",
+    "answer": "Japón",
+    "difficulty": 2
+  },
+  {
+    "id": 708,
+    "question": "¿Qué película queda especialmente ligada a Tokio?",
+    "answer": "Lost in Translation",
+    "difficulty": 3
+  },
+  {
+    "id": 709,
+    "question": "Si quisieras recrear el ambiente principal de \"Lost in Translation\", ¿qué lugar deberías visitar?",
+    "answer": "Tokio",
+    "difficulty": 4
+  },
+  {
+    "id": 710,
+    "question": "¿Qué localización cinematográfica se reconoce por neones, karaoke y hoteles con vistas a Shinjuku en \"Lost in Translation\"?",
+    "answer": "Tokio",
+    "difficulty": 5
+  },
+  {
+    "id": 711,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Vacaciones en Roma\"?",
+    "answer": "Roma",
+    "difficulty": 1
+  },
+  {
+    "id": 712,
+    "question": "¿En qué país se encuentra Roma, lugar muy asociado a \"Vacaciones en Roma\"?",
+    "answer": "Italia",
+    "difficulty": 2
+  },
+  {
+    "id": 713,
+    "question": "¿Qué película queda especialmente ligada a Roma?",
+    "answer": "Vacaciones en Roma",
+    "difficulty": 3
+  },
+  {
+    "id": 714,
+    "question": "Si quisieras recrear el ambiente principal de \"Vacaciones en Roma\", ¿qué lugar deberías visitar?",
+    "answer": "Roma",
+    "difficulty": 4
+  },
+  {
+    "id": 715,
+    "question": "¿Qué localización cinematográfica se reconoce por la Vespa, la Fontana di Trevi y la Plaza de España en \"Vacaciones en Roma\"?",
+    "answer": "Roma",
+    "difficulty": 5
+  },
+  {
+    "id": 716,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Sonrisas y lágrimas\"?",
+    "answer": "Salzburgo",
+    "difficulty": 1
+  },
+  {
+    "id": 717,
+    "question": "¿En qué país se encuentra Salzburgo, lugar muy asociado a \"Sonrisas y lágrimas\"?",
+    "answer": "Austria",
+    "difficulty": 2
+  },
+  {
+    "id": 718,
+    "question": "¿Qué película queda especialmente ligada a Salzburgo?",
+    "answer": "Sonrisas y lágrimas",
+    "difficulty": 3
+  },
+  {
+    "id": 719,
+    "question": "Si quisieras recrear el ambiente principal de \"Sonrisas y lágrimas\", ¿qué lugar deberías visitar?",
+    "answer": "Salzburgo",
+    "difficulty": 4
+  },
+  {
+    "id": 720,
+    "question": "¿Qué localización cinematográfica se reconoce por colinas alpinas y jardines barrocos en \"Sonrisas y lágrimas\"?",
+    "answer": "Salzburgo",
+    "difficulty": 5
+  },
+  {
+    "id": 721,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Casablanca\"?",
+    "answer": "Casablanca",
+    "difficulty": 1
+  },
+  {
+    "id": 722,
+    "question": "¿En qué país se encuentra Casablanca, lugar muy asociado a \"Casablanca\"?",
+    "answer": "Marruecos",
+    "difficulty": 2
+  },
+  {
+    "id": 723,
+    "question": "¿Qué película queda especialmente ligada a Casablanca?",
+    "answer": "Casablanca",
+    "difficulty": 3
+  },
+  {
+    "id": 724,
+    "question": "Si quisieras recrear el ambiente principal de \"Casablanca\", ¿qué lugar deberías visitar?",
+    "answer": "Casablanca",
+    "difficulty": 4
+  },
+  {
+    "id": 725,
+    "question": "¿Qué localización cinematográfica se reconoce por cafés coloniales y ambiente del norte de África en \"Casablanca\"?",
+    "answer": "Casablanca",
+    "difficulty": 5
+  },
+  {
+    "id": 726,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Slumdog Millionaire\"?",
+    "answer": "Mumbai",
+    "difficulty": 1
+  },
+  {
+    "id": 727,
+    "question": "¿En qué país se encuentra Mumbai, lugar muy asociado a \"Slumdog Millionaire\"?",
+    "answer": "India",
+    "difficulty": 2
+  },
+  {
+    "id": 728,
+    "question": "¿Qué película queda especialmente ligada a Mumbai?",
+    "answer": "Slumdog Millionaire",
+    "difficulty": 3
+  },
+  {
+    "id": 729,
+    "question": "Si quisieras recrear el ambiente principal de \"Slumdog Millionaire\", ¿qué lugar deberías visitar?",
+    "answer": "Mumbai",
+    "difficulty": 4
+  },
+  {
+    "id": 730,
+    "question": "¿Qué localización cinematográfica se reconoce por barrios populosos, trenes y el concurso televisivo en \"Slumdog Millionaire\"?",
+    "answer": "Mumbai",
+    "difficulty": 5
+  },
+  {
+    "id": 731,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Ciudad de Dios\"?",
+    "answer": "Río de Janeiro",
+    "difficulty": 1
+  },
+  {
+    "id": 732,
+    "question": "¿En qué país se encuentra Río de Janeiro, lugar muy asociado a \"Ciudad de Dios\"?",
+    "answer": "Brasil",
+    "difficulty": 2
+  },
+  {
+    "id": 733,
+    "question": "¿Qué película queda especialmente ligada a Río de Janeiro?",
+    "answer": "Ciudad de Dios",
+    "difficulty": 3
+  },
+  {
+    "id": 734,
+    "question": "Si quisieras recrear el ambiente principal de \"Ciudad de Dios\", ¿qué lugar deberías visitar?",
+    "answer": "Río de Janeiro",
+    "difficulty": 4
+  },
+  {
+    "id": 735,
+    "question": "¿Qué localización cinematográfica se reconoce por favelas y periferia urbana carioca en \"Ciudad de Dios\"?",
+    "answer": "Río de Janeiro",
+    "difficulty": 5
+  },
+  {
+    "id": 736,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Antes del amanecer\"?",
+    "answer": "Viena",
+    "difficulty": 1
+  },
+  {
+    "id": 737,
+    "question": "¿En qué país se encuentra Viena, lugar muy asociado a \"Antes del amanecer\"?",
+    "answer": "Austria",
+    "difficulty": 2
+  },
+  {
+    "id": 738,
+    "question": "¿Qué película queda especialmente ligada a Viena?",
+    "answer": "Antes del amanecer",
+    "difficulty": 3
+  },
+  {
+    "id": 739,
+    "question": "Si quisieras recrear el ambiente principal de \"Antes del amanecer\", ¿qué lugar deberías visitar?",
+    "answer": "Viena",
+    "difficulty": 4
+  },
+  {
+    "id": 740,
+    "question": "¿Qué localización cinematográfica se reconoce por calles históricas y conversación nocturna junto al Danubio en \"Antes del amanecer\"?",
+    "answer": "Viena",
+    "difficulty": 5
+  },
+  {
+    "id": 741,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Escondidos en Brujas\"?",
+    "answer": "Brujas",
+    "difficulty": 1
+  },
+  {
+    "id": 742,
+    "question": "¿En qué país se encuentra Brujas, lugar muy asociado a \"Escondidos en Brujas\"?",
+    "answer": "Bélgica",
+    "difficulty": 2
+  },
+  {
+    "id": 743,
+    "question": "¿Qué película queda especialmente ligada a Brujas?",
+    "answer": "Escondidos en Brujas",
+    "difficulty": 3
+  },
+  {
+    "id": 744,
+    "question": "Si quisieras recrear el ambiente principal de \"Escondidos en Brujas\", ¿qué lugar deberías visitar?",
+    "answer": "Brujas",
+    "difficulty": 4
+  },
+  {
+    "id": 745,
+    "question": "¿Qué localización cinematográfica se reconoce por canales medievales y campanarios flamencos en \"Escondidos en Brujas\"?",
+    "answer": "Brujas",
+    "difficulty": 5
+  },
+  {
+    "id": 746,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El tercer hombre\"?",
+    "answer": "Viena",
+    "difficulty": 1
+  },
+  {
+    "id": 747,
+    "question": "¿En qué país se encuentra Viena, lugar muy asociado a \"El tercer hombre\"?",
+    "answer": "Austria",
+    "difficulty": 2
+  },
+  {
+    "id": 748,
+    "question": "¿Qué película queda especialmente ligada a Viena?",
+    "answer": "El tercer hombre",
+    "difficulty": 3
+  },
+  {
+    "id": 749,
+    "question": "Si quisieras recrear el ambiente principal de \"El tercer hombre\", ¿qué lugar deberías visitar?",
+    "answer": "Viena",
+    "difficulty": 4
+  },
+  {
+    "id": 750,
+    "question": "¿Qué localización cinematográfica se reconoce por alcantarillas, ruinas de posguerra y calles adoquinadas en \"El tercer hombre\"?",
+    "answer": "Viena",
+    "difficulty": 5
+  },
+  {
+    "id": 751,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Notting Hill\"?",
+    "answer": "Londres",
+    "difficulty": 1
+  },
+  {
+    "id": 752,
+    "question": "¿En qué país se encuentra Londres, lugar muy asociado a \"Notting Hill\"?",
+    "answer": "Reino Unido",
+    "difficulty": 2
+  },
+  {
+    "id": 753,
+    "question": "¿Qué película queda especialmente ligada a Londres?",
+    "answer": "Notting Hill",
+    "difficulty": 3
+  },
+  {
+    "id": 754,
+    "question": "Si quisieras recrear el ambiente principal de \"Notting Hill\", ¿qué lugar deberías visitar?",
+    "answer": "Londres",
+    "difficulty": 4
+  },
+  {
+    "id": 755,
+    "question": "¿Qué localización cinematográfica se reconoce por mercados, librerías y barrios del oeste londinense en \"Notting Hill\"?",
+    "answer": "Londres",
+    "difficulty": 5
+  },
+  {
+    "id": 756,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"La La Land\"?",
+    "answer": "Los Ángeles",
+    "difficulty": 1
+  },
+  {
+    "id": 757,
+    "question": "¿En qué país se encuentra Los Ángeles, lugar muy asociado a \"La La Land\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 758,
+    "question": "¿Qué película queda especialmente ligada a Los Ángeles?",
+    "answer": "La La Land",
+    "difficulty": 3
+  },
+  {
+    "id": 759,
+    "question": "Si quisieras recrear el ambiente principal de \"La La Land\", ¿qué lugar deberías visitar?",
+    "answer": "Los Ángeles",
+    "difficulty": 4
+  },
+  {
+    "id": 760,
+    "question": "¿Qué localización cinematográfica se reconoce por autopistas, estudios y colinas sobre Hollywood en \"La La Land\"?",
+    "answer": "Los Ángeles",
+    "difficulty": 5
+  },
+  {
+    "id": 761,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Érase una vez en... Hollywood\"?",
+    "answer": "Los Ángeles",
+    "difficulty": 1
+  },
+  {
+    "id": 762,
+    "question": "¿En qué país se encuentra Los Ángeles, lugar muy asociado a \"Érase una vez en... Hollywood\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 763,
+    "question": "¿Qué película queda especialmente ligada a Los Ángeles?",
+    "answer": "Érase una vez en... Hollywood",
+    "difficulty": 3
+  },
+  {
+    "id": 764,
+    "question": "Si quisieras recrear el ambiente principal de \"Érase una vez en... Hollywood\", ¿qué lugar deberías visitar?",
+    "answer": "Los Ángeles",
+    "difficulty": 4
+  },
+  {
+    "id": 765,
+    "question": "¿Qué localización cinematográfica se reconoce por Sunset Boulevard y la industria del cine de finales de los 60 en \"Érase una vez en... Hollywood\"?",
+    "answer": "Los Ángeles",
+    "difficulty": 5
+  },
+  {
+    "id": 766,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El señor de los anillos\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 1
+  },
+  {
+    "id": 767,
+    "question": "¿En qué país se encuentra Nueva Zelanda, lugar muy asociado a \"El señor de los anillos\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 2
+  },
+  {
+    "id": 768,
+    "question": "¿Qué película queda especialmente ligada a Nueva Zelanda?",
+    "answer": "El señor de los anillos",
+    "difficulty": 3
+  },
+  {
+    "id": 769,
+    "question": "Si quisieras recrear el ambiente principal de \"El señor de los anillos\", ¿qué lugar deberías visitar?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 770,
+    "question": "¿Qué localización cinematográfica se reconoce por valles verdes, montañas dramáticas y escenarios de fantasía en \"El señor de los anillos\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 5
+  },
+  {
+    "id": 771,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"La playa\"?",
+    "answer": "Maya Bay",
+    "difficulty": 1
+  },
+  {
+    "id": 772,
+    "question": "¿En qué país se encuentra Maya Bay, lugar muy asociado a \"La playa\"?",
+    "answer": "Tailandia",
+    "difficulty": 2
+  },
+  {
+    "id": 773,
+    "question": "¿Qué película queda especialmente ligada a Maya Bay?",
+    "answer": "La playa",
+    "difficulty": 3
+  },
+  {
+    "id": 774,
+    "question": "Si quisieras recrear el ambiente principal de \"La playa\", ¿qué lugar deberías visitar?",
+    "answer": "Maya Bay",
+    "difficulty": 4
+  },
+  {
+    "id": 775,
+    "question": "¿Qué localización cinematográfica se reconoce por bahía tropical de aguas turquesa y acantilados en \"La playa\"?",
+    "answer": "Maya Bay",
+    "difficulty": 5
+  },
+  {
+    "id": 776,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Parque Jurásico\"?",
+    "answer": "Kauai",
+    "difficulty": 1
+  },
+  {
+    "id": 777,
+    "question": "¿En qué país se encuentra Kauai, lugar muy asociado a \"Parque Jurásico\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 778,
+    "question": "¿Qué película queda especialmente ligada a Kauai?",
+    "answer": "Parque Jurásico",
+    "difficulty": 3
+  },
+  {
+    "id": 779,
+    "question": "Si quisieras recrear el ambiente principal de \"Parque Jurásico\", ¿qué lugar deberías visitar?",
+    "answer": "Kauai",
+    "difficulty": 4
+  },
+  {
+    "id": 780,
+    "question": "¿Qué localización cinematográfica se reconoce por selva exuberante y paisajes volcánicos de Hawái en \"Parque Jurásico\"?",
+    "answer": "Kauai",
+    "difficulty": 5
+  },
+  {
+    "id": 781,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Indiana Jones y la última cruzada\"?",
+    "answer": "Petra",
+    "difficulty": 1
+  },
+  {
+    "id": 782,
+    "question": "¿En qué país se encuentra Petra, lugar muy asociado a \"Indiana Jones y la última cruzada\"?",
+    "answer": "Jordania",
+    "difficulty": 2
+  },
+  {
+    "id": 783,
+    "question": "¿Qué película queda especialmente ligada a Petra?",
+    "answer": "Indiana Jones y la última cruzada",
+    "difficulty": 3
+  },
+  {
+    "id": 784,
+    "question": "Si quisieras recrear el ambiente principal de \"Indiana Jones y la última cruzada\", ¿qué lugar deberías visitar?",
+    "answer": "Petra",
+    "difficulty": 4
+  },
+  {
+    "id": 785,
+    "question": "¿Qué localización cinematográfica se reconoce por fachadas excavadas en roca rosada en \"Indiana Jones y la última cruzada\"?",
+    "answer": "Petra",
+    "difficulty": 5
+  },
+  {
+    "id": 786,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El código Da Vinci\"?",
+    "answer": "París",
+    "difficulty": 1
+  },
+  {
+    "id": 787,
+    "question": "¿En qué país se encuentra París, lugar muy asociado a \"El código Da Vinci\"?",
+    "answer": "Francia",
+    "difficulty": 2
+  },
+  {
+    "id": 788,
+    "question": "¿Qué película queda especialmente ligada a París?",
+    "answer": "El código Da Vinci",
+    "difficulty": 3
+  },
+  {
+    "id": 789,
+    "question": "Si quisieras recrear el ambiente principal de \"El código Da Vinci\", ¿qué lugar deberías visitar?",
+    "answer": "París",
+    "difficulty": 4
+  },
+  {
+    "id": 790,
+    "question": "¿Qué localización cinematográfica se reconoce por el Louvre y el eje histórico del centro parisino en \"El código Da Vinci\"?",
+    "answer": "París",
+    "difficulty": 5
+  },
+  {
+    "id": 791,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Vicky Cristina Barcelona\"?",
+    "answer": "Barcelona",
+    "difficulty": 1
+  },
+  {
+    "id": 792,
+    "question": "¿En qué país se encuentra Barcelona, lugar muy asociado a \"Vicky Cristina Barcelona\"?",
+    "answer": "España",
+    "difficulty": 2
+  },
+  {
+    "id": 793,
+    "question": "¿Qué película queda especialmente ligada a Barcelona?",
+    "answer": "Vicky Cristina Barcelona",
+    "difficulty": 3
+  },
+  {
+    "id": 794,
+    "question": "Si quisieras recrear el ambiente principal de \"Vicky Cristina Barcelona\", ¿qué lugar deberías visitar?",
+    "answer": "Barcelona",
+    "difficulty": 4
+  },
+  {
+    "id": 795,
+    "question": "¿Qué localización cinematográfica se reconoce por Gaudí, terrazas y ambiente mediterráneo en \"Vicky Cristina Barcelona\"?",
+    "answer": "Barcelona",
+    "difficulty": 5
+  },
+  {
+    "id": 796,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Memorias de África\"?",
+    "answer": "Kenia",
+    "difficulty": 1
+  },
+  {
+    "id": 797,
+    "question": "¿En qué país se encuentra Kenia, lugar muy asociado a \"Memorias de África\"?",
+    "answer": "Kenia",
+    "difficulty": 2
+  },
+  {
+    "id": 798,
+    "question": "¿Qué película queda especialmente ligada a Kenia?",
+    "answer": "Memorias de África",
+    "difficulty": 3
+  },
+  {
+    "id": 799,
+    "question": "Si quisieras recrear el ambiente principal de \"Memorias de África\", ¿qué lugar deberías visitar?",
+    "answer": "Kenia",
+    "difficulty": 4
+  },
+  {
+    "id": 800,
+    "question": "¿Qué localización cinematográfica se reconoce por sabanas africanas y grandes haciendas coloniales en \"Memorias de África\"?",
+    "answer": "Kenia",
+    "difficulty": 5
+  },
+  {
+    "id": 801,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El hombre tranquilo\"?",
+    "answer": "Condado de Mayo",
+    "difficulty": 1
+  },
+  {
+    "id": 802,
+    "question": "¿En qué país se encuentra Condado de Mayo, lugar muy asociado a \"El hombre tranquilo\"?",
+    "answer": "Irlanda",
+    "difficulty": 2
+  },
+  {
+    "id": 803,
+    "question": "¿Qué película queda especialmente ligada a Condado de Mayo?",
+    "answer": "El hombre tranquilo",
+    "difficulty": 3
+  },
+  {
+    "id": 804,
+    "question": "Si quisieras recrear el ambiente principal de \"El hombre tranquilo\", ¿qué lugar deberías visitar?",
+    "answer": "Condado de Mayo",
+    "difficulty": 4
+  },
+  {
+    "id": 805,
+    "question": "¿Qué localización cinematográfica se reconoce por pueblos rurales verdes y costa atlántica irlandesa en \"El hombre tranquilo\"?",
+    "answer": "Condado de Mayo",
+    "difficulty": 5
+  },
+  {
+    "id": 806,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Memorias de una geisha\"?",
+    "answer": "Kioto",
+    "difficulty": 1
+  },
+  {
+    "id": 807,
+    "question": "¿En qué país se encuentra Kioto, lugar muy asociado a \"Memorias de una geisha\"?",
+    "answer": "Japón",
+    "difficulty": 2
+  },
+  {
+    "id": 808,
+    "question": "¿Qué película queda especialmente ligada a Kioto?",
+    "answer": "Memorias de una geisha",
+    "difficulty": 3
+  },
+  {
+    "id": 809,
+    "question": "Si quisieras recrear el ambiente principal de \"Memorias de una geisha\", ¿qué lugar deberías visitar?",
+    "answer": "Kioto",
+    "difficulty": 4
+  },
+  {
+    "id": 810,
+    "question": "¿Qué localización cinematográfica se reconoce por calles tradicionales, templos y barrios de geishas en \"Memorias de una geisha\"?",
+    "answer": "Kioto",
+    "difficulty": 5
+  },
+  {
+    "id": 811,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El último emperador\"?",
+    "answer": "Pekín",
+    "difficulty": 1
+  },
+  {
+    "id": 812,
+    "question": "¿En qué país se encuentra Pekín, lugar muy asociado a \"El último emperador\"?",
+    "answer": "China",
+    "difficulty": 2
+  },
+  {
+    "id": 813,
+    "question": "¿Qué película queda especialmente ligada a Pekín?",
+    "answer": "El último emperador",
+    "difficulty": 3
+  },
+  {
+    "id": 814,
+    "question": "Si quisieras recrear el ambiente principal de \"El último emperador\", ¿qué lugar deberías visitar?",
+    "answer": "Pekín",
+    "difficulty": 4
+  },
+  {
+    "id": 815,
+    "question": "¿Qué localización cinematográfica se reconoce por la Ciudad Prohibida y los palacios imperiales en \"El último emperador\"?",
+    "answer": "Pekín",
+    "difficulty": 5
+  },
+  {
+    "id": 816,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Lawrence de Arabia\"?",
+    "answer": "Wadi Rum",
+    "difficulty": 1
+  },
+  {
+    "id": 817,
+    "question": "¿En qué país se encuentra Wadi Rum, lugar muy asociado a \"Lawrence de Arabia\"?",
+    "answer": "Jordania",
+    "difficulty": 2
+  },
+  {
+    "id": 818,
+    "question": "¿Qué película queda especialmente ligada a Wadi Rum?",
+    "answer": "Lawrence de Arabia",
+    "difficulty": 3
+  },
+  {
+    "id": 819,
+    "question": "Si quisieras recrear el ambiente principal de \"Lawrence de Arabia\", ¿qué lugar deberías visitar?",
+    "answer": "Wadi Rum",
+    "difficulty": 4
+  },
+  {
+    "id": 820,
+    "question": "¿Qué localización cinematográfica se reconoce por desierto rojizo y formaciones rocosas monumentales en \"Lawrence de Arabia\"?",
+    "answer": "Wadi Rum",
+    "difficulty": 5
+  },
+  {
+    "id": 821,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Mamma Mia!\"?",
+    "answer": "Skópelos",
+    "difficulty": 1
+  },
+  {
+    "id": 822,
+    "question": "¿En qué país se encuentra Skópelos, lugar muy asociado a \"Mamma Mia!\"?",
+    "answer": "Grecia",
+    "difficulty": 2
+  },
+  {
+    "id": 823,
+    "question": "¿Qué película queda especialmente ligada a Skópelos?",
+    "answer": "Mamma Mia!",
+    "difficulty": 3
+  },
+  {
+    "id": 824,
+    "question": "Si quisieras recrear el ambiente principal de \"Mamma Mia!\", ¿qué lugar deberías visitar?",
+    "answer": "Skópelos",
+    "difficulty": 4
+  },
+  {
+    "id": 825,
+    "question": "¿Qué localización cinematográfica se reconoce por iglesias blancas, mar Egeo y colinas insulares en \"Mamma Mia!\"?",
+    "answer": "Skópelos",
+    "difficulty": 5
+  },
+  {
+    "id": 826,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"La vida secreta de Walter Mitty\"?",
+    "answer": "Islandia",
+    "difficulty": 1
+  },
+  {
+    "id": 827,
+    "question": "¿En qué país se encuentra Islandia, lugar muy asociado a \"La vida secreta de Walter Mitty\"?",
+    "answer": "Islandia",
+    "difficulty": 2
+  },
+  {
+    "id": 828,
+    "question": "¿Qué película queda especialmente ligada a Islandia?",
+    "answer": "La vida secreta de Walter Mitty",
+    "difficulty": 3
+  },
+  {
+    "id": 829,
+    "question": "Si quisieras recrear el ambiente principal de \"La vida secreta de Walter Mitty\", ¿qué lugar deberías visitar?",
+    "answer": "Islandia",
+    "difficulty": 4
+  },
+  {
+    "id": 830,
+    "question": "¿Qué localización cinematográfica se reconoce por cascadas, carreteras abiertas y volcanes atlánticos en \"La vida secreta de Walter Mitty\"?",
+    "answer": "Islandia",
+    "difficulty": 5
+  },
+  {
+    "id": 831,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Crazy Rich Asians\"?",
+    "answer": "Singapur",
+    "difficulty": 1
+  },
+  {
+    "id": 832,
+    "question": "¿En qué país se encuentra Singapur, lugar muy asociado a \"Crazy Rich Asians\"?",
+    "answer": "Singapur",
+    "difficulty": 2
+  },
+  {
+    "id": 833,
+    "question": "¿Qué película queda especialmente ligada a Singapur?",
+    "answer": "Crazy Rich Asians",
+    "difficulty": 3
+  },
+  {
+    "id": 834,
+    "question": "Si quisieras recrear el ambiente principal de \"Crazy Rich Asians\", ¿qué lugar deberías visitar?",
+    "answer": "Singapur",
+    "difficulty": 4
+  },
+  {
+    "id": 835,
+    "question": "¿Qué localización cinematográfica se reconoce por rascacielos, jardines futuristas y lujo asiático en \"Crazy Rich Asians\"?",
+    "answer": "Singapur",
+    "difficulty": 5
+  },
+  {
+    "id": 836,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Come, reza, ama\"?",
+    "answer": "Bali",
+    "difficulty": 1
+  },
+  {
+    "id": 837,
+    "question": "¿En qué país se encuentra Bali, lugar muy asociado a \"Come, reza, ama\"?",
+    "answer": "Indonesia",
+    "difficulty": 2
+  },
+  {
+    "id": 838,
+    "question": "¿Qué película queda especialmente ligada a Bali?",
+    "answer": "Come, reza, ama",
+    "difficulty": 3
+  },
+  {
+    "id": 839,
+    "question": "Si quisieras recrear el ambiente principal de \"Come, reza, ama\", ¿qué lugar deberías visitar?",
+    "answer": "Bali",
+    "difficulty": 4
+  },
+  {
+    "id": 840,
+    "question": "¿Qué localización cinematográfica se reconoce por templos, arrozales y retiros espirituales en \"Come, reza, ama\"?",
+    "answer": "Bali",
+    "difficulty": 5
+  },
+  {
+    "id": 841,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"El último rey de Escocia\"?",
+    "answer": "Uganda",
+    "difficulty": 1
+  },
+  {
+    "id": 842,
+    "question": "¿En qué país se encuentra Uganda, lugar muy asociado a \"El último rey de Escocia\"?",
+    "answer": "Uganda",
+    "difficulty": 2
+  },
+  {
+    "id": 843,
+    "question": "¿Qué película queda especialmente ligada a Uganda?",
+    "answer": "El último rey de Escocia",
+    "difficulty": 3
+  },
+  {
+    "id": 844,
+    "question": "Si quisieras recrear el ambiente principal de \"El último rey de Escocia\", ¿qué lugar deberías visitar?",
+    "answer": "Uganda",
+    "difficulty": 4
+  },
+  {
+    "id": 845,
+    "question": "¿Qué localización cinematográfica se reconoce por Kampala y la dictadura de Idi Amin en \"El último rey de Escocia\"?",
+    "answer": "Uganda",
+    "difficulty": 5
+  },
+  {
+    "id": 846,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Cometas en el cielo\"?",
+    "answer": "Kabul",
+    "difficulty": 1
+  },
+  {
+    "id": 847,
+    "question": "¿En qué país se encuentra Kabul, lugar muy asociado a \"Cometas en el cielo\"?",
+    "answer": "Afganistán",
+    "difficulty": 2
+  },
+  {
+    "id": 848,
+    "question": "¿Qué película queda especialmente ligada a Kabul?",
+    "answer": "Cometas en el cielo",
+    "difficulty": 3
+  },
+  {
+    "id": 849,
+    "question": "Si quisieras recrear el ambiente principal de \"Cometas en el cielo\", ¿qué lugar deberías visitar?",
+    "answer": "Kabul",
+    "difficulty": 4
+  },
+  {
+    "id": 850,
+    "question": "¿Qué localización cinematográfica se reconoce por cometas, barrios de la capital afgana y memoria del conflicto en \"Cometas en el cielo\"?",
+    "answer": "Kabul",
+    "difficulty": 5
+  },
+  {
+    "id": 851,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"La misión\"?",
+    "answer": "Cataratas del Iguazú",
+    "difficulty": 1
+  },
+  {
+    "id": 852,
+    "question": "¿En qué país se encuentra Cataratas del Iguazú, lugar muy asociado a \"La misión\"?",
+    "answer": "Argentina y Brasil",
+    "difficulty": 2
+  },
+  {
+    "id": 853,
+    "question": "¿Qué película queda especialmente ligada a Cataratas del Iguazú?",
+    "answer": "La misión",
+    "difficulty": 3
+  },
+  {
+    "id": 854,
+    "question": "Si quisieras recrear el ambiente principal de \"La misión\", ¿qué lugar deberías visitar?",
+    "answer": "Cataratas del Iguazú",
+    "difficulty": 4
+  },
+  {
+    "id": 855,
+    "question": "¿Qué localización cinematográfica se reconoce por saltos de agua gigantes y selva subtropical en \"La misión\"?",
+    "answer": "Cataratas del Iguazú",
+    "difficulty": 5
+  },
+  {
+    "id": 856,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Whale Rider\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 1
+  },
+  {
+    "id": 857,
+    "question": "¿En qué país se encuentra Nueva Zelanda, lugar muy asociado a \"Whale Rider\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 2
+  },
+  {
+    "id": 858,
+    "question": "¿Qué película queda especialmente ligada a Nueva Zelanda?",
+    "answer": "Whale Rider",
+    "difficulty": 3
+  },
+  {
+    "id": 859,
+    "question": "Si quisieras recrear el ambiente principal de \"Whale Rider\", ¿qué lugar deberías visitar?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 860,
+    "question": "¿Qué localización cinematográfica se reconoce por costa maorí y pueblos del Pacífico Sur en \"Whale Rider\"?",
+    "answer": "Nueva Zelanda",
+    "difficulty": 5
+  },
+  {
+    "id": 861,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Los descendientes\"?",
+    "answer": "Hawái",
+    "difficulty": 1
+  },
+  {
+    "id": 862,
+    "question": "¿En qué país se encuentra Hawái, lugar muy asociado a \"Los descendientes\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 863,
+    "question": "¿Qué película queda especialmente ligada a Hawái?",
+    "answer": "Los descendientes",
+    "difficulty": 3
+  },
+  {
+    "id": 864,
+    "question": "Si quisieras recrear el ambiente principal de \"Los descendientes\", ¿qué lugar deberías visitar?",
+    "answer": "Hawái",
+    "difficulty": 4
+  },
+  {
+    "id": 865,
+    "question": "¿Qué localización cinematográfica se reconoce por playas, volcanes y vida insular del Pacífico en \"Los descendientes\"?",
+    "answer": "Hawái",
+    "difficulty": 5
+  },
+  {
+    "id": 866,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"The Commitments\"?",
+    "answer": "Dublín",
+    "difficulty": 1
+  },
+  {
+    "id": 867,
+    "question": "¿En qué país se encuentra Dublín, lugar muy asociado a \"The Commitments\"?",
+    "answer": "Irlanda",
+    "difficulty": 2
+  },
+  {
+    "id": 868,
+    "question": "¿Qué película queda especialmente ligada a Dublín?",
+    "answer": "The Commitments",
+    "difficulty": 3
+  },
+  {
+    "id": 869,
+    "question": "Si quisieras recrear el ambiente principal de \"The Commitments\", ¿qué lugar deberías visitar?",
+    "answer": "Dublín",
+    "difficulty": 4
+  },
+  {
+    "id": 870,
+    "question": "¿Qué localización cinematográfica se reconoce por barrios obreros y escena musical urbana en \"The Commitments\"?",
+    "answer": "Dublín",
+    "difficulty": 5
+  },
+  {
+    "id": 871,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Medianoche en París\"?",
+    "answer": "París",
+    "difficulty": 1
+  },
+  {
+    "id": 872,
+    "question": "¿En qué país se encuentra París, lugar muy asociado a \"Medianoche en París\"?",
+    "answer": "Francia",
+    "difficulty": 2
+  },
+  {
+    "id": 873,
+    "question": "¿Qué película queda especialmente ligada a París?",
+    "answer": "Medianoche en París",
+    "difficulty": 3
+  },
+  {
+    "id": 874,
+    "question": "Si quisieras recrear el ambiente principal de \"Medianoche en París\", ¿qué lugar deberías visitar?",
+    "answer": "París",
+    "difficulty": 4
+  },
+  {
+    "id": 875,
+    "question": "¿Qué localización cinematográfica se reconoce por puentes, lluvia nocturna y nostalgia literaria en \"Medianoche en París\"?",
+    "answer": "París",
+    "difficulty": 5
+  },
+  {
+    "id": 876,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Bajo el sol de la Toscana\"?",
+    "answer": "Toscana",
+    "difficulty": 1
+  },
+  {
+    "id": 877,
+    "question": "¿En qué país se encuentra Toscana, lugar muy asociado a \"Bajo el sol de la Toscana\"?",
+    "answer": "Italia",
+    "difficulty": 2
+  },
+  {
+    "id": 878,
+    "question": "¿Qué película queda especialmente ligada a Toscana?",
+    "answer": "Bajo el sol de la Toscana",
+    "difficulty": 3
+  },
+  {
+    "id": 879,
+    "question": "Si quisieras recrear el ambiente principal de \"Bajo el sol de la Toscana\", ¿qué lugar deberías visitar?",
+    "answer": "Toscana",
+    "difficulty": 4
+  },
+  {
+    "id": 880,
+    "question": "¿Qué localización cinematográfica se reconoce por viñedos, colinas suaves y villas rurales en \"Bajo el sol de la Toscana\"?",
+    "answer": "Toscana",
+    "difficulty": 5
+  },
+  {
+    "id": 881,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Evita\"?",
+    "answer": "Buenos Aires",
+    "difficulty": 1
+  },
+  {
+    "id": 882,
+    "question": "¿En qué país se encuentra Buenos Aires, lugar muy asociado a \"Evita\"?",
+    "answer": "Argentina",
+    "difficulty": 2
+  },
+  {
+    "id": 883,
+    "question": "¿Qué película queda especialmente ligada a Buenos Aires?",
+    "answer": "Evita",
+    "difficulty": 3
+  },
+  {
+    "id": 884,
+    "question": "Si quisieras recrear el ambiente principal de \"Evita\", ¿qué lugar deberías visitar?",
+    "answer": "Buenos Aires",
+    "difficulty": 4
+  },
+  {
+    "id": 885,
+    "question": "¿Qué localización cinematográfica se reconoce por balcones presidenciales y grandes avenidas porteñas en \"Evita\"?",
+    "answer": "Buenos Aires",
+    "difficulty": 5
+  },
+  {
+    "id": 886,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Mi gran boda griega\"?",
+    "answer": "Chicago",
+    "difficulty": 1
+  },
+  {
+    "id": 887,
+    "question": "¿En qué país se encuentra Chicago, lugar muy asociado a \"Mi gran boda griega\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 888,
+    "question": "¿Qué película queda especialmente ligada a Chicago?",
+    "answer": "Mi gran boda griega",
+    "difficulty": 3
+  },
+  {
+    "id": 889,
+    "question": "Si quisieras recrear el ambiente principal de \"Mi gran boda griega\", ¿qué lugar deberías visitar?",
+    "answer": "Chicago",
+    "difficulty": 4
+  },
+  {
+    "id": 890,
+    "question": "¿Qué localización cinematográfica se reconoce por barrios greco-americanos y vida familiar urbana en \"Mi gran boda griega\"?",
+    "answer": "Chicago",
+    "difficulty": 5
+  },
+  {
+    "id": 891,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Coco\"?",
+    "answer": "Santa Cecilia",
+    "difficulty": 1
+  },
+  {
+    "id": 892,
+    "question": "¿En qué país se encuentra Santa Cecilia, lugar muy asociado a \"Coco\"?",
+    "answer": "México",
+    "difficulty": 2
+  },
+  {
+    "id": 893,
+    "question": "¿Qué película queda especialmente ligada a Santa Cecilia?",
+    "answer": "Coco",
+    "difficulty": 3
+  },
+  {
+    "id": 894,
+    "question": "Si quisieras recrear el ambiente principal de \"Coco\", ¿qué lugar deberías visitar?",
+    "answer": "Santa Cecilia",
+    "difficulty": 4
+  },
+  {
+    "id": 895,
+    "question": "¿Qué localización cinematográfica se reconoce por pueblo mexicano inspirado en tradiciones del Día de Muertos en \"Coco\"?",
+    "answer": "Santa Cecilia",
+    "difficulty": 5
+  },
+  {
+    "id": 896,
+    "question": "¿Qué lugar sirve como escenario emblemático de la película \"Los puentes de Madison\"?",
+    "answer": "Condado de Madison",
+    "difficulty": 1
+  },
+  {
+    "id": 897,
+    "question": "¿En qué país se encuentra Condado de Madison, lugar muy asociado a \"Los puentes de Madison\"?",
+    "answer": "Estados Unidos",
+    "difficulty": 2
+  },
+  {
+    "id": 898,
+    "question": "¿Qué película queda especialmente ligada a Condado de Madison?",
+    "answer": "Los puentes de Madison",
+    "difficulty": 3
+  },
+  {
+    "id": 899,
+    "question": "Si quisieras recrear el ambiente principal de \"Los puentes de Madison\", ¿qué lugar deberías visitar?",
+    "answer": "Condado de Madison",
+    "difficulty": 4
+  },
+  {
+    "id": 900,
+    "question": "¿Qué localización cinematográfica se reconoce por puentes cubiertos y paisaje rural de Iowa en \"Los puentes de Madison\"?",
+    "answer": "Condado de Madison",
+    "difficulty": 5
   }
 ]
