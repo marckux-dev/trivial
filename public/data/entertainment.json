@@ -2782,5 +2782,1205 @@
     "question": "¿Qué canal de YouTube en español, fundado por el físico Eduardo Sáenz de Cabezón, divulga matemáticas con humor y fue galardonado con el Premio Ciencia en Acción?",
     "answer": "Derivando, conducido por Eduardo Sáenz de Cabezón; también imparte charlas TED y es profesor universitario en La Rioja",
     "difficulty": 5
+  },
+  {
+    "id": 465,
+    "question": "¿Quién dirigió la película \"Blade Runner\"?",
+    "answer": "Ridley Scott",
+    "difficulty": 3
+  },
+  {
+    "id": 466,
+    "question": "¿Qué película se asocia especialmente con Ridley Scott en este banco ampliado?",
+    "answer": "Blade Runner",
+    "difficulty": 4
+  },
+  {
+    "id": 467,
+    "question": "¿Quién dirigió la película \"Pulp Fiction\"?",
+    "answer": "Quentin Tarantino",
+    "difficulty": 3
+  },
+  {
+    "id": 468,
+    "question": "¿Qué película se asocia especialmente con Quentin Tarantino en este banco ampliado?",
+    "answer": "Pulp Fiction",
+    "difficulty": 4
+  },
+  {
+    "id": 469,
+    "question": "¿Quién dirigió la película \"El viaje de Chihiro\"?",
+    "answer": "Hayao Miyazaki",
+    "difficulty": 3
+  },
+  {
+    "id": 470,
+    "question": "¿Qué película se asocia especialmente con Hayao Miyazaki en este banco ampliado?",
+    "answer": "El viaje de Chihiro",
+    "difficulty": 4
+  },
+  {
+    "id": 471,
+    "question": "¿Quién dirigió la película \"Ciudadano Kane\"?",
+    "answer": "Orson Welles",
+    "difficulty": 3
+  },
+  {
+    "id": 472,
+    "question": "¿Qué película se asocia especialmente con Orson Welles en este banco ampliado?",
+    "answer": "Ciudadano Kane",
+    "difficulty": 4
+  },
+  {
+    "id": 473,
+    "question": "¿Quién dirigió la película \"Parásitos\"?",
+    "answer": "Bong Joon-ho",
+    "difficulty": 3
+  },
+  {
+    "id": 474,
+    "question": "¿Qué película se asocia especialmente con Bong Joon-ho en este banco ampliado?",
+    "answer": "Parásitos",
+    "difficulty": 4
+  },
+  {
+    "id": 475,
+    "question": "¿Quién dirigió la película \"La ventana indiscreta\"?",
+    "answer": "Alfred Hitchcock",
+    "difficulty": 3
+  },
+  {
+    "id": 476,
+    "question": "¿Qué película se asocia especialmente con Alfred Hitchcock en este banco ampliado?",
+    "answer": "La ventana indiscreta",
+    "difficulty": 4
+  },
+  {
+    "id": 477,
+    "question": "¿Quién dirigió la película \"2001: Una odisea del espacio\"?",
+    "answer": "Stanley Kubrick",
+    "difficulty": 3
+  },
+  {
+    "id": 478,
+    "question": "¿Qué película se asocia especialmente con Stanley Kubrick en este banco ampliado?",
+    "answer": "2001: Una odisea del espacio",
+    "difficulty": 4
+  },
+  {
+    "id": 479,
+    "question": "¿Quién dirigió la película \"Los 400 golpes\"?",
+    "answer": "François Truffaut",
+    "difficulty": 3
+  },
+  {
+    "id": 480,
+    "question": "¿Qué película se asocia especialmente con François Truffaut en este banco ampliado?",
+    "answer": "Los 400 golpes",
+    "difficulty": 4
+  },
+  {
+    "id": 481,
+    "question": "¿Quién dirigió la película \"Cinema Paradiso\"?",
+    "answer": "Giuseppe Tornatore",
+    "difficulty": 3
+  },
+  {
+    "id": 482,
+    "question": "¿Qué película se asocia especialmente con Giuseppe Tornatore en este banco ampliado?",
+    "answer": "Cinema Paradiso",
+    "difficulty": 4
+  },
+  {
+    "id": 483,
+    "question": "¿Quién dirigió la película \"El séptimo sello\"?",
+    "answer": "Ingmar Bergman",
+    "difficulty": 3
+  },
+  {
+    "id": 484,
+    "question": "¿Qué película se asocia especialmente con Ingmar Bergman en este banco ampliado?",
+    "answer": "El séptimo sello",
+    "difficulty": 4
+  },
+  {
+    "id": 485,
+    "question": "¿Quién dirigió la película \"Amélie\"?",
+    "answer": "Jean-Pierre Jeunet",
+    "difficulty": 3
+  },
+  {
+    "id": 486,
+    "question": "¿Qué película se asocia especialmente con Jean-Pierre Jeunet en este banco ampliado?",
+    "answer": "Amélie",
+    "difficulty": 4
+  },
+  {
+    "id": 487,
+    "question": "¿Quién dirigió la película \"Metrópolis\"?",
+    "answer": "Fritz Lang",
+    "difficulty": 3
+  },
+  {
+    "id": 488,
+    "question": "¿Qué película se asocia especialmente con Fritz Lang en este banco ampliado?",
+    "answer": "Metrópolis",
+    "difficulty": 4
+  },
+  {
+    "id": 489,
+    "question": "¿Quién dirigió la película \"La vida de los otros\"?",
+    "answer": "Florian Henckel von Donnersmarck",
+    "difficulty": 3
+  },
+  {
+    "id": 490,
+    "question": "¿Qué película se asocia especialmente con Florian Henckel von Donnersmarck en este banco ampliado?",
+    "answer": "La vida de los otros",
+    "difficulty": 4
+  },
+  {
+    "id": 491,
+    "question": "¿Quién dirigió la película \"Whiplash\"?",
+    "answer": "Damien Chazelle",
+    "difficulty": 3
+  },
+  {
+    "id": 492,
+    "question": "¿Qué película se asocia especialmente con Damien Chazelle en este banco ampliado?",
+    "answer": "Whiplash",
+    "difficulty": 4
+  },
+  {
+    "id": 493,
+    "question": "¿Quién dirigió la película \"El laberinto del fauno\"?",
+    "answer": "Guillermo del Toro",
+    "difficulty": 3
+  },
+  {
+    "id": 494,
+    "question": "¿Qué película se asocia especialmente con Guillermo del Toro en este banco ampliado?",
+    "answer": "El laberinto del fauno",
+    "difficulty": 4
+  },
+  {
+    "id": 495,
+    "question": "¿Quién dirigió la película \"Rashomon\"?",
+    "answer": "Akira Kurosawa",
+    "difficulty": 3
+  },
+  {
+    "id": 496,
+    "question": "¿Qué película se asocia especialmente con Akira Kurosawa en este banco ampliado?",
+    "answer": "Rashomon",
+    "difficulty": 4
+  },
+  {
+    "id": 497,
+    "question": "¿Quién dirigió la película \"La dolce vita\"?",
+    "answer": "Federico Fellini",
+    "difficulty": 3
+  },
+  {
+    "id": 498,
+    "question": "¿Qué película se asocia especialmente con Federico Fellini en este banco ampliado?",
+    "answer": "La dolce vita",
+    "difficulty": 4
+  },
+  {
+    "id": 499,
+    "question": "¿Quién dirigió la película \"Roma\"?",
+    "answer": "Alfonso Cuarón",
+    "difficulty": 3
+  },
+  {
+    "id": 500,
+    "question": "¿Qué película se asocia especialmente con Alfonso Cuarón en este banco ampliado?",
+    "answer": "Roma",
+    "difficulty": 4
+  },
+  {
+    "id": 501,
+    "question": "¿Quién dirigió la película \"Moonlight\"?",
+    "answer": "Barry Jenkins",
+    "difficulty": 3
+  },
+  {
+    "id": 502,
+    "question": "¿Qué película se asocia especialmente con Barry Jenkins en este banco ampliado?",
+    "answer": "Moonlight",
+    "difficulty": 4
+  },
+  {
+    "id": 503,
+    "question": "¿Quién dirigió la película \"Her\"?",
+    "answer": "Spike Jonze",
+    "difficulty": 3
+  },
+  {
+    "id": 504,
+    "question": "¿Qué película se asocia especialmente con Spike Jonze en este banco ampliado?",
+    "answer": "Her",
+    "difficulty": 4
+  },
+  {
+    "id": 505,
+    "question": "¿Quién dirigió la película \"Oldboy\"?",
+    "answer": "Park Chan-wook",
+    "difficulty": 3
+  },
+  {
+    "id": 506,
+    "question": "¿Qué película se asocia especialmente con Park Chan-wook en este banco ampliado?",
+    "answer": "Oldboy",
+    "difficulty": 4
+  },
+  {
+    "id": 507,
+    "question": "¿Quién dirigió la película \"There Will Be Blood\"?",
+    "answer": "Paul Thomas Anderson",
+    "difficulty": 3
+  },
+  {
+    "id": 508,
+    "question": "¿Qué película se asocia especialmente con Paul Thomas Anderson en este banco ampliado?",
+    "answer": "There Will Be Blood",
+    "difficulty": 4
+  },
+  {
+    "id": 509,
+    "question": "¿Quién dirigió la película \"El secreto de sus ojos\"?",
+    "answer": "Juan José Campanella",
+    "difficulty": 3
+  },
+  {
+    "id": 510,
+    "question": "¿Qué película se asocia especialmente con Juan José Campanella en este banco ampliado?",
+    "answer": "El secreto de sus ojos",
+    "difficulty": 4
+  },
+  {
+    "id": 511,
+    "question": "¿Quién dirigió la película \"Before Sunrise\"?",
+    "answer": "Richard Linklater",
+    "difficulty": 3
+  },
+  {
+    "id": 512,
+    "question": "¿Qué película se asocia especialmente con Richard Linklater en este banco ampliado?",
+    "answer": "Before Sunrise",
+    "difficulty": 4
+  },
+  {
+    "id": 513,
+    "question": "¿Quién dirigió la película \"Memories of Murder\"?",
+    "answer": "Bong Joon-ho",
+    "difficulty": 3
+  },
+  {
+    "id": 514,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Twin Peaks\"?",
+    "answer": "David Lynch y Mark Frost",
+    "difficulty": 3
+  },
+  {
+    "id": 515,
+    "question": "¿Qué serie de televisión se vincula con David Lynch y Mark Frost?",
+    "answer": "Twin Peaks",
+    "difficulty": 4
+  },
+  {
+    "id": 516,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Wire\"?",
+    "answer": "David Simon",
+    "difficulty": 3
+  },
+  {
+    "id": 517,
+    "question": "¿Qué serie de televisión se vincula con David Simon?",
+    "answer": "The Wire",
+    "difficulty": 4
+  },
+  {
+    "id": 518,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Breaking Bad\"?",
+    "answer": "Vince Gilligan",
+    "difficulty": 3
+  },
+  {
+    "id": 519,
+    "question": "¿Qué serie de televisión se vincula con Vince Gilligan?",
+    "answer": "Breaking Bad",
+    "difficulty": 4
+  },
+  {
+    "id": 520,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Leftovers\"?",
+    "answer": "Damon Lindelof y Tom Perrotta",
+    "difficulty": 3
+  },
+  {
+    "id": 521,
+    "question": "¿Qué serie de televisión se vincula con Damon Lindelof y Tom Perrotta?",
+    "answer": "The Leftovers",
+    "difficulty": 4
+  },
+  {
+    "id": 522,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Black Mirror\"?",
+    "answer": "Charlie Brooker",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "question": "¿Qué serie de televisión se vincula con Charlie Brooker?",
+    "answer": "Black Mirror",
+    "difficulty": 4
+  },
+  {
+    "id": 524,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Mad Men\"?",
+    "answer": "Matthew Weiner",
+    "difficulty": 3
+  },
+  {
+    "id": 525,
+    "question": "¿Qué serie de televisión se vincula con Matthew Weiner?",
+    "answer": "Mad Men",
+    "difficulty": 4
+  },
+  {
+    "id": 526,
+    "question": "¿Quién creó o impulsó creativamente la serie \"BoJack Horseman\"?",
+    "answer": "Raphael Bob-Waksberg",
+    "difficulty": 3
+  },
+  {
+    "id": 527,
+    "question": "¿Qué serie de televisión se vincula con Raphael Bob-Waksberg?",
+    "answer": "BoJack Horseman",
+    "difficulty": 4
+  },
+  {
+    "id": 528,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Office (UK)\"?",
+    "answer": "Ricky Gervais y Stephen Merchant",
+    "difficulty": 3
+  },
+  {
+    "id": 529,
+    "question": "¿Qué serie de televisión se vincula con Ricky Gervais y Stephen Merchant?",
+    "answer": "The Office (UK)",
+    "difficulty": 4
+  },
+  {
+    "id": 530,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Dark\"?",
+    "answer": "Baran bo Odar y Jantje Friese",
+    "difficulty": 3
+  },
+  {
+    "id": 531,
+    "question": "¿Qué serie de televisión se vincula con Baran bo Odar y Jantje Friese?",
+    "answer": "Dark",
+    "difficulty": 4
+  },
+  {
+    "id": 532,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Sopranos\"?",
+    "answer": "David Chase",
+    "difficulty": 3
+  },
+  {
+    "id": 533,
+    "question": "¿Qué serie de televisión se vincula con David Chase?",
+    "answer": "The Sopranos",
+    "difficulty": 4
+  },
+  {
+    "id": 534,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Succession\"?",
+    "answer": "Jesse Armstrong",
+    "difficulty": 3
+  },
+  {
+    "id": 535,
+    "question": "¿Qué serie de televisión se vincula con Jesse Armstrong?",
+    "answer": "Succession",
+    "difficulty": 4
+  },
+  {
+    "id": 536,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Fleabag\"?",
+    "answer": "Phoebe Waller-Bridge",
+    "difficulty": 3
+  },
+  {
+    "id": 537,
+    "question": "¿Qué serie de televisión se vincula con Phoebe Waller-Bridge?",
+    "answer": "Fleabag",
+    "difficulty": 4
+  },
+  {
+    "id": 538,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Atlanta\"?",
+    "answer": "Donald Glover",
+    "difficulty": 3
+  },
+  {
+    "id": 539,
+    "question": "¿Qué serie de televisión se vincula con Donald Glover?",
+    "answer": "Atlanta",
+    "difficulty": 4
+  },
+  {
+    "id": 540,
+    "question": "¿Quién creó o impulsó creativamente la serie \"True Detective\"?",
+    "answer": "Nic Pizzolatto",
+    "difficulty": 3
+  },
+  {
+    "id": 541,
+    "question": "¿Qué serie de televisión se vincula con Nic Pizzolatto?",
+    "answer": "True Detective",
+    "difficulty": 4
+  },
+  {
+    "id": 542,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Chernobyl\"?",
+    "answer": "Craig Mazin",
+    "difficulty": 3
+  },
+  {
+    "id": 543,
+    "question": "¿Qué serie de televisión se vincula con Craig Mazin?",
+    "answer": "Chernobyl",
+    "difficulty": 4
+  },
+  {
+    "id": 544,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Good Place\"?",
+    "answer": "Michael Schur",
+    "difficulty": 3
+  },
+  {
+    "id": 545,
+    "question": "¿Qué serie de televisión se vincula con Michael Schur?",
+    "answer": "The Good Place",
+    "difficulty": 4
+  },
+  {
+    "id": 546,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Severance\"?",
+    "answer": "Dan Erickson",
+    "difficulty": 3
+  },
+  {
+    "id": 547,
+    "question": "¿Qué serie de televisión se vincula con Dan Erickson?",
+    "answer": "Severance",
+    "difficulty": 4
+  },
+  {
+    "id": 548,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Sherlock\"?",
+    "answer": "Steven Moffat y Mark Gatiss",
+    "difficulty": 3
+  },
+  {
+    "id": 549,
+    "question": "¿Qué serie de televisión se vincula con Steven Moffat y Mark Gatiss?",
+    "answer": "Sherlock",
+    "difficulty": 4
+  },
+  {
+    "id": 550,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Avatar: The Last Airbender\"?",
+    "answer": "Michael Dante DiMartino y Bryan Konietzko",
+    "difficulty": 3
+  },
+  {
+    "id": 551,
+    "question": "¿Qué serie de televisión se vincula con Michael Dante DiMartino y Bryan Konietzko?",
+    "answer": "Avatar: The Last Airbender",
+    "difficulty": 4
+  },
+  {
+    "id": 552,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Stranger Things\"?",
+    "answer": "los hermanos Duffer",
+    "difficulty": 3
+  },
+  {
+    "id": 553,
+    "question": "¿Qué serie de televisión se vincula con los hermanos Duffer?",
+    "answer": "Stranger Things",
+    "difficulty": 4
+  },
+  {
+    "id": 554,
+    "question": "¿Quién creó o impulsó creativamente la serie \"The Bear\"?",
+    "answer": "Christopher Storer",
+    "difficulty": 3
+  },
+  {
+    "id": 555,
+    "question": "¿Qué serie de televisión se vincula con Christopher Storer?",
+    "answer": "The Bear",
+    "difficulty": 4
+  },
+  {
+    "id": 556,
+    "question": "¿Quién creó o impulsó creativamente la serie \"House of Cards (UK)\"?",
+    "answer": "Andrew Davies",
+    "difficulty": 3
+  },
+  {
+    "id": 557,
+    "question": "¿Qué serie de televisión se vincula con Andrew Davies?",
+    "answer": "House of Cards (UK)",
+    "difficulty": 4
+  },
+  {
+    "id": 558,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Doctor Who (2005)\"?",
+    "answer": "Russell T Davies",
+    "difficulty": 3
+  },
+  {
+    "id": 559,
+    "question": "¿Qué serie de televisión se vincula con Russell T Davies?",
+    "answer": "Doctor Who (2005)",
+    "difficulty": 4
+  },
+  {
+    "id": 560,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Peaky Blinders\"?",
+    "answer": "Steven Knight",
+    "difficulty": 3
+  },
+  {
+    "id": 561,
+    "question": "¿Qué serie de televisión se vincula con Steven Knight?",
+    "answer": "Peaky Blinders",
+    "difficulty": 4
+  },
+  {
+    "id": 562,
+    "question": "¿Quién creó o impulsó creativamente la serie \"Mr. Robot\"?",
+    "answer": "Sam Esmail",
+    "difficulty": 3
+  },
+  {
+    "id": 563,
+    "question": "¿Qué serie de televisión se vincula con Sam Esmail?",
+    "answer": "Mr. Robot",
+    "difficulty": 4
+  },
+  {
+    "id": 564,
+    "question": "¿Qué estudio o creador está detrás de \"Portal\"?",
+    "answer": "Valve",
+    "difficulty": 4
+  },
+  {
+    "id": 565,
+    "question": "¿Qué videojuego se asocia con Valve?",
+    "answer": "Portal",
+    "difficulty": 4
+  },
+  {
+    "id": 566,
+    "question": "¿Qué estudio o creador está detrás de \"Hades\"?",
+    "answer": "Supergiant Games",
+    "difficulty": 4
+  },
+  {
+    "id": 567,
+    "question": "¿Qué videojuego se asocia con Supergiant Games?",
+    "answer": "Hades",
+    "difficulty": 4
+  },
+  {
+    "id": 568,
+    "question": "¿Qué estudio o creador está detrás de \"The Last of Us\"?",
+    "answer": "Naughty Dog",
+    "difficulty": 4
+  },
+  {
+    "id": 569,
+    "question": "¿Qué videojuego se asocia con Naughty Dog?",
+    "answer": "The Last of Us",
+    "difficulty": 4
+  },
+  {
+    "id": 570,
+    "question": "¿Qué estudio o creador está detrás de \"Journey\"?",
+    "answer": "thatgamecompany",
+    "difficulty": 4
+  },
+  {
+    "id": 571,
+    "question": "¿Qué videojuego se asocia con thatgamecompany?",
+    "answer": "Journey",
+    "difficulty": 4
+  },
+  {
+    "id": 572,
+    "question": "¿Qué estudio o creador está detrás de \"Celeste\"?",
+    "answer": "Extremely OK Games",
+    "difficulty": 4
+  },
+  {
+    "id": 573,
+    "question": "¿Qué videojuego se asocia con Extremely OK Games?",
+    "answer": "Celeste",
+    "difficulty": 4
+  },
+  {
+    "id": 574,
+    "question": "¿Qué estudio o creador está detrás de \"Disco Elysium\"?",
+    "answer": "ZA/UM",
+    "difficulty": 4
+  },
+  {
+    "id": 575,
+    "question": "¿Qué videojuego se asocia con ZA/UM?",
+    "answer": "Disco Elysium",
+    "difficulty": 4
+  },
+  {
+    "id": 576,
+    "question": "¿Qué estudio o creador está detrás de \"Outer Wilds\"?",
+    "answer": "Mobius Digital",
+    "difficulty": 4
+  },
+  {
+    "id": 577,
+    "question": "¿Qué videojuego se asocia con Mobius Digital?",
+    "answer": "Outer Wilds",
+    "difficulty": 4
+  },
+  {
+    "id": 578,
+    "question": "¿Qué estudio o creador está detrás de \"Baldur's Gate 3\"?",
+    "answer": "Larian Studios",
+    "difficulty": 4
+  },
+  {
+    "id": 579,
+    "question": "¿Qué videojuego se asocia con Larian Studios?",
+    "answer": "Baldur's Gate 3",
+    "difficulty": 4
+  },
+  {
+    "id": 580,
+    "question": "¿Qué estudio o creador está detrás de \"Stardew Valley\"?",
+    "answer": "Eric Barone",
+    "difficulty": 4
+  },
+  {
+    "id": 581,
+    "question": "¿Qué videojuego se asocia con Eric Barone?",
+    "answer": "Stardew Valley",
+    "difficulty": 4
+  },
+  {
+    "id": 582,
+    "question": "¿Qué estudio o creador está detrás de \"Hollow Knight\"?",
+    "answer": "Team Cherry",
+    "difficulty": 4
+  },
+  {
+    "id": 583,
+    "question": "¿Qué videojuego se asocia con Team Cherry?",
+    "answer": "Hollow Knight",
+    "difficulty": 4
+  },
+  {
+    "id": 584,
+    "question": "¿Qué estudio o creador está detrás de \"BioShock\"?",
+    "answer": "Irrational Games",
+    "difficulty": 4
+  },
+  {
+    "id": 585,
+    "question": "¿Qué videojuego se asocia con Irrational Games?",
+    "answer": "BioShock",
+    "difficulty": 4
+  },
+  {
+    "id": 586,
+    "question": "¿Qué estudio o creador está detrás de \"Papers, Please\"?",
+    "answer": "Lucas Pope",
+    "difficulty": 4
+  },
+  {
+    "id": 587,
+    "question": "¿Qué videojuego se asocia con Lucas Pope?",
+    "answer": "Papers, Please",
+    "difficulty": 4
+  },
+  {
+    "id": 588,
+    "question": "¿Qué estudio o creador está detrás de \"Undertale\"?",
+    "answer": "Toby Fox",
+    "difficulty": 4
+  },
+  {
+    "id": 589,
+    "question": "¿Qué videojuego se asocia con Toby Fox?",
+    "answer": "Undertale",
+    "difficulty": 4
+  },
+  {
+    "id": 590,
+    "question": "¿Qué estudio o creador está detrás de \"Factorio\"?",
+    "answer": "Wube Software",
+    "difficulty": 4
+  },
+  {
+    "id": 591,
+    "question": "¿Qué videojuego se asocia con Wube Software?",
+    "answer": "Factorio",
+    "difficulty": 4
+  },
+  {
+    "id": 592,
+    "question": "¿Qué estudio o creador está detrás de \"Braid\"?",
+    "answer": "Jonathan Blow",
+    "difficulty": 4
+  },
+  {
+    "id": 593,
+    "question": "¿Qué videojuego se asocia con Jonathan Blow?",
+    "answer": "Braid",
+    "difficulty": 4
+  },
+  {
+    "id": 594,
+    "question": "¿Qué estudio o creador está detrás de \"Myst\"?",
+    "answer": "Cyan",
+    "difficulty": 4
+  },
+  {
+    "id": 595,
+    "question": "¿Qué videojuego se asocia con Cyan?",
+    "answer": "Myst",
+    "difficulty": 4
+  },
+  {
+    "id": 596,
+    "question": "¿Qué estudio o creador está detrás de \"Cuphead\"?",
+    "answer": "Studio MDHR",
+    "difficulty": 4
+  },
+  {
+    "id": 597,
+    "question": "¿Qué videojuego se asocia con Studio MDHR?",
+    "answer": "Cuphead",
+    "difficulty": 4
+  },
+  {
+    "id": 598,
+    "question": "¿Qué estudio o creador está detrás de \"Kentucky Route Zero\"?",
+    "answer": "Cardboard Computer",
+    "difficulty": 4
+  },
+  {
+    "id": 599,
+    "question": "¿Qué videojuego se asocia con Cardboard Computer?",
+    "answer": "Kentucky Route Zero",
+    "difficulty": 4
+  },
+  {
+    "id": 600,
+    "question": "¿Qué estudio o creador está detrás de \"Inscryption\"?",
+    "answer": "Daniel Mullins Games",
+    "difficulty": 4
+  },
+  {
+    "id": 601,
+    "question": "¿Qué videojuego se asocia con Daniel Mullins Games?",
+    "answer": "Inscryption",
+    "difficulty": 4
+  },
+  {
+    "id": 602,
+    "question": "¿Qué estudio o creador está detrás de \"Control\"?",
+    "answer": "Remedy Entertainment",
+    "difficulty": 4
+  },
+  {
+    "id": 603,
+    "question": "¿Qué videojuego se asocia con Remedy Entertainment?",
+    "answer": "Control",
+    "difficulty": 4
+  },
+  {
+    "id": 604,
+    "question": "¿Qué estudio o creador está detrás de \"Firewatch\"?",
+    "answer": "Campo Santo",
+    "difficulty": 4
+  },
+  {
+    "id": 605,
+    "question": "¿Qué videojuego se asocia con Campo Santo?",
+    "answer": "Firewatch",
+    "difficulty": 4
+  },
+  {
+    "id": 606,
+    "question": "¿Qué estudio o creador está detrás de \"Return of the Obra Dinn\"?",
+    "answer": "Lucas Pope",
+    "difficulty": 4
+  },
+  {
+    "id": 607,
+    "question": "¿Qué estudio o creador está detrás de \"Tetris\"?",
+    "answer": "Alekséi Pázhitnov",
+    "difficulty": 4
+  },
+  {
+    "id": 608,
+    "question": "¿Qué videojuego se asocia con Alekséi Pázhitnov?",
+    "answer": "Tetris",
+    "difficulty": 4
+  },
+  {
+    "id": 609,
+    "question": "¿Qué estudio o creador está detrás de \"Monkey Island\"?",
+    "answer": "Ron Gilbert",
+    "difficulty": 4
+  },
+  {
+    "id": 610,
+    "question": "¿Qué videojuego se asocia con Ron Gilbert?",
+    "answer": "Monkey Island",
+    "difficulty": 4
+  },
+  {
+    "id": 611,
+    "question": "¿Qué estudio o creador está detrás de \"Chrono Trigger\"?",
+    "answer": "Square",
+    "difficulty": 4
+  },
+  {
+    "id": 612,
+    "question": "¿Qué videojuego se asocia con Square?",
+    "answer": "Chrono Trigger",
+    "difficulty": 4
+  },
+  {
+    "id": 613,
+    "question": "¿Quién publicó el álbum \"Kind of Blue\"?",
+    "answer": "Miles Davis",
+    "difficulty": 3
+  },
+  {
+    "id": 614,
+    "question": "¿Qué álbum aparece aquí asociado con Miles Davis?",
+    "answer": "Kind of Blue",
+    "difficulty": 4
+  },
+  {
+    "id": 615,
+    "question": "¿Quién publicó el álbum \"Blue\"?",
+    "answer": "Joni Mitchell",
+    "difficulty": 3
+  },
+  {
+    "id": 616,
+    "question": "¿Qué álbum aparece aquí asociado con Joni Mitchell?",
+    "answer": "Blue",
+    "difficulty": 4
+  },
+  {
+    "id": 617,
+    "question": "¿Quién publicó el álbum \"OK Computer\"?",
+    "answer": "Radiohead",
+    "difficulty": 3
+  },
+  {
+    "id": 618,
+    "question": "¿Qué álbum aparece aquí asociado con Radiohead?",
+    "answer": "OK Computer",
+    "difficulty": 4
+  },
+  {
+    "id": 619,
+    "question": "¿Quién publicó el álbum \"Rumours\"?",
+    "answer": "Fleetwood Mac",
+    "difficulty": 3
+  },
+  {
+    "id": 620,
+    "question": "¿Qué álbum aparece aquí asociado con Fleetwood Mac?",
+    "answer": "Rumours",
+    "difficulty": 4
+  },
+  {
+    "id": 621,
+    "question": "¿Quién publicó el álbum \"Dummy\"?",
+    "answer": "Portishead",
+    "difficulty": 3
+  },
+  {
+    "id": 622,
+    "question": "¿Qué álbum aparece aquí asociado con Portishead?",
+    "answer": "Dummy",
+    "difficulty": 4
+  },
+  {
+    "id": 623,
+    "question": "¿Quién publicó el álbum \"A Love Supreme\"?",
+    "answer": "John Coltrane",
+    "difficulty": 3
+  },
+  {
+    "id": 624,
+    "question": "¿Qué álbum aparece aquí asociado con John Coltrane?",
+    "answer": "A Love Supreme",
+    "difficulty": 4
+  },
+  {
+    "id": 625,
+    "question": "¿Quién publicó el álbum \"The Dark Side of the Moon\"?",
+    "answer": "Pink Floyd",
+    "difficulty": 3
+  },
+  {
+    "id": 626,
+    "question": "¿Qué álbum aparece aquí asociado con Pink Floyd?",
+    "answer": "The Dark Side of the Moon",
+    "difficulty": 4
+  },
+  {
+    "id": 627,
+    "question": "¿Quién publicó el álbum \"Homogenic\"?",
+    "answer": "Björk",
+    "difficulty": 3
+  },
+  {
+    "id": 628,
+    "question": "¿Qué álbum aparece aquí asociado con Björk?",
+    "answer": "Homogenic",
+    "difficulty": 4
+  },
+  {
+    "id": 629,
+    "question": "¿Quién publicó el álbum \"Unknown Pleasures\"?",
+    "answer": "Joy Division",
+    "difficulty": 3
+  },
+  {
+    "id": 630,
+    "question": "¿Qué álbum aparece aquí asociado con Joy Division?",
+    "answer": "Unknown Pleasures",
+    "difficulty": 4
+  },
+  {
+    "id": 631,
+    "question": "¿Quién publicó el álbum \"Remain in Light\"?",
+    "answer": "Talking Heads",
+    "difficulty": 3
+  },
+  {
+    "id": 632,
+    "question": "¿Qué álbum aparece aquí asociado con Talking Heads?",
+    "answer": "Remain in Light",
+    "difficulty": 4
+  },
+  {
+    "id": 633,
+    "question": "¿Quién publicó el álbum \"Grace\"?",
+    "answer": "Jeff Buckley",
+    "difficulty": 3
+  },
+  {
+    "id": 634,
+    "question": "¿Qué álbum aparece aquí asociado con Jeff Buckley?",
+    "answer": "Grace",
+    "difficulty": 4
+  },
+  {
+    "id": 635,
+    "question": "¿Quién publicó el álbum \"Back to Black\"?",
+    "answer": "Amy Winehouse",
+    "difficulty": 3
+  },
+  {
+    "id": 636,
+    "question": "¿Qué álbum aparece aquí asociado con Amy Winehouse?",
+    "answer": "Back to Black",
+    "difficulty": 4
+  },
+  {
+    "id": 637,
+    "question": "¿Quién publicó el álbum \"In Rainbows\"?",
+    "answer": "Radiohead",
+    "difficulty": 3
+  },
+  {
+    "id": 638,
+    "question": "¿Quién publicó el álbum \"Pet Sounds\"?",
+    "answer": "The Beach Boys",
+    "difficulty": 3
+  },
+  {
+    "id": 639,
+    "question": "¿Qué álbum aparece aquí asociado con The Beach Boys?",
+    "answer": "Pet Sounds",
+    "difficulty": 4
+  },
+  {
+    "id": 640,
+    "question": "¿Quién publicó el álbum \"Illmatic\"?",
+    "answer": "Nas",
+    "difficulty": 3
+  },
+  {
+    "id": 641,
+    "question": "¿Qué álbum aparece aquí asociado con Nas?",
+    "answer": "Illmatic",
+    "difficulty": 4
+  },
+  {
+    "id": 642,
+    "question": "¿Quién publicó el álbum \"Nevermind\"?",
+    "answer": "Nirvana",
+    "difficulty": 3
+  },
+  {
+    "id": 643,
+    "question": "¿Qué álbum aparece aquí asociado con Nirvana?",
+    "answer": "Nevermind",
+    "difficulty": 4
+  },
+  {
+    "id": 644,
+    "question": "¿Quién publicó el álbum \"Mezzanine\"?",
+    "answer": "Massive Attack",
+    "difficulty": 3
+  },
+  {
+    "id": 645,
+    "question": "¿Qué álbum aparece aquí asociado con Massive Attack?",
+    "answer": "Mezzanine",
+    "difficulty": 4
+  },
+  {
+    "id": 646,
+    "question": "¿Quién publicó el álbum \"Parachutes\"?",
+    "answer": "Coldplay",
+    "difficulty": 3
+  },
+  {
+    "id": 647,
+    "question": "¿Qué álbum aparece aquí asociado con Coldplay?",
+    "answer": "Parachutes",
+    "difficulty": 4
+  },
+  {
+    "id": 648,
+    "question": "¿Quién publicó el álbum \"Disintegration\"?",
+    "answer": "The Cure",
+    "difficulty": 3
+  },
+  {
+    "id": 649,
+    "question": "¿Qué álbum aparece aquí asociado con The Cure?",
+    "answer": "Disintegration",
+    "difficulty": 4
+  },
+  {
+    "id": 650,
+    "question": "¿Quién publicó el álbum \"The Miseducation of Lauryn Hill\"?",
+    "answer": "Lauryn Hill",
+    "difficulty": 3
+  },
+  {
+    "id": 651,
+    "question": "¿Qué álbum aparece aquí asociado con Lauryn Hill?",
+    "answer": "The Miseducation of Lauryn Hill",
+    "difficulty": 4
+  },
+  {
+    "id": 652,
+    "question": "¿Quién publicó el álbum \"Vespertine\"?",
+    "answer": "Björk",
+    "difficulty": 3
+  },
+  {
+    "id": 653,
+    "question": "¿Quién publicó el álbum \"Songs in the Key of Life\"?",
+    "answer": "Stevie Wonder",
+    "difficulty": 3
+  },
+  {
+    "id": 654,
+    "question": "¿Qué álbum aparece aquí asociado con Stevie Wonder?",
+    "answer": "Songs in the Key of Life",
+    "difficulty": 4
+  },
+  {
+    "id": 655,
+    "question": "¿Quién publicó el álbum \"London Calling\"?",
+    "answer": "The Clash",
+    "difficulty": 3
+  },
+  {
+    "id": 656,
+    "question": "¿Qué álbum aparece aquí asociado con The Clash?",
+    "answer": "London Calling",
+    "difficulty": 4
+  },
+  {
+    "id": 657,
+    "question": "¿Quién publicó el álbum \"Carrie & Lowell\"?",
+    "answer": "Sufjan Stevens",
+    "difficulty": 3
+  },
+  {
+    "id": 658,
+    "question": "¿Qué álbum aparece aquí asociado con Sufjan Stevens?",
+    "answer": "Carrie & Lowell",
+    "difficulty": 4
+  },
+  {
+    "id": 659,
+    "question": "¿Quién publicó el álbum \"Discovery\"?",
+    "answer": "Daft Punk",
+    "difficulty": 3
+  },
+  {
+    "id": 660,
+    "question": "¿Qué álbum aparece aquí asociado con Daft Punk?",
+    "answer": "Discovery",
+    "difficulty": 4
+  },
+  {
+    "id": 661,
+    "question": "¿Qué película coreana de Park Chan-wook forma parte de la llamada “trilogía de la venganza”?",
+    "answer": "Oldboy",
+    "difficulty": 4
+  },
+  {
+    "id": 662,
+    "question": "¿Qué serie satírica animada gira en torno a un caballo actor en decadencia?",
+    "answer": "BoJack Horseman",
+    "difficulty": 3
+  },
+  {
+    "id": 663,
+    "question": "¿Qué videojuego independiente de exploración temporal transcurre en un pequeño sistema solar atrapado en un bucle?",
+    "answer": "Outer Wilds",
+    "difficulty": 4
+  },
+  {
+    "id": 664,
+    "question": "¿Qué álbum de Amy Winehouse incluye canciones como “Rehab” y “You Know I'm No Good”?",
+    "answer": "Back to Black",
+    "difficulty": 3
   }
 ]

@@ -1672,5 +1672,1205 @@
     "question": "¿Qué escudería de Fórmula 1 perteneciente a una marca de coches de calle lleva más de 40 años sin ganar el campeonato de constructores pese a ser un referente del deporte?",
     "answer": "McLaren; aunque ha ganado 8 campeonatos de constructores, el último fue en 1998. Actualmente opera con motor Mercedes y compite bajo McLaren Racing, independiente de McLaren Automotive",
     "difficulty": 5
+  },
+  {
+    "id": 280,
+    "question": "¿Con qué competición, premio o circuito se relaciona Copa Stanley?",
+    "answer": "la NHL",
+    "difficulty": 4
+  },
+  {
+    "id": 281,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la NHL?",
+    "answer": "Copa Stanley",
+    "difficulty": 4
+  },
+  {
+    "id": 282,
+    "question": "¿Con qué competición, premio o circuito se relaciona Copa Davis?",
+    "answer": "el tenis masculino por equipos",
+    "difficulty": 4
+  },
+  {
+    "id": 283,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el tenis masculino por equipos?",
+    "answer": "Copa Davis",
+    "difficulty": 4
+  },
+  {
+    "id": 284,
+    "question": "¿Con qué competición, premio o circuito se relaciona Ryder Cup?",
+    "answer": "el golf por equipos entre Europa y Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 285,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el golf por equipos entre Europa y Estados Unidos?",
+    "answer": "Ryder Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 286,
+    "question": "¿Con qué competición, premio o circuito se relaciona America's Cup?",
+    "answer": "la vela de alta competición",
+    "difficulty": 4
+  },
+  {
+    "id": 287,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la vela de alta competición?",
+    "answer": "America's Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 288,
+    "question": "¿Con qué competición, premio o circuito se relaciona Claret Jug?",
+    "answer": "The Open Championship de golf",
+    "difficulty": 4
+  },
+  {
+    "id": 289,
+    "question": "¿Qué trofeo, prenda o premio se asocia con The Open Championship de golf?",
+    "answer": "Claret Jug",
+    "difficulty": 4
+  },
+  {
+    "id": 290,
+    "question": "¿Con qué competición, premio o circuito se relaciona maillot amarillo?",
+    "answer": "el liderato del Tour de France",
+    "difficulty": 4
+  },
+  {
+    "id": 291,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el liderato del Tour de France?",
+    "answer": "maillot amarillo",
+    "difficulty": 4
+  },
+  {
+    "id": 292,
+    "question": "¿Con qué competición, premio o circuito se relaciona Vince Lombardi Trophy?",
+    "answer": "el campeón de la Super Bowl",
+    "difficulty": 4
+  },
+  {
+    "id": 293,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el campeón de la Super Bowl?",
+    "answer": "Vince Lombardi Trophy",
+    "difficulty": 4
+  },
+  {
+    "id": 294,
+    "question": "¿Con qué competición, premio o circuito se relaciona Larry O'Brien Trophy?",
+    "answer": "el campeón de la NBA",
+    "difficulty": 4
+  },
+  {
+    "id": 295,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el campeón de la NBA?",
+    "answer": "Larry O'Brien Trophy",
+    "difficulty": 4
+  },
+  {
+    "id": 296,
+    "question": "¿Con qué competición, premio o circuito se relaciona Commissioner's Trophy?",
+    "answer": "el campeón de la MLB",
+    "difficulty": 4
+  },
+  {
+    "id": 297,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el campeón de la MLB?",
+    "answer": "Commissioner's Trophy",
+    "difficulty": 4
+  },
+  {
+    "id": 298,
+    "question": "¿Con qué competición, premio o circuito se relaciona Conn Smythe Trophy?",
+    "answer": "el MVP de los playoffs de la NHL",
+    "difficulty": 4
+  },
+  {
+    "id": 299,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el MVP de los playoffs de la NHL?",
+    "answer": "Conn Smythe Trophy",
+    "difficulty": 4
+  },
+  {
+    "id": 300,
+    "question": "¿Con qué competición, premio o circuito se relaciona Webb Ellis Cup?",
+    "answer": "la Copa del Mundo de rugby",
+    "difficulty": 4
+  },
+  {
+    "id": 301,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la Copa del Mundo de rugby?",
+    "answer": "Webb Ellis Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 302,
+    "question": "¿Con qué competición, premio o circuito se relaciona Bledisloe Cup?",
+    "answer": "la rivalidad de rugby entre Australia y Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 303,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la rivalidad de rugby entre Australia y Nueva Zelanda?",
+    "answer": "Bledisloe Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 304,
+    "question": "¿Con qué competición, premio o circuito se relaciona Thomas Cup?",
+    "answer": "el bádminton masculino por equipos",
+    "difficulty": 4
+  },
+  {
+    "id": 305,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el bádminton masculino por equipos?",
+    "answer": "Thomas Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 306,
+    "question": "¿Con qué competición, premio o circuito se relaciona Solheim Cup?",
+    "answer": "el golf femenino por equipos entre Europa y Estados Unidos",
+    "difficulty": 4
+  },
+  {
+    "id": 307,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el golf femenino por equipos entre Europa y Estados Unidos?",
+    "answer": "Solheim Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 308,
+    "question": "¿Con qué competición, premio o circuito se relaciona Copa Libertadores?",
+    "answer": "el principal torneo sudamericano de clubes de fútbol",
+    "difficulty": 4
+  },
+  {
+    "id": 309,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el principal torneo sudamericano de clubes de fútbol?",
+    "answer": "Copa Libertadores",
+    "difficulty": 4
+  },
+  {
+    "id": 310,
+    "question": "¿Con qué competición, premio o circuito se relaciona Balón de Oro?",
+    "answer": "el premio individual más célebre del fútbol",
+    "difficulty": 4
+  },
+  {
+    "id": 311,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el premio individual más célebre del fútbol?",
+    "answer": "Balón de Oro",
+    "difficulty": 4
+  },
+  {
+    "id": 312,
+    "question": "¿Con qué competición, premio o circuito se relaciona Borg-Warner Trophy?",
+    "answer": "las 500 Millas de Indianápolis",
+    "difficulty": 4
+  },
+  {
+    "id": 313,
+    "question": "¿Qué trofeo, prenda o premio se asocia con las 500 Millas de Indianápolis?",
+    "answer": "Borg-Warner Trophy",
+    "difficulty": 4
+  },
+  {
+    "id": 314,
+    "question": "¿Con qué competición, premio o circuito se relaciona Venus Rosewater Dish?",
+    "answer": "el Wimbledon femenino individual",
+    "difficulty": 4
+  },
+  {
+    "id": 315,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el Wimbledon femenino individual?",
+    "answer": "Venus Rosewater Dish",
+    "difficulty": 4
+  },
+  {
+    "id": 316,
+    "question": "¿Con qué competición, premio o circuito se relaciona Ranfurly Shield?",
+    "answer": "el rugby provincial de Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 317,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el rugby provincial de Nueva Zelanda?",
+    "answer": "Ranfurly Shield",
+    "difficulty": 4
+  },
+  {
+    "id": 318,
+    "question": "¿Con qué competición, premio o circuito se relaciona Hopman Cup?",
+    "answer": "el tenis mixto por equipos nacionales",
+    "difficulty": 4
+  },
+  {
+    "id": 319,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el tenis mixto por equipos nacionales?",
+    "answer": "Hopman Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 320,
+    "question": "¿Con qué competición, premio o circuito se relaciona Ashes urn?",
+    "answer": "la histórica serie de críquet entre Inglaterra y Australia",
+    "difficulty": 4
+  },
+  {
+    "id": 321,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la histórica serie de críquet entre Inglaterra y Australia?",
+    "answer": "Ashes urn",
+    "difficulty": 4
+  },
+  {
+    "id": 322,
+    "question": "¿Con qué competición, premio o circuito se relaciona Copa América?",
+    "answer": "la selección campeona de Sudamérica en fútbol",
+    "difficulty": 4
+  },
+  {
+    "id": 323,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la selección campeona de Sudamérica en fútbol?",
+    "answer": "Copa América",
+    "difficulty": 4
+  },
+  {
+    "id": 324,
+    "question": "¿Con qué competición, premio o circuito se relaciona Mosconi Cup?",
+    "answer": "el billar pool por equipos Europa-EE. UU.",
+    "difficulty": 4
+  },
+  {
+    "id": 325,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el billar pool por equipos Europa-EE. UU.?",
+    "answer": "Mosconi Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 326,
+    "question": "¿Con qué competición, premio o circuito se relaciona Challenge Cup?",
+    "answer": "la rugby league cup inglesa",
+    "difficulty": 4
+  },
+  {
+    "id": 327,
+    "question": "¿Qué trofeo, prenda o premio se asocia con la rugby league cup inglesa?",
+    "answer": "Challenge Cup",
+    "difficulty": 4
+  },
+  {
+    "id": 328,
+    "question": "¿Con qué competición, premio o circuito se relaciona Copa Jules Rimet?",
+    "answer": "el trofeo original del Mundial de fútbol",
+    "difficulty": 4
+  },
+  {
+    "id": 329,
+    "question": "¿Qué trofeo, prenda o premio se asocia con el trofeo original del Mundial de fútbol?",
+    "answer": "Copa Jules Rimet",
+    "difficulty": 4
+  },
+  {
+    "id": 330,
+    "question": "¿En qué deporte es habitual el término \"ippon\"?",
+    "answer": "judo",
+    "difficulty": 3
+  },
+  {
+    "id": 331,
+    "question": "¿Qué término deportivo de este banco se asocia con judo?",
+    "answer": "ippon",
+    "difficulty": 4
+  },
+  {
+    "id": 332,
+    "question": "¿En qué deporte es habitual el término \"birdie\"?",
+    "answer": "golf",
+    "difficulty": 3
+  },
+  {
+    "id": 333,
+    "question": "¿Qué término deportivo de este banco se asocia con golf?",
+    "answer": "birdie",
+    "difficulty": 4
+  },
+  {
+    "id": 334,
+    "question": "¿En qué deporte es habitual el término \"scrum\"?",
+    "answer": "rugby",
+    "difficulty": 3
+  },
+  {
+    "id": 335,
+    "question": "¿Qué término deportivo de este banco se asocia con rugby?",
+    "answer": "scrum",
+    "difficulty": 4
+  },
+  {
+    "id": 336,
+    "question": "¿En qué deporte es habitual el término \"pick and roll\"?",
+    "answer": "baloncesto",
+    "difficulty": 3
+  },
+  {
+    "id": 337,
+    "question": "¿Qué término deportivo de este banco se asocia con baloncesto?",
+    "answer": "pick and roll",
+    "difficulty": 4
+  },
+  {
+    "id": 338,
+    "question": "¿En qué deporte es habitual el término \"love\"?",
+    "answer": "tenis",
+    "difficulty": 3
+  },
+  {
+    "id": 339,
+    "question": "¿Qué término deportivo de este banco se asocia con tenis?",
+    "answer": "love",
+    "difficulty": 4
+  },
+  {
+    "id": 340,
+    "question": "¿En qué deporte es habitual el término \"alley-oop\"?",
+    "answer": "baloncesto",
+    "difficulty": 3
+  },
+  {
+    "id": 341,
+    "question": "¿En qué deporte es habitual el término \"spare\"?",
+    "answer": "bolos",
+    "difficulty": 3
+  },
+  {
+    "id": 342,
+    "question": "¿Qué término deportivo de este banco se asocia con bolos?",
+    "answer": "spare",
+    "difficulty": 4
+  },
+  {
+    "id": 343,
+    "question": "¿En qué deporte es habitual el término \"jaque mate\"?",
+    "answer": "ajedrez",
+    "difficulty": 3
+  },
+  {
+    "id": 344,
+    "question": "¿Qué término deportivo de este banco se asocia con ajedrez?",
+    "answer": "jaque mate",
+    "difficulty": 4
+  },
+  {
+    "id": 345,
+    "question": "¿En qué deporte es habitual el término \"bogey\"?",
+    "answer": "golf",
+    "difficulty": 3
+  },
+  {
+    "id": 346,
+    "question": "¿En qué deporte es habitual el término \"touchback\"?",
+    "answer": "fútbol americano",
+    "difficulty": 3
+  },
+  {
+    "id": 347,
+    "question": "¿Qué término deportivo de este banco se asocia con fútbol americano?",
+    "answer": "touchback",
+    "difficulty": 4
+  },
+  {
+    "id": 348,
+    "question": "¿En qué deporte es habitual el término \"en passant\"?",
+    "answer": "ajedrez",
+    "difficulty": 3
+  },
+  {
+    "id": 349,
+    "question": "¿En qué deporte es habitual el término \"keirin\"?",
+    "answer": "ciclismo en pista",
+    "difficulty": 3
+  },
+  {
+    "id": 350,
+    "question": "¿Qué término deportivo de este banco se asocia con ciclismo en pista?",
+    "answer": "keirin",
+    "difficulty": 4
+  },
+  {
+    "id": 351,
+    "question": "¿En qué deporte es habitual el término \"puck\"?",
+    "answer": "hockey sobre hielo",
+    "difficulty": 3
+  },
+  {
+    "id": 352,
+    "question": "¿Qué término deportivo de este banco se asocia con hockey sobre hielo?",
+    "answer": "puck",
+    "difficulty": 4
+  },
+  {
+    "id": 353,
+    "question": "¿En qué deporte es habitual el término \"triple axel\"?",
+    "answer": "patinaje artístico",
+    "difficulty": 3
+  },
+  {
+    "id": 354,
+    "question": "¿Qué término deportivo de este banco se asocia con patinaje artístico?",
+    "answer": "triple axel",
+    "difficulty": 4
+  },
+  {
+    "id": 355,
+    "question": "¿En qué deporte es habitual el término \"let\"?",
+    "answer": "tenis",
+    "difficulty": 3
+  },
+  {
+    "id": 356,
+    "question": "¿En qué deporte es habitual el término \"clinch\"?",
+    "answer": "boxeo",
+    "difficulty": 3
+  },
+  {
+    "id": 357,
+    "question": "¿Qué término deportivo de este banco se asocia con boxeo?",
+    "answer": "clinch",
+    "difficulty": 4
+  },
+  {
+    "id": 358,
+    "question": "¿En qué deporte es habitual el término \"catenaccio\"?",
+    "answer": "fútbol",
+    "difficulty": 3
+  },
+  {
+    "id": 359,
+    "question": "¿Qué término deportivo de este banco se asocia con fútbol?",
+    "answer": "catenaccio",
+    "difficulty": 4
+  },
+  {
+    "id": 360,
+    "question": "¿En qué deporte es habitual el término \"salchow\"?",
+    "answer": "patinaje artístico",
+    "difficulty": 3
+  },
+  {
+    "id": 361,
+    "question": "¿En qué deporte es habitual el término \"fumble\"?",
+    "answer": "fútbol americano",
+    "difficulty": 3
+  },
+  {
+    "id": 362,
+    "question": "¿En qué deporte es habitual el término \"home run\"?",
+    "answer": "béisbol",
+    "difficulty": 3
+  },
+  {
+    "id": 363,
+    "question": "¿Qué término deportivo de este banco se asocia con béisbol?",
+    "answer": "home run",
+    "difficulty": 4
+  },
+  {
+    "id": 364,
+    "question": "¿En qué deporte es habitual el término \"ace\"?",
+    "answer": "tenis",
+    "difficulty": 3
+  },
+  {
+    "id": 365,
+    "question": "¿En qué deporte es habitual el término \"rookie\"?",
+    "answer": "deporte profesional norteamericano",
+    "difficulty": 3
+  },
+  {
+    "id": 366,
+    "question": "¿Qué término deportivo de este banco se asocia con deporte profesional norteamericano?",
+    "answer": "rookie",
+    "difficulty": 4
+  },
+  {
+    "id": 367,
+    "question": "¿En qué deporte es habitual el término \"power play\"?",
+    "answer": "hockey sobre hielo",
+    "difficulty": 3
+  },
+  {
+    "id": 368,
+    "question": "¿En qué deporte es habitual el término \"breaker\"?",
+    "answer": "snooker",
+    "difficulty": 3
+  },
+  {
+    "id": 369,
+    "question": "¿Qué término deportivo de este banco se asocia con snooker?",
+    "answer": "breaker",
+    "difficulty": 4
+  },
+  {
+    "id": 370,
+    "question": "¿En qué deporte es habitual el término \"sand save\"?",
+    "answer": "golf",
+    "difficulty": 3
+  },
+  {
+    "id": 371,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con maratón?",
+    "answer": "42,195 kilómetros",
+    "difficulty": 4
+  },
+  {
+    "id": 372,
+    "question": "¿A qué disciplina corresponde esta característica: 42,195 kilómetros?",
+    "answer": "maratón",
+    "difficulty": 4
+  },
+  {
+    "id": 373,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con decatlón?",
+    "answer": "10 pruebas",
+    "difficulty": 4
+  },
+  {
+    "id": 374,
+    "question": "¿A qué disciplina corresponde esta característica: 10 pruebas?",
+    "answer": "decatlón",
+    "difficulty": 4
+  },
+  {
+    "id": 375,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con heptatlón?",
+    "answer": "7 pruebas",
+    "difficulty": 4
+  },
+  {
+    "id": 376,
+    "question": "¿A qué disciplina corresponde esta característica: 7 pruebas?",
+    "answer": "heptatlón",
+    "difficulty": 4
+  },
+  {
+    "id": 377,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con pentatlón moderno?",
+    "answer": "esgrima, natación, equitación, tiro y carrera",
+    "difficulty": 4
+  },
+  {
+    "id": 378,
+    "question": "¿A qué disciplina corresponde esta característica: esgrima, natación, equitación, tiro y carrera?",
+    "answer": "pentatlón moderno",
+    "difficulty": 4
+  },
+  {
+    "id": 379,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con biatlón?",
+    "answer": "esquí de fondo y tiro con carabina",
+    "difficulty": 4
+  },
+  {
+    "id": 380,
+    "question": "¿A qué disciplina corresponde esta característica: esquí de fondo y tiro con carabina?",
+    "answer": "biatlón",
+    "difficulty": 4
+  },
+  {
+    "id": 381,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con waterpolo?",
+    "answer": "7 jugadores por equipo en el agua",
+    "difficulty": 4
+  },
+  {
+    "id": 382,
+    "question": "¿A qué disciplina corresponde esta característica: 7 jugadores por equipo en el agua?",
+    "answer": "waterpolo",
+    "difficulty": 4
+  },
+  {
+    "id": 383,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con balonmano?",
+    "answer": "7 jugadores por equipo en pista",
+    "difficulty": 4
+  },
+  {
+    "id": 384,
+    "question": "¿A qué disciplina corresponde esta característica: 7 jugadores por equipo en pista?",
+    "answer": "balonmano",
+    "difficulty": 4
+  },
+  {
+    "id": 385,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con voleibol?",
+    "answer": "sets a 25 puntos salvo el tie-break",
+    "difficulty": 4
+  },
+  {
+    "id": 386,
+    "question": "¿A qué disciplina corresponde esta característica: sets a 25 puntos salvo el tie-break?",
+    "answer": "voleibol",
+    "difficulty": 4
+  },
+  {
+    "id": 387,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con tenis de mesa?",
+    "answer": "juegos a 11 puntos",
+    "difficulty": 4
+  },
+  {
+    "id": 388,
+    "question": "¿A qué disciplina corresponde esta característica: juegos a 11 puntos?",
+    "answer": "tenis de mesa",
+    "difficulty": 4
+  },
+  {
+    "id": 389,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con snooker?",
+    "answer": "break máximo de 147",
+    "difficulty": 4
+  },
+  {
+    "id": 390,
+    "question": "¿A qué disciplina corresponde esta característica: break máximo de 147?",
+    "answer": "snooker",
+    "difficulty": 4
+  },
+  {
+    "id": 391,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con dardos?",
+    "answer": "bullseye central de 50 puntos",
+    "difficulty": 4
+  },
+  {
+    "id": 392,
+    "question": "¿A qué disciplina corresponde esta característica: bullseye central de 50 puntos?",
+    "answer": "dardos",
+    "difficulty": 4
+  },
+  {
+    "id": 393,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con remo en dos sin timonel?",
+    "answer": "2 remeros",
+    "difficulty": 4
+  },
+  {
+    "id": 394,
+    "question": "¿A qué disciplina corresponde esta característica: 2 remeros?",
+    "answer": "remo en dos sin timonel",
+    "difficulty": 4
+  },
+  {
+    "id": 395,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con tiro con arco?",
+    "answer": "centro de 10 puntos",
+    "difficulty": 4
+  },
+  {
+    "id": 396,
+    "question": "¿A qué disciplina corresponde esta característica: centro de 10 puntos?",
+    "answer": "tiro con arco",
+    "difficulty": 4
+  },
+  {
+    "id": 397,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con béisbol?",
+    "answer": "9 entradas reglamentarias",
+    "difficulty": 4
+  },
+  {
+    "id": 398,
+    "question": "¿A qué disciplina corresponde esta característica: 9 entradas reglamentarias?",
+    "answer": "béisbol",
+    "difficulty": 4
+  },
+  {
+    "id": 399,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con rugby union?",
+    "answer": "ensayo de 5 puntos",
+    "difficulty": 4
+  },
+  {
+    "id": 400,
+    "question": "¿A qué disciplina corresponde esta característica: ensayo de 5 puntos?",
+    "answer": "rugby union",
+    "difficulty": 4
+  },
+  {
+    "id": 401,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con baloncesto FIBA?",
+    "answer": "triple a 6,75 metros",
+    "difficulty": 4
+  },
+  {
+    "id": 402,
+    "question": "¿A qué disciplina corresponde esta característica: triple a 6,75 metros?",
+    "answer": "baloncesto FIBA",
+    "difficulty": 4
+  },
+  {
+    "id": 403,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con hockey hierba?",
+    "answer": "partidos de 60 minutos",
+    "difficulty": 4
+  },
+  {
+    "id": 404,
+    "question": "¿A qué disciplina corresponde esta característica: partidos de 60 minutos?",
+    "answer": "hockey hierba",
+    "difficulty": 4
+  },
+  {
+    "id": 405,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con bádminton?",
+    "answer": "juegos a 21 puntos",
+    "difficulty": 4
+  },
+  {
+    "id": 406,
+    "question": "¿A qué disciplina corresponde esta característica: juegos a 21 puntos?",
+    "answer": "bádminton",
+    "difficulty": 4
+  },
+  {
+    "id": 407,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con pádel?",
+    "answer": "saque por debajo de la cintura",
+    "difficulty": 4
+  },
+  {
+    "id": 408,
+    "question": "¿A qué disciplina corresponde esta característica: saque por debajo de la cintura?",
+    "answer": "pádel",
+    "difficulty": 4
+  },
+  {
+    "id": 409,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con boxeo profesional?",
+    "answer": "12 asaltos en campeonatos masculinos clásicos",
+    "difficulty": 4
+  },
+  {
+    "id": 410,
+    "question": "¿A qué disciplina corresponde esta característica: 12 asaltos en campeonatos masculinos clásicos?",
+    "answer": "boxeo profesional",
+    "difficulty": 4
+  },
+  {
+    "id": 411,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con ajedrez?",
+    "answer": "el rey no puede enrocarse estando en jaque",
+    "difficulty": 4
+  },
+  {
+    "id": 412,
+    "question": "¿A qué disciplina corresponde esta característica: el rey no puede enrocarse estando en jaque?",
+    "answer": "ajedrez",
+    "difficulty": 4
+  },
+  {
+    "id": 413,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con esgrima de florete?",
+    "answer": "blanco válido en el torso",
+    "difficulty": 4
+  },
+  {
+    "id": 414,
+    "question": "¿A qué disciplina corresponde esta característica: blanco válido en el torso?",
+    "answer": "esgrima de florete",
+    "difficulty": 4
+  },
+  {
+    "id": 415,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con curling?",
+    "answer": "piedras de granito lanzadas sobre hielo",
+    "difficulty": 4
+  },
+  {
+    "id": 416,
+    "question": "¿A qué disciplina corresponde esta característica: piedras de granito lanzadas sobre hielo?",
+    "answer": "curling",
+    "difficulty": 4
+  },
+  {
+    "id": 417,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con sumo?",
+    "answer": "combates dentro del dohyō",
+    "difficulty": 4
+  },
+  {
+    "id": 418,
+    "question": "¿A qué disciplina corresponde esta característica: combates dentro del dohyō?",
+    "answer": "sumo",
+    "difficulty": 4
+  },
+  {
+    "id": 419,
+    "question": "¿Qué regla, medida o rasgo técnico se asocia con bobsleigh a cuatro?",
+    "answer": "4 tripulantes",
+    "difficulty": 4
+  },
+  {
+    "id": 420,
+    "question": "¿A qué disciplina corresponde esta característica: 4 tripulantes?",
+    "answer": "bobsleigh a cuatro",
+    "difficulty": 4
+  },
+  {
+    "id": 421,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Murrayfield?",
+    "answer": "la selección de rugby de Escocia",
+    "difficulty": 4
+  },
+  {
+    "id": 422,
+    "question": "¿Qué recinto deportivo se asocia con la selección de rugby de Escocia?",
+    "answer": "Murrayfield",
+    "difficulty": 4
+  },
+  {
+    "id": 423,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Camp Nou?",
+    "answer": "el FC Barcelona",
+    "difficulty": 4
+  },
+  {
+    "id": 424,
+    "question": "¿Qué recinto deportivo se asocia con el FC Barcelona?",
+    "answer": "Camp Nou",
+    "difficulty": 4
+  },
+  {
+    "id": 425,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona All England Club?",
+    "answer": "Wimbledon",
+    "difficulty": 4
+  },
+  {
+    "id": 426,
+    "question": "¿Qué recinto deportivo se asocia con Wimbledon?",
+    "answer": "All England Club",
+    "difficulty": 4
+  },
+  {
+    "id": 427,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Augusta National?",
+    "answer": "el Masters de golf",
+    "difficulty": 4
+  },
+  {
+    "id": 428,
+    "question": "¿Qué recinto deportivo se asocia con el Masters de golf?",
+    "answer": "Augusta National",
+    "difficulty": 4
+  },
+  {
+    "id": 429,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Suzuka?",
+    "answer": "el Gran Premio de Japón de Fórmula 1",
+    "difficulty": 4
+  },
+  {
+    "id": 430,
+    "question": "¿Qué recinto deportivo se asocia con el Gran Premio de Japón de Fórmula 1?",
+    "answer": "Suzuka",
+    "difficulty": 4
+  },
+  {
+    "id": 431,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Silverstone?",
+    "answer": "el Gran Premio de Gran Bretaña de Fórmula 1",
+    "difficulty": 4
+  },
+  {
+    "id": 432,
+    "question": "¿Qué recinto deportivo se asocia con el Gran Premio de Gran Bretaña de Fórmula 1?",
+    "answer": "Silverstone",
+    "difficulty": 4
+  },
+  {
+    "id": 433,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Roland Garros?",
+    "answer": "el Abierto de Francia de tenis",
+    "difficulty": 4
+  },
+  {
+    "id": 434,
+    "question": "¿Qué recinto deportivo se asocia con el Abierto de Francia de tenis?",
+    "answer": "Roland Garros",
+    "difficulty": 4
+  },
+  {
+    "id": 435,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Melbourne Cricket Ground?",
+    "answer": "el Boxing Day Test de críquet",
+    "difficulty": 4
+  },
+  {
+    "id": 436,
+    "question": "¿Qué recinto deportivo se asocia con el Boxing Day Test de críquet?",
+    "answer": "Melbourne Cricket Ground",
+    "difficulty": 4
+  },
+  {
+    "id": 437,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Eden Gardens?",
+    "answer": "el gran críquet de Calcuta",
+    "difficulty": 4
+  },
+  {
+    "id": 438,
+    "question": "¿Qué recinto deportivo se asocia con el gran críquet de Calcuta?",
+    "answer": "Eden Gardens",
+    "difficulty": 4
+  },
+  {
+    "id": 439,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Madison Square Garden?",
+    "answer": "Knicks, Rangers y grandes veladas de boxeo",
+    "difficulty": 4
+  },
+  {
+    "id": 440,
+    "question": "¿Qué recinto deportivo se asocia con Knicks, Rangers y grandes veladas de boxeo?",
+    "answer": "Madison Square Garden",
+    "difficulty": 4
+  },
+  {
+    "id": 441,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Old Course de St Andrews?",
+    "answer": "la cuna simbólica del golf",
+    "difficulty": 4
+  },
+  {
+    "id": 442,
+    "question": "¿Qué recinto deportivo se asocia con la cuna simbólica del golf?",
+    "answer": "Old Course de St Andrews",
+    "difficulty": 4
+  },
+  {
+    "id": 443,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Le Mans?",
+    "answer": "las 24 Horas de resistencia",
+    "difficulty": 4
+  },
+  {
+    "id": 444,
+    "question": "¿Qué recinto deportivo se asocia con las 24 Horas de resistencia?",
+    "answer": "Le Mans",
+    "difficulty": 4
+  },
+  {
+    "id": 445,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Monza?",
+    "answer": "el Gran Premio de Italia de Fórmula 1",
+    "difficulty": 4
+  },
+  {
+    "id": 446,
+    "question": "¿Qué recinto deportivo se asocia con el Gran Premio de Italia de Fórmula 1?",
+    "answer": "Monza",
+    "difficulty": 4
+  },
+  {
+    "id": 447,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Flushing Meadows?",
+    "answer": "el US Open de tenis",
+    "difficulty": 4
+  },
+  {
+    "id": 448,
+    "question": "¿Qué recinto deportivo se asocia con el US Open de tenis?",
+    "answer": "Flushing Meadows",
+    "difficulty": 4
+  },
+  {
+    "id": 449,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Lord's?",
+    "answer": "la catedral del críquet",
+    "difficulty": 4
+  },
+  {
+    "id": 450,
+    "question": "¿Qué recinto deportivo se asocia con la catedral del críquet?",
+    "answer": "Lord's",
+    "difficulty": 4
+  },
+  {
+    "id": 451,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Lake Placid?",
+    "answer": "los Juegos Olímpicos de Invierno de 1980",
+    "difficulty": 4
+  },
+  {
+    "id": 452,
+    "question": "¿Qué recinto deportivo se asocia con los Juegos Olímpicos de Invierno de 1980?",
+    "answer": "Lake Placid",
+    "difficulty": 4
+  },
+  {
+    "id": 453,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Hockenheimring?",
+    "answer": "la Fórmula 1 en Alemania",
+    "difficulty": 4
+  },
+  {
+    "id": 454,
+    "question": "¿Qué recinto deportivo se asocia con la Fórmula 1 en Alemania?",
+    "answer": "Hockenheimring",
+    "difficulty": 4
+  },
+  {
+    "id": 455,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Val d'Isère?",
+    "answer": "la Copa del Mundo de esquí alpino",
+    "difficulty": 4
+  },
+  {
+    "id": 456,
+    "question": "¿Qué recinto deportivo se asocia con la Copa del Mundo de esquí alpino?",
+    "answer": "Val d'Isère",
+    "difficulty": 4
+  },
+  {
+    "id": 457,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Indianapolis Motor Speedway?",
+    "answer": "las 500 Millas de Indianápolis",
+    "difficulty": 4
+  },
+  {
+    "id": 458,
+    "question": "¿Qué recinto deportivo se asocia con las 500 Millas de Indianápolis?",
+    "answer": "Indianapolis Motor Speedway",
+    "difficulty": 4
+  },
+  {
+    "id": 459,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Alpe d'Huez?",
+    "answer": "una de las ascensiones emblemáticas del Tour",
+    "difficulty": 4
+  },
+  {
+    "id": 460,
+    "question": "¿Qué recinto deportivo se asocia con una de las ascensiones emblemáticas del Tour?",
+    "answer": "Alpe d'Huez",
+    "difficulty": 4
+  },
+  {
+    "id": 461,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Twickenham?",
+    "answer": "el rugby inglés",
+    "difficulty": 4
+  },
+  {
+    "id": 462,
+    "question": "¿Qué recinto deportivo se asocia con el rugby inglés?",
+    "answer": "Twickenham",
+    "difficulty": 4
+  },
+  {
+    "id": 463,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Maracaná?",
+    "answer": "el gran fútbol de Río de Janeiro",
+    "difficulty": 4
+  },
+  {
+    "id": 464,
+    "question": "¿Qué recinto deportivo se asocia con el gran fútbol de Río de Janeiro?",
+    "answer": "Maracaná",
+    "difficulty": 4
+  },
+  {
+    "id": 465,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Wembley?",
+    "answer": "finales históricas del fútbol inglés",
+    "difficulty": 4
+  },
+  {
+    "id": 466,
+    "question": "¿Qué recinto deportivo se asocia con finales históricas del fútbol inglés?",
+    "answer": "Wembley",
+    "difficulty": 4
+  },
+  {
+    "id": 467,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Meydan?",
+    "answer": "la Dubai World Cup de hípica",
+    "difficulty": 4
+  },
+  {
+    "id": 468,
+    "question": "¿Qué recinto deportivo se asocia con la Dubai World Cup de hípica?",
+    "answer": "Meydan",
+    "difficulty": 4
+  },
+  {
+    "id": 469,
+    "question": "¿Con qué evento, club o tradición deportiva se relaciona Ascot?",
+    "answer": "las carreras británicas más ceremoniales",
+    "difficulty": 4
+  },
+  {
+    "id": 470,
+    "question": "¿Qué recinto deportivo se asocia con las carreras británicas más ceremoniales?",
+    "answer": "Ascot",
+    "difficulty": 4
+  },
+  {
+    "id": 471,
+    "question": "¿Qué torneo de golf concede la chaqueta verde a su campeón?",
+    "answer": "El Masters de Augusta",
+    "difficulty": 3
+  },
+  {
+    "id": 472,
+    "question": "¿En qué deporte se utiliza el término “draft” para el proceso anual de incorporación de jugadores?",
+    "answer": "En las ligas profesionales norteamericanas como la NBA o la NFL",
+    "difficulty": 3
+  },
+  {
+    "id": 473,
+    "question": "¿Qué premio recibe el campeón del Tour de Francia como líder de la clasificación general?",
+    "answer": "El maillot amarillo",
+    "difficulty": 3
+  },
+  {
+    "id": 474,
+    "question": "¿Qué recinto londinense acoge la final masculina de Wimbledon?",
+    "answer": "La pista central del All England Club",
+    "difficulty": 3
+  },
+  {
+    "id": 475,
+    "question": "¿Qué deporte practica un atleta que compite en una prueba de skeleton?",
+    "answer": "Descenso en trineo individual boca abajo",
+    "difficulty": 4
+  },
+  {
+    "id": 476,
+    "question": "¿Cuántos jugadores presenta cada equipo sobre el hielo en hockey sobre hielo en situación estándar, sin contar al portero?",
+    "answer": "Cinco",
+    "difficulty": 4
+  },
+  {
+    "id": 477,
+    "question": "¿Qué trofeo recibe el campeón de la NHL?",
+    "answer": "La Copa Stanley",
+    "difficulty": 2
+  },
+  {
+    "id": 478,
+    "question": "¿Qué circuito alberga tradicionalmente las 24 Horas de Le Mans?",
+    "answer": "El circuito de La Sarthe",
+    "difficulty": 3
+  },
+  {
+    "id": 479,
+    "question": "¿Qué tipo de golpe es un “slam dunk” en baloncesto?",
+    "answer": "Un mate",
+    "difficulty": 2
   }
 ]

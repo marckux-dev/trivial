@@ -805,9 +805,9 @@
   },
   {
     "id": 135,
-    "question": "¿Quién pintó 'Las Meninas'?",
-    "answer": "Diego Velázquez",
-    "difficulty": 1
+    "question": "¿En qué museo se conserva “Las Meninas”?",
+    "answer": "El Museo del Prado",
+    "difficulty": 2
   },
   {
     "id": 136,
@@ -823,9 +823,9 @@
   },
   {
     "id": 138,
-    "question": "¿Quién pintó la Capilla Sixtina?",
-    "answer": "Miguel Ángel",
-    "difficulty": 1
+    "question": "¿Quién pintó los frescos del Juicio Final en la Capilla Sixtina?",
+    "answer": "Miguel Ángel Buonarroti",
+    "difficulty": 2
   },
   {
     "id": 139,
@@ -1525,9 +1525,9 @@
   },
   {
     "id": 255,
-    "question": "¿Qué compositor austríaco escribió 'La flauta mágica'?",
-    "answer": "Mozart",
-    "difficulty": 2
+    "question": "¿Qué compositor firmó tanto “La flauta mágica” como “Don Giovanni”?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "difficulty": 3
   },
   {
     "id": 256,
@@ -1855,9 +1855,9 @@
   },
   {
     "id": 310,
-    "question": "¿Quién pintó 'La noche estrellada'?",
-    "answer": "Vincent van Gogh",
-    "difficulty": 1
+    "question": "¿En qué localidad francesa pintó Van Gogh “La noche estrellada”?",
+    "answer": "Saint-Rémy-de-Provence",
+    "difficulty": 4
   },
   {
     "id": 311,
@@ -1867,15 +1867,15 @@
   },
   {
     "id": 312,
-    "question": "¿Quién escribió '1984'?",
-    "answer": "George Orwell",
-    "difficulty": 1
+    "question": "¿Qué novela de George Orwell popularizó la figura del Gran Hermano?",
+    "answer": "1984",
+    "difficulty": 2
   },
   {
     "id": 313,
-    "question": "¿Quién esculpió 'El pensador'?",
+    "question": "¿Qué escultor francés creó también “Los burgueses de Calais”?",
     "answer": "Auguste Rodin",
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "id": 314,
@@ -1891,9 +1891,9 @@
   },
   {
     "id": 316,
-    "question": "¿Qué compositor escribió la Novena Sinfonía?",
-    "answer": "Beethoven",
-    "difficulty": 1
+    "question": "¿Qué sinfonía de Beethoven es conocida como la “Coral”?",
+    "answer": "La Novena Sinfonía",
+    "difficulty": 2
   },
   {
     "id": 317,
@@ -2377,9 +2377,9 @@
   },
   {
     "id": 397,
-    "question": "¿Qué compositor ruso escribió 'El lago de los cisnes'?",
-    "answer": "Chaikovski",
-    "difficulty": 2
+    "question": "¿Qué ballet de Chaikovski gira en torno a la princesa Odette?",
+    "answer": "El lago de los cisnes",
+    "difficulty": 3
   },
   {
     "id": 398,
@@ -5704,5 +5704,1205 @@
     "question": "¿Qué manga de Masami Kurumada sobre guerreros con armaduras celestiales fue uno de los primeros anime de éxito en España a finales de los años 80?",
     "answer": "Saint Seiya (Caballeros del Zodiaco / Los Caballeros del Zodiaco, 1985-1990)",
     "difficulty": 2
+  },
+  {
+    "id": 952,
+    "question": "¿Quién escribió \"Pedro Páramo\"?",
+    "answer": "Juan Rulfo",
+    "difficulty": 3
+  },
+  {
+    "id": 953,
+    "question": "¿Qué obra literaria aparece aquí asociada con Juan Rulfo?",
+    "answer": "Pedro Páramo",
+    "difficulty": 4
+  },
+  {
+    "id": 954,
+    "question": "¿Quién escribió \"La montaña mágica\"?",
+    "answer": "Thomas Mann",
+    "difficulty": 3
+  },
+  {
+    "id": 955,
+    "question": "¿Qué obra literaria aparece aquí asociada con Thomas Mann?",
+    "answer": "La montaña mágica",
+    "difficulty": 4
+  },
+  {
+    "id": 956,
+    "question": "¿Quién escribió \"El nombre de la rosa\"?",
+    "answer": "Umberto Eco",
+    "difficulty": 3
+  },
+  {
+    "id": 957,
+    "question": "¿Qué obra literaria aparece aquí asociada con Umberto Eco?",
+    "answer": "El nombre de la rosa",
+    "difficulty": 4
+  },
+  {
+    "id": 958,
+    "question": "¿Quién escribió \"Rayuela\"?",
+    "answer": "Julio Cortázar",
+    "difficulty": 3
+  },
+  {
+    "id": 959,
+    "question": "¿Qué obra literaria aparece aquí asociada con Julio Cortázar?",
+    "answer": "Rayuela",
+    "difficulty": 4
+  },
+  {
+    "id": 960,
+    "question": "¿Quién escribió \"La insoportable levedad del ser\"?",
+    "answer": "Milan Kundera",
+    "difficulty": 3
+  },
+  {
+    "id": 961,
+    "question": "¿Qué obra literaria aparece aquí asociada con Milan Kundera?",
+    "answer": "La insoportable levedad del ser",
+    "difficulty": 4
+  },
+  {
+    "id": 962,
+    "question": "¿Quién escribió \"Moby-Dick\"?",
+    "answer": "Herman Melville",
+    "difficulty": 3
+  },
+  {
+    "id": 963,
+    "question": "¿Qué obra literaria aparece aquí asociada con Herman Melville?",
+    "answer": "Moby-Dick",
+    "difficulty": 4
+  },
+  {
+    "id": 964,
+    "question": "¿Quién escribió \"Madame Bovary\"?",
+    "answer": "Gustave Flaubert",
+    "difficulty": 3
+  },
+  {
+    "id": 965,
+    "question": "¿Qué obra literaria aparece aquí asociada con Gustave Flaubert?",
+    "answer": "Madame Bovary",
+    "difficulty": 4
+  },
+  {
+    "id": 966,
+    "question": "¿Quién escribió \"Crimen y castigo\"?",
+    "answer": "Fiódor Dostoievski",
+    "difficulty": 3
+  },
+  {
+    "id": 967,
+    "question": "¿Qué obra literaria aparece aquí asociada con Fiódor Dostoievski?",
+    "answer": "Crimen y castigo",
+    "difficulty": 4
+  },
+  {
+    "id": 968,
+    "question": "¿Quién escribió \"El proceso\"?",
+    "answer": "Franz Kafka",
+    "difficulty": 3
+  },
+  {
+    "id": 969,
+    "question": "¿Qué obra literaria aparece aquí asociada con Franz Kafka?",
+    "answer": "El proceso",
+    "difficulty": 4
+  },
+  {
+    "id": 970,
+    "question": "¿Quién escribió \"Ulises\"?",
+    "answer": "James Joyce",
+    "difficulty": 3
+  },
+  {
+    "id": 971,
+    "question": "¿Qué obra literaria aparece aquí asociada con James Joyce?",
+    "answer": "Ulises",
+    "difficulty": 4
+  },
+  {
+    "id": 972,
+    "question": "¿Quién escribió \"La señora Dalloway\"?",
+    "answer": "Virginia Woolf",
+    "difficulty": 3
+  },
+  {
+    "id": 973,
+    "question": "¿Qué obra literaria aparece aquí asociada con Virginia Woolf?",
+    "answer": "La señora Dalloway",
+    "difficulty": 4
+  },
+  {
+    "id": 974,
+    "question": "¿Quién escribió \"El extranjero\"?",
+    "answer": "Albert Camus",
+    "difficulty": 3
+  },
+  {
+    "id": 975,
+    "question": "¿Qué obra literaria aparece aquí asociada con Albert Camus?",
+    "answer": "El extranjero",
+    "difficulty": 4
+  },
+  {
+    "id": 976,
+    "question": "¿Quién escribió \"Hijos de la medianoche\"?",
+    "answer": "Salman Rushdie",
+    "difficulty": 3
+  },
+  {
+    "id": 977,
+    "question": "¿Qué obra literaria aparece aquí asociada con Salman Rushdie?",
+    "answer": "Hijos de la medianoche",
+    "difficulty": 4
+  },
+  {
+    "id": 978,
+    "question": "¿Quién escribió \"La casa verde\"?",
+    "answer": "Mario Vargas Llosa",
+    "difficulty": 3
+  },
+  {
+    "id": 979,
+    "question": "¿Qué obra literaria aparece aquí asociada con Mario Vargas Llosa?",
+    "answer": "La casa verde",
+    "difficulty": 4
+  },
+  {
+    "id": 980,
+    "question": "¿Quién escribió \"La tregua\"?",
+    "answer": "Mario Benedetti",
+    "difficulty": 3
+  },
+  {
+    "id": 981,
+    "question": "¿Qué obra literaria aparece aquí asociada con Mario Benedetti?",
+    "answer": "La tregua",
+    "difficulty": 4
+  },
+  {
+    "id": 982,
+    "question": "¿Quién escribió \"El tambor de hojalata\"?",
+    "answer": "Günter Grass",
+    "difficulty": 3
+  },
+  {
+    "id": 983,
+    "question": "¿Qué obra literaria aparece aquí asociada con Günter Grass?",
+    "answer": "El tambor de hojalata",
+    "difficulty": 4
+  },
+  {
+    "id": 984,
+    "question": "¿Quién escribió \"La conjura de los necios\"?",
+    "answer": "John Kennedy Toole",
+    "difficulty": 3
+  },
+  {
+    "id": 985,
+    "question": "¿Qué obra literaria aparece aquí asociada con John Kennedy Toole?",
+    "answer": "La conjura de los necios",
+    "difficulty": 4
+  },
+  {
+    "id": 986,
+    "question": "¿Quién escribió \"El maestro y Margarita\"?",
+    "answer": "Mijaíl Bulgákov",
+    "difficulty": 3
+  },
+  {
+    "id": 987,
+    "question": "¿Qué obra literaria aparece aquí asociada con Mijaíl Bulgákov?",
+    "answer": "El maestro y Margarita",
+    "difficulty": 4
+  },
+  {
+    "id": 988,
+    "question": "¿Quién escribió \"Tokio blues\"?",
+    "answer": "Haruki Murakami",
+    "difficulty": 3
+  },
+  {
+    "id": 989,
+    "question": "¿Qué obra literaria aparece aquí asociada con Haruki Murakami?",
+    "answer": "Tokio blues",
+    "difficulty": 4
+  },
+  {
+    "id": 990,
+    "question": "¿Quién escribió \"La campana de cristal\"?",
+    "answer": "Sylvia Plath",
+    "difficulty": 3
+  },
+  {
+    "id": 991,
+    "question": "¿Qué obra literaria aparece aquí asociada con Sylvia Plath?",
+    "answer": "La campana de cristal",
+    "difficulty": 4
+  },
+  {
+    "id": 992,
+    "question": "¿Quién escribió \"Ficciones\"?",
+    "answer": "Jorge Luis Borges",
+    "difficulty": 3
+  },
+  {
+    "id": 993,
+    "question": "¿Qué obra literaria aparece aquí asociada con Jorge Luis Borges?",
+    "answer": "Ficciones",
+    "difficulty": 4
+  },
+  {
+    "id": 994,
+    "question": "¿Quién escribió \"Ensayo sobre la ceguera\"?",
+    "answer": "José Saramago",
+    "difficulty": 3
+  },
+  {
+    "id": 995,
+    "question": "¿Qué obra literaria aparece aquí asociada con José Saramago?",
+    "answer": "Ensayo sobre la ceguera",
+    "difficulty": 4
+  },
+  {
+    "id": 996,
+    "question": "¿Quién escribió \"La muerte en Venecia\"?",
+    "answer": "Thomas Mann",
+    "difficulty": 3
+  },
+  {
+    "id": 997,
+    "question": "¿Quién escribió \"El guardián entre el centeno\"?",
+    "answer": "J. D. Salinger",
+    "difficulty": 3
+  },
+  {
+    "id": 998,
+    "question": "¿Qué obra literaria aparece aquí asociada con J. D. Salinger?",
+    "answer": "El guardián entre el centeno",
+    "difficulty": 4
+  },
+  {
+    "id": 999,
+    "question": "¿Quién escribió \"Los detectives salvajes\"?",
+    "answer": "Roberto Bolaño",
+    "difficulty": 3
+  },
+  {
+    "id": 1000,
+    "question": "¿Qué obra literaria aparece aquí asociada con Roberto Bolaño?",
+    "answer": "Los detectives salvajes",
+    "difficulty": 4
+  },
+  {
+    "id": 1001,
+    "question": "¿Quién pintó o realizó \"Las meninas\"?",
+    "answer": "Diego Velázquez",
+    "difficulty": 3
+  },
+  {
+    "id": 1002,
+    "question": "¿Qué obra visual se asocia con Diego Velázquez?",
+    "answer": "Las meninas",
+    "difficulty": 4
+  },
+  {
+    "id": 1003,
+    "question": "¿Quién pintó o realizó \"El jardín de las delicias\"?",
+    "answer": "El Bosco",
+    "difficulty": 3
+  },
+  {
+    "id": 1004,
+    "question": "¿Qué obra visual se asocia con El Bosco?",
+    "answer": "El jardín de las delicias",
+    "difficulty": 4
+  },
+  {
+    "id": 1005,
+    "question": "¿Quién pintó o realizó \"Impresión, sol naciente\"?",
+    "answer": "Claude Monet",
+    "difficulty": 3
+  },
+  {
+    "id": 1006,
+    "question": "¿Qué obra visual se asocia con Claude Monet?",
+    "answer": "Impresión, sol naciente",
+    "difficulty": 4
+  },
+  {
+    "id": 1007,
+    "question": "¿Quién pintó o realizó \"La escuela de Atenas\"?",
+    "answer": "Rafael",
+    "difficulty": 3
+  },
+  {
+    "id": 1008,
+    "question": "¿Qué obra visual se asocia con Rafael?",
+    "answer": "La escuela de Atenas",
+    "difficulty": 4
+  },
+  {
+    "id": 1009,
+    "question": "¿Quién pintó o realizó \"Guernica\"?",
+    "answer": "Pablo Picasso",
+    "difficulty": 3
+  },
+  {
+    "id": 1010,
+    "question": "¿Qué obra visual se asocia con Pablo Picasso?",
+    "answer": "Guernica",
+    "difficulty": 4
+  },
+  {
+    "id": 1011,
+    "question": "¿Quién pintó o realizó \"El nacimiento de Venus\"?",
+    "answer": "Sandro Botticelli",
+    "difficulty": 3
+  },
+  {
+    "id": 1012,
+    "question": "¿Qué obra visual se asocia con Sandro Botticelli?",
+    "answer": "El nacimiento de Venus",
+    "difficulty": 4
+  },
+  {
+    "id": 1013,
+    "question": "¿Quién pintó o realizó \"La libertad guiando al pueblo\"?",
+    "answer": "Eugène Delacroix",
+    "difficulty": 3
+  },
+  {
+    "id": 1014,
+    "question": "¿Qué obra visual se asocia con Eugène Delacroix?",
+    "answer": "La libertad guiando al pueblo",
+    "difficulty": 4
+  },
+  {
+    "id": 1015,
+    "question": "¿Quién pintó o realizó \"El beso\"?",
+    "answer": "Gustav Klimt",
+    "difficulty": 3
+  },
+  {
+    "id": 1016,
+    "question": "¿Qué obra visual se asocia con Gustav Klimt?",
+    "answer": "El beso",
+    "difficulty": 4
+  },
+  {
+    "id": 1017,
+    "question": "¿Quién pintó o realizó \"La ronda de noche\"?",
+    "answer": "Rembrandt",
+    "difficulty": 3
+  },
+  {
+    "id": 1018,
+    "question": "¿Qué obra visual se asocia con Rembrandt?",
+    "answer": "La ronda de noche",
+    "difficulty": 4
+  },
+  {
+    "id": 1019,
+    "question": "¿Quién pintó o realizó \"La joven de la perla\"?",
+    "answer": "Johannes Vermeer",
+    "difficulty": 3
+  },
+  {
+    "id": 1020,
+    "question": "¿Qué obra visual se asocia con Johannes Vermeer?",
+    "answer": "La joven de la perla",
+    "difficulty": 4
+  },
+  {
+    "id": 1021,
+    "question": "¿Quién pintó o realizó \"Nighthawks\"?",
+    "answer": "Edward Hopper",
+    "difficulty": 3
+  },
+  {
+    "id": 1022,
+    "question": "¿Qué obra visual se asocia con Edward Hopper?",
+    "answer": "Nighthawks",
+    "difficulty": 4
+  },
+  {
+    "id": 1023,
+    "question": "¿Quién pintó o realizó \"El caminante sobre el mar de nubes\"?",
+    "answer": "Caspar David Friedrich",
+    "difficulty": 3
+  },
+  {
+    "id": 1024,
+    "question": "¿Qué obra visual se asocia con Caspar David Friedrich?",
+    "answer": "El caminante sobre el mar de nubes",
+    "difficulty": 4
+  },
+  {
+    "id": 1025,
+    "question": "¿Quién pintó o realizó \"Saturno devorando a su hijo\"?",
+    "answer": "Francisco de Goya",
+    "difficulty": 3
+  },
+  {
+    "id": 1026,
+    "question": "¿Qué obra visual se asocia con Francisco de Goya?",
+    "answer": "Saturno devorando a su hijo",
+    "difficulty": 4
+  },
+  {
+    "id": 1027,
+    "question": "¿Quién pintó o realizó \"Olympia\"?",
+    "answer": "Édouard Manet",
+    "difficulty": 3
+  },
+  {
+    "id": 1028,
+    "question": "¿Qué obra visual se asocia con Édouard Manet?",
+    "answer": "Olympia",
+    "difficulty": 4
+  },
+  {
+    "id": 1029,
+    "question": "¿Quién pintó o realizó \"American Gothic\"?",
+    "answer": "Grant Wood",
+    "difficulty": 3
+  },
+  {
+    "id": 1030,
+    "question": "¿Qué obra visual se asocia con Grant Wood?",
+    "answer": "American Gothic",
+    "difficulty": 4
+  },
+  {
+    "id": 1031,
+    "question": "¿Quién pintó o realizó \"La gran ola de Kanagawa\"?",
+    "answer": "Katsushika Hokusai",
+    "difficulty": 3
+  },
+  {
+    "id": 1032,
+    "question": "¿Qué obra visual se asocia con Katsushika Hokusai?",
+    "answer": "La gran ola de Kanagawa",
+    "difficulty": 4
+  },
+  {
+    "id": 1033,
+    "question": "¿Quién pintó o realizó \"Los fusilamientos del 3 de mayo\"?",
+    "answer": "Francisco de Goya",
+    "difficulty": 3
+  },
+  {
+    "id": 1034,
+    "question": "¿Quién pintó o realizó \"Composición VIII\"?",
+    "answer": "Wassily Kandinsky",
+    "difficulty": 3
+  },
+  {
+    "id": 1035,
+    "question": "¿Qué obra visual se asocia con Wassily Kandinsky?",
+    "answer": "Composición VIII",
+    "difficulty": 4
+  },
+  {
+    "id": 1036,
+    "question": "¿Quién pintó o realizó \"Campo de trigo con cuervos\"?",
+    "answer": "Vincent van Gogh",
+    "difficulty": 3
+  },
+  {
+    "id": 1037,
+    "question": "¿Qué obra visual se asocia con Vincent van Gogh?",
+    "answer": "Campo de trigo con cuervos",
+    "difficulty": 4
+  },
+  {
+    "id": 1038,
+    "question": "¿Quién pintó o realizó \"La persistencia de la memoria\"?",
+    "answer": "Salvador Dalí",
+    "difficulty": 3
+  },
+  {
+    "id": 1039,
+    "question": "¿Qué obra visual se asocia con Salvador Dalí?",
+    "answer": "La persistencia de la memoria",
+    "difficulty": 4
+  },
+  {
+    "id": 1040,
+    "question": "¿Quién pintó o realizó \"El grito\"?",
+    "answer": "Edvard Munch",
+    "difficulty": 3
+  },
+  {
+    "id": 1041,
+    "question": "¿Qué obra visual se asocia con Edvard Munch?",
+    "answer": "El grito",
+    "difficulty": 4
+  },
+  {
+    "id": 1042,
+    "question": "¿Quién pintó o realizó \"El almuerzo de los remeros\"?",
+    "answer": "Pierre-Auguste Renoir",
+    "difficulty": 3
+  },
+  {
+    "id": 1043,
+    "question": "¿Qué obra visual se asocia con Pierre-Auguste Renoir?",
+    "answer": "El almuerzo de los remeros",
+    "difficulty": 4
+  },
+  {
+    "id": 1044,
+    "question": "¿Quién pintó o realizó \"Tarde de domingo en la isla de la Grande Jatte\"?",
+    "answer": "Georges Seurat",
+    "difficulty": 3
+  },
+  {
+    "id": 1045,
+    "question": "¿Qué obra visual se asocia con Georges Seurat?",
+    "answer": "Tarde de domingo en la isla de la Grande Jatte",
+    "difficulty": 4
+  },
+  {
+    "id": 1046,
+    "question": "¿Quién pintó o realizó \"La creación de Adán\"?",
+    "answer": "Miguel Ángel",
+    "difficulty": 3
+  },
+  {
+    "id": 1047,
+    "question": "¿Qué obra visual se asocia con Miguel Ángel?",
+    "answer": "La creación de Adán",
+    "difficulty": 4
+  },
+  {
+    "id": 1048,
+    "question": "¿Quién pintó o realizó \"Las bañistas\"?",
+    "answer": "Paul Cézanne",
+    "difficulty": 3
+  },
+  {
+    "id": 1049,
+    "question": "¿Qué obra visual se asocia con Paul Cézanne?",
+    "answer": "Las bañistas",
+    "difficulty": 4
+  },
+  {
+    "id": 1050,
+    "question": "¿Quién compuso la ópera \"La traviata\"?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 1051,
+    "question": "¿Qué ópera de este banco se asocia con Giuseppe Verdi?",
+    "answer": "La traviata",
+    "difficulty": 4
+  },
+  {
+    "id": 1052,
+    "question": "¿Quién compuso la ópera \"Carmen\"?",
+    "answer": "Georges Bizet",
+    "difficulty": 4
+  },
+  {
+    "id": 1053,
+    "question": "¿Qué ópera de este banco se asocia con Georges Bizet?",
+    "answer": "Carmen",
+    "difficulty": 4
+  },
+  {
+    "id": 1054,
+    "question": "¿Quién compuso la ópera \"La flauta mágica\"?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "difficulty": 4
+  },
+  {
+    "id": 1055,
+    "question": "¿Qué ópera de este banco se asocia con Wolfgang Amadeus Mozart?",
+    "answer": "La flauta mágica",
+    "difficulty": 4
+  },
+  {
+    "id": 1056,
+    "question": "¿Quién compuso la ópera \"Tosca\"?",
+    "answer": "Giacomo Puccini",
+    "difficulty": 4
+  },
+  {
+    "id": 1057,
+    "question": "¿Qué ópera de este banco se asocia con Giacomo Puccini?",
+    "answer": "Tosca",
+    "difficulty": 4
+  },
+  {
+    "id": 1058,
+    "question": "¿Quién compuso la ópera \"El anillo del nibelungo\"?",
+    "answer": "Richard Wagner",
+    "difficulty": 4
+  },
+  {
+    "id": 1059,
+    "question": "¿Qué ópera de este banco se asocia con Richard Wagner?",
+    "answer": "El anillo del nibelungo",
+    "difficulty": 4
+  },
+  {
+    "id": 1060,
+    "question": "¿Quién compuso la ópera \"Madama Butterfly\"?",
+    "answer": "Giacomo Puccini",
+    "difficulty": 4
+  },
+  {
+    "id": 1061,
+    "question": "¿Quién compuso la ópera \"Rigoletto\"?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 1062,
+    "question": "¿Quién compuso la ópera \"Turandot\"?",
+    "answer": "Giacomo Puccini",
+    "difficulty": 4
+  },
+  {
+    "id": 1063,
+    "question": "¿Quién compuso la ópera \"Don Giovanni\"?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "difficulty": 4
+  },
+  {
+    "id": 1064,
+    "question": "¿Quién compuso la ópera \"Parsifal\"?",
+    "answer": "Richard Wagner",
+    "difficulty": 4
+  },
+  {
+    "id": 1065,
+    "question": "¿Quién compuso la ópera \"Eugene Onegin\"?",
+    "answer": "Piotr Ilich Chaikovski",
+    "difficulty": 4
+  },
+  {
+    "id": 1066,
+    "question": "¿Qué ópera de este banco se asocia con Piotr Ilich Chaikovski?",
+    "answer": "Eugene Onegin",
+    "difficulty": 4
+  },
+  {
+    "id": 1067,
+    "question": "¿Quién compuso la ópera \"Nabucco\"?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 1068,
+    "question": "¿Quién compuso la ópera \"Norma\"?",
+    "answer": "Vincenzo Bellini",
+    "difficulty": 4
+  },
+  {
+    "id": 1069,
+    "question": "¿Qué ópera de este banco se asocia con Vincenzo Bellini?",
+    "answer": "Norma",
+    "difficulty": 4
+  },
+  {
+    "id": 1070,
+    "question": "¿Quién compuso la ópera \"Aida\"?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 1071,
+    "question": "¿Quién compuso la ópera \"Pagliacci\"?",
+    "answer": "Ruggero Leoncavallo",
+    "difficulty": 4
+  },
+  {
+    "id": 1072,
+    "question": "¿Qué ópera de este banco se asocia con Ruggero Leoncavallo?",
+    "answer": "Pagliacci",
+    "difficulty": 4
+  },
+  {
+    "id": 1073,
+    "question": "¿Quién compuso la ópera \"Lucia di Lammermoor\"?",
+    "answer": "Gaetano Donizetti",
+    "difficulty": 4
+  },
+  {
+    "id": 1074,
+    "question": "¿Qué ópera de este banco se asocia con Gaetano Donizetti?",
+    "answer": "Lucia di Lammermoor",
+    "difficulty": 4
+  },
+  {
+    "id": 1075,
+    "question": "¿Quién compuso la ópera \"La bohème\"?",
+    "answer": "Giacomo Puccini",
+    "difficulty": 4
+  },
+  {
+    "id": 1076,
+    "question": "¿Quién compuso la ópera \"Otello\"?",
+    "answer": "Giuseppe Verdi",
+    "difficulty": 4
+  },
+  {
+    "id": 1077,
+    "question": "¿Quién compuso la ópera \"Fidelio\"?",
+    "answer": "Ludwig van Beethoven",
+    "difficulty": 4
+  },
+  {
+    "id": 1078,
+    "question": "¿Qué ópera de este banco se asocia con Ludwig van Beethoven?",
+    "answer": "Fidelio",
+    "difficulty": 4
+  },
+  {
+    "id": 1079,
+    "question": "¿Quién compuso la ópera \"Cavalleria rusticana\"?",
+    "answer": "Pietro Mascagni",
+    "difficulty": 4
+  },
+  {
+    "id": 1080,
+    "question": "¿Qué ópera de este banco se asocia con Pietro Mascagni?",
+    "answer": "Cavalleria rusticana",
+    "difficulty": 4
+  },
+  {
+    "id": 1081,
+    "question": "¿Quién compuso la ópera \"El elixir de amor\"?",
+    "answer": "Gaetano Donizetti",
+    "difficulty": 4
+  },
+  {
+    "id": 1082,
+    "question": "¿Quién compuso la ópera \"El barbero de Sevilla\"?",
+    "answer": "Gioachino Rossini",
+    "difficulty": 4
+  },
+  {
+    "id": 1083,
+    "question": "¿Qué ópera de este banco se asocia con Gioachino Rossini?",
+    "answer": "El barbero de Sevilla",
+    "difficulty": 4
+  },
+  {
+    "id": 1084,
+    "question": "¿Quién compuso la ópera \"La sonnambula\"?",
+    "answer": "Vincenzo Bellini",
+    "difficulty": 4
+  },
+  {
+    "id": 1085,
+    "question": "¿Quién compuso la ópera \"Dido and Aeneas\"?",
+    "answer": "Henry Purcell",
+    "difficulty": 4
+  },
+  {
+    "id": 1086,
+    "question": "¿Qué ópera de este banco se asocia con Henry Purcell?",
+    "answer": "Dido and Aeneas",
+    "difficulty": 4
+  },
+  {
+    "id": 1087,
+    "question": "¿Quién compuso la ópera \"Pelléas et Mélisande\"?",
+    "answer": "Claude Debussy",
+    "difficulty": 4
+  },
+  {
+    "id": 1088,
+    "question": "¿Qué ópera de este banco se asocia con Claude Debussy?",
+    "answer": "Pelléas et Mélisande",
+    "difficulty": 4
+  },
+  {
+    "id": 1089,
+    "question": "¿Qué arquitecto o equipo diseñó Sagrada Familia?",
+    "answer": "Antoni Gaudí",
+    "difficulty": 4
+  },
+  {
+    "id": 1090,
+    "question": "¿Qué edificio o proyecto se asocia con Antoni Gaudí?",
+    "answer": "Sagrada Familia",
+    "difficulty": 4
+  },
+  {
+    "id": 1091,
+    "question": "¿Qué arquitecto o equipo diseñó Villa Savoye?",
+    "answer": "Le Corbusier",
+    "difficulty": 4
+  },
+  {
+    "id": 1092,
+    "question": "¿Qué edificio o proyecto se asocia con Le Corbusier?",
+    "answer": "Villa Savoye",
+    "difficulty": 4
+  },
+  {
+    "id": 1093,
+    "question": "¿Qué arquitecto o equipo diseñó Casa de la Cascada?",
+    "answer": "Frank Lloyd Wright",
+    "difficulty": 4
+  },
+  {
+    "id": 1094,
+    "question": "¿Qué edificio o proyecto se asocia con Frank Lloyd Wright?",
+    "answer": "Casa de la Cascada",
+    "difficulty": 4
+  },
+  {
+    "id": 1095,
+    "question": "¿Qué arquitecto o equipo diseñó Seagram Building?",
+    "answer": "Mies van der Rohe",
+    "difficulty": 4
+  },
+  {
+    "id": 1096,
+    "question": "¿Qué edificio o proyecto se asocia con Mies van der Rohe?",
+    "answer": "Seagram Building",
+    "difficulty": 4
+  },
+  {
+    "id": 1097,
+    "question": "¿Qué arquitecto o equipo diseñó San Carlo alle Quattro Fontane?",
+    "answer": "Francesco Borromini",
+    "difficulty": 4
+  },
+  {
+    "id": 1098,
+    "question": "¿Qué edificio o proyecto se asocia con Francesco Borromini?",
+    "answer": "San Carlo alle Quattro Fontane",
+    "difficulty": 4
+  },
+  {
+    "id": 1099,
+    "question": "¿Qué arquitecto o equipo diseñó cúpula de Santa Maria del Fiore?",
+    "answer": "Filippo Brunelleschi",
+    "difficulty": 4
+  },
+  {
+    "id": 1100,
+    "question": "¿Qué edificio o proyecto se asocia con Filippo Brunelleschi?",
+    "answer": "cúpula de Santa Maria del Fiore",
+    "difficulty": 4
+  },
+  {
+    "id": 1101,
+    "question": "¿Qué arquitecto o equipo diseñó Ópera de Sídney?",
+    "answer": "Jørn Utzon",
+    "difficulty": 4
+  },
+  {
+    "id": 1102,
+    "question": "¿Qué edificio o proyecto se asocia con Jørn Utzon?",
+    "answer": "Ópera de Sídney",
+    "difficulty": 4
+  },
+  {
+    "id": 1103,
+    "question": "¿Qué arquitecto o equipo diseñó Museo Guggenheim Bilbao?",
+    "answer": "Frank Gehry",
+    "difficulty": 4
+  },
+  {
+    "id": 1104,
+    "question": "¿Qué edificio o proyecto se asocia con Frank Gehry?",
+    "answer": "Museo Guggenheim Bilbao",
+    "difficulty": 4
+  },
+  {
+    "id": 1105,
+    "question": "¿Qué arquitecto o equipo diseñó Centro Pompidou?",
+    "answer": "Renzo Piano y Richard Rogers",
+    "difficulty": 4
+  },
+  {
+    "id": 1106,
+    "question": "¿Qué edificio o proyecto se asocia con Renzo Piano y Richard Rogers?",
+    "answer": "Centro Pompidou",
+    "difficulty": 4
+  },
+  {
+    "id": 1107,
+    "question": "¿Qué arquitecto o equipo diseñó Pabellón de Barcelona?",
+    "answer": "Mies van der Rohe",
+    "difficulty": 4
+  },
+  {
+    "id": 1108,
+    "question": "¿Qué arquitecto o equipo diseñó Palacio de Cristal de Londres?",
+    "answer": "Joseph Paxton",
+    "difficulty": 4
+  },
+  {
+    "id": 1109,
+    "question": "¿Qué edificio o proyecto se asocia con Joseph Paxton?",
+    "answer": "Palacio de Cristal de Londres",
+    "difficulty": 4
+  },
+  {
+    "id": 1110,
+    "question": "¿Qué arquitecto o equipo diseñó capilla de Ronchamp?",
+    "answer": "Le Corbusier",
+    "difficulty": 4
+  },
+  {
+    "id": 1111,
+    "question": "¿Qué arquitecto o equipo diseñó Hearst Tower?",
+    "answer": "Norman Foster",
+    "difficulty": 4
+  },
+  {
+    "id": 1112,
+    "question": "¿Qué edificio o proyecto se asocia con Norman Foster?",
+    "answer": "Hearst Tower",
+    "difficulty": 4
+  },
+  {
+    "id": 1113,
+    "question": "¿Qué arquitecto o equipo diseñó pirámide del Louvre?",
+    "answer": "I. M. Pei",
+    "difficulty": 4
+  },
+  {
+    "id": 1114,
+    "question": "¿Qué edificio o proyecto se asocia con I. M. Pei?",
+    "answer": "pirámide del Louvre",
+    "difficulty": 4
+  },
+  {
+    "id": 1115,
+    "question": "¿Qué arquitecto o equipo diseñó Burj Khalifa?",
+    "answer": "Adrian Smith",
+    "difficulty": 4
+  },
+  {
+    "id": 1116,
+    "question": "¿Qué edificio o proyecto se asocia con Adrian Smith?",
+    "answer": "Burj Khalifa",
+    "difficulty": 4
+  },
+  {
+    "id": 1117,
+    "question": "¿Qué arquitecto o equipo diseñó Casa Batlló?",
+    "answer": "Antoni Gaudí",
+    "difficulty": 4
+  },
+  {
+    "id": 1118,
+    "question": "¿Qué arquitecto o equipo diseñó Biblioteca Central de Seattle?",
+    "answer": "Rem Koolhaas y OMA",
+    "difficulty": 4
+  },
+  {
+    "id": 1119,
+    "question": "¿Qué edificio o proyecto se asocia con Rem Koolhaas y OMA?",
+    "answer": "Biblioteca Central de Seattle",
+    "difficulty": 4
+  },
+  {
+    "id": 1120,
+    "question": "¿Qué arquitecto o equipo diseñó Neue Nationalgalerie?",
+    "answer": "Mies van der Rohe",
+    "difficulty": 4
+  },
+  {
+    "id": 1121,
+    "question": "¿Qué arquitecto o equipo diseñó Catedral de Brasilia?",
+    "answer": "Oscar Niemeyer",
+    "difficulty": 4
+  },
+  {
+    "id": 1122,
+    "question": "¿Qué edificio o proyecto se asocia con Oscar Niemeyer?",
+    "answer": "Catedral de Brasilia",
+    "difficulty": 4
+  },
+  {
+    "id": 1123,
+    "question": "¿Qué arquitecto o equipo diseñó Museo Soumaya?",
+    "answer": "Fernando Romero",
+    "difficulty": 4
+  },
+  {
+    "id": 1124,
+    "question": "¿Qué edificio o proyecto se asocia con Fernando Romero?",
+    "answer": "Museo Soumaya",
+    "difficulty": 4
+  },
+  {
+    "id": 1125,
+    "question": "¿Qué arquitecto o equipo diseñó Flatiron Building?",
+    "answer": "Daniel Burnham",
+    "difficulty": 4
+  },
+  {
+    "id": 1126,
+    "question": "¿Qué edificio o proyecto se asocia con Daniel Burnham?",
+    "answer": "Flatiron Building",
+    "difficulty": 4
+  },
+  {
+    "id": 1127,
+    "question": "¿Qué arquitecto o equipo diseñó Casa Milà?",
+    "answer": "Antoni Gaudí",
+    "difficulty": 4
+  },
+  {
+    "id": 1128,
+    "question": "¿Qué arquitecto o equipo diseñó Turning Torso?",
+    "answer": "Santiago Calatrava",
+    "difficulty": 4
+  },
+  {
+    "id": 1129,
+    "question": "¿Qué edificio o proyecto se asocia con Santiago Calatrava?",
+    "answer": "Turning Torso",
+    "difficulty": 4
+  },
+  {
+    "id": 1130,
+    "question": "¿Qué arquitecto o equipo diseñó The Shard?",
+    "answer": "Renzo Piano",
+    "difficulty": 4
+  },
+  {
+    "id": 1131,
+    "question": "¿Qué edificio o proyecto se asocia con Renzo Piano?",
+    "answer": "The Shard",
+    "difficulty": 4
+  },
+  {
+    "id": 1132,
+    "question": "¿Qué arquitecto o equipo diseñó MAXXI de Roma?",
+    "answer": "Zaha Hadid",
+    "difficulty": 4
+  },
+  {
+    "id": 1133,
+    "question": "¿Qué edificio o proyecto se asocia con Zaha Hadid?",
+    "answer": "MAXXI de Roma",
+    "difficulty": 4
+  },
+  {
+    "id": 1134,
+    "question": "¿Qué poeta chileno escribió “Residencia en la tierra”?",
+    "answer": "Pablo Neruda",
+    "difficulty": 4
+  },
+  {
+    "id": 1135,
+    "question": "¿Quién compuso “El holandés errante”?",
+    "answer": "Richard Wagner",
+    "difficulty": 4
+  },
+  {
+    "id": 1136,
+    "question": "¿Qué novela de Gabriel García Márquez transcurre en el pueblo de Macondo durante varias generaciones?",
+    "answer": "Cien años de soledad",
+    "difficulty": 3
+  },
+  {
+    "id": 1137,
+    "question": "¿Quién pintó “La muerte de Marat”?",
+    "answer": "Jacques-Louis David",
+    "difficulty": 3
+  },
+  {
+    "id": 1138,
+    "question": "¿Qué arquitecta diseñó el Centro Heydar Aliyev en Bakú?",
+    "answer": "Zaha Hadid",
+    "difficulty": 4
+  },
+  {
+    "id": 1139,
+    "question": "¿Qué escritor portugués firmó “Memorial del convento”?",
+    "answer": "José Saramago",
+    "difficulty": 4
+  },
+  {
+    "id": 1140,
+    "question": "¿Qué cuadro de René Magritte muestra una pipa acompañada por la frase “Esto no es una pipa”?",
+    "answer": "La traición de las imágenes",
+    "difficulty": 4
+  },
+  {
+    "id": 1141,
+    "question": "¿Quién compuso el ballet “La consagración de la primavera”?",
+    "answer": "Ígor Stravinski",
+    "difficulty": 4
+  },
+  {
+    "id": 1142,
+    "question": "¿Qué poeta escribió “La tierra baldía”?",
+    "answer": "T. S. Eliot",
+    "difficulty": 4
+  },
+  {
+    "id": 1143,
+    "question": "¿Qué edificio barcelonés de Gaudí es famoso por su fachada ondulante y balcones de hierro?",
+    "answer": "La Casa Batlló",
+    "difficulty": 3
+  },
+  {
+    "id": 1144,
+    "question": "¿Quién escribió la obra teatral “Esperando a Godot”?",
+    "answer": "Samuel Beckett",
+    "difficulty": 3
+  },
+  {
+    "id": 1145,
+    "question": "¿Qué novela de Albert Camus comienza con la frase “Hoy ha muerto mamá. O quizá ayer”?",
+    "answer": "El extranjero",
+    "difficulty": 4
+  },
+  {
+    "id": 1146,
+    "question": "¿Qué pintor barroco italiano es conocido por el dramatismo lumínico de obras como “La vocación de San Mateo”?",
+    "answer": "Caravaggio",
+    "difficulty": 3
+  },
+  {
+    "id": 1147,
+    "question": "¿Qué compositora y pianista francesa escribió “Miroirs” y “Gaspard de la nuit”?",
+    "answer": "Maurice Ravel",
+    "difficulty": 4
+  },
+  {
+    "id": 1148,
+    "question": "¿Qué escultor creó “El pensador”?",
+    "answer": "Auguste Rodin",
+    "difficulty": 3
+  },
+  {
+    "id": 1149,
+    "question": "¿Qué obra de Umberto Eco se desarrolla en una abadía medieval con una serie de crímenes?",
+    "answer": "El nombre de la rosa",
+    "difficulty": 3
+  },
+  {
+    "id": 1150,
+    "question": "¿Qué pintor neerlandés realizó “La lechera”?",
+    "answer": "Johannes Vermeer",
+    "difficulty": 3
+  },
+  {
+    "id": 1151,
+    "question": "¿Qué autor argentino escribió “Sobre héroes y tumbas”?",
+    "answer": "Ernesto Sabato",
+    "difficulty": 4
   }
 ]

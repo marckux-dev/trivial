@@ -426,2577 +426,3777 @@
     "difficulty": 3
   },
   {
-    "id": 74,
+    "id": 72,
     "question": "¿Cuál es el idioma oficial más hablado en Angola?",
     "answer": "El portugués",
     "difficulty": 4
   },
   {
-    "id": 75,
+    "id": 73,
     "question": "¿Cuál es el idioma oficial de Irán?",
     "answer": "El persa o farsi",
     "difficulty": 4
   },
   {
-    "id": 76,
+    "id": 74,
     "question": "¿Cuál es el idioma oficial de Pakistán?",
     "answer": "El urdu y el inglés",
     "difficulty": 4
   },
   {
-    "id": 77,
+    "id": 75,
     "question": "¿Cuál es el idioma oficial de Bangladesh?",
     "answer": "El bengalí",
     "difficulty": 4
   },
   {
-    "id": 78,
+    "id": 76,
     "question": "¿Cuál es el idioma oficial de Hungría?",
     "answer": "El húngaro",
     "difficulty": 4
   },
   {
-    "id": 79,
+    "id": 77,
     "question": "¿Cuál es el idioma oficial de Tailandia?",
     "answer": "El tailandés",
     "difficulty": 4
   },
   {
-    "id": 80,
+    "id": 78,
     "question": "¿Cuál es el idioma oficial de Israel?",
     "answer": "El hebreo",
     "difficulty": 4
   },
   {
-    "id": 81,
+    "id": 79,
     "question": "¿Cuál es el idioma oficial de Etiopía a nivel federal?",
     "answer": "El amárico",
     "difficulty": 4
   },
   {
-    "id": 82,
+    "id": 80,
     "question": "¿Qué río pasa por ciudades como Viena, Budapest y Belgrado?",
     "answer": "El Danubio",
     "difficulty": 4
   },
   {
-    "id": 83,
+    "id": 81,
     "question": "¿Qué río atraviesa Roma?",
     "answer": "El Tíber",
     "difficulty": 4
   },
   {
-    "id": 86,
+    "id": 82,
     "question": "¿Qué río separa en parte Paraguay y Argentina y desemboca en el Río de la Plata?",
     "answer": "El río Paraná",
     "difficulty": 4
   },
   {
-    "id": 87,
+    "id": 83,
     "question": "¿Qué cordillera atraviesa países como Francia, Suiza, Italia y Austria?",
     "answer": "Los Alpes",
     "difficulty": 4
   },
   {
-    "id": 90,
+    "id": 84,
     "question": "¿Cuál es el pico más alto de África?",
     "answer": "El Kilimanjaro",
     "difficulty": 5
   },
   {
-    "id": 91,
+    "id": 85,
     "question": "¿Cuál es el pico más alto de América?",
     "answer": "El Aconcagua",
     "difficulty": 5
   },
   {
-    "id": 92,
+    "id": 86,
     "question": "¿Cuál es el pico más alto de Europa occidental?",
     "answer": "El Mont Blanc",
     "difficulty": 5
   },
   {
-    "id": 93,
+    "id": 87,
     "question": "¿Cuál es el pico más alto de Japón?",
     "answer": "El monte Fuji",
     "difficulty": 5
   },
   {
-    "id": 94,
+    "id": 88,
     "question": "¿Qué volcán italiano destruyó Pompeya en el año 79?",
     "answer": "El Vesubio",
     "difficulty": 5
   },
   {
-    "id": 95,
+    "id": 89,
     "question": "¿Qué volcán siciliano es uno de los más activos de Europa?",
     "answer": "El Etna",
     "difficulty": 5
   },
   {
-    "id": 96,
+    "id": 90,
     "question": "¿Qué volcán de Estados Unidos se encuentra en el estado de Washington y entró en erupción en 1980?",
     "answer": "El monte Santa Helena",
     "difficulty": 5
   },
   {
-    "id": 98,
+    "id": 91,
     "question": "¿Cuál es el lago más grande de África?",
     "answer": "El lago Victoria",
     "difficulty": 5
   },
   {
-    "id": 99,
+    "id": 92,
     "question": "¿Cuál es el mayor lago de agua dulce de América del Sur por superficie?",
     "answer": "El Titicaca",
     "difficulty": 5
   },
   {
-    "id": 100,
+    "id": 93,
     "question": "¿Qué lago comparten Perú y Bolivia?",
     "answer": "El lago Titicaca",
     "difficulty": 5
   },
   {
-    "id": 101,
+    "id": 94,
     "question": "¿Qué lago es famoso por estar entre Estados Unidos y Canadá y formar parte de los Grandes Lagos?",
     "answer": "El lago Superior",
     "difficulty": 5
   },
   {
-    "id": 102,
+    "id": 95,
     "question": "¿Qué país tiene forma de bota en el sur de Europa?",
     "answer": "Italia",
     "difficulty": 1
   },
   {
-    "id": 103,
+    "id": 96,
     "question": "¿En qué país se encuentra el monte Everest?",
     "answer": "En la frontera entre Nepal y China",
     "difficulty": 2
   },
   {
-    "id": 104,
+    "id": 97,
     "question": "¿Qué desierto ocupa gran parte del norte de África?",
     "answer": "El Sahara",
     "difficulty": 1
   },
   {
-    "id": 105,
+    "id": 98,
     "question": "¿Qué país es conocido como el país del sol naciente?",
     "answer": "Japón",
     "difficulty": 2
   },
   {
-    "id": 106,
+    "id": 99,
     "question": "¿Cuál es la capital de Arabia Saudita?",
     "answer": "Riad",
     "difficulty": 2
   },
   {
-    "id": 107,
+    "id": 100,
     "question": "¿Cuál es la capital de España?",
     "answer": "Madrid",
     "difficulty": 1
   },
   {
-    "id": 108,
+    "id": 101,
     "question": "¿Cuál es la capital de Brasil?",
     "answer": "Brasilia",
     "difficulty": 1
   },
   {
-    "id": 109,
+    "id": 102,
     "question": "¿Cuál es la capital de Estados Unidos?",
     "answer": "Washington D. C.",
     "difficulty": 1
   },
   {
-    "id": 110,
+    "id": 103,
     "question": "¿Cuál es la capital de Rusia?",
     "answer": "Moscú",
     "difficulty": 1
   },
   {
-    "id": 111,
+    "id": 104,
     "question": "¿Cuál es la capital de Chile?",
     "answer": "Santiago",
     "difficulty": 1
   },
   {
-    "id": 112,
+    "id": 105,
     "question": "¿Cuál es la capital de Perú?",
     "answer": "Lima",
     "difficulty": 1
   },
   {
-    "id": 113,
+    "id": 106,
     "question": "¿Cuál es la capital de Colombia?",
     "answer": "Bogotá",
     "difficulty": 1
   },
   {
-    "id": 114,
+    "id": 107,
     "question": "¿Cuál es la capital de Canadá?",
     "answer": "Ottawa",
     "difficulty": 1
   },
   {
-    "id": 115,
+    "id": 108,
     "question": "¿Cuál es la capital de Australia?",
     "answer": "Canberra",
     "difficulty": 1
   },
   {
-    "id": 118,
+    "id": 109,
     "question": "¿En qué país se encuentra la ciudad de Estambul?",
     "answer": "Turquía",
     "difficulty": 2
   },
   {
-    "id": 119,
+    "id": 110,
     "question": "¿Qué país tiene por capital Bangkok?",
     "answer": "Tailandia",
     "difficulty": 2
   },
   {
-    "id": 120,
+    "id": 111,
     "question": "¿Qué país tiene por capital Manila?",
     "answer": "Filipinas",
     "difficulty": 2
   },
   {
-    "id": 121,
+    "id": 112,
     "question": "¿Qué país tiene por capital Hanói?",
     "answer": "Vietnam",
     "difficulty": 2
   },
   {
-    "id": 122,
+    "id": 113,
     "question": "¿Cuál es el océano más pequeño del mundo?",
     "answer": "El océano Ártico",
     "difficulty": 2
   },
   {
-    "id": 123,
+    "id": 114,
     "question": "¿Qué río atraviesa la ciudad de Londres?",
     "answer": "El Támesis",
     "difficulty": 2
   },
   {
-    "id": 124,
+    "id": 115,
     "question": "¿Qué río atraviesa la ciudad de París?",
     "answer": "El Sena",
     "difficulty": 2
   },
   {
-    "id": 125,
+    "id": 116,
     "question": "¿Qué cordillera recorre el oeste de América del Sur?",
     "answer": "Los Andes",
     "difficulty": 2
   },
   {
-    "id": 126,
+    "id": 117,
     "question": "¿Cuál es el lago más grande por superficie del mundo?",
     "answer": "El mar Caspio",
     "difficulty": 2
   },
   {
-    "id": 127,
+    "id": 118,
     "question": "¿Qué idioma se habla mayoritariamente en Brasil?",
     "answer": "Portugués",
     "difficulty": 2
   },
   {
-    "id": 128,
+    "id": 119,
     "question": "¿Qué idioma se habla mayoritariamente en Egipto?",
     "answer": "Árabe",
     "difficulty": 2
   },
   {
-    "id": 129,
+    "id": 120,
     "question": "¿Qué país tiene por capital Sucre como capital constitucional y La Paz como sede de gobierno?",
     "answer": "Bolivia",
     "difficulty": 3
   },
   {
-    "id": 130,
+    "id": 121,
     "question": "¿Qué río desemboca en el mar Negro tras pasar por Viena y Budapest?",
     "answer": "El Danubio",
     "difficulty": 3
   },
   {
-    "id": 131,
+    "id": 122,
     "question": "¿Qué río atraviesa Egipto de sur a norte?",
     "answer": "El Nilo",
     "difficulty": 3
   },
   {
-    "id": 134,
+    "id": 123,
     "question": "¿Qué lago es el más profundo del mundo?",
     "answer": "El Baikal",
     "difficulty": 3
   },
   {
-    "id": 139,
+    "id": 124,
     "question": "¿Qué país es el más grande de África por superficie?",
     "answer": "Argelia",
     "difficulty": 3
   },
   {
-    "id": 140,
+    "id": 125,
     "question": "¿Qué país es el más poblado de África?",
     "answer": "Nigeria",
     "difficulty": 3
   },
   {
-    "id": 141,
+    "id": 126,
     "question": "¿Qué estrecho separa Asia de América del Norte?",
     "answer": "El estrecho de Bering",
     "difficulty": 3
   },
   {
-    "id": 142,
+    "id": 127,
     "question": "¿Cuál es la capital de Kazajistán?",
     "answer": "Astana",
     "difficulty": 4
   },
   {
-    "id": 143,
+    "id": 128,
     "question": "¿Cuál es la capital de Myanmar?",
     "answer": "Naipyidó",
     "difficulty": 4
   },
   {
-    "id": 144,
+    "id": 129,
     "question": "¿Cuál es la capital de Madagascar?",
     "answer": "Antananarivo",
     "difficulty": 4
   },
   {
-    "id": 145,
+    "id": 130,
     "question": "¿Cuál es la capital de Azerbaiyán?",
     "answer": "Bakú",
     "difficulty": 4
   },
   {
-    "id": 146,
+    "id": 131,
     "question": "¿Cuál es la capital de Uzbekistán?",
     "answer": "Taskent",
     "difficulty": 4
   },
   {
-    "id": 147,
+    "id": 132,
     "question": "¿Qué país tiene por capital Dusambé?",
     "answer": "Tayikistán",
     "difficulty": 4
   },
   {
-    "id": 148,
+    "id": 133,
     "question": "¿Qué país tiene por capital Biskek?",
     "answer": "Kirguistán",
     "difficulty": 4
   },
   {
-    "id": 149,
+    "id": 134,
     "question": "¿Qué país tiene por capital Chisináu?",
     "answer": "Moldavia",
     "difficulty": 4
   },
   {
-    "id": 150,
+    "id": 135,
     "question": "¿Qué río desemboca en el golfo de México formando un gran delta en Luisiana?",
     "answer": "El Misisipi",
     "difficulty": 4
   },
   {
-    "id": 151,
+    "id": 136,
     "question": "¿Qué río es el más largo de Europa?",
     "answer": "El Volga",
     "difficulty": 4
   },
   {
-    "id": 152,
+    "id": 137,
     "question": "¿Qué río atraviesa ciudades como Colonia y Róterdam?",
     "answer": "El Rin",
     "difficulty": 4
   },
   {
-    "id": 153,
+    "id": 138,
     "question": "¿Qué cordillera domina gran parte del relieve de Asia central junto al Himalaya?",
     "answer": "El Tian Shan",
     "difficulty": 4
   },
   {
-    "id": 154,
+    "id": 139,
     "question": "¿Qué pico es el más alto del mundo?",
     "answer": "El Everest",
     "difficulty": 4
   },
   {
-    "id": 158,
+    "id": 140,
     "question": "¿Qué lago de África es uno de los más profundos del mundo y contiene gran biodiversidad?",
     "answer": "El lago Tanganica",
     "difficulty": 4
   },
   {
-    "id": 162,
+    "id": 141,
     "question": "¿Qué país sudamericano comparte frontera con 10 países y territorios?",
     "answer": "Brasil",
     "difficulty": 4
   },
   {
-    "id": 163,
+    "id": 142,
     "question": "¿Qué país africano tiene salida tanto al mar Mediterráneo como al mar Rojo?",
     "answer": "Egipto",
     "difficulty": 4
   },
   {
-    "id": 164,
+    "id": 143,
     "question": "¿Qué país tiene más islas del mundo según estimaciones modernas?",
     "answer": "Suecia",
     "difficulty": 4
   },
   {
-    "id": 165,
+    "id": 144,
     "question": "¿Qué isla es la mayor del mundo si no se considera continente a Australia?",
     "answer": "Groenlandia",
     "difficulty": 4
   },
   {
-    "id": 167,
+    "id": 145,
     "question": "¿Qué país tiene por capital Yamusukro, aunque Abiyán sea su ciudad más grande?",
     "answer": "Costa de Marfil",
     "difficulty": 5
   },
   {
-    "id": 168,
+    "id": 146,
     "question": "¿Qué pico es el más alto de los Alpes?",
     "answer": "El Mont Blanc",
     "difficulty": 5
   },
   {
-    "id": 169,
+    "id": 147,
     "question": "¿Qué cordillera alberga el K2?",
     "answer": "El Karakórum",
     "difficulty": 5
   },
   {
-    "id": 170,
+    "id": 148,
     "question": "¿Qué lago salado se encuentra entre Israel, Palestina y Jordania y es famoso por su gran salinidad?",
     "answer": "El mar Muerto",
     "difficulty": 5
   },
   {
-    "id": 171,
+    "id": 149,
     "question": "¿Qué río africano desemboca en el océano Atlántico y es célebre por su enorme caudal tras el Amazonas?",
     "answer": "El Congo",
     "difficulty": 5
   },
   {
-    "id": 172,
+    "id": 150,
     "question": "¿Qué río sudamericano forma parte de la cuenca amazónica junto al Solimoes en Brasil?",
     "answer": "El río Negro",
     "difficulty": 5
   },
   {
-    "id": 173,
+    "id": 151,
     "question": "¿Qué idioma oficial se habla en Georgia?",
     "answer": "Georgiano",
     "difficulty": 5
   },
   {
-    "id": 174,
+    "id": 152,
     "question": "¿Qué idioma pertenece a la familia finoúgrica y es oficial en Finlandia?",
     "answer": "Finés",
     "difficulty": 5
   },
   {
-    "id": 175,
+    "id": 153,
     "question": "¿Qué país tiene por capital Porto-Novo, aunque Cotonú sea la sede gubernamental de facto?",
     "answer": "Benín",
     "difficulty": 5
   },
   {
-    "id": 176,
+    "id": 154,
     "question": "¿Qué volcán japonés es también el pico más alto del país?",
     "answer": "El monte Fuji",
     "difficulty": 5
   },
   {
-    "id": 177,
+    "id": 155,
     "question": "¿Qué archipiélago español atlántico se compone de ocho islas principales habitadas o reconocidas?",
     "answer": "Canarias",
     "difficulty": 5
   },
   {
-    "id": 178,
+    "id": 156,
     "question": "¿Qué país posee el enclave de Kaliningrado entre Polonia y Lituania?",
     "answer": "Rusia",
     "difficulty": 5
   },
   {
-    "id": 179,
+    "id": 157,
     "question": "¿Qué lago norteamericano forma parte de los Grandes Lagos y es el de mayor superficie?",
     "answer": "El lago Superior",
     "difficulty": 5
   },
   {
-    "id": 181,
+    "id": 158,
     "question": "¿Qué cuerpo de agua, a pesar de llamarse 'mar', es en realidad un lago hipersalino famoso por la flotabilidad de sus aguas?",
     "answer": "El mar Muerto",
     "difficulty": 2
   },
   {
-    "id": 182,
+    "id": 159,
     "question": "¿Qué país es también un continente?",
     "answer": "Australia",
     "difficulty": 1
   },
   {
-    "id": 184,
+    "id": 160,
     "question": "¿Qué capital europea está construida sobre numerosas islas y canales?",
     "answer": "Estocolmo",
     "difficulty": 1
   },
   {
-    "id": 185,
+    "id": 161,
     "question": "¿Qué desierto es el más grande entre los cálidos del mundo?",
     "answer": "El Sahara",
     "difficulty": 1
   },
   {
-    "id": 186,
+    "id": 162,
     "question": "¿Qué país tiene una ciudad llamada Estambul entre Europa y Asia?",
     "answer": "Turquía",
     "difficulty": 1
   },
   {
-    "id": 187,
+    "id": 163,
     "question": "¿Qué montaña es la más alta del mundo?",
     "answer": "El Everest",
     "difficulty": 1
   },
   {
-    "id": 188,
+    "id": 164,
     "question": "¿Qué capital famosa por sus canales se encuentra en Italia?",
     "answer": "Venecia",
     "difficulty": 1
   },
   {
-    "id": 189,
+    "id": 165,
     "question": "¿Qué país sudamericano tiene la selva amazónica más extensa dentro de sus fronteras?",
     "answer": "Brasil",
     "difficulty": 1
   },
   {
-    "id": 190,
+    "id": 166,
     "question": "¿Qué país es conocido por tener miles de islas y volcanes en el sudeste asiático?",
     "answer": "Indonesia",
     "difficulty": 1
   },
   {
-    "id": 191,
+    "id": 167,
     "question": "¿Qué gran metrópoli europea se extiende a ambos lados del Támesis?",
     "answer": "Londres",
     "difficulty": 1
   },
   {
-    "id": 192,
+    "id": 168,
     "question": "¿Qué país es famoso por tener fiordos muy profundos?",
     "answer": "Noruega",
     "difficulty": 1
   },
   {
-    "id": 193,
+    "id": 169,
     "question": "¿Qué país africano alberga las pirámides de Giza?",
     "answer": "Egipto",
     "difficulty": 1
   },
   {
-    "id": 194,
+    "id": 170,
     "question": "¿Cuál es la capital europea soberana a mayor altitud, situada en los Pirineos?",
     "answer": "Andorra la Vieja (aprox. 1 023 m), capital de Andorra",
     "difficulty": 3
   },
   {
-    "id": 195,
+    "id": 171,
     "question": "¿Qué gran isla helada depende políticamente de Dinamarca?",
     "answer": "Groenlandia",
     "difficulty": 1
   },
   {
-    "id": 196,
+    "id": 172,
     "question": "¿Qué país está completamente rodeado por Sudáfrica?",
     "answer": "Lesoto",
     "difficulty": 1
   },
   {
-    "id": 198,
+    "id": 173,
     "question": "¿Qué capital está más al norte, Reikiavik o Madrid?",
     "answer": "Reikiavik",
     "difficulty": 2
   },
   {
-    "id": 199,
+    "id": 174,
     "question": "¿Qué país tiene dos ciudades muy conocidas llamadas La Paz y Sucre como sedes principales del poder?",
     "answer": "Bolivia",
     "difficulty": 2
   },
   {
-    "id": 200,
+    "id": 175,
     "question": "¿Qué país africano tiene dos brazos de mar famosos, el Mediterráneo y el mar Rojo?",
     "answer": "Egipto",
     "difficulty": 2
   },
   {
-    "id": 201,
+    "id": 176,
     "question": "¿Qué isla volcánica española alberga el Teide?",
     "answer": "Tenerife",
     "difficulty": 2
   },
   {
-    "id": 202,
+    "id": 177,
     "question": "¿Qué país tiene más vecinos terrestres en América del Sur?",
     "answer": "Brasil",
     "difficulty": 2
   },
   {
-    "id": 203,
+    "id": 178,
     "question": "¿Qué país tiene una bandera famosa por la hoja de arce y posee miles de lagos?",
     "answer": "Canadá",
     "difficulty": 2
   },
   {
-    "id": 204,
+    "id": 179,
     "question": "¿Qué capital asiática es famosa por su tráfico de motos y su antiguo barrio colonial francés?",
     "answer": "Hanói",
     "difficulty": 2
   },
   {
-    "id": 205,
+    "id": 180,
     "question": "¿Qué país tiene la ciudad de Petra excavada en roca?",
     "answer": "Jordania",
     "difficulty": 2
   },
   {
-    "id": 206,
+    "id": 181,
     "question": "¿Qué país alberga el salar de Uyuni, una inmensa llanura de sal?",
     "answer": "Bolivia",
     "difficulty": 2
   },
   {
-    "id": 207,
+    "id": 182,
     "question": "¿Qué río sudamericano es el más caudaloso del mundo?",
     "answer": "El Amazonas",
     "difficulty": 2
   },
   {
-    "id": 208,
+    "id": 183,
     "question": "¿Qué país tiene la mayor población del continente africano?",
     "answer": "Nigeria",
     "difficulty": 2
   },
   {
-    "id": 209,
+    "id": 184,
     "question": "¿Qué capital africana se sitúa a gran altitud y es una de las más elevadas del mundo?",
     "answer": "Adís Abeba",
     "difficulty": 2
   },
   {
-    "id": 210,
+    "id": 185,
     "question": "¿Qué país del Pacífico está formado por dos grandes islas principales llamadas Norte y Sur?",
     "answer": "Nueva Zelanda",
     "difficulty": 2
   },
   {
-    "id": 211,
+    "id": 186,
     "question": "¿Qué país europeo tiene cientos de miles de lagos y es apodado la tierra de los mil lagos?",
     "answer": "Finlandia",
     "difficulty": 2
   },
   {
-    "id": 212,
+    "id": 187,
     "question": "¿Qué ciudad está a caballo entre Europa y Asia a través del Bósforo?",
     "answer": "Estambul",
     "difficulty": 2
   },
   {
-    "id": 213,
+    "id": 188,
     "question": "¿Qué país tiene por capital la ciudad más iluminada de Asia oriental, apreciable incluso desde el espacio, que forma una gigantesca área metropolitana?",
     "answer": "Corea del Sur (su capital es Seúl)",
     "difficulty": 2
   },
   {
-    "id": 214,
+    "id": 189,
     "question": "¿Qué cadena montañosa recorre la costa occidental de Sudamérica?",
     "answer": "Los Andes",
     "difficulty": 2
   },
   {
-    "id": 215,
+    "id": 190,
     "question": "¿Qué país alberga la región de Transilvania?",
     "answer": "Rumanía",
     "difficulty": 2
   },
   {
-    "id": 216,
+    "id": 191,
     "question": "¿Qué archipiélago ecuatorial famoso por Darwin pertenece a Ecuador?",
     "answer": "Las islas Galápagos",
     "difficulty": 2
   },
   {
-    "id": 217,
+    "id": 192,
     "question": "¿Qué capital europea fue construida en parte sobre 14 islas y más de 50 puentes?",
     "answer": "Estocolmo",
     "difficulty": 3
   },
   {
-    "id": 218,
+    "id": 193,
     "question": "¿Qué país tiene el lago Baikal, el más profundo del mundo?",
     "answer": "Rusia",
     "difficulty": 3
   },
   {
-    "id": 219,
+    "id": 194,
     "question": "¿Qué país tiene por capital geográfica y administrativa Sri Jayawardenepura Kotte?",
     "answer": "Sri Lanka",
     "difficulty": 3
   },
   {
-    "id": 220,
+    "id": 195,
     "question": "¿Qué desierto de Chile es uno de los lugares más secos del planeta?",
     "answer": "El desierto de Atacama",
     "difficulty": 3
   },
   {
-    "id": 221,
+    "id": 196,
     "question": "¿Qué país alberga el monte Kilimanjaro?",
     "answer": "Tanzania",
     "difficulty": 3
   },
   {
-    "id": 222,
+    "id": 197,
     "question": "¿Qué país tiene la ciudad de Ulan Bator, una de las capitales más frías del mundo?",
     "answer": "Mongolia",
     "difficulty": 3
   },
   {
-    "id": 223,
+    "id": 198,
     "question": "¿Qué río europeo pasa por Viena, Bratislava, Budapest y Belgrado?",
     "answer": "El Danubio",
     "difficulty": 3
   },
   {
-    "id": 224,
+    "id": 199,
     "question": "¿Qué país africano tiene por capital Uagadugú?",
     "answer": "Burkina Faso",
     "difficulty": 3
   },
   {
-    "id": 225,
+    "id": 200,
     "question": "¿Qué lago africano es el mayor por superficie?",
     "answer": "El Victoria",
     "difficulty": 3
   },
   {
-    "id": 226,
+    "id": 201,
     "question": "¿Qué país tiene el enclave de Kaliningrado separado del resto de su territorio?",
     "answer": "Rusia",
     "difficulty": 3
   },
   {
-    "id": 227,
+    "id": 202,
     "question": "¿Qué capital sudamericana está cerca del ecuador y a gran altura en los Andes?",
     "answer": "Quito",
     "difficulty": 3
   },
   {
-    "id": 228,
+    "id": 203,
     "question": "¿Qué país tiene más volcanes activos históricos y recientes según recuentos frecuentes?",
     "answer": "Indonesia",
     "difficulty": 3
   },
   {
-    "id": 229,
+    "id": 204,
     "question": "¿Qué país es atravesado por el canal que une el Atlántico y el Pacífico en Centroamérica?",
     "answer": "Panamá",
     "difficulty": 3
   },
   {
-    "id": 230,
+    "id": 205,
     "question": "¿Qué país tiene la isla de Pascua, famosa por sus moáis?",
     "answer": "Chile",
     "difficulty": 3
   },
   {
-    "id": 231,
+    "id": 206,
     "question": "¿Qué idioma se habla mayoritariamente en Surinam junto al neerlandés oficial?",
     "answer": "Neerlandés es el oficial; el sranan tongo es muy extendido",
     "difficulty": 3
   },
   {
-    "id": 232,
+    "id": 207,
     "question": "¿Qué capital europea está más al oeste continental, Lisboa o Madrid?",
     "answer": "Lisboa",
     "difficulty": 3
   },
   {
-    "id": 233,
+    "id": 208,
     "question": "¿Qué país tiene la ciudad de Chisináu?",
     "answer": "Moldavia",
     "difficulty": 3
   },
   {
-    "id": 234,
+    "id": 209,
     "question": "¿Qué país posee la región de Cachemira en parte junto a otros estados vecinos?",
     "answer": "India y Pakistán controlan partes; China también controla una zona",
     "difficulty": 3
   },
   {
-    "id": 235,
+    "id": 210,
     "question": "¿Qué capital insular del Atlántico Norte es la más septentrional entre las soberanas?",
     "answer": "Reikiavik",
     "difficulty": 4
   },
   {
-    "id": 236,
+    "id": 211,
     "question": "¿Qué país tiene por capital Naipyidó, una capital relativamente reciente y planificada?",
     "answer": "Myanmar",
     "difficulty": 4
   },
   {
-    "id": 237,
+    "id": 212,
     "question": "¿Qué país tiene por capital Astana, conocida antes como Nur-Sultán durante un periodo reciente?",
     "answer": "Kazajistán",
     "difficulty": 4
   },
   {
-    "id": 238,
+    "id": 213,
     "question": "¿Qué río forma gran parte de la frontera entre México y Estados Unidos?",
     "answer": "El río Bravo o Río Grande",
     "difficulty": 4
   },
   {
-    "id": 239,
+    "id": 214,
     "question": "¿Qué lago del valle del Rift es uno de los más profundos y antiguos del mundo?",
     "answer": "El Tanganica",
     "difficulty": 4
   },
   {
-    "id": 240,
+    "id": 215,
     "question": "¿Qué país tiene la mayor superficie de selva tropical protegida en Europa occidental en la Guayana Francesa?",
     "answer": "Francia, a través de la Guayana Francesa",
     "difficulty": 4
   },
   {
-    "id": 241,
+    "id": 216,
     "question": "¿Qué capital del Cáucaso es famosa por su casco histórico, baños y fortaleza Narikala?",
     "answer": "Tiflis",
     "difficulty": 4
   },
   {
-    "id": 242,
+    "id": 217,
     "question": "¿Qué isla es la mayor del Mediterráneo?",
     "answer": "Sicilia",
     "difficulty": 4
   },
   {
-    "id": 243,
+    "id": 218,
     "question": "¿Qué país alberga la depresión de Afar, una de las zonas más bajas y geológicamente activas de África?",
     "answer": "Etiopía; también se extiende por Eritrea y Yibuti",
     "difficulty": 4
   },
   {
-    "id": 244,
+    "id": 219,
     "question": "¿Qué capital centroasiática significa literalmente 'capital de piedra' en una de sus interpretaciones históricas populares?",
     "answer": "Taskent",
     "difficulty": 4
   },
   {
-    "id": 245,
+    "id": 220,
     "question": "¿Qué país del golfo tiene por capital Doha?",
     "answer": "Catar",
     "difficulty": 4
   },
   {
-    "id": 246,
+    "id": 221,
     "question": "¿Qué país tiene el punto más bajo emergido del planeta junto al mar Muerto?",
     "answer": "Israel, Palestina y Jordania comparten la zona; el punto se sitúa en sus orillas",
     "difficulty": 4
   },
   {
-    "id": 247,
+    "id": 222,
     "question": "¿Qué país europeo cuenta con un enclave llamado Campione d'Italia dentro de Suiza?",
     "answer": "Italia",
     "difficulty": 4
   },
   {
-    "id": 248,
+    "id": 223,
     "question": "¿Qué río asiático sagrado para millones de personas pasa por Varanasi?",
     "answer": "El Ganges",
     "difficulty": 4
   },
   {
-    "id": 249,
+    "id": 224,
     "question": "¿Qué país posee la mayor parte del desierto del Gobi junto con Mongolia?",
     "answer": "China",
     "difficulty": 4
   },
   {
-    "id": 250,
+    "id": 225,
     "question": "¿Qué país alberga el monte Ararat, símbolo nacional armenio aunque esté fuera de la Armenia actual?",
     "answer": "Turquía",
     "difficulty": 4
   },
   {
-    "id": 251,
+    "id": 226,
     "question": "¿Qué estrecho separa Europa de África y conecta el Atlántico con el Mediterráneo?",
     "answer": "El estrecho de Gibraltar",
     "difficulty": 5
   },
   {
-    "id": 252,
+    "id": 227,
     "question": "¿Qué país africano tiene por capital Antananarivo y una fauna muy endémica por su aislamiento insular?",
     "answer": "Madagascar",
     "difficulty": 5
   },
   {
-    "id": 253,
+    "id": 228,
     "question": "¿Qué lago salado de Asia central se redujo drásticamente por proyectos de irrigación soviéticos?",
     "answer": "El mar de Aral",
     "difficulty": 5
   },
   {
-    "id": 254,
+    "id": 229,
     "question": "¿Qué capital se encuentra a mayor altitud, La Paz o Quito?",
     "answer": "La Paz",
     "difficulty": 5
   },
   {
-    "id": 255,
+    "id": 230,
     "question": "¿Qué río alemán desemboca en el mar del Norte tras pasar por Dresde y Hamburgo?",
     "answer": "El Elba",
     "difficulty": 5
   },
   {
-    "id": 256,
+    "id": 231,
     "question": "¿Qué país tiene por capital Paramaribo y se sitúa en la costa norte de Sudamérica?",
     "answer": "Surinam",
     "difficulty": 5
   },
   {
-    "id": 257,
+    "id": 232,
     "question": "¿Qué país tiene por capital Porto-Novo aunque Cotonú funcione como sede gubernamental principal?",
     "answer": "Benín",
     "difficulty": 5
   },
   {
-    "id": 258,
+    "id": 233,
     "question": "¿Qué país asiático tiene por capital Vientián?",
     "answer": "Laos",
     "difficulty": 5
   },
   {
-    "id": 259,
+    "id": 234,
     "question": "¿Qué cordillera norteamericana incluye las Rocosas, aunque no sea idéntica a toda la cadena occidental del continente?",
     "answer": "Las Montañas Rocosas",
     "difficulty": 5
   },
   {
-    "id": 260,
+    "id": 235,
     "question": "¿Qué país tiene la mayor elevación media de Sudamérica?",
     "answer": "Bolivia",
     "difficulty": 5
   },
   {
-    "id": 261,
+    "id": 236,
     "question": "¿Qué capital del Himalaya se encuentra cerca de templos y stupas como Swayambhunath y Boudhanath?",
     "answer": "Katmandú",
     "difficulty": 5
   },
   {
-    "id": 262,
+    "id": 237,
     "question": "¿Qué volcán italiano sigue activo en Sicilia y es uno de los más estudiados del mundo?",
     "answer": "El Etna",
     "difficulty": 5
   },
   {
-    "id": 263,
+    "id": 238,
     "question": "¿Qué país del África austral tiene por capital Gaborone?",
     "answer": "Botsuana",
     "difficulty": 5
   },
   {
-    "id": 264,
+    "id": 239,
     "question": "¿Qué mar separa el noreste de África de la península arábiga?",
     "answer": "El mar Rojo",
     "difficulty": 5
   },
   {
-    "id": 265,
+    "id": 240,
     "question": "¿Qué territorio danés autónomo del Atlántico Norte no pertenece a la Unión Europea?",
     "answer": "Las Islas Feroe",
     "difficulty": 5
   },
   {
-    "id": 266,
+    "id": 241,
     "question": "¿Qué país tiene como punto culminante el Puncak Jaya si se usa una definición amplia de Oceanía?",
     "answer": "Indonesia",
     "difficulty": 5
   },
   {
-    "id": 267,
+    "id": 242,
     "question": "¿Qué capital del sudeste asiático es famosa por estar dividida en numerosos barrios ribereños y un gran delta urbano en el Chao Phraya?",
     "answer": "Bangkok",
     "difficulty": 5
   },
   {
-    "id": 268,
+    "id": 243,
     "question": "¿Qué país tiene por capital Abuya, construida para reemplazar a Lagos como capital?",
     "answer": "Nigeria",
     "difficulty": 5
   },
   {
-    "id": 269,
+    "id": 244,
     "question": "¿Qué cordillera se eleva entre España y Francia y contiene el Aneto como cima principal?",
     "answer": "Los Pirineos",
     "difficulty": 5
   },
   {
-    "id": 270,
+    "id": 245,
     "question": "¿Qué país caribeño tiene por capital Puerto Príncipe y comparte isla con República Dominicana?",
     "answer": "Haití",
     "difficulty": 5
   },
   {
-    "id": 271,
+    "id": 246,
     "question": "¿Cuál es la capital de Nueva Zelanda?",
     "answer": "Wellington",
     "difficulty": 1
   },
   {
-    "id": 272,
+    "id": 247,
     "question": "¿Cuál es la capital de Bélgica?",
     "answer": "Bruselas",
     "difficulty": 1
   },
   {
-    "id": 273,
+    "id": 248,
     "question": "¿Cuál es la capital de los Países Bajos?",
     "answer": "Ámsterdam",
     "difficulty": 1
   },
   {
-    "id": 274,
+    "id": 249,
     "question": "¿Cuál es la capital de Dinamarca?",
     "answer": "Copenhague",
     "difficulty": 1
   },
   {
-    "id": 275,
+    "id": 250,
     "question": "¿Cuál es la capital de Polonia?",
     "answer": "Varsovia",
     "difficulty": 1
   },
   {
-    "id": 276,
+    "id": 251,
     "question": "¿Cuál es la capital de Hungría?",
     "answer": "Budapest",
     "difficulty": 1
   },
   {
-    "id": 277,
+    "id": 252,
     "question": "¿Cuál es la capital de Rumanía?",
     "answer": "Bucarest",
     "difficulty": 1
   },
   {
-    "id": 278,
+    "id": 253,
     "question": "¿Cuál es la capital de Bulgaria?",
     "answer": "Sofía",
     "difficulty": 1
   },
   {
-    "id": 279,
+    "id": 254,
     "question": "¿Cuál es la capital de Croacia?",
     "answer": "Zagreb",
     "difficulty": 1
   },
   {
-    "id": 280,
+    "id": 255,
     "question": "¿Cuál es la capital de Serbia?",
     "answer": "Belgrado",
     "difficulty": 1
   },
   {
-    "id": 281,
+    "id": 256,
     "question": "¿Cuál es la capital de Ucrania?",
     "answer": "Kiev",
     "difficulty": 1
   },
   {
-    "id": 282,
+    "id": 257,
     "question": "¿Cuál es la capital de Cuba?",
     "answer": "La Habana",
     "difficulty": 1
   },
   {
-    "id": 283,
+    "id": 258,
     "question": "¿Cuál es la capital de Venezuela?",
     "answer": "Caracas",
     "difficulty": 1
   },
   {
-    "id": 284,
+    "id": 259,
     "question": "¿Cuál es la capital de Ecuador?",
     "answer": "Quito",
     "difficulty": 1
   },
   {
-    "id": 285,
+    "id": 260,
     "question": "¿Cuál es la capital de Uruguay?",
     "answer": "Montevideo",
     "difficulty": 1
   },
   {
-    "id": 286,
+    "id": 261,
     "question": "¿Cuál es la capital de Paraguay?",
     "answer": "Asunción",
     "difficulty": 1
   },
   {
-    "id": 287,
+    "id": 262,
     "question": "¿Cuál es la capital de Bolivia?",
     "answer": "Sucre",
     "difficulty": 1
   },
   {
-    "id": 288,
+    "id": 263,
     "question": "¿Cuál es la capital de Sudáfrica administrativa?",
     "answer": "Pretoria",
     "difficulty": 1
   },
   {
-    "id": 289,
+    "id": 264,
     "question": "¿Cuál es la capital de Kenia?",
     "answer": "Nairobi",
     "difficulty": 1
   },
   {
-    "id": 290,
+    "id": 265,
     "question": "¿Cuál es la capital de Etiopía?",
     "answer": "Adís Abeba",
     "difficulty": 1
   },
   {
-    "id": 291,
+    "id": 266,
     "question": "¿Cuál es la capital de Nigeria?",
     "answer": "Abuya",
     "difficulty": 1
   },
   {
-    "id": 292,
+    "id": 267,
     "question": "¿En qué continente está España?",
     "answer": "Europa",
     "difficulty": 1
   },
   {
-    "id": 293,
+    "id": 268,
     "question": "¿En qué continente está Brasil?",
     "answer": "América del Sur",
     "difficulty": 1
   },
   {
-    "id": 294,
+    "id": 269,
     "question": "¿En qué continente está Egipto?",
     "answer": "África",
     "difficulty": 1
   },
   {
-    "id": 295,
+    "id": 270,
     "question": "¿En qué continente está Japón?",
     "answer": "Asia",
     "difficulty": 1
   },
   {
-    "id": 296,
+    "id": 271,
     "question": "¿En qué continente está Australia?",
     "answer": "Oceanía",
     "difficulty": 1
   },
   {
-    "id": 297,
+    "id": 272,
     "question": "¿Qué cordillera está en Sudamérica y es la más larga del mundo continental?",
     "answer": "Los Andes",
     "difficulty": 1
   },
   {
-    "id": 298,
+    "id": 273,
     "question": "¿Qué mar baña la costa este de España?",
     "answer": "El mar Mediterráneo",
     "difficulty": 1
   },
   {
-    "id": 299,
+    "id": 274,
     "question": "¿Qué océano baña la costa oeste de América?",
     "answer": "El océano Pacífico",
     "difficulty": 1
   },
   {
-    "id": 300,
+    "id": 275,
     "question": "¿Qué océano separa América y Europa principalmente?",
     "answer": "El océano Atlántico",
     "difficulty": 1
   },
   {
-    "id": 302,
+    "id": 276,
     "question": "¿Qué país alberga el Coliseo de Roma?",
     "answer": "Italia",
     "difficulty": 1
   },
   {
-    "id": 305,
+    "id": 277,
     "question": "¿Qué país alberga la Estatua de la Libertad?",
     "answer": "Estados Unidos",
     "difficulty": 1
   },
   {
-    "id": 307,
+    "id": 278,
     "question": "¿Qué país alberga la Gran Muralla?",
     "answer": "China",
     "difficulty": 1
   },
   {
-    "id": 308,
+    "id": 279,
     "question": "¿Qué país tiene por idioma mayoritario el portugués en Sudamérica?",
     "answer": "Brasil",
     "difficulty": 1
   },
   {
-    "id": 309,
+    "id": 280,
     "question": "¿Qué país tiene por capital Rabat?",
     "answer": "Marruecos",
     "difficulty": 1
   },
   {
-    "id": 310,
+    "id": 281,
     "question": "¿Qué país tiene por capital Buenos Aires?",
     "answer": "Argentina",
     "difficulty": 1
   },
   {
-    "id": 311,
+    "id": 282,
     "question": "¿Qué país tiene por capital Santiago?",
     "answer": "Chile",
     "difficulty": 1
   },
   {
-    "id": 312,
+    "id": 283,
     "question": "¿Qué país tiene por capital Viena?",
     "answer": "Austria",
     "difficulty": 1
   },
   {
-    "id": 313,
+    "id": 284,
     "question": "¿Qué país tiene por capital Varsovia?",
     "answer": "Polonia",
     "difficulty": 1
   },
   {
-    "id": 314,
+    "id": 285,
     "question": "¿Qué país tiene por capital Bruselas?",
     "answer": "Bélgica",
     "difficulty": 1
   },
   {
-    "id": 315,
+    "id": 286,
     "question": "¿Qué país tiene por capital Oslo?",
     "answer": "Noruega",
     "difficulty": 1
   },
   {
-    "id": 316,
+    "id": 287,
     "question": "¿Qué país tiene por capital Estocolmo?",
     "answer": "Suecia",
     "difficulty": 1
   },
   {
-    "id": 317,
+    "id": 288,
     "question": "¿Qué país tiene por capital Helsinki?",
     "answer": "Finlandia",
     "difficulty": 1
   },
   {
-    "id": 318,
+    "id": 289,
     "question": "¿Qué país tiene por capital Sofía?",
     "answer": "Bulgaria",
     "difficulty": 1
   },
   {
-    "id": 319,
+    "id": 290,
     "question": "¿Qué país tiene por capital Zagreb?",
     "answer": "Croacia",
     "difficulty": 1
   },
   {
-    "id": 320,
+    "id": 291,
     "question": "¿Qué país tiene por capital Belgrado?",
     "answer": "Serbia",
     "difficulty": 1
   },
   {
-    "id": 321,
+    "id": 292,
     "question": "¿Qué país tiene por capital Ankara?",
     "answer": "Turquía",
     "difficulty": 1
   },
   {
-    "id": 322,
+    "id": 293,
     "question": "¿Qué país tiene por capital Nairobi?",
     "answer": "Kenia",
     "difficulty": 1
   },
   {
-    "id": 323,
+    "id": 294,
     "question": "¿Qué país tiene por capital Adís Abeba?",
     "answer": "Etiopía",
     "difficulty": 1
   },
   {
-    "id": 324,
+    "id": 295,
     "question": "¿Cuál es la isla más grande del mundo si Australia se considera continente?",
     "answer": "Groenlandia",
     "difficulty": 1
   },
   {
-    "id": 326,
+    "id": 296,
     "question": "¿Cuál es la capital de Islandia?",
     "answer": "Reikiavik",
     "difficulty": 2
   },
   {
-    "id": 327,
+    "id": 297,
     "question": "¿Cuál es la capital de Mongolia?",
     "answer": "Ulán Bator",
     "difficulty": 2
   },
   {
-    "id": 328,
+    "id": 298,
     "question": "¿Cuál es la capital de Nepal?",
     "answer": "Katmandú",
     "difficulty": 2
   },
   {
-    "id": 329,
+    "id": 299,
     "question": "¿Cuál es la capital de Pakistán?",
     "answer": "Islamabad",
     "difficulty": 2
   },
   {
-    "id": 330,
+    "id": 300,
     "question": "¿Cuál es la capital de Irán?",
     "answer": "Teherán",
     "difficulty": 2
   },
   {
-    "id": 331,
+    "id": 301,
     "question": "¿Cuál es la capital de Irak?",
     "answer": "Bagdad",
     "difficulty": 2
   },
   {
-    "id": 332,
+    "id": 302,
     "question": "¿Cuál es la capital de Catar?",
     "answer": "Doha",
     "difficulty": 2
   },
   {
-    "id": 333,
+    "id": 303,
     "question": "¿Cuál es la capital de Emiratos Árabes Unidos?",
     "answer": "Abu Dabi",
     "difficulty": 2
   },
   {
-    "id": 334,
+    "id": 304,
     "question": "¿Cuál es la capital de Kirguistán?",
     "answer": "Biskek",
     "difficulty": 2
   },
   {
-    "id": 335,
+    "id": 305,
     "question": "¿Cuál es la capital de Tayikistán?",
     "answer": "Dusambé",
     "difficulty": 2
   },
   {
-    "id": 336,
+    "id": 306,
     "question": "¿Cuál es la capital de Georgia?",
     "answer": "Tiflis",
     "difficulty": 2
   },
   {
-    "id": 337,
+    "id": 307,
     "question": "¿Cuál es la capital de Armenia?",
     "answer": "Ereván",
     "difficulty": 2
   },
   {
-    "id": 338,
+    "id": 308,
     "question": "¿Cuál es la capital de Sri Lanka administrativa?",
     "answer": "Sri Jayawardenepura Kotte",
     "difficulty": 2
   },
   {
-    "id": 339,
+    "id": 309,
     "question": "¿Cuál es la capital de Bangladesh?",
     "answer": "Daca",
     "difficulty": 2
   },
   {
-    "id": 340,
+    "id": 310,
     "question": "¿Cuál es la capital de Malasia?",
     "answer": "Kuala Lumpur",
     "difficulty": 2
   },
   {
-    "id": 341,
+    "id": 311,
     "question": "¿Cuál es la capital de Singapur?",
     "answer": "Singapur",
     "difficulty": 2
   },
   {
-    "id": 342,
+    "id": 312,
     "question": "¿Cuál es la capital de Laos?",
     "answer": "Vientián",
     "difficulty": 2
   },
   {
-    "id": 343,
+    "id": 313,
     "question": "¿Cuál es la capital de Camboya?",
     "answer": "Nom Pen",
     "difficulty": 2
   },
   {
-    "id": 344,
+    "id": 314,
     "question": "¿Cuál es la capital de Tanzania?",
     "answer": "Dodoma",
     "difficulty": 2
   },
   {
-    "id": 345,
+    "id": 315,
     "question": "¿Cuál es la capital de Uganda?",
     "answer": "Kampala",
     "difficulty": 2
   },
   {
-    "id": 346,
+    "id": 316,
     "question": "¿Cuál es la capital de Angola?",
     "answer": "Luanda",
     "difficulty": 2
   },
   {
-    "id": 347,
+    "id": 317,
     "question": "¿Cuál es la capital de Sudán?",
     "answer": "Jartum",
     "difficulty": 2
   },
   {
-    "id": 348,
+    "id": 318,
     "question": "¿Cuál es la capital de Argelia?",
     "answer": "Argel",
     "difficulty": 2
   },
   {
-    "id": 349,
+    "id": 319,
     "question": "¿Cuál es la capital de Túnez?",
     "answer": "Túnez",
     "difficulty": 2
   },
   {
-    "id": 350,
+    "id": 320,
     "question": "¿Cuál es la capital de Libia?",
     "answer": "Trípoli",
     "difficulty": 2
   },
   {
-    "id": 351,
+    "id": 321,
     "question": "¿Cuál es la capital de Botsuana?",
     "answer": "Gaborone",
     "difficulty": 2
   },
   {
-    "id": 352,
+    "id": 322,
     "question": "¿Cuál es la capital de Zimbabue?",
     "answer": "Harare",
     "difficulty": 2
   },
   {
-    "id": 353,
+    "id": 323,
     "question": "¿Cuál es la capital de Costa Rica?",
     "answer": "San José",
     "difficulty": 2
   },
   {
-    "id": 354,
+    "id": 324,
     "question": "¿Cuál es la capital de Panamá?",
     "answer": "Ciudad de Panamá",
     "difficulty": 2
   },
   {
-    "id": 355,
+    "id": 325,
     "question": "¿Cuál es la capital de Guatemala?",
     "answer": "Ciudad de Guatemala",
     "difficulty": 2
   },
   {
-    "id": 356,
+    "id": 326,
     "question": "¿Cuál es la capital de Honduras?",
     "answer": "Tegucigalpa",
     "difficulty": 2
   },
   {
-    "id": 357,
+    "id": 327,
     "question": "¿Cuál es la capital de El Salvador?",
     "answer": "San Salvador",
     "difficulty": 2
   },
   {
-    "id": 358,
+    "id": 328,
     "question": "¿Cuál es la capital de República Dominicana?",
     "answer": "Santo Domingo",
     "difficulty": 2
   },
   {
-    "id": 359,
+    "id": 329,
     "question": "¿Cuál es la capital de Haití?",
     "answer": "Puerto Príncipe",
     "difficulty": 2
   },
   {
-    "id": 360,
+    "id": 330,
     "question": "¿Cuál es la capital de Jamaica?",
     "answer": "Kingston",
     "difficulty": 2
   },
   {
-    "id": 361,
+    "id": 331,
     "question": "¿Cuál es la capital de Trinidad y Tobago?",
     "answer": "Puerto España",
     "difficulty": 2
   },
   {
-    "id": 362,
+    "id": 332,
     "question": "¿Cuál es la capital de Surinam?",
     "answer": "Paramaribo",
     "difficulty": 2
   },
   {
-    "id": 363,
+    "id": 333,
     "question": "¿Cuál es la capital de Guyana?",
     "answer": "Georgetown",
     "difficulty": 2
   },
   {
-    "id": 364,
+    "id": 334,
     "question": "¿Qué país tiene por capital Seúl?",
     "answer": "Corea del Sur",
     "difficulty": 2
   },
   {
-    "id": 365,
+    "id": 335,
     "question": "¿Qué país tiene por capital Taskent?",
     "answer": "Uzbekistán",
     "difficulty": 2
   },
   {
-    "id": 366,
+    "id": 336,
     "question": "¿Qué país tiene por capital Bakú?",
     "answer": "Azerbaiyán",
     "difficulty": 2
   },
   {
-    "id": 367,
+    "id": 337,
     "question": "¿Qué país tiene por capital Tiflis?",
     "answer": "Georgia",
     "difficulty": 2
   },
   {
-    "id": 368,
+    "id": 338,
     "question": "¿Qué país tiene por capital Ereván?",
     "answer": "Armenia",
     "difficulty": 2
   },
   {
-    "id": 369,
+    "id": 339,
     "question": "¿Qué país tiene por capital Daca?",
     "answer": "Bangladesh",
     "difficulty": 2
   },
   {
-    "id": 370,
+    "id": 340,
     "question": "¿Qué país tiene por capital Kuala Lumpur?",
     "answer": "Malasia",
     "difficulty": 2
   },
   {
-    "id": 371,
+    "id": 341,
     "question": "¿Qué país tiene por capital Vientián?",
     "answer": "Laos",
     "difficulty": 2
   },
   {
-    "id": 372,
+    "id": 342,
     "question": "¿Qué país tiene por capital Nom Pen?",
     "answer": "Camboya",
     "difficulty": 2
   },
   {
-    "id": 373,
+    "id": 343,
     "question": "¿Qué país tiene por capital Gaborone?",
     "answer": "Botsuana",
     "difficulty": 2
   },
   {
-    "id": 374,
+    "id": 344,
     "question": "¿Qué país tiene por capital Harare?",
     "answer": "Zimbabue",
     "difficulty": 2
   },
   {
-    "id": 375,
+    "id": 345,
     "question": "¿Qué país tiene por capital Georgetown?",
     "answer": "Guyana",
     "difficulty": 2
   },
   {
-    "id": 376,
+    "id": 346,
     "question": "¿Qué cordillera separa España y Francia?",
     "answer": "Los Pirineos",
     "difficulty": 2
   },
   {
-    "id": 378,
+    "id": 347,
     "question": "¿Qué cordillera alberga el Everest?",
     "answer": "El Himalaya",
     "difficulty": 2
   },
   {
-    "id": 379,
+    "id": 348,
     "question": "¿Qué río atraviesa Budapest?",
     "answer": "El Danubio",
     "difficulty": 2
   },
   {
-    "id": 380,
+    "id": 349,
     "question": "¿Qué río atraviesa El Cairo?",
     "answer": "El Nilo",
     "difficulty": 2
   },
   {
-    "id": 381,
+    "id": 350,
     "question": "¿Qué mar separa Arabia y África oriental en su parte principal al norte del Índico?",
     "answer": "El mar Rojo",
     "difficulty": 2
   },
   {
-    "id": 382,
+    "id": 351,
     "question": "¿Qué volcán japonés es símbolo nacional del país?",
     "answer": "El monte Fuji",
     "difficulty": 2
   },
   {
-    "id": 383,
+    "id": 352,
     "question": "¿Qué país alberga las islas Galápagos?",
     "answer": "Ecuador",
     "difficulty": 2
   },
   {
-    "id": 384,
+    "id": 353,
     "question": "¿Qué país alberga la isla de Pascua?",
     "answer": "Chile",
     "difficulty": 2
   },
   {
-    "id": 385,
+    "id": 354,
     "question": "¿En qué país se encuentra Machu Picchu?",
     "answer": "Perú",
     "difficulty": 1
   },
   {
-    "id": 387,
+    "id": 355,
     "question": "¿En qué cordillera y región se sitúa la ciudadela de Machu Picchu?",
     "answer": "Los Andes peruanos, en la región de Cusco",
     "difficulty": 3
   },
   {
-    "id": 389,
+    "id": 356,
     "question": "¿Por qué valle discurre el río que rodea Machu Picchu?",
     "answer": "El valle del río Urubamba",
     "difficulty": 4
   },
   {
-    "id": 395,
+    "id": 357,
     "question": "¿En qué país se encuentra la isla de Santorini?",
     "answer": "Grecia",
     "difficulty": 2
   },
   {
-    "id": 397,
+    "id": 358,
     "question": "¿En qué mar y archipiélago griego se sitúa Santorini?",
     "answer": "En el mar Egeo, en las Cícladas",
     "difficulty": 4
   },
   {
-    "id": 399,
+    "id": 359,
     "question": "¿Qué rasgo geológico singular define el paisaje de Santorini?",
     "answer": "Una gran caldera volcánica inundada por el mar",
     "difficulty": 4
   },
   {
-    "id": 405,
+    "id": 360,
     "question": "¿Entre qué dos países se encuentran las cataratas del Niágara?",
     "answer": "Estados Unidos y Canadá",
     "difficulty": 2
   },
   {
-    "id": 407,
+    "id": 361,
     "question": "¿En qué frontera concreta se sitúan las cataratas del Niágara?",
     "answer": "Entre la provincia de Ontario (Canadá) y el estado de Nueva York (EE. UU.)",
     "difficulty": 4
   },
   {
-    "id": 409,
+    "id": 362,
     "question": "¿Qué río alimenta las cataratas del Niágara?",
     "answer": "El río Niágara",
     "difficulty": 3
   },
   {
-    "id": 415,
+    "id": 363,
     "question": "¿En qué país se encuentra la Gran Barrera de Coral?",
     "answer": "Australia",
     "difficulty": 2
   },
   {
-    "id": 417,
+    "id": 364,
     "question": "¿En qué mar y estado australiano se extiende la Gran Barrera de Coral?",
     "answer": "En el mar del Coral, frente a la costa de Queensland",
     "difficulty": 3
   },
   {
-    "id": 421,
+    "id": 365,
     "question": "¿Qué lo convierte a la Gran Barrera de Coral en el mayor sistema arrecifal del mundo?",
     "answer": "Su extensión de más de 2 300 km y la enorme diversidad de corales y especies marinas que alberga",
     "difficulty": 4
   },
   {
-    "id": 425,
+    "id": 366,
     "question": "¿En qué estado de Estados Unidos se encuentra el Gran Cañón?",
     "answer": "Arizona",
     "difficulty": 2
   },
   {
-    "id": 427,
+    "id": 367,
     "question": "¿Qué río excavó el Gran Cañón a lo largo de millones de años?",
     "answer": "El río Colorado",
     "difficulty": 3
   },
   {
-    "id": 429,
+    "id": 368,
     "question": "¿En qué meseta se sitúa el Gran Cañón?",
     "answer": "La meseta del Colorado",
     "difficulty": 4
   },
   {
-    "id": 435,
+    "id": 369,
     "question": "¿En qué país se encuentra la ciudad nabatea de Petra?",
     "answer": "Jordania",
     "difficulty": 1
   },
   {
-    "id": 437,
+    "id": 370,
     "question": "¿En qué entorno geológico fue excavada la ciudad de Petra?",
     "answer": "Un sistema de gargantas rocosas en un entorno desértico y montañoso",
     "difficulty": 3
   },
   {
-    "id": 441,
+    "id": 371,
     "question": "¿A qué gobernación jordana pertenece el yacimiento de Petra?",
     "answer": "La gobernación de Maán",
     "difficulty": 4
   },
   {
-    "id": 445,
+    "id": 372,
     "question": "¿A qué país pertenece la isla de Bali?",
     "answer": "Indonesia",
     "difficulty": 2
   },
   {
-    "id": 447,
+    "id": 373,
     "question": "¿Entre qué mares se sitúa la isla de Bali?",
     "answer": "Entre el océano Índico al sur y el mar de Bali al norte",
     "difficulty": 4
   },
   {
-    "id": 455,
+    "id": 374,
     "question": "¿Las islas Galápagos pertenecen a qué país?",
     "answer": "Ecuador",
     "difficulty": 2
   },
   {
-    "id": 457,
+    "id": 375,
     "question": "¿En qué océano y a qué distancia aproximada de la costa continental se encuentran las islas Galápagos?",
     "answer": "En el océano Pacífico oriental, a unos 1 000 km de la costa de Ecuador",
     "difficulty": 4
   },
   {
-    "id": 459,
+    "id": 376,
     "question": "¿Qué tipo de corrientes oceánicas convergen en las Galápagos y contribuyen a su singular biodiversidad?",
     "answer": "Corrientes frías (de Humboldt) y cálidas que crean condiciones únicas para la fauna",
     "difficulty": 5
   },
   {
-    "id": 465,
+    "id": 377,
     "question": "¿En qué región de Turquía se encuentra la zona turística de Capadocia?",
     "answer": "Anatolia Central",
     "difficulty": 3
   },
   {
-    "id": 469,
+    "id": 378,
     "question": "¿Por qué proceso geológico se formaron las peculiares 'chimeneas de hadas' de Capadocia?",
     "answer": "Por la erosión diferencial de capas volcánicas de distinta dureza a lo largo de milenios",
     "difficulty": 5
   },
   {
-    "id": 475,
+    "id": 379,
     "question": "¿En qué país africano se encuentra el Kilimanjaro?",
     "answer": "Tanzania",
     "difficulty": 2
   },
   {
-    "id": 479,
+    "id": 380,
     "question": "¿Qué tipo de formación geológica es el Kilimanjaro?",
     "answer": "Un macizo volcánico aislado, el más alto del continente africano",
     "difficulty": 4
   },
   {
-    "id": 485,
+    "id": 381,
     "question": "¿En qué océano se encuentra el archipiélago de las Maldivas?",
     "answer": "En el océano Índico tropical",
     "difficulty": 2
   },
   {
-    "id": 489,
+    "id": 382,
     "question": "¿Por qué formaciones geológicas están compuestas principalmente las islas Maldivas?",
     "answer": "Por atolones coralinos, lo que las hace especialmente vulnerables a la subida del nivel del mar",
     "difficulty": 4
   },
   {
-    "id": 495,
+    "id": 383,
     "question": "¿En qué país se encuentra la bahía de Ha Long?",
     "answer": "Vietnam",
     "difficulty": 2
   },
   {
-    "id": 497,
+    "id": 384,
     "question": "¿En qué golfo del mar de China Meridional se sitúa la bahía de Ha Long?",
     "answer": "En el golfo de Tonkín, al norte de Vietnam",
     "difficulty": 4
   },
   {
-    "id": 499,
+    "id": 385,
     "question": "¿Qué tipo de formaciones geológicas caracterizan el paisaje de la bahía de Ha Long?",
     "answer": "Islotes y pilares calizos kársticos que emergen del mar",
     "difficulty": 4
   },
   {
-    "id": 505,
+    "id": 386,
     "question": "¿En qué estado de EE. UU. se encuentra el parque nacional de Yosemite?",
     "answer": "California",
     "difficulty": 2
   },
   {
-    "id": 507,
+    "id": 387,
     "question": "¿En qué cordillera se sitúa el parque nacional de Yosemite?",
     "answer": "La Sierra Nevada de California",
     "difficulty": 3
   },
   {
-    "id": 509,
+    "id": 388,
     "question": "¿Qué procesos geológicos modelaron principalmente los valles y acantilados del parque Yosemite?",
     "answer": "La erosión glaciar durante las últimas glaciaciones, que talló valles en U y pulió el granito",
     "difficulty": 5
   },
   {
-    "id": 515,
+    "id": 389,
     "question": "¿En qué territorio australiano se encuentra el monolito sagrado de Uluru?",
     "answer": "En el Territorio del Norte, en el centro de Australia",
     "difficulty": 3
   },
   {
-    "id": 519,
+    "id": 390,
     "question": "¿Para qué pueblo indígena australiano tiene un significado sagrado especial Uluru?",
     "answer": "Para el pueblo anangu (Pitjantjatjara y Yankunytjatjara)",
     "difficulty": 5
   },
   {
-    "id": 525,
+    "id": 391,
     "question": "¿En qué dos países africanos se encuentran las cataratas Victoria?",
     "answer": "Zambia y Zimbabue",
     "difficulty": 3
   },
   {
-    "id": 529,
+    "id": 392,
     "question": "¿Qué río forma las cataratas Victoria?",
     "answer": "El río Zambeze",
     "difficulty": 3
   },
   {
-    "id": 535,
+    "id": 393,
     "question": "¿En qué región chilena se encuentra el parque nacional Torres del Paine?",
     "answer": "En la Región de Magallanes, en la Patagonia chilena",
     "difficulty": 3
   },
   {
-    "id": 539,
+    "id": 394,
     "question": "¿Qué elementos naturales distinguen el paisaje del parque Torres del Paine?",
     "answer": "Glaciares, lagos de colores, macizos graníticos y bosques subpolares",
     "difficulty": 4
   },
   {
-    "id": 545,
+    "id": 395,
     "question": "¿En qué isla principal de Japón se encuentra el monte Fuji?",
     "answer": "En Honshu, compartiendo territorio entre las prefecturas de Shizuoka y Yamanashi",
     "difficulty": 4
   },
   {
-    "id": 555,
+    "id": 396,
     "question": "¿En qué mar y provincia italiana se extiende la costa Amalfitana?",
     "answer": "En el mar Tirreno, en la provincia de Salerno (región de Campania)",
     "difficulty": 4
   },
   {
-    "id": 565,
+    "id": 397,
     "question": "¿Entre qué países se reparte el mar Muerto?",
     "answer": "Israel, Palestina y Jordania",
     "difficulty": 3
   },
   {
-    "id": 567,
+    "id": 398,
     "question": "¿Por qué el mar Muerto se sitúa a tanta profundidad bajo el nivel del mar?",
     "answer": "Porque se encuentra en una depresión tectónica del valle del Rift (valle del Jordán)",
     "difficulty": 5
   },
   {
-    "id": 575,
+    "id": 399,
     "question": "¿En qué isla española se encuentra el volcán Teide?",
     "answer": "En Tenerife, en el archipiélago de Canarias",
     "difficulty": 2
   },
   {
-    "id": 579,
+    "id": 400,
     "question": "¿Qué tipo de estructura volcánica es el Teide y cuál es su relevancia en España?",
     "answer": "Es un estratovolcán y el pico más alto de España (3 718 m), así como el tercero más alto del mundo en volcanes insulares",
     "difficulty": 4
   },
   {
-    "id": 580,
+    "id": 401,
     "question": "¿Qué país tiene más lagos que el resto del mundo combinado?",
     "answer": "Canadá, con más del 60 % de los lagos naturales del planeta",
     "difficulty": 1
   },
   {
-    "id": 581,
+    "id": 402,
     "question": "¿Qué continente es el único sin ríos permanentes?",
     "answer": "La Antártida",
     "difficulty": 1
   },
   {
-    "id": 582,
+    "id": 403,
     "question": "¿Qué pequeño país europeo está completamente rodeado por un solo país?",
     "answer": "San Marino, rodeado por completo de Italia (también el Vaticano)",
     "difficulty": 1
   },
   {
-    "id": 583,
+    "id": 404,
     "question": "¿En qué hemisferio se encuentra la mayor parte de la tierra firme del planeta?",
     "answer": "En el hemisferio norte",
     "difficulty": 1
   },
   {
-    "id": 584,
+    "id": 405,
     "question": "¿Qué país de Asia tiene la mayor extensión de selva tropical?",
     "answer": "Indonesia",
     "difficulty": 1
   },
   {
-    "id": 585,
+    "id": 406,
     "question": "¿Cuál es la capital de mayor altitud del mundo?",
     "answer": "La Paz (Bolivia), sede del gobierno, a más de 3 600 m de altitud",
     "difficulty": 1
   },
   {
-    "id": 586,
+    "id": 407,
     "question": "¿Qué país sudamericano sin salida al mar alberga el salar más grande del mundo?",
     "answer": "Bolivia, con el salar de Uyuni",
     "difficulty": 1
   },
   {
-    "id": 587,
+    "id": 408,
     "question": "¿Qué cadena montañosa es la más larga del mundo en tierra firme?",
     "answer": "Los Andes, con unos 7 500 km recorriendo el oeste de América del Sur",
     "difficulty": 1
   },
   {
-    "id": 588,
+    "id": 409,
     "question": "¿Qué río es oficialmente el más largo del mundo aunque su rivalidad con el Amazonas siga en debate?",
     "answer": "El Nilo, con aproximadamente 6 650 km",
     "difficulty": 2
   },
   {
-    "id": 589,
+    "id": 410,
     "question": "¿Qué país tiene mayor superficie: Canadá o China?",
     "answer": "Canadá, con 9,98 millones de km², supera a China (9,6 millones de km²)",
     "difficulty": 2
   },
   {
-    "id": 590,
+    "id": 411,
     "question": "¿Cuántos océanos cruza el Ecuador?",
     "answer": "Tres: el Pacífico, el Atlántico y el Índico",
     "difficulty": 2
   },
   {
-    "id": 591,
+    "id": 412,
     "question": "¿Cuál es la lengua con más hablantes nativos en el mundo?",
     "answer": "El chino mandarín",
     "difficulty": 2
   },
   {
-    "id": 592,
+    "id": 413,
     "question": "¿Qué país europeo tiene más de un cuarto de su territorio por debajo del nivel del mar?",
     "answer": "Los Países Bajos (Holanda)",
     "difficulty": 2
   },
   {
-    "id": 593,
+    "id": 414,
     "question": "¿Qué idioma oficial tiene más países en el mundo que lo usan como lengua oficial?",
     "answer": "El inglés, con más de 60 países",
     "difficulty": 2
   },
   {
-    "id": 594,
+    "id": 415,
     "question": "¿Qué continente tiene la mayor concentración de países sin salida al mar?",
     "answer": "África, con 16 países sin litoral",
     "difficulty": 2
   },
   {
-    "id": 595,
+    "id": 416,
     "question": "¿Qué país centroamericano abolió su ejército por mandato constitucional en 1949?",
     "answer": "Costa Rica",
     "difficulty": 2
   },
   {
-    "id": 596,
+    "id": 417,
     "question": "¿Qué desierto de Asia Central es conocido por sus camellos bactrianos y sus temperaturas extremas?",
     "answer": "El desierto del Gobi",
     "difficulty": 2
   },
   {
-    "id": 597,
+    "id": 418,
     "question": "¿Qué isla del Atlántico Norte, cercana al Ártico, tiene la mayor superficie entre las islas no continentales?",
     "answer": "Groenlandia",
     "difficulty": 2
   },
   {
-    "id": 598,
+    "id": 419,
     "question": "¿Qué lago navegable es el más alto del mundo?",
     "answer": "El lago Titicaca, compartido entre Perú y Bolivia, a 3 812 m de altitud",
     "difficulty": 2
   },
   {
-    "id": 599,
+    "id": 420,
     "question": "¿Qué país de África tiene exactamente el mismo nombre que su capital?",
     "answer": "Yibuti",
     "difficulty": 2
   },
   {
-    "id": 600,
+    "id": 421,
     "question": "¿Qué país tiene la mayor reserva de petróleo probada del mundo?",
     "answer": "Venezuela, que superó a Arabia Saudí en reservas probadas",
     "difficulty": 3
   },
   {
-    "id": 601,
+    "id": 422,
     "question": "¿Qué ciudad del mundo está más lejos de cualquier mar u océano?",
     "answer": "Ürümqi, capital de la región del Xinjiang en China",
     "difficulty": 3
   },
   {
-    "id": 602,
+    "id": 423,
     "question": "¿Qué río asiático pasa por seis países: China, Myanmar, Laos, Tailandia, Camboya y Vietnam?",
     "answer": "El Mekong",
     "difficulty": 3
   },
   {
-    "id": 603,
+    "id": 424,
     "question": "¿Qué país superó a China como el más poblado del mundo alrededor de 2023?",
     "answer": "India",
     "difficulty": 3
   },
   {
-    "id": 604,
+    "id": 425,
     "question": "¿Qué país tiene más husos horarios en el mundo, contando sus territorios de ultramar?",
     "answer": "Francia, con 12 husos horarios gracias a sus territorios repartidos por el mundo",
     "difficulty": 3
   },
   {
-    "id": 605,
+    "id": 426,
     "question": "¿Cuál es la distancia mínima del estrecho de Gibraltar entre Europa y África?",
     "answer": "Aproximadamente 14 km en su punto más estrecho",
     "difficulty": 3
   },
   {
-    "id": 606,
+    "id": 427,
     "question": "¿Qué delta fluvial es el más grande del mundo y dónde se encuentra?",
     "answer": "El delta del Ganges-Brahmaputra, en Bangladesh y la India (también llamado delta del Sundarbans)",
     "difficulty": 3
   },
   {
-    "id": 607,
+    "id": 428,
     "question": "¿Qué nación insular del Pacífico compró tierras en Fiyi para reubicar a su población ante la amenaza de inundación?",
     "answer": "Kiribati",
     "difficulty": 3
   },
   {
-    "id": 608,
+    "id": 429,
     "question": "¿Qué cadena de islas volcánicas forma la frontera entre el mar de Bering y el océano Pacífico?",
     "answer": "Las islas Aleutianas, pertenecientes a Alaska (EE. UU.)",
     "difficulty": 3
   },
   {
-    "id": 609,
+    "id": 430,
     "question": "¿Qué país del Cáucaso posee un alfabeto propio reconocido como Patrimonio Cultural Inmaterial por la UNESCO?",
     "answer": "Georgia, cuyo alfabeto fue inscrito en la lista UNESCO en 2016",
     "difficulty": 3
   },
   {
-    "id": 610,
+    "id": 431,
     "question": "¿Qué país de América tiene la mayor población hispanohablante del mundo?",
     "answer": "México",
     "difficulty": 3
   },
   {
-    "id": 611,
+    "id": 432,
     "question": "¿Qué pequeño país europeo no miembro de la UE acuña euros y utiliza el euro de facto por acuerdo con sus vecinos?",
     "answer": "Andorra, Mónaco, San Marino y el Vaticano tienen acuerdos monetarios; entre los no miembros de la UE, Andorra es el ejemplo más conocido en los Pirineos",
     "difficulty": 3
   },
   {
-    "id": 612,
+    "id": 433,
     "question": "¿Qué país tiene la costa más larga del mundo con más de 200 000 km de litoral?",
     "answer": "Canadá",
     "difficulty": 4
   },
   {
-    "id": 613,
+    "id": 434,
     "question": "¿Qué viento seco del Sahara sopla hacia la costa de África Occidental entre noviembre y marzo y recibe un nombre propio?",
     "answer": "El Harmattan",
     "difficulty": 4
   },
   {
-    "id": 614,
+    "id": 435,
     "question": "¿Cuál es la diferencia geográfica entre un istmo y un estrecho?",
     "answer": "Un istmo es una franja terrestre que une dos masas de tierra; un estrecho es una franja de agua que separa dos masas de tierra",
     "difficulty": 4
   },
   {
-    "id": 615,
+    "id": 436,
     "question": "¿Qué país de Asia Central es 'doblemente sin litoral', es decir, está rodeado únicamente de países que tampoco tienen salida al mar?",
     "answer": "Uzbekistán (junto con Liechtenstein son los únicos dos países del mundo en esa situación)",
     "difficulty": 4
   },
   {
-    "id": 616,
+    "id": 437,
     "question": "¿Qué corriente oceánica fría recorre la costa de Perú y Chile y contribuye a crear uno de los desiertos más secos del mundo?",
     "answer": "La corriente de Humboldt (o corriente del Perú)",
     "difficulty": 4
   },
   {
-    "id": 617,
+    "id": 438,
     "question": "¿Qué lago africano ha perdido más del 90 % de su superficie desde 1960 por el desvío de sus afluentes?",
     "answer": "El lago Chad",
     "difficulty": 4
   },
   {
-    "id": 618,
+    "id": 439,
     "question": "¿Qué zona geológicamente activa concentra el 90 % de los terremotos del mundo y rodea el océano Pacífico?",
     "answer": "El cinturón de fuego del Pacífico o anillo de fuego",
     "difficulty": 4
   },
   {
-    "id": 619,
+    "id": 440,
     "question": "¿Qué lengua de los Pirineos no tiene parentesco demostrado con ninguna otra familia lingüística del mundo?",
     "answer": "El euskera o lengua vasca",
     "difficulty": 4
   },
   {
-    "id": 620,
+    "id": 441,
     "question": "¿Cuál es el país más pequeño de América del Sur?",
     "answer": "Surinam, con unos 163 820 km²",
     "difficulty": 4
   },
   {
-    "id": 621,
+    "id": 442,
     "question": "¿Qué país tiene el mayor número de especies de aves del mundo, con más de 1 900 registradas?",
     "answer": "Colombia",
     "difficulty": 4
   },
   {
-    "id": 622,
+    "id": 443,
     "question": "¿Qué fenómeno climático consiste en el calentamiento anómalo de las aguas del Pacífico tropical oriental y altera los patrones meteorológicos globales?",
     "answer": "El Niño (parte del ciclo ENOS: El Niño-Oscilación del Sur)",
     "difficulty": 5
   },
   {
-    "id": 623,
+    "id": 444,
     "question": "¿Qué tipo de bioma boreal conífero cubre la mayor extensión de bosque del mundo y en qué país es más extenso?",
     "answer": "La taiga (bosque boreal); Rusia posee la mayor extensión con más de 8 millones de km²",
     "difficulty": 5
   },
   {
-    "id": 624,
+    "id": 445,
     "question": "¿Qué teoría geopolítica del geógrafo Halford Mackinder postulaba en 1904 que quien controlase la masa euroasiática central dominaría el mundo?",
     "answer": "La teoría del Heartland (Tierra Corazón), que influyó profundamente en la geopolítica del siglo XX",
     "difficulty": 5
   },
   {
-    "id": 625,
+    "id": 446,
     "question": "¿En qué latitudes se producen las noches y días polares perpetuos de al menos 24 horas?",
     "answer": "Por encima del Círculo Polar Ártico (66,5° N) y por debajo del Círculo Polar Antártico (66,5° S)",
     "difficulty": 5
   },
   {
-    "id": 626,
+    "id": 447,
     "question": "¿Qué proceso geológico explica la formación de los océanos actuales a partir del supercontinente Pangea?",
     "answer": "La tectónica de placas; el movimiento de las placas litosféricas comenzó a fragmentar Pangea hace unos 200 millones de años",
     "difficulty": 5
   },
   {
-    "id": 627,
+    "id": 448,
     "question": "¿Qué país posee mayor extensión de territorio ártico y tiene reclamaciones sobre una amplia plataforma continental bajo el Ártico?",
     "answer": "Rusia, que controla la mayor extensión ártica en tierra y reivindica gran parte del lecho oceánico ártico ante la ONU",
     "difficulty": 5
   },
   {
-    "id": 628,
+    "id": 449,
     "question": "¿Qué región del Pacífico occidental recibe el nombre de 'triángulo de coral' y por qué es única?",
     "answer": "Es la zona con mayor biodiversidad marina del mundo, delimitada por Indonesia, Filipinas, Papúa Nueva Guinea, Islas Salomón, Timor-Leste y Malasia",
     "difficulty": 5
   },
   {
-    "id": 629,
+    "id": 450,
     "question": "¿Qué país del Sahel africano comparte nombre con el río que lo atraviesa, uno de los más largos del continente?",
     "answer": "Níger, cuyo río homónimo también recorre Mali, Guinea y Nigeria",
     "difficulty": 5
   },
   {
-    "id": 630,
+    "id": 451,
     "question": "¿Cuántas comunidades autónomas tiene España y cuántas son uniprovinciales?",
     "answer": "17 comunidades autónomas; 5 son uniprovinciales: Asturias, Cantabria, La Rioja, Madrid y Murcia (más las ciudades autónomas de Ceuta y Melilla)",
     "difficulty": 2
   },
   {
-    "id": 631,
+    "id": 452,
     "question": "¿Qué río es el más largo de España y por qué comunidades autónomas discurre?",
     "answer": "El Ebro, con 930 km; nace en Cantabria y pasa por Castilla y León, La Rioja, Navarra, Aragón y Cataluña hasta desembocar en el Mediterráneo",
     "difficulty": 2
   },
   {
-    "id": 632,
+    "id": 453,
     "question": "¿Cuál es la cima más alta de España peninsular y en qué sierra se encuentra?",
     "answer": "El Mulhacén (3.479 m) en Sierra Nevada (Granada, Andalucía)",
     "difficulty": 2
   },
   {
-    "id": 633,
+    "id": 454,
     "question": "¿Qué comunidad autónoma española tiene más kilómetros de costa y por qué mares está bañada?",
     "answer": "Galicia, con más de 1.660 km de costa (perímetro de rías incluido), bañada por el océano Atlántico y el mar Cantábrico",
     "difficulty": 3
   },
   {
-    "id": 634,
+    "id": 455,
     "question": "¿Cuántas provincias tiene Castilla y León, convirtiéndola en la comunidad autónoma con más provincias de España?",
     "answer": "Nueve: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora",
     "difficulty": 3
   },
   {
-    "id": 635,
+    "id": 456,
     "question": "¿Qué estrecho separa España de Marruecos y qué longitud tiene en su punto más estrecho?",
     "answer": "El estrecho de Gibraltar; en su punto más estrecho mide aproximadamente 14 km entre Punta Marroquí (España) y Punta Cires (Marruecos)",
     "difficulty": 1
   },
   {
-    "id": 636,
+    "id": 457,
     "question": "¿En qué comunidad autónoma está el cabo Finisterre y qué significa su nombre en latín?",
     "answer": "En Galicia (A Coruña); 'Finis Terrae' significa 'fin de la tierra' en latín, ya que los romanos lo consideraban el extremo occidental del mundo conocido",
     "difficulty": 2
   },
   {
-    "id": 637,
+    "id": 458,
     "question": "¿Qué río desemboca en Cádiz y es el más largo de la Península Ibérica que desemboca en el Atlántico por España?",
     "answer": "El Guadalquivir, con 657 km; nace en las sierras de Cazorla y desemboca en Sanlúcar de Barrameda (Cádiz)",
     "difficulty": 2
   },
   {
-    "id": 638,
+    "id": 459,
     "question": "¿Cuál es la capital de Aragón y qué río importante pasa por ella?",
     "answer": "Zaragoza; el río Ebro y sus afluentes el Huerva y el Jalón cruzan la ciudad",
     "difficulty": 1
   },
   {
-    "id": 639,
+    "id": 460,
     "question": "¿Qué sistema montañoso separa la Meseta Central de la costa mediterránea catalana y valenciana?",
     "answer": "El Sistema Ibérico, que discurre de noroeste a sureste desde La Rioja hasta Valencia",
     "difficulty": 3
   },
   {
-    "id": 640,
+    "id": 461,
     "question": "¿Cuántas islas principales forman el archipiélago de las Islas Baleares y cuáles son?",
     "answer": "Cuatro islas principales: Mallorca (la mayor), Menorca, Ibiza y Formentera (la más pequeña habitada)",
     "difficulty": 2
   },
   {
-    "id": 641,
+    "id": 462,
     "question": "¿Cuál es la ciudad más poblada de España sin contar la capital, y a qué comunidad autónoma pertenece?",
     "answer": "Barcelona, con aproximadamente 1,6 millones de habitantes; capital de Cataluña",
     "difficulty": 1
   },
   {
-    "id": 642,
+    "id": 463,
     "question": "¿Qué río forma gran parte de la frontera entre España y Portugal y desemboca en Lisboa?",
     "answer": "El Tajo (Tejo en portugués), con 1.007 km en total; nace en la serranía de Cuenca y desemboca en Lisboa",
     "difficulty": 2
   },
   {
-    "id": 643,
+    "id": 464,
     "question": "¿En qué comunidad autónoma española se encuentra el Parque Nacional de Doñana y qué tipo de ecosistema protege?",
     "answer": "En Andalucía (provincias de Huelva y Sevilla); protege marismas, dunas y bosques mediterráneos en la desembocadura del Guadalquivir",
     "difficulty": 3
   },
   {
-    "id": 644,
+    "id": 465,
     "question": "¿Qué ciudad española es capital de Navarra y cuál es su fiesta más internacional?",
     "answer": "Pamplona; los Sanfermines o fiestas de San Fermín (7 de julio), famosos por el encierro de toros",
     "difficulty": 2
   },
   {
-    "id": 645,
+    "id": 466,
     "question": "¿Cuántos kilómetros cuadrados tiene España y qué posición ocupa en extensión dentro de la Unión Europea?",
     "answer": "España tiene aproximadamente 505.990 km²; es el segundo país más grande de la UE, tras Francia",
     "difficulty": 3
   },
   {
-    "id": 646,
+    "id": 467,
     "question": "¿Qué clima predomina en el interior de la Meseta Central española y qué lo caracteriza?",
     "answer": "Clima mediterráneo continental (o de interior): veranos cálidos y secos, inviernos fríos, precipitaciones escasas e irregulares. La altitud lo hace más extremo que el mediterráneo litoral",
     "difficulty": 3
   },
   {
-    "id": 647,
+    "id": 468,
     "question": "¿Qué cordillera forma la espina dorsal del norte peninsular recorriendo Cantabria, Asturias y León?",
     "answer": "La Cordillera Cantábrica; su cima más alta es Torre Cerredo (2.648 m) en los Picos de Europa",
     "difficulty": 3
   },
   {
-    "id": 648,
+    "id": 469,
     "question": "¿En qué comunidad autónoma está la ciudad de Toledo y qué función histórica tuvo en la España medieval?",
     "answer": "Castilla-La Mancha; Toledo fue capital de la monarquía visigoda y residencia real hasta el traslado de la corte a Madrid en el siglo XVI",
     "difficulty": 2
   },
   {
-    "id": 649,
+    "id": 470,
     "question": "¿Cuál es el río más largo que nace y desemboca íntegramente en territorio español?",
     "answer": "El Ebro, con 930 km; nace en Fontibre (Cantabria) y desemboca en el delta del Ebro (Tarragona)",
     "difficulty": 3
   },
   {
-    "id": 650,
+    "id": 471,
     "question": "¿Qué ciudad española tiene el aeropuerto más transitado y cuántos pasajeros mueve aproximadamente al año?",
     "answer": "Madrid-Barajas (Adolfo Suárez Madrid-Barajas), con unos 50-60 millones de pasajeros anuales en años normales",
     "difficulty": 2
   },
   {
-    "id": 651,
+    "id": 472,
     "question": "¿En qué comunidad autónoma está la ciudad de Santiago de Compostela y qué la hace famosa en todo el mundo?",
     "answer": "En Galicia; es el destino final del Camino de Santiago, una de las mayores rutas de peregrinación cristiana del mundo",
     "difficulty": 1
   },
   {
-    "id": 652,
+    "id": 473,
     "question": "¿Qué islas forman parte de España pero están geográficamente mucho más cerca de África que de la Península Ibérica?",
     "answer": "Las Islas Canarias (a unos 100 km de la costa africana, frente a Marruecos y el Sáhara Occidental)",
     "difficulty": 1
   },
   {
-    "id": 653,
+    "id": 474,
     "question": "¿Qué ciudad española de la costa mediterránea es conocida como la tercera capital de España, sede del Tribunal de las Aguas y capital de la Comunitat Valenciana?",
     "answer": "Valencia; el Tribunal de las Aguas es la institución jurídica más antigua de Europa (siglo X)",
     "difficulty": 2
   },
   {
-    "id": 654,
+    "id": 475,
     "question": "¿En qué comunidad autónoma está el Monasterio de El Escorial y quién ordenó su construcción?",
     "answer": "En la Comunidad de Madrid (San Lorenzo de El Escorial); fue construido por orden del rey Felipe II entre 1563 y 1584",
     "difficulty": 3
   },
   {
-    "id": 655,
+    "id": 476,
     "question": "¿Qué accidente geográfico divide España en dos mitades y separa las dos mesetas?",
     "answer": "El Sistema Central (Sierra de Guadarrama, Sierra de Gredos, Sierra de Béjar y otras); divide la Submeseta Norte de la Submeseta Sur",
     "difficulty": 3
   },
   {
-    "id": 656,
+    "id": 477,
     "question": "¿Cuál es la ciudad española más al sur de la Península y qué especial posición tiene en el mapa?",
     "answer": "Algeciras o Tarifa (la más meridional de todas); Tarifa es el punto más al sur de la Península, a 14 km del continente africano",
     "difficulty": 3
   },
   {
-    "id": 657,
+    "id": 478,
     "question": "¿Qué parque natural de Lanzarote fue declarado Reserva de la Biosfera en 1993 por su paisaje volcánico casi lunar?",
     "answer": "El Parque Nacional de Timanfaya, conocido como 'las Montañas del Fuego'",
     "difficulty": 4
   },
   {
-    "id": 658,
+    "id": 479,
     "question": "¿Cuántas lenguas cooficiales hay en España además del castellano y cuáles son?",
     "answer": "Cuatro: catalán (en Cataluña, Valencia como valenciano y Baleares), gallego (en Galicia), euskera (en el País Vasco y Navarra) y aranés (en el Valle de Arán, Cataluña)",
     "difficulty": 3
   },
   {
-    "id": 659,
+    "id": 480,
     "question": "¿Qué río ibérico tiene el delta más extenso de la Península y dónde desemboca?",
     "answer": "El Ebro, con un delta de 320 km² en el Mar Mediterráneo, entre Tarragona y Castellón",
     "difficulty": 3
   },
   {
-    "id": 660,
+    "id": 481,
     "question": "¿En qué provincia española está la ciudad de Mérida y qué la hace única en cuanto a patrimonio romano?",
     "answer": "Badajoz (Extremadura); Mérida fue la capital de la Lusitania romana (Augusta Emerita) y conserva el teatro romano mejor preservado de Hispania",
     "difficulty": 3
   },
   {
-    "id": 661,
+    "id": 482,
     "question": "¿Qué comunidad autónoma española es la más densamente poblada y cuál es la menos densa?",
     "answer": "La más densa es Madrid (unos 830 hab/km²); la menos densa es Castilla-La Mancha (unos 26 hab/km²)",
     "difficulty": 4
   },
   {
-    "id": 662,
+    "id": 483,
     "question": "¿Cuántos Parques Nacionales tiene España en la actualidad y cuál es el más visitado?",
     "answer": "España tiene 16 Parques Nacionales (incluyendo los de Canarias y Baleares); el más visitado es el Teide en Tenerife",
     "difficulty": 4
   },
   {
-    "id": 663,
+    "id": 484,
     "question": "¿Qué ciudad gallega es conocida como la capital económica de Galicia y tiene el puerto de contenedores más importante del noroeste peninsular?",
     "answer": "Vigo, el municipio más poblado de Galicia, con uno de los puertos pesqueros más importantes de Europa",
     "difficulty": 3
   },
   {
-    "id": 664,
+    "id": 485,
     "question": "¿En qué ciudad española se celebra la Semana Santa con las procesiones más famosas del mundo y por qué se dice que son especialmente emotivas?",
     "answer": "Sevilla tiene las procesiones de Semana Santa más reconocidas internacionalmente, con pasos de gran valor artístico y saetas cantadas en la calle",
     "difficulty": 2
   },
   {
-    "id": 665,
+    "id": 486,
     "question": "¿Cuál es el pico más alto del archipiélago canario y de toda España (incluidos territorios insulares)?",
     "answer": "El Teide (3.718 m) en Tenerife; es la cima más alta de España y el tercer volcán más alto del mundo medido desde su base oceánica",
     "difficulty": 2
   },
   {
-    "id": 666,
+    "id": 487,
     "question": "¿Qué nombre recibe el viento cálido y seco que desciende de los Pirineos hacia el valle del Ebro y puede superar los 120 km/h?",
     "answer": "El cierzo; un viento del norte seco y frío que baja del Sistema Ibérico y los Pirineos hacia Zaragoza y el Ebro",
     "difficulty": 4
   },
   {
-    "id": 667,
+    "id": 488,
     "question": "¿Qué ciudad española alberga la Sagrada Familia, la obra arquitectónica más visitada de España, y quién es su arquitecto?",
     "answer": "Barcelona; Antoni Gaudí inició su construcción en 1883 y la obra continúa aún hoy; se espera que se concluya en torno a 2026",
     "difficulty": 1
   },
   {
-    "id": 668,
+    "id": 489,
     "question": "¿Qué cabo español es el punto más oriental de la Península Ibérica?",
     "answer": "El cabo de Creus (Cap de Creus) en Gerona, Cataluña",
     "difficulty": 4
   },
   {
-    "id": 669,
+    "id": 490,
     "question": "¿Qué comunidad autónoma española limita al norte con Francia y Andorra, y tiene acceso tanto al Mediterráneo como a los Pirineos?",
     "answer": "Cataluña, que limita al norte con Francia y Andorra, al este con el Mar Mediterráneo, al sur con Valencia y al oeste con Aragón",
     "difficulty": 2
   },
   {
-    "id": 670,
+    "id": 491,
     "question": "¿Cuántas ciudades españolas superan el millón de habitantes?",
     "answer": "Solo dos: Madrid (más de 3,3 millones) y Barcelona (unos 1,6 millones); ninguna otra municipalidad supera el millón",
     "difficulty": 3
   },
   {
-    "id": 671,
+    "id": 492,
     "question": "¿Qué nombre recibe el altiplano interior de la Península Ibérica elevado entre 600 y 800 metros y qué ocupa geográficamente?",
     "answer": "La Meseta Central; ocupa aproximadamente el 40% de la superficie de la Península y está dividida por el Sistema Central en Submeseta Norte y Submeseta Sur",
     "difficulty": 3
   },
   {
-    "id": 672,
+    "id": 493,
     "question": "¿En qué provincia española está la ciudad de Salamanca y por qué es famosa a nivel universitario?",
     "answer": "En Castilla y León; la Universidad de Salamanca, fundada en 1218, es una de las más antiguas del mundo y la más antigua de España todavía en funcionamiento",
     "difficulty": 2
   },
   {
-    "id": 673,
+    "id": 494,
     "question": "¿Qué cadena montañosa del sureste de España, con el Mulhacén como cima, alberga el único glaciar permanente del sur de Europa?",
     "answer": "Sierra Nevada (Andalucía); tiene el único glaciar residual permanente de la Península Ibérica en las cotas más altas",
     "difficulty": 4
   },
   {
-    "id": 674,
+    "id": 495,
     "question": "¿Cuántos archipiélagos tienen soberanía española en las costas africanas?",
     "answer": "Dos: las Islas Canarias (frente a Marruecos/Sahara Occidental) y las Islas Chafarinas, Alhucemas y el Peñón de Vélez de la Gomera (pequeñas posesiones frente a Marruecos)",
     "difficulty": 4
   },
   {
-    "id": 675,
+    "id": 496,
     "question": "¿Qué río español es el más caudaloso de Andalucía y atraviesa Sevilla antes de desembocar en el Atlántico?",
     "answer": "El Guadalquivir, con una cuenca de más de 57.000 km²; atraviesa Jaén, Córdoba y Sevilla",
     "difficulty": 2
   },
   {
-    "id": 676,
+    "id": 497,
     "question": "¿Cuál es la comunidad autónoma española con mayor extensión territorial?",
     "answer": "Castilla y León, con 94.225 km², es la mayor región de la UE sin ser un estado independiente",
     "difficulty": 3
   },
   {
-    "id": 677,
+    "id": 498,
     "question": "¿Qué ciudad del País Vasco es la capital administrativa de la comunidad autónoma y alberga el Museo Guggenheim?",
     "answer": "Vitoria-Gasteiz es la capital del País Vasco; el Museo Guggenheim Bilbao está en Bilbao, que es la mayor ciudad pero no la capital",
     "difficulty": 3
   },
   {
-    "id": 678,
+    "id": 499,
     "question": "¿Qué accidente geográfico costero, característico de Galicia, es un entrante del mar en la tierra formado por la inundación de valles fluviales?",
     "answer": "Las rías gallegas (rías altas y rías bajas); son fiordos poco profundos formados por el hundimiento de valles erosionados por ríos",
     "difficulty": 3
   },
   {
-    "id": 679,
+    "id": 500,
     "question": "¿En qué ciudad española se encuentra la Alhambra y a qué periodo histórico pertenece este conjunto palatino?",
     "answer": "En Granada (Andalucía); la Alhambra fue construida principalmente en el siglo XIV durante el reinado nazarí; es el monumento más visitado de España",
     "difficulty": 1
+  },
+  {
+    "id": 501,
+    "question": "¿De qué país es capital Biskek?",
+    "answer": "Kirguistán",
+    "difficulty": 3
+  },
+  {
+    "id": 502,
+    "question": "¿De qué país es capital Dusambé?",
+    "answer": "Tayikistán",
+    "difficulty": 3
+  },
+  {
+    "id": 503,
+    "question": "¿De qué país es capital Paramaribo?",
+    "answer": "Surinam",
+    "difficulty": 3
+  },
+  {
+    "id": 504,
+    "question": "¿De qué país es capital Vientián?",
+    "answer": "Laos",
+    "difficulty": 3
+  },
+  {
+    "id": 505,
+    "question": "¿Cuál es la capital de Eslovenia?",
+    "answer": "Liubliana",
+    "difficulty": 3
+  },
+  {
+    "id": 506,
+    "question": "¿De qué país es capital Liubliana?",
+    "answer": "Eslovenia",
+    "difficulty": 3
+  },
+  {
+    "id": 507,
+    "question": "¿De qué país es capital Ulán Bator?",
+    "answer": "Mongolia",
+    "difficulty": 3
+  },
+  {
+    "id": 508,
+    "question": "¿De qué país es capital Tiflis?",
+    "answer": "Georgia",
+    "difficulty": 3
+  },
+  {
+    "id": 509,
+    "question": "¿De qué país es capital Ereván?",
+    "answer": "Armenia",
+    "difficulty": 3
+  },
+  {
+    "id": 510,
+    "question": "¿Cuál es la capital de Moldavia?",
+    "answer": "Chisináu",
+    "difficulty": 3
+  },
+  {
+    "id": 511,
+    "question": "¿De qué país es capital Chisináu?",
+    "answer": "Moldavia",
+    "difficulty": 3
+  },
+  {
+    "id": 512,
+    "question": "¿Cuál es la capital de Montenegro?",
+    "answer": "Podgorica",
+    "difficulty": 3
+  },
+  {
+    "id": 513,
+    "question": "¿De qué país es capital Podgorica?",
+    "answer": "Montenegro",
+    "difficulty": 3
+  },
+  {
+    "id": 514,
+    "question": "¿Cuál es la capital de Macedonia del Norte?",
+    "answer": "Skopie",
+    "difficulty": 3
+  },
+  {
+    "id": 515,
+    "question": "¿De qué país es capital Skopie?",
+    "answer": "Macedonia del Norte",
+    "difficulty": 3
+  },
+  {
+    "id": 516,
+    "question": "¿Cuál es la capital de Albania?",
+    "answer": "Tirana",
+    "difficulty": 3
+  },
+  {
+    "id": 517,
+    "question": "¿De qué país es capital Tirana?",
+    "answer": "Albania",
+    "difficulty": 3
+  },
+  {
+    "id": 518,
+    "question": "¿De qué país es capital Astaná?",
+    "answer": "Kazajistán",
+    "difficulty": 3
+  },
+  {
+    "id": 519,
+    "question": "¿Cuál es la capital de Belice?",
+    "answer": "Belmopán",
+    "difficulty": 3
+  },
+  {
+    "id": 520,
+    "question": "¿De qué país es capital Belmopán?",
+    "answer": "Belice",
+    "difficulty": 3
+  },
+  {
+    "id": 521,
+    "question": "¿Cuál es la capital de Burkina Faso?",
+    "answer": "Uagadugú",
+    "difficulty": 3
+  },
+  {
+    "id": 522,
+    "question": "¿De qué país es capital Uagadugú?",
+    "answer": "Burkina Faso",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "question": "¿De qué país es capital Gaborone?",
+    "answer": "Botsuana",
+    "difficulty": 3
+  },
+  {
+    "id": 524,
+    "question": "¿Cuál es la capital de Lesoto?",
+    "answer": "Maseru",
+    "difficulty": 3
+  },
+  {
+    "id": 525,
+    "question": "¿De qué país es capital Maseru?",
+    "answer": "Lesoto",
+    "difficulty": 3
+  },
+  {
+    "id": 526,
+    "question": "¿Cuál es la capital de Zambia?",
+    "answer": "Lusaka",
+    "difficulty": 3
+  },
+  {
+    "id": 527,
+    "question": "¿De qué país es capital Lusaka?",
+    "answer": "Zambia",
+    "difficulty": 3
+  },
+  {
+    "id": 528,
+    "question": "¿Cuál es la capital de Mozambique?",
+    "answer": "Maputo",
+    "difficulty": 3
+  },
+  {
+    "id": 529,
+    "question": "¿De qué país es capital Maputo?",
+    "answer": "Mozambique",
+    "difficulty": 3
+  },
+  {
+    "id": 530,
+    "question": "¿Cuál es la capital de Namibia?",
+    "answer": "Windhoek",
+    "difficulty": 3
+  },
+  {
+    "id": 531,
+    "question": "¿De qué país es capital Windhoek?",
+    "answer": "Namibia",
+    "difficulty": 3
+  },
+  {
+    "id": 532,
+    "question": "¿Cuál es la capital de Malaui?",
+    "answer": "Lilongüe",
+    "difficulty": 3
+  },
+  {
+    "id": 533,
+    "question": "¿De qué país es capital Lilongüe?",
+    "answer": "Malaui",
+    "difficulty": 3
+  },
+  {
+    "id": 534,
+    "question": "¿Cuál es la capital de Ruanda?",
+    "answer": "Kigali",
+    "difficulty": 3
+  },
+  {
+    "id": 535,
+    "question": "¿De qué país es capital Kigali?",
+    "answer": "Ruanda",
+    "difficulty": 3
+  },
+  {
+    "id": 536,
+    "question": "¿Cuál es la capital de Eritrea?",
+    "answer": "Asmara",
+    "difficulty": 3
+  },
+  {
+    "id": 537,
+    "question": "¿De qué país es capital Asmara?",
+    "answer": "Eritrea",
+    "difficulty": 3
+  },
+  {
+    "id": 538,
+    "question": "¿Cuál es la capital de Brunéi?",
+    "answer": "Bandar Seri Begawan",
+    "difficulty": 3
+  },
+  {
+    "id": 539,
+    "question": "¿De qué país es capital Bandar Seri Begawan?",
+    "answer": "Brunéi",
+    "difficulty": 3
+  },
+  {
+    "id": 540,
+    "question": "¿Cuál es la capital de Timor Oriental?",
+    "answer": "Dili",
+    "difficulty": 3
+  },
+  {
+    "id": 541,
+    "question": "¿De qué país es capital Dili?",
+    "answer": "Timor Oriental",
+    "difficulty": 3
+  },
+  {
+    "id": 542,
+    "question": "¿Qué comunica o separa el estrecho de Bósforo?",
+    "answer": "el mar Negro y el mar de Mármara",
+    "difficulty": 4
+  },
+  {
+    "id": 543,
+    "question": "¿Qué accidente marítimo conecta o separa el mar Negro y el mar de Mármara?",
+    "answer": "estrecho de Bósforo",
+    "difficulty": 4
+  },
+  {
+    "id": 544,
+    "question": "¿Qué comunica o separa el estrecho de los Dardanelos?",
+    "answer": "el mar Egeo y el mar de Mármara",
+    "difficulty": 4
+  },
+  {
+    "id": 545,
+    "question": "¿Qué accidente marítimo conecta o separa el mar Egeo y el mar de Mármara?",
+    "answer": "estrecho de los Dardanelos",
+    "difficulty": 4
+  },
+  {
+    "id": 546,
+    "question": "¿Qué comunica o separa el estrecho de Ormuz?",
+    "answer": "el golfo Pérsico y el golfo de Omán",
+    "difficulty": 4
+  },
+  {
+    "id": 547,
+    "question": "¿Qué accidente marítimo conecta o separa el golfo Pérsico y el golfo de Omán?",
+    "answer": "estrecho de Ormuz",
+    "difficulty": 4
+  },
+  {
+    "id": 548,
+    "question": "¿Qué comunica o separa el estrecho de Bab el-Mandeb?",
+    "answer": "el mar Rojo y el golfo de Adén",
+    "difficulty": 4
+  },
+  {
+    "id": 549,
+    "question": "¿Qué accidente marítimo conecta o separa el mar Rojo y el golfo de Adén?",
+    "answer": "estrecho de Bab el-Mandeb",
+    "difficulty": 4
+  },
+  {
+    "id": 550,
+    "question": "¿Qué comunica o separa el estrecho de Malaca?",
+    "answer": "el mar de Andamán y el mar de China Meridional",
+    "difficulty": 4
+  },
+  {
+    "id": 551,
+    "question": "¿Qué accidente marítimo conecta o separa el mar de Andamán y el mar de China Meridional?",
+    "answer": "estrecho de Malaca",
+    "difficulty": 4
+  },
+  {
+    "id": 552,
+    "question": "¿Qué comunica o separa el estrecho de Gibraltar?",
+    "answer": "el océano Atlántico y el mar Mediterráneo",
+    "difficulty": 4
+  },
+  {
+    "id": 553,
+    "question": "¿Qué accidente marítimo conecta o separa el océano Atlántico y el mar Mediterráneo?",
+    "answer": "estrecho de Gibraltar",
+    "difficulty": 4
+  },
+  {
+    "id": 554,
+    "question": "¿Qué comunica o separa el estrecho de Bering?",
+    "answer": "el océano Pacífico y el océano Ártico",
+    "difficulty": 4
+  },
+  {
+    "id": 555,
+    "question": "¿Qué accidente marítimo conecta o separa el océano Pacífico y el océano Ártico?",
+    "answer": "estrecho de Bering",
+    "difficulty": 4
+  },
+  {
+    "id": 556,
+    "question": "¿Qué comunica o separa el estrecho de Magallanes?",
+    "answer": "el océano Atlántico y el océano Pacífico",
+    "difficulty": 4
+  },
+  {
+    "id": 557,
+    "question": "¿Qué accidente marítimo conecta o separa el océano Atlántico y el océano Pacífico?",
+    "answer": "estrecho de Magallanes",
+    "difficulty": 4
+  },
+  {
+    "id": 558,
+    "question": "¿Qué comunica o separa el estrecho de Torres?",
+    "answer": "el mar del Coral y el mar de Arafura",
+    "difficulty": 4
+  },
+  {
+    "id": 559,
+    "question": "¿Qué accidente marítimo conecta o separa el mar del Coral y el mar de Arafura?",
+    "answer": "estrecho de Torres",
+    "difficulty": 4
+  },
+  {
+    "id": 560,
+    "question": "¿Qué comunica o separa el estrecho de Sonda?",
+    "answer": "el mar de Java y el océano Índico",
+    "difficulty": 4
+  },
+  {
+    "id": 561,
+    "question": "¿Qué accidente marítimo conecta o separa el mar de Java y el océano Índico?",
+    "answer": "estrecho de Sonda",
+    "difficulty": 4
+  },
+  {
+    "id": 562,
+    "question": "¿Qué comunica o separa el estrecho de Mesina?",
+    "answer": "Sicilia y la península itálica",
+    "difficulty": 4
+  },
+  {
+    "id": 563,
+    "question": "¿Qué accidente marítimo conecta o separa Sicilia y la península itálica?",
+    "answer": "estrecho de Mesina",
+    "difficulty": 4
+  },
+  {
+    "id": 564,
+    "question": "¿Qué comunica o separa el estrecho de Øresund?",
+    "answer": "Dinamarca y Suecia",
+    "difficulty": 4
+  },
+  {
+    "id": 565,
+    "question": "¿Qué accidente marítimo conecta o separa Dinamarca y Suecia?",
+    "answer": "estrecho de Øresund",
+    "difficulty": 4
+  },
+  {
+    "id": 566,
+    "question": "¿Qué comunica o separa el estrecho de Cook?",
+    "answer": "las islas Norte y Sur de Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 567,
+    "question": "¿Qué accidente marítimo conecta o separa las islas Norte y Sur de Nueva Zelanda?",
+    "answer": "estrecho de Cook",
+    "difficulty": 4
+  },
+  {
+    "id": 568,
+    "question": "¿Qué comunica o separa el estrecho de Davis?",
+    "answer": "la bahía de Baffin y el mar de Labrador",
+    "difficulty": 4
+  },
+  {
+    "id": 569,
+    "question": "¿Qué accidente marítimo conecta o separa la bahía de Baffin y el mar de Labrador?",
+    "answer": "estrecho de Davis",
+    "difficulty": 4
+  },
+  {
+    "id": 570,
+    "question": "¿Qué comunica o separa el estrecho de Taiwán?",
+    "answer": "Taiwán y China continental",
+    "difficulty": 4
+  },
+  {
+    "id": 571,
+    "question": "¿Qué accidente marítimo conecta o separa Taiwán y China continental?",
+    "answer": "estrecho de Taiwán",
+    "difficulty": 4
+  },
+  {
+    "id": 572,
+    "question": "¿Qué comunica o separa el estrecho de Palk?",
+    "answer": "India y Sri Lanka",
+    "difficulty": 4
+  },
+  {
+    "id": 573,
+    "question": "¿Qué accidente marítimo conecta o separa India y Sri Lanka?",
+    "answer": "estrecho de Palk",
+    "difficulty": 4
+  },
+  {
+    "id": 574,
+    "question": "¿Qué comunica o separa el estrecho de Bonifacio?",
+    "answer": "Córcega y Cerdeña",
+    "difficulty": 4
+  },
+  {
+    "id": 575,
+    "question": "¿Qué accidente marítimo conecta o separa Córcega y Cerdeña?",
+    "answer": "estrecho de Bonifacio",
+    "difficulty": 4
+  },
+  {
+    "id": 576,
+    "question": "¿Qué comunica o separa el estrecho de Tirán?",
+    "answer": "el golfo de Aqaba y el mar Rojo",
+    "difficulty": 4
+  },
+  {
+    "id": 577,
+    "question": "¿Qué accidente marítimo conecta o separa el golfo de Aqaba y el mar Rojo?",
+    "answer": "estrecho de Tirán",
+    "difficulty": 4
+  },
+  {
+    "id": 578,
+    "question": "¿Qué comunica o separa el estrecho de Kertch?",
+    "answer": "el mar Negro y el mar de Azov",
+    "difficulty": 4
+  },
+  {
+    "id": 579,
+    "question": "¿Qué accidente marítimo conecta o separa el mar Negro y el mar de Azov?",
+    "answer": "estrecho de Kertch",
+    "difficulty": 4
+  },
+  {
+    "id": 580,
+    "question": "¿Qué comunica o separa el estrecho de Skagerrak?",
+    "answer": "el mar del Norte y el Kattegat",
+    "difficulty": 4
+  },
+  {
+    "id": 581,
+    "question": "¿Qué accidente marítimo conecta o separa el mar del Norte y el Kattegat?",
+    "answer": "estrecho de Skagerrak",
+    "difficulty": 4
+  },
+  {
+    "id": 582,
+    "question": "¿Qué comunica o separa el estrecho de Kattegat?",
+    "answer": "el Skagerrak y el mar Báltico",
+    "difficulty": 4
+  },
+  {
+    "id": 583,
+    "question": "¿Qué accidente marítimo conecta o separa el Skagerrak y el mar Báltico?",
+    "answer": "estrecho de Kattegat",
+    "difficulty": 4
+  },
+  {
+    "id": 584,
+    "question": "¿Qué comunica o separa el estrecho de Lombok?",
+    "answer": "Bali y Lombok",
+    "difficulty": 4
+  },
+  {
+    "id": 585,
+    "question": "¿Qué accidente marítimo conecta o separa Bali y Lombok?",
+    "answer": "estrecho de Lombok",
+    "difficulty": 4
+  },
+  {
+    "id": 586,
+    "question": "¿Qué comunica o separa el estrecho de Sunda?",
+    "answer": "Java y Sumatra",
+    "difficulty": 4
+  },
+  {
+    "id": 587,
+    "question": "¿Qué accidente marítimo conecta o separa Java y Sumatra?",
+    "answer": "estrecho de Sunda",
+    "difficulty": 4
+  },
+  {
+    "id": 588,
+    "question": "¿Qué comunica o separa el estrecho de Dénia?",
+    "answer": "la península ibérica y Baleares",
+    "difficulty": 4
+  },
+  {
+    "id": 589,
+    "question": "¿Qué accidente marítimo conecta o separa la península ibérica y Baleares?",
+    "answer": "estrecho de Dénia",
+    "difficulty": 4
+  },
+  {
+    "id": 590,
+    "question": "¿Qué comunica o separa el canal de Mozambique?",
+    "answer": "Madagascar y Mozambique",
+    "difficulty": 4
+  },
+  {
+    "id": 591,
+    "question": "¿Qué accidente marítimo conecta o separa Madagascar y Mozambique?",
+    "answer": "canal de Mozambique",
+    "difficulty": 4
+  },
+  {
+    "id": 592,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Aconcagua?",
+    "answer": "Andes",
+    "difficulty": 4
+  },
+  {
+    "id": 593,
+    "question": "¿Qué montaña o volcán destacado se asocia con Andes?",
+    "answer": "Aconcagua",
+    "difficulty": 4
+  },
+  {
+    "id": 594,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Denali?",
+    "answer": "cordillera de Alaska",
+    "difficulty": 4
+  },
+  {
+    "id": 595,
+    "question": "¿Qué montaña o volcán destacado se asocia con cordillera de Alaska?",
+    "answer": "Denali",
+    "difficulty": 4
+  },
+  {
+    "id": 596,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Elbrus?",
+    "answer": "Cáucaso",
+    "difficulty": 4
+  },
+  {
+    "id": 597,
+    "question": "¿Qué montaña o volcán destacado se asocia con Cáucaso?",
+    "answer": "Elbrus",
+    "difficulty": 4
+  },
+  {
+    "id": 598,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Kilimanjaro?",
+    "answer": "Tanzania",
+    "difficulty": 4
+  },
+  {
+    "id": 599,
+    "question": "¿Qué montaña o volcán destacado se asocia con Tanzania?",
+    "answer": "Kilimanjaro",
+    "difficulty": 4
+  },
+  {
+    "id": 600,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Mont Blanc?",
+    "answer": "Alpes",
+    "difficulty": 4
+  },
+  {
+    "id": 601,
+    "question": "¿Qué montaña o volcán destacado se asocia con Alpes?",
+    "answer": "Mont Blanc",
+    "difficulty": 4
+  },
+  {
+    "id": 602,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Aneto?",
+    "answer": "Pirineos",
+    "difficulty": 4
+  },
+  {
+    "id": 603,
+    "question": "¿Qué montaña o volcán destacado se asocia con Pirineos?",
+    "answer": "Aneto",
+    "difficulty": 4
+  },
+  {
+    "id": 604,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Mulhacén?",
+    "answer": "Sierra Nevada",
+    "difficulty": 4
+  },
+  {
+    "id": 605,
+    "question": "¿Qué montaña o volcán destacado se asocia con Sierra Nevada?",
+    "answer": "Mulhacén",
+    "difficulty": 4
+  },
+  {
+    "id": 606,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Everest?",
+    "answer": "Himalaya",
+    "difficulty": 4
+  },
+  {
+    "id": 607,
+    "question": "¿Qué montaña o volcán destacado se asocia con Himalaya?",
+    "answer": "Everest",
+    "difficulty": 4
+  },
+  {
+    "id": 608,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico K2?",
+    "answer": "Karakórum",
+    "difficulty": 4
+  },
+  {
+    "id": 609,
+    "question": "¿Qué montaña o volcán destacado se asocia con Karakórum?",
+    "answer": "K2",
+    "difficulty": 4
+  },
+  {
+    "id": 610,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Kangchenjunga?",
+    "answer": "Himalaya",
+    "difficulty": 4
+  },
+  {
+    "id": 611,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Vinson?",
+    "answer": "Antártida",
+    "difficulty": 4
+  },
+  {
+    "id": 612,
+    "question": "¿Qué montaña o volcán destacado se asocia con Antártida?",
+    "answer": "Vinson",
+    "difficulty": 4
+  },
+  {
+    "id": 613,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Teide?",
+    "answer": "Tenerife",
+    "difficulty": 4
+  },
+  {
+    "id": 614,
+    "question": "¿Qué montaña o volcán destacado se asocia con Tenerife?",
+    "answer": "Teide",
+    "difficulty": 4
+  },
+  {
+    "id": 615,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Mauna Kea?",
+    "answer": "Hawái",
+    "difficulty": 4
+  },
+  {
+    "id": 616,
+    "question": "¿Qué montaña o volcán destacado se asocia con Hawái?",
+    "answer": "Mauna Kea",
+    "difficulty": 4
+  },
+  {
+    "id": 617,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Kosciuszko?",
+    "answer": "Alpes Australianos",
+    "difficulty": 4
+  },
+  {
+    "id": 618,
+    "question": "¿Qué montaña o volcán destacado se asocia con Alpes Australianos?",
+    "answer": "Kosciuszko",
+    "difficulty": 4
+  },
+  {
+    "id": 619,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Puncak Jaya?",
+    "answer": "Nueva Guinea",
+    "difficulty": 4
+  },
+  {
+    "id": 620,
+    "question": "¿Qué montaña o volcán destacado se asocia con Nueva Guinea?",
+    "answer": "Puncak Jaya",
+    "difficulty": 4
+  },
+  {
+    "id": 621,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Toubkal?",
+    "answer": "Atlas",
+    "difficulty": 4
+  },
+  {
+    "id": 622,
+    "question": "¿Qué montaña o volcán destacado se asocia con Atlas?",
+    "answer": "Toubkal",
+    "difficulty": 4
+  },
+  {
+    "id": 623,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Ararat?",
+    "answer": "Turquía oriental",
+    "difficulty": 4
+  },
+  {
+    "id": 624,
+    "question": "¿Qué montaña o volcán destacado se asocia con Turquía oriental?",
+    "answer": "Ararat",
+    "difficulty": 4
+  },
+  {
+    "id": 625,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Fuji?",
+    "answer": "Honshu",
+    "difficulty": 4
+  },
+  {
+    "id": 626,
+    "question": "¿Qué montaña o volcán destacado se asocia con Honshu?",
+    "answer": "Fuji",
+    "difficulty": 4
+  },
+  {
+    "id": 627,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Popocatépetl?",
+    "answer": "México central",
+    "difficulty": 4
+  },
+  {
+    "id": 628,
+    "question": "¿Qué montaña o volcán destacado se asocia con México central?",
+    "answer": "Popocatépetl",
+    "difficulty": 4
+  },
+  {
+    "id": 629,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Damavand?",
+    "answer": "Irán",
+    "difficulty": 4
+  },
+  {
+    "id": 630,
+    "question": "¿Qué montaña o volcán destacado se asocia con Irán?",
+    "answer": "Damavand",
+    "difficulty": 4
+  },
+  {
+    "id": 631,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Ben Nevis?",
+    "answer": "Escocia",
+    "difficulty": 4
+  },
+  {
+    "id": 632,
+    "question": "¿Qué montaña o volcán destacado se asocia con Escocia?",
+    "answer": "Ben Nevis",
+    "difficulty": 4
+  },
+  {
+    "id": 633,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Etna?",
+    "answer": "Sicilia",
+    "difficulty": 4
+  },
+  {
+    "id": 634,
+    "question": "¿Qué montaña o volcán destacado se asocia con Sicilia?",
+    "answer": "Etna",
+    "difficulty": 4
+  },
+  {
+    "id": 635,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Roraima?",
+    "answer": "Guayana venezolana",
+    "difficulty": 4
+  },
+  {
+    "id": 636,
+    "question": "¿Qué montaña o volcán destacado se asocia con Guayana venezolana?",
+    "answer": "Roraima",
+    "difficulty": 4
+  },
+  {
+    "id": 637,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico McKinley?",
+    "answer": "nombre histórico de Denali",
+    "difficulty": 4
+  },
+  {
+    "id": 638,
+    "question": "¿Qué montaña o volcán destacado se asocia con nombre histórico de Denali?",
+    "answer": "McKinley",
+    "difficulty": 4
+  },
+  {
+    "id": 639,
+    "question": "¿En qué cordillera, isla o región se encuentra el pico Pico da Neblina?",
+    "answer": "Brasil",
+    "difficulty": 4
+  },
+  {
+    "id": 640,
+    "question": "¿Qué montaña o volcán destacado se asocia con Brasil?",
+    "answer": "Pico da Neblina",
+    "difficulty": 4
+  },
+  {
+    "id": 641,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Chile?",
+    "answer": "Atacama",
+    "difficulty": 4
+  },
+  {
+    "id": 642,
+    "question": "¿Dónde se localiza principalmente Atacama?",
+    "answer": "Chile",
+    "difficulty": 3
+  },
+  {
+    "id": 643,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Namibia?",
+    "answer": "Namib",
+    "difficulty": 4
+  },
+  {
+    "id": 644,
+    "question": "¿Dónde se localiza principalmente Namib?",
+    "answer": "Namibia",
+    "difficulty": 3
+  },
+  {
+    "id": 645,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Mongolia y China?",
+    "answer": "Gobi",
+    "difficulty": 4
+  },
+  {
+    "id": 646,
+    "question": "¿Dónde se localiza principalmente Gobi?",
+    "answer": "Mongolia y China",
+    "difficulty": 3
+  },
+  {
+    "id": 647,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con África austral?",
+    "answer": "Kalahari",
+    "difficulty": 4
+  },
+  {
+    "id": 648,
+    "question": "¿Dónde se localiza principalmente Kalahari?",
+    "answer": "África austral",
+    "difficulty": 3
+  },
+  {
+    "id": 649,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con península arábiga?",
+    "answer": "Rub al-Jali",
+    "difficulty": 4
+  },
+  {
+    "id": 650,
+    "question": "¿Dónde se localiza principalmente Rub al-Jali?",
+    "answer": "península arábiga",
+    "difficulty": 3
+  },
+  {
+    "id": 651,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Xinjiang?",
+    "answer": "Taklamakán",
+    "difficulty": 4
+  },
+  {
+    "id": 652,
+    "question": "¿Dónde se localiza principalmente Taklamakán?",
+    "answer": "Xinjiang",
+    "difficulty": 3
+  },
+  {
+    "id": 653,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con México y Estados Unidos?",
+    "answer": "Sonora",
+    "difficulty": 4
+  },
+  {
+    "id": 654,
+    "question": "¿Dónde se localiza principalmente Sonora?",
+    "answer": "México y Estados Unidos",
+    "difficulty": 3
+  },
+  {
+    "id": 655,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Estados Unidos?",
+    "answer": "Mojave",
+    "difficulty": 4
+  },
+  {
+    "id": 656,
+    "question": "¿Dónde se localiza principalmente Mojave?",
+    "answer": "Estados Unidos",
+    "difficulty": 3
+  },
+  {
+    "id": 657,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con África del Norte?",
+    "answer": "Sahara",
+    "difficulty": 4
+  },
+  {
+    "id": 658,
+    "question": "¿Dónde se localiza principalmente Sahara?",
+    "answer": "África del Norte",
+    "difficulty": 3
+  },
+  {
+    "id": 659,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Argentina y Chile?",
+    "answer": "Patagonia",
+    "difficulty": 4
+  },
+  {
+    "id": 660,
+    "question": "¿Dónde se localiza principalmente Patagonia?",
+    "answer": "Argentina y Chile",
+    "difficulty": 3
+  },
+  {
+    "id": 661,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con mar interior más grande del mundo?",
+    "answer": "Caspio",
+    "difficulty": 4
+  },
+  {
+    "id": 662,
+    "question": "¿Dónde se localiza principalmente Caspio?",
+    "answer": "mar interior más grande del mundo",
+    "difficulty": 3
+  },
+  {
+    "id": 663,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con lago más profundo del mundo?",
+    "answer": "Baikal",
+    "difficulty": 4
+  },
+  {
+    "id": 664,
+    "question": "¿Dónde se localiza principalmente Baikal?",
+    "answer": "lago más profundo del mundo",
+    "difficulty": 3
+  },
+  {
+    "id": 665,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Perú y Bolivia?",
+    "answer": "Titicaca",
+    "difficulty": 4
+  },
+  {
+    "id": 666,
+    "question": "¿Dónde se localiza principalmente Titicaca?",
+    "answer": "Perú y Bolivia",
+    "difficulty": 3
+  },
+  {
+    "id": 667,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con África oriental?",
+    "answer": "Victoria",
+    "difficulty": 4
+  },
+  {
+    "id": 668,
+    "question": "¿Dónde se localiza principalmente Victoria?",
+    "answer": "África oriental",
+    "difficulty": 3
+  },
+  {
+    "id": 669,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Kazajistán?",
+    "answer": "Baljash",
+    "difficulty": 4
+  },
+  {
+    "id": 670,
+    "question": "¿Dónde se localiza principalmente Baljash?",
+    "answer": "Kazajistán",
+    "difficulty": 3
+  },
+  {
+    "id": 671,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Canadá?",
+    "answer": "Gran Lago del Oso",
+    "difficulty": 4
+  },
+  {
+    "id": 672,
+    "question": "¿Dónde se localiza principalmente Gran Lago del Oso?",
+    "answer": "Canadá",
+    "difficulty": 3
+  },
+  {
+    "id": 673,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Rusia?",
+    "answer": "Ladoga",
+    "difficulty": 4
+  },
+  {
+    "id": 674,
+    "question": "¿Dónde se localiza principalmente Ladoga?",
+    "answer": "Rusia",
+    "difficulty": 3
+  },
+  {
+    "id": 675,
+    "question": "¿Dónde se localiza principalmente Onega?",
+    "answer": "Rusia",
+    "difficulty": 3
+  },
+  {
+    "id": 676,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Asia central?",
+    "answer": "Aral",
+    "difficulty": 4
+  },
+  {
+    "id": 677,
+    "question": "¿Dónde se localiza principalmente Aral?",
+    "answer": "Asia central",
+    "difficulty": 3
+  },
+  {
+    "id": 678,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Sahel?",
+    "answer": "Chad",
+    "difficulty": 4
+  },
+  {
+    "id": 679,
+    "question": "¿Dónde se localiza principalmente Chad?",
+    "answer": "Sahel",
+    "difficulty": 3
+  },
+  {
+    "id": 680,
+    "question": "¿Dónde se localiza principalmente Balkhash?",
+    "answer": "Kazajistán",
+    "difficulty": 3
+  },
+  {
+    "id": 681,
+    "question": "¿Dónde se localiza principalmente Tanganica?",
+    "answer": "África oriental",
+    "difficulty": 3
+  },
+  {
+    "id": 682,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Italia?",
+    "answer": "Como",
+    "difficulty": 4
+  },
+  {
+    "id": 683,
+    "question": "¿Dónde se localiza principalmente Como?",
+    "answer": "Italia",
+    "difficulty": 3
+  },
+  {
+    "id": 684,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Finlandia?",
+    "answer": "Inari",
+    "difficulty": 4
+  },
+  {
+    "id": 685,
+    "question": "¿Dónde se localiza principalmente Inari?",
+    "answer": "Finlandia",
+    "difficulty": 3
+  },
+  {
+    "id": 686,
+    "question": "¿Qué desierto, mar interior o lago se asocia principalmente con Turquía?",
+    "answer": "Van",
+    "difficulty": 4
+  },
+  {
+    "id": 687,
+    "question": "¿Dónde se localiza principalmente Van?",
+    "answer": "Turquía",
+    "difficulty": 3
+  },
+  {
+    "id": 688,
+    "question": "¿Qué capital africana se encuentra junto al monte Entoto y es sede de la Unión Africana?",
+    "answer": "Adís Abeba",
+    "difficulty": 3
+  },
+  {
+    "id": 689,
+    "question": "¿En qué país se encuentra la capital Adís Abeba?",
+    "answer": "Etiopía",
+    "difficulty": 3
+  },
+  {
+    "id": 690,
+    "question": "¿Qué estrecho separa la isla de Sicilia del sur de la península itálica?",
+    "answer": "El estrecho de Mesina",
+    "difficulty": 3
+  },
+  {
+    "id": 691,
+    "question": "¿Qué mar interior se encuentra entre Europa oriental y Asia occidental y no tiene salida natural al océano?",
+    "answer": "El mar Caspio",
+    "difficulty": 3
+  },
+  {
+    "id": 692,
+    "question": "¿Qué país tiene como capital a Ulán-Udé?",
+    "answer": "Rusia",
+    "difficulty": 4
+  },
+  {
+    "id": 693,
+    "question": "¿Qué cordillera sirve de frontera natural tradicional entre Europa y Asia en territorio ruso?",
+    "answer": "Los montes Urales",
+    "difficulty": 3
+  },
+  {
+    "id": 694,
+    "question": "¿Qué capital báltica se asienta en la desembocadura del río Daugava?",
+    "answer": "Riga",
+    "difficulty": 3
+  },
+  {
+    "id": 695,
+    "question": "¿De qué país es capital Riga?",
+    "answer": "Letonia",
+    "difficulty": 3
+  },
+  {
+    "id": 696,
+    "question": "¿Qué lago africano comparte orillas con Tanzania, Uganda y Kenia?",
+    "answer": "El lago Victoria",
+    "difficulty": 3
+  },
+  {
+    "id": 697,
+    "question": "¿Qué desierto ocupa gran parte del sur de Israel y de la península del Sinaí?",
+    "answer": "El desierto del Néguev",
+    "difficulty": 4
+  },
+  {
+    "id": 698,
+    "question": "¿Qué capital de Asia Central fue conocida como Frunze en época soviética?",
+    "answer": "Biskek",
+    "difficulty": 4
+  },
+  {
+    "id": 699,
+    "question": "¿Qué país tiene por capital a Dusambé?",
+    "answer": "Tayikistán",
+    "difficulty": 3
+  },
+  {
+    "id": 700,
+    "question": "¿Qué paso marítimo separa Alaska de Siberia?",
+    "answer": "El estrecho de Bering",
+    "difficulty": 3
   }
 ]

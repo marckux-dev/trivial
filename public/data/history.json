@@ -889,7 +889,7 @@
   },
   {
     "id": 149,
-    "question": "¿En qué año cayó el Imperio romano de Occidente?",
+    "question": "¿En qué año fue depuesto Rómulo Augústulo, hito final del Imperio romano de Occidente?",
     "answer": "476",
     "difficulty": 2
   },
@@ -1837,9 +1837,9 @@
   },
   {
     "id": 307,
-    "question": "¿Qué civilización construyó las pirámides de Giza?",
-    "answer": "La egipcia",
-    "difficulty": 1
+    "question": "¿En qué meseta se levantaron las pirámides de Keops, Kefrén y Micerino?",
+    "answer": "La meseta de Guiza",
+    "difficulty": 2
   },
   {
     "id": 308,
@@ -2029,9 +2029,9 @@
   },
   {
     "id": 339,
-    "question": "¿Qué civilización precolombina tuvo su capital en Tenochtitlán?",
-    "answer": "La mexica o azteca",
-    "difficulty": 1
+    "question": "¿Qué ciudad insular unida por calzadas fue la capital de los mexicas?",
+    "answer": "Tenochtitlán",
+    "difficulty": 2
   },
   {
     "id": 340,
@@ -2293,8 +2293,8 @@
   },
   {
     "id": 383,
-    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial con Alemania?",
-    "answer": "Versalles",
+    "question": "¿En qué palacio se firmó el tratado que impuso duras condiciones a Alemania tras la Primera Guerra Mundial?",
+    "answer": "El Palacio de Versalles",
     "difficulty": 2
   },
   {
@@ -3967,9 +3967,9 @@
   },
   {
     "id": 662,
-    "question": "¿Qué hecho o personaje se relaciona sobre todo con Francia?",
+    "question": "¿Qué figura francesa se proclamó emperador en 1804 tras el Consulado?",
     "answer": "Napoleón Bonaparte",
-    "difficulty": 5
+    "difficulty": 4
   },
   {
     "id": 663,
@@ -4555,7 +4555,7 @@
   },
   {
     "id": 760,
-    "question": "¿Qué líder político se asocia de forma directa al año o periodo siglo XX?",
+    "question": "¿Qué líder sudafricano pasó 27 años en prisión antes de presidir el fin del apartheid?",
     "answer": "Nelson Mandela",
     "difficulty": 3
   },
@@ -4687,9 +4687,9 @@
   },
   {
     "id": 782,
-    "question": "¿Qué hecho o personaje se relaciona sobre todo con Europa occidental?",
+    "question": "¿Qué emperador carolingio fue coronado en Roma en el año 800?",
     "answer": "Carlomagno",
-    "difficulty": 5
+    "difficulty": 4
   },
   {
     "id": 783,
@@ -4747,9 +4747,9 @@
   },
   {
     "id": 792,
-    "question": "¿Qué hecho o personaje se relaciona sobre todo con Berlín?",
-    "answer": "Conferencia de Berlín",
-    "difficulty": 5
+    "question": "¿Qué conferencia de 1884-1885 fijó reglas para el reparto colonial de África?",
+    "answer": "La Conferencia de Berlín",
+    "difficulty": 4
   },
   {
     "id": 793,
@@ -4807,9 +4807,9 @@
   },
   {
     "id": 802,
-    "question": "¿Qué hecho o personaje se relaciona sobre todo con Berlín?",
-    "answer": "caída del Muro de Berlín",
-    "difficulty": 5
+    "question": "¿Qué acontecimiento de 1989 simbolizó el derrumbe del bloque soviético en Europa?",
+    "answer": "La caída del Muro de Berlín",
+    "difficulty": 4
   },
   {
     "id": 803,
@@ -4867,9 +4867,9 @@
   },
   {
     "id": 812,
-    "question": "¿Qué hecho o personaje se relaciona sobre todo con Francia?",
+    "question": "¿Qué heroína francesa fue ejecutada en Ruan y luego canonizada siglos después?",
     "answer": "Juana de Arco",
-    "difficulty": 5
+    "difficulty": 4
   },
   {
     "id": 813,
@@ -4987,9 +4987,9 @@
   },
   {
     "id": 832,
-    "question": "¿Quién fue el primer presidente de los Estados Unidos?",
-    "answer": "George Washington (1789)",
-    "difficulty": 1
+    "question": "¿Qué primer presidente de Estados Unidos presidió también la Convención de Filadelfia?",
+    "answer": "George Washington",
+    "difficulty": 2
   },
   {
     "id": 833,
@@ -5272,5 +5272,1205 @@
     "question": "¿Qué nombre recibe el fenómeno histórico de fragmentación del poder político en Europa occidental entre los siglos IX y XIII, donde el rey dependía de la lealtad de sus vasallos?",
     "answer": "El feudalismo",
     "difficulty": 5
+  },
+  {
+    "id": 880,
+    "question": "¿En qué año se sitúa normalmente Paz de Westfalia?",
+    "answer": "1648",
+    "difficulty": 4
+  },
+  {
+    "id": 881,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1648?",
+    "answer": "Paz de Westfalia",
+    "difficulty": 4
+  },
+  {
+    "id": 882,
+    "question": "¿En qué año se sitúa normalmente Edicto de Milán?",
+    "answer": "313",
+    "difficulty": 4
+  },
+  {
+    "id": 883,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 313?",
+    "answer": "Edicto de Milán",
+    "difficulty": 4
+  },
+  {
+    "id": 884,
+    "question": "¿En qué año se sitúa normalmente Magna Carta?",
+    "answer": "1215",
+    "difficulty": 4
+  },
+  {
+    "id": 885,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1215?",
+    "answer": "Magna Carta",
+    "difficulty": 4
+  },
+  {
+    "id": 886,
+    "question": "¿En qué año se sitúa normalmente Tratado de Tordesillas?",
+    "answer": "1494",
+    "difficulty": 4
+  },
+  {
+    "id": 887,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1494?",
+    "answer": "Tratado de Tordesillas",
+    "difficulty": 4
+  },
+  {
+    "id": 888,
+    "question": "¿En qué año se sitúa normalmente Paz de Augsburgo?",
+    "answer": "1555",
+    "difficulty": 4
+  },
+  {
+    "id": 889,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1555?",
+    "answer": "Paz de Augsburgo",
+    "difficulty": 4
+  },
+  {
+    "id": 890,
+    "question": "¿En qué año se sitúa normalmente Tratado de Utrecht?",
+    "answer": "1713",
+    "difficulty": 4
+  },
+  {
+    "id": 891,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1713?",
+    "answer": "Tratado de Utrecht",
+    "difficulty": 4
+  },
+  {
+    "id": 892,
+    "question": "¿En qué año se sitúa normalmente Congreso de Viena?",
+    "answer": "1815",
+    "difficulty": 4
+  },
+  {
+    "id": 893,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1815?",
+    "answer": "Congreso de Viena",
+    "difficulty": 4
+  },
+  {
+    "id": 894,
+    "question": "¿En qué año se sitúa normalmente Tratado de Versalles?",
+    "answer": "1919",
+    "difficulty": 4
+  },
+  {
+    "id": 895,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1919?",
+    "answer": "Tratado de Versalles",
+    "difficulty": 4
+  },
+  {
+    "id": 896,
+    "question": "¿En qué año se sitúa normalmente Pacto Molotov-Ribbentrop?",
+    "answer": "1939",
+    "difficulty": 4
+  },
+  {
+    "id": 897,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1939?",
+    "answer": "Pacto Molotov-Ribbentrop",
+    "difficulty": 4
+  },
+  {
+    "id": 898,
+    "question": "¿En qué año se sitúa normalmente Tratado de Maastricht?",
+    "answer": "1992",
+    "difficulty": 4
+  },
+  {
+    "id": 899,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1992?",
+    "answer": "Tratado de Maastricht",
+    "difficulty": 4
+  },
+  {
+    "id": 900,
+    "question": "¿En qué año se sitúa normalmente Capitulaciones de Santa Fe?",
+    "answer": "1492",
+    "difficulty": 4
+  },
+  {
+    "id": 901,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1492?",
+    "answer": "Capitulaciones de Santa Fe",
+    "difficulty": 4
+  },
+  {
+    "id": 902,
+    "question": "¿En qué año se sitúa normalmente Bula Inter caetera?",
+    "answer": "1493",
+    "difficulty": 4
+  },
+  {
+    "id": 903,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1493?",
+    "answer": "Bula Inter caetera",
+    "difficulty": 4
+  },
+  {
+    "id": 904,
+    "question": "¿En qué año se sitúa normalmente Tratado de Guadalupe Hidalgo?",
+    "answer": "1848",
+    "difficulty": 4
+  },
+  {
+    "id": 905,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1848?",
+    "answer": "Tratado de Guadalupe Hidalgo",
+    "difficulty": 4
+  },
+  {
+    "id": 906,
+    "question": "¿En qué año se sitúa normalmente Tratado de Brest-Litovsk?",
+    "answer": "1918",
+    "difficulty": 4
+  },
+  {
+    "id": 907,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1918?",
+    "answer": "Tratado de Brest-Litovsk",
+    "difficulty": 4
+  },
+  {
+    "id": 908,
+    "question": "¿En qué año se sitúa normalmente Tratado de San Ildefonso?",
+    "answer": "1800",
+    "difficulty": 4
+  },
+  {
+    "id": 909,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1800?",
+    "answer": "Tratado de San Ildefonso",
+    "difficulty": 4
+  },
+  {
+    "id": 910,
+    "question": "¿En qué año se sitúa normalmente Acta de Unión de Gran Bretaña?",
+    "answer": "1707",
+    "difficulty": 4
+  },
+  {
+    "id": 911,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1707?",
+    "answer": "Acta de Unión de Gran Bretaña",
+    "difficulty": 4
+  },
+  {
+    "id": 912,
+    "question": "¿En qué año se sitúa normalmente Concordato de Worms?",
+    "answer": "1122",
+    "difficulty": 4
+  },
+  {
+    "id": 913,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1122?",
+    "answer": "Concordato de Worms",
+    "difficulty": 4
+  },
+  {
+    "id": 914,
+    "question": "¿En qué año se sitúa normalmente Paz de Amiens?",
+    "answer": "1802",
+    "difficulty": 4
+  },
+  {
+    "id": 915,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1802?",
+    "answer": "Paz de Amiens",
+    "difficulty": 4
+  },
+  {
+    "id": 916,
+    "question": "¿En qué año se sitúa normalmente Tratado de Nankín?",
+    "answer": "1842",
+    "difficulty": 4
+  },
+  {
+    "id": 917,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1842?",
+    "answer": "Tratado de Nankín",
+    "difficulty": 4
+  },
+  {
+    "id": 918,
+    "question": "¿En qué año se sitúa normalmente Tratado de Lausana?",
+    "answer": "1923",
+    "difficulty": 4
+  },
+  {
+    "id": 919,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1923?",
+    "answer": "Tratado de Lausana",
+    "difficulty": 4
+  },
+  {
+    "id": 920,
+    "question": "¿En qué año se sitúa normalmente Constitución de Cádiz?",
+    "answer": "1812",
+    "difficulty": 4
+  },
+  {
+    "id": 921,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1812?",
+    "answer": "Constitución de Cádiz",
+    "difficulty": 4
+  },
+  {
+    "id": 922,
+    "question": "¿En qué año se sitúa normalmente Declaración de los Derechos del Hombre y del Ciudadano?",
+    "answer": "1789",
+    "difficulty": 4
+  },
+  {
+    "id": 923,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1789?",
+    "answer": "Declaración de los Derechos del Hombre y del Ciudadano",
+    "difficulty": 4
+  },
+  {
+    "id": 924,
+    "question": "¿En qué año se sitúa normalmente Doctrina Monroe?",
+    "answer": "1823",
+    "difficulty": 4
+  },
+  {
+    "id": 925,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1823?",
+    "answer": "Doctrina Monroe",
+    "difficulty": 4
+  },
+  {
+    "id": 926,
+    "question": "¿En qué año se sitúa normalmente Manifiesto Comunista?",
+    "answer": "1848",
+    "difficulty": 4
+  },
+  {
+    "id": 927,
+    "question": "¿En qué año se sitúa normalmente Acuerdos de Camp David?",
+    "answer": "1978",
+    "difficulty": 4
+  },
+  {
+    "id": 928,
+    "question": "¿Qué acuerdo, texto o tratado histórico se asocia con el año 1978?",
+    "answer": "Acuerdos de Camp David",
+    "difficulty": 4
+  },
+  {
+    "id": 929,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Hastings?",
+    "answer": "1066",
+    "difficulty": 4
+  },
+  {
+    "id": 930,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1066?",
+    "answer": "batalla de Hastings",
+    "difficulty": 4
+  },
+  {
+    "id": 931,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Lepanto?",
+    "answer": "1571",
+    "difficulty": 4
+  },
+  {
+    "id": 932,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1571?",
+    "answer": "batalla de Lepanto",
+    "difficulty": 4
+  },
+  {
+    "id": 933,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Austerlitz?",
+    "answer": "1805",
+    "difficulty": 4
+  },
+  {
+    "id": 934,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1805?",
+    "answer": "batalla de Austerlitz",
+    "difficulty": 4
+  },
+  {
+    "id": 935,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Trafalgar?",
+    "answer": "1805",
+    "difficulty": 4
+  },
+  {
+    "id": 936,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Waterloo?",
+    "answer": "1815",
+    "difficulty": 4
+  },
+  {
+    "id": 937,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1815?",
+    "answer": "batalla de Waterloo",
+    "difficulty": 4
+  },
+  {
+    "id": 938,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Gettysburg?",
+    "answer": "1863",
+    "difficulty": 4
+  },
+  {
+    "id": 939,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1863?",
+    "answer": "batalla de Gettysburg",
+    "difficulty": 4
+  },
+  {
+    "id": 940,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Sedán?",
+    "answer": "1870",
+    "difficulty": 4
+  },
+  {
+    "id": 941,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1870?",
+    "answer": "batalla de Sedán",
+    "difficulty": 4
+  },
+  {
+    "id": 942,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Tsushima?",
+    "answer": "1905",
+    "difficulty": 4
+  },
+  {
+    "id": 943,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1905?",
+    "answer": "batalla de Tsushima",
+    "difficulty": 4
+  },
+  {
+    "id": 944,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Verdún?",
+    "answer": "1916",
+    "difficulty": 4
+  },
+  {
+    "id": 945,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1916?",
+    "answer": "batalla de Verdún",
+    "difficulty": 4
+  },
+  {
+    "id": 946,
+    "question": "¿Con qué fecha o periodo se relaciona batalla del Somme?",
+    "answer": "1916",
+    "difficulty": 4
+  },
+  {
+    "id": 947,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Midway?",
+    "answer": "1942",
+    "difficulty": 4
+  },
+  {
+    "id": 948,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1942?",
+    "answer": "batalla de Midway",
+    "difficulty": 4
+  },
+  {
+    "id": 949,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Stalingrado?",
+    "answer": "1942-1943",
+    "difficulty": 4
+  },
+  {
+    "id": 950,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1942-1943?",
+    "answer": "batalla de Stalingrado",
+    "difficulty": 4
+  },
+  {
+    "id": 951,
+    "question": "¿Con qué fecha o periodo se relaciona segunda batalla de El Alamein?",
+    "answer": "1942",
+    "difficulty": 4
+  },
+  {
+    "id": 952,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Poitiers?",
+    "answer": "732",
+    "difficulty": 4
+  },
+  {
+    "id": 953,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 732?",
+    "answer": "batalla de Poitiers",
+    "difficulty": 4
+  },
+  {
+    "id": 954,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Gaugamela?",
+    "answer": "331 a. C.",
+    "difficulty": 4
+  },
+  {
+    "id": 955,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 331 a. C.?",
+    "answer": "batalla de Gaugamela",
+    "difficulty": 4
+  },
+  {
+    "id": 956,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Cannas?",
+    "answer": "216 a. C.",
+    "difficulty": 4
+  },
+  {
+    "id": 957,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 216 a. C.?",
+    "answer": "batalla de Cannas",
+    "difficulty": 4
+  },
+  {
+    "id": 958,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Adwa?",
+    "answer": "1896",
+    "difficulty": 4
+  },
+  {
+    "id": 959,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1896?",
+    "answer": "batalla de Adwa",
+    "difficulty": 4
+  },
+  {
+    "id": 960,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Salamina?",
+    "answer": "480 a. C.",
+    "difficulty": 4
+  },
+  {
+    "id": 961,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 480 a. C.?",
+    "answer": "batalla de Salamina",
+    "difficulty": 4
+  },
+  {
+    "id": 962,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Maratón?",
+    "answer": "490 a. C.",
+    "difficulty": 4
+  },
+  {
+    "id": 963,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 490 a. C.?",
+    "answer": "batalla de Maratón",
+    "difficulty": 4
+  },
+  {
+    "id": 964,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Boyacá?",
+    "answer": "1819",
+    "difficulty": 4
+  },
+  {
+    "id": 965,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1819?",
+    "answer": "batalla de Boyacá",
+    "difficulty": 4
+  },
+  {
+    "id": 966,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Ayacucho?",
+    "answer": "1824",
+    "difficulty": 4
+  },
+  {
+    "id": 967,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1824?",
+    "answer": "batalla de Ayacucho",
+    "difficulty": 4
+  },
+  {
+    "id": 968,
+    "question": "¿Con qué fecha o periodo se relaciona batalla del Yarmuk?",
+    "answer": "636",
+    "difficulty": 4
+  },
+  {
+    "id": 969,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 636?",
+    "answer": "batalla del Yarmuk",
+    "difficulty": 4
+  },
+  {
+    "id": 970,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Actium?",
+    "answer": "31 a. C.",
+    "difficulty": 4
+  },
+  {
+    "id": 971,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 31 a. C.?",
+    "answer": "batalla de Actium",
+    "difficulty": 4
+  },
+  {
+    "id": 972,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Bosworth Field?",
+    "answer": "1485",
+    "difficulty": 4
+  },
+  {
+    "id": 973,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1485?",
+    "answer": "batalla de Bosworth Field",
+    "difficulty": 4
+  },
+  {
+    "id": 974,
+    "question": "¿Con qué fecha o periodo se relaciona batalla de Puebla?",
+    "answer": "1862",
+    "difficulty": 4
+  },
+  {
+    "id": 975,
+    "question": "¿Qué batalla histórica aparece aquí vinculada al año o periodo 1862?",
+    "answer": "batalla de Puebla",
+    "difficulty": 4
+  },
+  {
+    "id": 976,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Otto von Bismarck?",
+    "answer": "la unificación alemana",
+    "difficulty": 4
+  },
+  {
+    "id": 977,
+    "question": "¿Qué figura histórica se asocia con la unificación alemana?",
+    "answer": "Otto von Bismarck",
+    "difficulty": 4
+  },
+  {
+    "id": 978,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Camillo Cavour?",
+    "answer": "la unificación italiana",
+    "difficulty": 4
+  },
+  {
+    "id": 979,
+    "question": "¿Qué figura histórica se asocia con la unificación italiana?",
+    "answer": "Camillo Cavour",
+    "difficulty": 4
+  },
+  {
+    "id": 980,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Pedro el Grande?",
+    "answer": "la modernización del estado ruso",
+    "difficulty": 4
+  },
+  {
+    "id": 981,
+    "question": "¿Qué figura histórica se asocia con la modernización del estado ruso?",
+    "answer": "Pedro el Grande",
+    "difficulty": 4
+  },
+  {
+    "id": 982,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Mustafa Kemal Atatürk?",
+    "answer": "la fundación de la república turca",
+    "difficulty": 4
+  },
+  {
+    "id": 983,
+    "question": "¿Qué figura histórica se asocia con la fundación de la república turca?",
+    "answer": "Mustafa Kemal Atatürk",
+    "difficulty": 4
+  },
+  {
+    "id": 984,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Sun Yat-sen?",
+    "answer": "el nacimiento de la república china",
+    "difficulty": 4
+  },
+  {
+    "id": 985,
+    "question": "¿Qué figura histórica se asocia con el nacimiento de la república china?",
+    "answer": "Sun Yat-sen",
+    "difficulty": 4
+  },
+  {
+    "id": 986,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Toussaint Louverture?",
+    "answer": "la revolución haitiana",
+    "difficulty": 4
+  },
+  {
+    "id": 987,
+    "question": "¿Qué figura histórica se asocia con la revolución haitiana?",
+    "answer": "Toussaint Louverture",
+    "difficulty": 4
+  },
+  {
+    "id": 988,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Simón Bolívar?",
+    "answer": "la emancipación de buena parte del norte de Sudamérica",
+    "difficulty": 4
+  },
+  {
+    "id": 989,
+    "question": "¿Qué figura histórica se asocia con la emancipación de buena parte del norte de Sudamérica?",
+    "answer": "Simón Bolívar",
+    "difficulty": 4
+  },
+  {
+    "id": 990,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Deng Xiaoping?",
+    "answer": "la reforma y apertura de China",
+    "difficulty": 4
+  },
+  {
+    "id": 991,
+    "question": "¿Qué figura histórica se asocia con la reforma y apertura de China?",
+    "answer": "Deng Xiaoping",
+    "difficulty": 4
+  },
+  {
+    "id": 992,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Justiniano I?",
+    "answer": "la compilación del Corpus Iuris Civilis",
+    "difficulty": 4
+  },
+  {
+    "id": 993,
+    "question": "¿Qué figura histórica se asocia con la compilación del Corpus Iuris Civilis?",
+    "answer": "Justiniano I",
+    "difficulty": 4
+  },
+  {
+    "id": 994,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Akenatón?",
+    "answer": "el culto monoteísta a Atón en Egipto",
+    "difficulty": 4
+  },
+  {
+    "id": 995,
+    "question": "¿Qué figura histórica se asocia con el culto monoteísta a Atón en Egipto?",
+    "answer": "Akenatón",
+    "difficulty": 4
+  },
+  {
+    "id": 996,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Mansa Musa?",
+    "answer": "el apogeo del imperio de Malí",
+    "difficulty": 4
+  },
+  {
+    "id": 997,
+    "question": "¿Qué figura histórica se asocia con el apogeo del imperio de Malí?",
+    "answer": "Mansa Musa",
+    "difficulty": 4
+  },
+  {
+    "id": 998,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Shaka Zulu?",
+    "answer": "la consolidación del poder zulú",
+    "difficulty": 4
+  },
+  {
+    "id": 999,
+    "question": "¿Qué figura histórica se asocia con la consolidación del poder zulú?",
+    "answer": "Shaka Zulu",
+    "difficulty": 4
+  },
+  {
+    "id": 1000,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Tokugawa Ieyasu?",
+    "answer": "el shogunato Tokugawa",
+    "difficulty": 4
+  },
+  {
+    "id": 1001,
+    "question": "¿Qué figura histórica se asocia con el shogunato Tokugawa?",
+    "answer": "Tokugawa Ieyasu",
+    "difficulty": 4
+  },
+  {
+    "id": 1002,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Suleimán el Magnífico?",
+    "answer": "la expansión del imperio otomano en su apogeo",
+    "difficulty": 4
+  },
+  {
+    "id": 1003,
+    "question": "¿Qué figura histórica se asocia con la expansión del imperio otomano en su apogeo?",
+    "answer": "Suleimán el Magnífico",
+    "difficulty": 4
+  },
+  {
+    "id": 1004,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Gamal Abdel Nasser?",
+    "answer": "la nacionalización del canal de Suez",
+    "difficulty": 4
+  },
+  {
+    "id": 1005,
+    "question": "¿Qué figura histórica se asocia con la nacionalización del canal de Suez?",
+    "answer": "Gamal Abdel Nasser",
+    "difficulty": 4
+  },
+  {
+    "id": 1006,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Mijaíl Gorbachov?",
+    "answer": "la perestroika y la glasnost",
+    "difficulty": 4
+  },
+  {
+    "id": 1007,
+    "question": "¿Qué figura histórica se asocia con la perestroika y la glasnost?",
+    "answer": "Mijaíl Gorbachov",
+    "difficulty": 4
+  },
+  {
+    "id": 1008,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Solón?",
+    "answer": "las reformas arcaicas de Atenas",
+    "difficulty": 4
+  },
+  {
+    "id": 1009,
+    "question": "¿Qué figura histórica se asocia con las reformas arcaicas de Atenas?",
+    "answer": "Solón",
+    "difficulty": 4
+  },
+  {
+    "id": 1010,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Clístenes?",
+    "answer": "las bases de la democracia ateniense",
+    "difficulty": 4
+  },
+  {
+    "id": 1011,
+    "question": "¿Qué figura histórica se asocia con las bases de la democracia ateniense?",
+    "answer": "Clístenes",
+    "difficulty": 4
+  },
+  {
+    "id": 1012,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Hatshepsut?",
+    "answer": "la célebre expedición egipcia al país de Punt",
+    "difficulty": 4
+  },
+  {
+    "id": 1013,
+    "question": "¿Qué figura histórica se asocia con la célebre expedición egipcia al país de Punt?",
+    "answer": "Hatshepsut",
+    "difficulty": 4
+  },
+  {
+    "id": 1014,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Sargón de Acad?",
+    "answer": "el primer gran imperio mesopotámico",
+    "difficulty": 4
+  },
+  {
+    "id": 1015,
+    "question": "¿Qué figura histórica se asocia con el primer gran imperio mesopotámico?",
+    "answer": "Sargón de Acad",
+    "difficulty": 4
+  },
+  {
+    "id": 1016,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Abd el-Krim?",
+    "answer": "la resistencia rifeña frente a España y Francia",
+    "difficulty": 4
+  },
+  {
+    "id": 1017,
+    "question": "¿Qué figura histórica se asocia con la resistencia rifeña frente a España y Francia?",
+    "answer": "Abd el-Krim",
+    "difficulty": 4
+  },
+  {
+    "id": 1018,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Emperador Meiji?",
+    "answer": "la restauración y modernización japonesa del siglo XIX",
+    "difficulty": 4
+  },
+  {
+    "id": 1019,
+    "question": "¿Qué figura histórica se asocia con la restauración y modernización japonesa del siglo XIX?",
+    "answer": "Emperador Meiji",
+    "difficulty": 4
+  },
+  {
+    "id": 1020,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Alfredo el Grande?",
+    "answer": "la defensa de Wessex frente a los vikingos",
+    "difficulty": 4
+  },
+  {
+    "id": 1021,
+    "question": "¿Qué figura histórica se asocia con la defensa de Wessex frente a los vikingos?",
+    "answer": "Alfredo el Grande",
+    "difficulty": 4
+  },
+  {
+    "id": 1022,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Lenin?",
+    "answer": "la Revolución de Octubre",
+    "difficulty": 4
+  },
+  {
+    "id": 1023,
+    "question": "¿Qué figura histórica se asocia con la Revolución de Octubre?",
+    "answer": "Lenin",
+    "difficulty": 4
+  },
+  {
+    "id": 1024,
+    "question": "¿Con qué proceso, reforma o episodio histórico se relaciona Sun Tzu?",
+    "answer": "el tratado militar El arte de la guerra",
+    "difficulty": 4
+  },
+  {
+    "id": 1025,
+    "question": "¿Qué figura histórica se asocia con el tratado militar El arte de la guerra?",
+    "answer": "Sun Tzu",
+    "difficulty": 4
+  },
+  {
+    "id": 1026,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Vasco da Gama?",
+    "answer": "la ruta marítima europea a la India bordeando África",
+    "difficulty": 4
+  },
+  {
+    "id": 1027,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la ruta marítima europea a la India bordeando África?",
+    "answer": "Vasco da Gama",
+    "difficulty": 4
+  },
+  {
+    "id": 1028,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Magallanes y Elcano?",
+    "answer": "la primera circunnavegación del planeta",
+    "difficulty": 4
+  },
+  {
+    "id": 1029,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la primera circunnavegación del planeta?",
+    "answer": "Magallanes y Elcano",
+    "difficulty": 4
+  },
+  {
+    "id": 1030,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con James Cook?",
+    "answer": "la exploración detallada del Pacífico sur",
+    "difficulty": 4
+  },
+  {
+    "id": 1031,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración detallada del Pacífico sur?",
+    "answer": "James Cook",
+    "difficulty": 4
+  },
+  {
+    "id": 1032,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Roald Amundsen?",
+    "answer": "la llegada al Polo Sur",
+    "difficulty": 4
+  },
+  {
+    "id": 1033,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la llegada al Polo Sur?",
+    "answer": "Roald Amundsen",
+    "difficulty": 4
+  },
+  {
+    "id": 1034,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con David Livingstone?",
+    "answer": "la exploración del África central",
+    "difficulty": 4
+  },
+  {
+    "id": 1035,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración del África central?",
+    "answer": "David Livingstone",
+    "difficulty": 4
+  },
+  {
+    "id": 1036,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Henry Hudson?",
+    "answer": "la exploración del nordeste americano y la bahía que lleva su nombre",
+    "difficulty": 4
+  },
+  {
+    "id": 1037,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración del nordeste americano y la bahía que lleva su nombre?",
+    "answer": "Henry Hudson",
+    "difficulty": 4
+  },
+  {
+    "id": 1038,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Zheng He?",
+    "answer": "las grandes expediciones navales chinas del siglo XV",
+    "difficulty": 4
+  },
+  {
+    "id": 1039,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con las grandes expediciones navales chinas del siglo XV?",
+    "answer": "Zheng He",
+    "difficulty": 4
+  },
+  {
+    "id": 1040,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Ibn Battuta?",
+    "answer": "uno de los viajes más extensos del mundo islámico medieval",
+    "difficulty": 4
+  },
+  {
+    "id": 1041,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con uno de los viajes más extensos del mundo islámico medieval?",
+    "answer": "Ibn Battuta",
+    "difficulty": 4
+  },
+  {
+    "id": 1042,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Lewis y Clark?",
+    "answer": "la exploración de la compra de Luisiana",
+    "difficulty": 4
+  },
+  {
+    "id": 1043,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración de la compra de Luisiana?",
+    "answer": "Lewis y Clark",
+    "difficulty": 4
+  },
+  {
+    "id": 1044,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Alexander von Humboldt?",
+    "answer": "la gran expedición científica por América",
+    "difficulty": 4
+  },
+  {
+    "id": 1045,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la gran expedición científica por América?",
+    "answer": "Alexander von Humboldt",
+    "difficulty": 4
+  },
+  {
+    "id": 1046,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Fridtjof Nansen?",
+    "answer": "las expediciones polares noruegas",
+    "difficulty": 4
+  },
+  {
+    "id": 1047,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con las expediciones polares noruegas?",
+    "answer": "Fridtjof Nansen",
+    "difficulty": 4
+  },
+  {
+    "id": 1048,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Burton y Speke?",
+    "answer": "la búsqueda de las fuentes del Nilo",
+    "difficulty": 4
+  },
+  {
+    "id": 1049,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la búsqueda de las fuentes del Nilo?",
+    "answer": "Burton y Speke",
+    "difficulty": 4
+  },
+  {
+    "id": 1050,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Álvar Núñez Cabeza de Vaca?",
+    "answer": "la travesía temprana del sur de Norteamérica",
+    "difficulty": 4
+  },
+  {
+    "id": 1051,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la travesía temprana del sur de Norteamérica?",
+    "answer": "Álvar Núñez Cabeza de Vaca",
+    "difficulty": 4
+  },
+  {
+    "id": 1052,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Francisco de Orellana?",
+    "answer": "la primera navegación completa del Amazonas",
+    "difficulty": 4
+  },
+  {
+    "id": 1053,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la primera navegación completa del Amazonas?",
+    "answer": "Francisco de Orellana",
+    "difficulty": 4
+  },
+  {
+    "id": 1054,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Bartolomeu Dias?",
+    "answer": "el doblamiento del cabo de Buena Esperanza",
+    "difficulty": 4
+  },
+  {
+    "id": 1055,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con el doblamiento del cabo de Buena Esperanza?",
+    "answer": "Bartolomeu Dias",
+    "difficulty": 4
+  },
+  {
+    "id": 1056,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Abel Tasman?",
+    "answer": "el reconocimiento europeo de Tasmania y Nueva Zelanda",
+    "difficulty": 4
+  },
+  {
+    "id": 1057,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con el reconocimiento europeo de Tasmania y Nueva Zelanda?",
+    "answer": "Abel Tasman",
+    "difficulty": 4
+  },
+  {
+    "id": 1058,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con La Pérouse?",
+    "answer": "la gran expedición francesa del Pacífico del siglo XVIII",
+    "difficulty": 4
+  },
+  {
+    "id": 1059,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la gran expedición francesa del Pacífico del siglo XVIII?",
+    "answer": "La Pérouse",
+    "difficulty": 4
+  },
+  {
+    "id": 1060,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Heinrich Schliemann?",
+    "answer": "las excavaciones en la ciudad que identificó con Troya",
+    "difficulty": 4
+  },
+  {
+    "id": 1061,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con las excavaciones en la ciudad que identificó con Troya?",
+    "answer": "Heinrich Schliemann",
+    "difficulty": 4
+  },
+  {
+    "id": 1062,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Howard Carter?",
+    "answer": "el hallazgo de la tumba de Tutankamón",
+    "difficulty": 4
+  },
+  {
+    "id": 1063,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con el hallazgo de la tumba de Tutankamón?",
+    "answer": "Howard Carter",
+    "difficulty": 4
+  },
+  {
+    "id": 1064,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Mary Leakey?",
+    "answer": "las huellas de Laetoli",
+    "difficulty": 4
+  },
+  {
+    "id": 1065,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con las huellas de Laetoli?",
+    "answer": "Mary Leakey",
+    "difficulty": 4
+  },
+  {
+    "id": 1066,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Hiram Bingham?",
+    "answer": "la difusión internacional de Machu Picchu",
+    "difficulty": 4
+  },
+  {
+    "id": 1067,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la difusión internacional de Machu Picchu?",
+    "answer": "Hiram Bingham",
+    "difficulty": 4
+  },
+  {
+    "id": 1068,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Jacques Cartier?",
+    "answer": "la exploración del río San Lorenzo",
+    "difficulty": 4
+  },
+  {
+    "id": 1069,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración del río San Lorenzo?",
+    "answer": "Jacques Cartier",
+    "difficulty": 4
+  },
+  {
+    "id": 1070,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Jean-François Champollion?",
+    "answer": "el desciframiento de los jeroglíficos egipcios",
+    "difficulty": 4
+  },
+  {
+    "id": 1071,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con el desciframiento de los jeroglíficos egipcios?",
+    "answer": "Jean-François Champollion",
+    "difficulty": 4
+  },
+  {
+    "id": 1072,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Samuel de Champlain?",
+    "answer": "la fundación de Quebec",
+    "difficulty": 4
+  },
+  {
+    "id": 1073,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la fundación de Quebec?",
+    "answer": "Samuel de Champlain",
+    "difficulty": 4
+  },
+  {
+    "id": 1074,
+    "question": "¿Qué logro exploratorio o hallazgo histórico se asocia con Vitus Bering?",
+    "answer": "la exploración entre Siberia y Alaska",
+    "difficulty": 4
+  },
+  {
+    "id": 1075,
+    "question": "¿Qué explorador, arqueólogo o viajero se vincula con la exploración entre Siberia y Alaska?",
+    "answer": "Vitus Bering",
+    "difficulty": 4
+  },
+  {
+    "id": 1076,
+    "question": "¿Qué emperador romano promulgó el Edicto de Milán junto con Licinio?",
+    "answer": "Constantino I",
+    "difficulty": 3
+  },
+  {
+    "id": 1077,
+    "question": "¿Qué batalla naval de 1571 frenó la expansión otomana en el Mediterráneo occidental?",
+    "answer": "La batalla de Lepanto",
+    "difficulty": 3
+  },
+  {
+    "id": 1078,
+    "question": "¿Qué dirigente soviético impulsó la perestroika?",
+    "answer": "Mijaíl Gorbachov",
+    "difficulty": 3
+  },
+  {
+    "id": 1079,
+    "question": "¿Qué navegante portugués llegó a la India por mar en 1498?",
+    "answer": "Vasco da Gama",
+    "difficulty": 3
   }
 ]
